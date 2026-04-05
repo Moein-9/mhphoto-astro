@@ -5,7 +5,7 @@ date: "2026-05-13"
 publishDate: "2026-05-13T09:00:00"
 category: "photography-tips"
 description: "Golden hour wedding photography timing in Edmonton by season, best locations, and how to plan your timeline. Tips from Edmonton wedding photographer Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/026-sunset-couple.jpg"
 draft: false
 ---
 

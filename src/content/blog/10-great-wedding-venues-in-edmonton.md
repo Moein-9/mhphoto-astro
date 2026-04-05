@@ -5,7 +5,7 @@ date: "2024-02-11"
 publishDate: "2024-02-11T14:17:37"
 category: "wedding"
 description: "10 great wedding venues in Edmonton — from rustic barns to luxury hotels. Venue tips from Edmonton wedding photographer Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/weddings/002-first-look.jpg"
 draft: false
 ---
 

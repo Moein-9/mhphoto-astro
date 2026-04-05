@@ -5,7 +5,7 @@ date: "2026-06-27"
 publishDate: "2026-06-27T09:00:00"
 category: "wedding"
 description: "How to look good in wedding photos even if you hate being photographed. Posing basics, best angles, body language, and outfit tips from an Edmonton wedding photographer."
-image: ""
+image: "/gallery-images/weddings/006-bride-portrait.jpg"
 draft: false
 ---
 

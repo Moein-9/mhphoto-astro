@@ -5,7 +5,7 @@ date: "2019-07-19"
 publishDate: "2019-07-19T05:11:45"
 category: "wedding"
 description: "Ideas for memorable wedding photography in Edmonton — from engagement to reception, creative ways to capture your special day. By Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/weddings/031-couple-portrait-outdoor.jpg"
 draft: false
 ---
 

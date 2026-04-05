@@ -5,7 +5,7 @@ date: "2019-07-18"
 publishDate: "2019-07-18T01:37:24"
 category: "wedding"
 description: "Wedding day ideas for introverts in Edmonton — intimate ceremonies, small guest lists, and photography tips for couples who prefer quieter celebrations."
-image: ""
+image: "/gallery-images/weddings/008-ceremony-kiss.jpg"
 draft: false
 ---
 

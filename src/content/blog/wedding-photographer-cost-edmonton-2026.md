@@ -6,7 +6,7 @@ publishDate: "2026-04-08T09:00:00"
 category: "wedding-planning"
 keyword: "wedding photographer edmonton cost"
 description: "Wedding photographer Edmonton cost ranges from $2,000 to $6,000+ in 2026. See pricing tiers, what is included, Indian wedding packages, and photo+video bundles. Get a custom quote today."
-image: ""
+image: "/gallery-images/weddings/025-reception-emotion.jpg"
 draft: false
 ---
 

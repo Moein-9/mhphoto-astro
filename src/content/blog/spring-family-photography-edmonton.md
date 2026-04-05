@@ -5,7 +5,7 @@ date: "2026-08-20"
 publishDate: "2026-08-20T09:00:00"
 category: "family-sessions"
 description: "Spring family photography in Edmonton — cherry blossoms, fresh starts, and beautiful light. Best locations, what to wear, and booking tips. Sessions from $400 with MH Photography."
-image: ""
+image: "/gallery-images/family/023-outdoor-family-2.jpg"
 draft: false
 ---
 

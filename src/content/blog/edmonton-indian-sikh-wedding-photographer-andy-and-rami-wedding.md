@@ -5,7 +5,7 @@ date: "2015-07-23"
 publishDate: "2015-07-23T09:30:35"
 category: "wedding"
 description: "Edmonton Indian Sikh wedding photography — Andy and Rami two-day celebration with Anand Karaj ceremony. By Indian wedding photographer Moein Habibi."
-image: ""
+image: "/gallery-images/indian-weddings/020-ceremony-sacred.jpg"
 draft: false
 ---
 

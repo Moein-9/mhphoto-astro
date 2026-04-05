@@ -5,7 +5,7 @@ date: "2019-07-22"
 publishDate: "2019-07-22T13:04:16"
 category: "wedding"
 description: "Essential things to do on your wedding day in Edmonton — timeline tips, must-have moments, and advice from wedding photographer Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/021-reception-speech.jpg"
 draft: false
 ---
 

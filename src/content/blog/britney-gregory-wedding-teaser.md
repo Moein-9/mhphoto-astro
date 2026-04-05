@@ -5,7 +5,7 @@ date: "2014-07-01"
 publishDate: "2014-07-01T02:28:16"
 category: "wedding"
 description: "Britney and Gregory wedding teaser by Edmonton wedding photographer Moein Habibi. Beautiful ceremony moments and candid reception photography."
-image: ""
+image: "/gallery-images/weddings/019-first-dance.jpg"
 draft: false
 ---
 

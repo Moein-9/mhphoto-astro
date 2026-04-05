@@ -5,7 +5,7 @@ date: "2019-07-15"
 publishDate: "2019-07-15T23:15:08"
 category: "wedding"
 description: "Wedding tasks to delegate to family and friends — timeline help, vendor coordination, and day-of duties. Tips from Edmonton photographer Moein Habibi."
-image: ""
+image: "/gallery-images/family/019-fall-leaves-moment.jpg"
 draft: false
 ---
 

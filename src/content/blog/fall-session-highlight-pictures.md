@@ -5,7 +5,7 @@ date: "2016-11-18"
 publishDate: "2016-11-18T06:50:48"
 category: "wedding"
 description: "Fall family session highlights in Edmonton — golden foliage, warm light, and beautiful family portraits in the river valley. By Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/weddings/022-ring-exchange.jpg"
 draft: false
 ---
 

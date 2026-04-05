@@ -5,7 +5,7 @@ date: "2026-09-04"
 publishDate: "2026-09-04T09:00:00"
 category: "indian-weddings"
 description: "How many photos to expect from an Indian wedding — single-day vs multi-day coverage, what affects your count, and editing standards. Edmonton photographer guide."
-image: ""
+image: "/gallery-images/indian-weddings/007-mehndi-hands.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-01"
 publishDate: "2026-05-01T09:00:00"
 category: "indian-weddings"
 description: "In This Article Why Indian Wedding Photography Stands Apart The Power of Colour in Indian Celebrations Emotion That Cannot Be Staged Traditions That Tell a Story A Photographer's Honest Perspective Wh"
-image: ""
+image: "/gallery-images/indian-weddings/020-ceremony-sacred.jpg"
 draft: false
 ---
 

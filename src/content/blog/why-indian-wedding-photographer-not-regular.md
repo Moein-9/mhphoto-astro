@@ -5,7 +5,7 @@ date: "2026-08-26"
 publishDate: "2026-08-26T09:00:00"
 category: "indian-weddings"
 description: "Why you need an Indian wedding photographer, not a regular one. Cultural knowledge, multi-day stamina, and ceremony expertise for Edmonton South Asian weddings."
-image: ""
+image: "/gallery-images/indian-weddings/029-baraat-energy.jpg"
 draft: false
 ---
 

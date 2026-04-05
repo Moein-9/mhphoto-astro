@@ -5,7 +5,7 @@ date: "2017-02-25"
 publishDate: "2017-02-25T23:27:59"
 category: "wedding"
 description: "Andrew and Caitlian engagement session in Edmonton — a laid-back river valley shoot with two music teachers. By photographer Moein Habibi."
-image: ""
+image: "/gallery-images/engagement/019-engagement-session-cherry-blossom-edmonton.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2014-08-07"
 publishDate: "2014-08-07T19:02:05"
 category: "wedding"
 description: "Nur and Nicholas engagement session by Edmonton photographer Moein Habibi. Beautiful couple portraits at a favourite Edmonton location. MH Photography."
-image: ""
+image: "/gallery-images/engagement/004-Picture-5.jpg"
 draft: false
 ---
 

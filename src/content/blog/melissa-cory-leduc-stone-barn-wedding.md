@@ -5,7 +5,7 @@ date: "2016-04-19"
 publishDate: "2016-04-19T22:27:31"
 category: "wedding"
 description: "Melissa and Cory Leduc Stone Barn wedding — gorgeous autumn countryside celebration near Edmonton. Wedding photography by Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/weddings/017-ceremony-entrance.jpg"
 draft: false
 ---
 

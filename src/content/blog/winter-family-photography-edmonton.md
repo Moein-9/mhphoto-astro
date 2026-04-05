@@ -5,7 +5,7 @@ date: "2026-09-07"
 publishDate: "2026-09-07T09:00:00"
 category: "family-sessions"
 description: "Winter family photography in Edmonton — snowy backdrops, cozy indoor sessions, keeping warm, and best locations. Book your winter family pictures with MH Photography."
-image: ""
+image: "/gallery-images/family/031-autumn-warmth.jpg"
 draft: false
 ---
 

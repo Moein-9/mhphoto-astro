@@ -5,7 +5,7 @@ date: "2026-06-06"
 publishDate: "2026-06-06T09:00:00"
 category: "indian-weddings"
 description: "How to photograph a Baraat groom entrance at an Indian wedding in Edmonton. Key moments, gear tips, and working with dhol players. By Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/indian-weddings/013-baraat-procession.jpg"
 draft: false
 ---
 

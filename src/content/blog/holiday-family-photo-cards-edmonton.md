@@ -5,7 +5,7 @@ date: "2026-07-21"
 publishDate: "2026-07-21T09:00:00"
 category: "family-sessions"
 description: "Holiday family photo cards in Edmonton — when to book, indoor vs outdoor sessions, outfit planning, and design tips. Christmas family pictures by Moein Habibi."
-image: ""
+image: "/gallery-images/family/033-family-joy.jpg"
 draft: false
 ---
 

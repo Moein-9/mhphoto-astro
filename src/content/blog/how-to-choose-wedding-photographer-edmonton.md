@@ -6,7 +6,7 @@ publishDate: "2026-04-05T09:00:00"
 category: "photography-tips"
 keyword: "best wedding photographer edmonton"
 description: "Find the best wedding photographer in Edmonton with this 2026 guide. Photography styles, 15 questions to ask, red flags, and pricing tiers by Moein Habibi. Get a free consultation."
-image: ""
+image: "/gallery-images/weddings/008-ceremony-kiss.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-12"
 publishDate: "2026-04-12T09:00:00"
 category: "indian-weddings"
 description: "Complete Hindu wedding ceremony photography guide — Jaimala, Kanyadaan, Mangal Pheras, Sindoor explained. Why you need a specialist Indian wedding photographer in Edmonton."
-image: ""
+image: "/gallery-images/indian-weddings/004-indian-wedding-portrait-edmonton.jpg"
 draft: false
 ---
 

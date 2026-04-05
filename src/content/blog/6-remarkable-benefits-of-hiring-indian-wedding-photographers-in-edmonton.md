@@ -5,7 +5,7 @@ date: "2024-05-09"
 publishDate: "2024-05-09T09:28:10"
 category: "wedding"
 description: "6 benefits of hiring an Indian wedding photographer in Edmonton — cultural knowledge, multi-day experience, and ceremony expertise by Moein Habibi."
-image: ""
+image: "/gallery-images/indian-weddings/0002-indian-wedding-celebration-edmonton.jpg"
 draft: false
 ---
 

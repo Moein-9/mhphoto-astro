@@ -5,7 +5,7 @@ date: "2024-02-02"
 publishDate: "2024-02-02T13:47:34"
 category: "wedding"
 description: "Tips for finding your perfect wedding photographer — what to look for, questions to ask, and red flags to avoid. By Edmonton photographer Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/003-bride-getting-ready.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2019-07-16"
 publishDate: "2019-07-16T23:50:45"
 category: "wedding"
 description: "Latest wedding trends in Edmonton — modern ideas for ceremonies, receptions, and photography. Tips from Edmonton wedding photographer Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/054-reception-dance.jpg"
 draft: false
 ---
 

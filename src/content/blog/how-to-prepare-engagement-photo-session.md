@@ -5,7 +5,7 @@ date: "2026-06-09"
 publishDate: "2026-06-09T09:00:00"
 category: "engagement-sessions"
 description: "Complete engagement photo session checklist — when to schedule, what to wear, choosing the right Edmonton location, and day-of tips. By Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/engagement/020-engagement-couple-cherry-blossom-closeup-edmonton.jpg"
 draft: false
 ---
 

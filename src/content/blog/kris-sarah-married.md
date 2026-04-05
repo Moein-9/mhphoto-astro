@@ -5,7 +5,7 @@ date: "2016-01-08"
 publishDate: "2016-01-08T06:41:09"
 category: "wedding"
 description: "Kris and Sarah married at the Fairmont Hotel Edmonton — a beautiful winter wedding captured by Edmonton wedding photographer Moein Habibi. MH Photography."
-image: ""
+image: "/gallery-images/weddings/045-ceremony-emotion.jpg"
 draft: false
 ---
 

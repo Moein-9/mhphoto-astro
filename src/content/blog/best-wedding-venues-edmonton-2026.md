@@ -6,7 +6,7 @@ publishDate: "2026-04-10T09:00:00"
 category: "edmonton-venues"
 keyword: "best wedding venues edmonton"
 description: "The 15 best wedding venues in Edmonton for 2026 -- Fairmont Hotel Macdonald, Oasis Centre, Art Gallery of Alberta, and more. Photographer tips, pricing ranges, and comparison table."
-image: ""
+image: "/gallery-images/weddings/016-outdoor-portrait.jpg"
 draft: false
 ---
 

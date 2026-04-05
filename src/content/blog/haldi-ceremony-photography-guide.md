@@ -5,7 +5,7 @@ date: "2026-06-24"
 publishDate: "2026-06-24T09:00:00"
 category: "indian-weddings"
 description: "Haldi ceremony photography guide — turmeric, tears, and beautiful chaos. Key moments, gear protection, and lighting tips for Indian wedding photographers in Edmonton."
-image: ""
+image: "/gallery-images/indian-weddings/0002-indian-wedding-celebration-edmonton.jpg"
 draft: false
 ---
 

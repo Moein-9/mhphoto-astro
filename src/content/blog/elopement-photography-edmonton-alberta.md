@@ -5,7 +5,7 @@ date: "2026-08-14"
 publishDate: "2026-08-14T09:00:00"
 category: "wedding"
 description: "Elopement photography in Edmonton and Alberta — intimate ceremony locations, planning tips, Rocky Mountain elopement spots, and packages starting at $2,250."
-image: ""
+image: "/gallery-images/weddings/016-outdoor-portrait.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2026-09-16"
 publishDate: "2026-09-16T09:00:00"
 category: "wedding"
 description: "Step-by-step guide to booking a wedding photographer in Edmonton. Research, portfolio review, consultations, contracts, and timeline. By Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/weddings/026-sunset-couple.jpg"
 draft: false
 ---
 

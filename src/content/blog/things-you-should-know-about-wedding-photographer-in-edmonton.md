@@ -5,7 +5,7 @@ date: "2024-05-08"
 publishDate: "2024-05-08T16:09:20"
 category: "wedding"
 description: "Things you should know about hiring a wedding photographer in Edmonton — what to look for, questions to ask, and how to get the best value. By Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/005-getting-ready.jpg"
 draft: false
 ---
 

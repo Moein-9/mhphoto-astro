@@ -5,7 +5,7 @@ date: "2026-05-10"
 publishDate: "2026-05-10T09:00:00"
 category: "wedding-planning"
 description: "First look vs traditional reveal — which is right for your Edmonton wedding? Pros, cons, timeline impact, and real advice from a photographer with 200+ weddings."
-image: ""
+image: "/gallery-images/weddings/002-first-look.jpg"
 draft: false
 ---
 

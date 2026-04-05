@@ -5,7 +5,7 @@ date: "2019-07-12"
 publishDate: "2019-07-12T07:18:39"
 category: "wedding"
 description: "Things not to ask your wedding photographer — etiquette tips for working with your Edmonton wedding photographer. By Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/weddings/032-dance-floor.jpg"
 draft: false
 ---
 

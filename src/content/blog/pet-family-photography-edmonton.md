@@ -5,7 +5,7 @@ date: "2026-08-11"
 publishDate: "2026-08-11T09:00:00"
 category: "family-sessions"
 description: "Including pets in Edmonton family photos — preparation tips, best dog-friendly locations, and how to get great shots with dogs, cats, and other family pets."
-image: ""
+image: "/gallery-images/family/017-family-walk.jpg"
 draft: false
 ---
 

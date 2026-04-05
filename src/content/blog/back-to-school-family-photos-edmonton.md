@@ -5,7 +5,7 @@ date: "2026-08-02"
 publishDate: "2026-08-02T09:00:00"
 category: "family-sessions"
 description: "Back-to-school family photos in Edmonton — best timing, locations like Hawrelak Park and the river valley, what to wear, and tips for kids. Book your fall family pictures session today."
-image: ""
+image: "/gallery-images/family/004-fall-kids-playing.jpg"
 draft: false
 ---
 

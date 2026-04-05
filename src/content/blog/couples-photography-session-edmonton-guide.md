@@ -5,7 +5,7 @@ date: "2026-07-15"
 publishDate: "2026-07-15T09:00:00"
 category: "engagement-sessions"
 description: "Couples photography sessions in Edmonton — anniversary, just-because, and engagement photos. Best locations, outfit ideas, and what to expect. By Moein Habibi."
-image: ""
+image: "/gallery-images/engagement/020-engagement-couple-cherry-blossom-closeup-edmonton.jpg"
 draft: false
 ---
 

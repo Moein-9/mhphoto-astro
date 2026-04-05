@@ -5,7 +5,7 @@ date: "2026-07-24"
 publishDate: "2026-07-24T09:00:00"
 category: "edmonton-venues"
 description: "Wedding reception photography tips — speeches, first dance, cake cutting, candid moments, and low-light techniques. By Edmonton wedding photographer Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/054-reception-dance.jpg"
 draft: false
 ---
 

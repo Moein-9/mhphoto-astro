@@ -5,7 +5,7 @@ date: "2015-11-06"
 publishDate: "2015-11-06T09:04:56"
 category: "lifestyle"
 description: "Navid and Ceilidh maternity photo session in Edmonton during autumn. Maternity photography by Edmonton photographer Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/family/017-family-walk.jpg"
 draft: false
 ---
 

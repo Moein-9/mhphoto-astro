@@ -5,7 +5,7 @@ date: "2017-05-16"
 publishDate: "2017-05-16T17:41:15"
 category: "wedding"
 description: "Cherry blossom photography special in Edmonton — family, engagement, and maternity sessions during peak bloom. Book with Moein Habibi."
-image: ""
+image: "/gallery-images/engagement/019-engagement-session-cherry-blossom-edmonton.jpg"
 draft: false
 ---
 

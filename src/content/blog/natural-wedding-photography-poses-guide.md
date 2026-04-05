@@ -5,7 +5,7 @@ date: "2026-05-19"
 publishDate: "2026-05-19T09:00:00"
 category: "photography-tips"
 description: "Wedding photography poses that look natural, not awkward. Prompts over poses, couple and group photo tips from Edmonton wedding photographer Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/034-couple-candid.jpg"
 draft: false
 ---
 

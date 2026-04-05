@@ -5,7 +5,7 @@ date: "2017-08-23"
 publishDate: "2017-08-23T20:32:21"
 category: "family-sessions"
 description: "Gill family photography session at Edmonton River Valley Park — custom family portraits in a beautiful natural setting. By Moein Habibi, MH Photography."
-image: ""
+image: "/gallery-images/family/008-family-laugh.jpg"
 draft: false
 ---
 

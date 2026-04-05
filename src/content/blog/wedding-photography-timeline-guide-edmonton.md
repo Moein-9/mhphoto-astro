@@ -5,7 +5,7 @@ date: "2026-04-17"
 publishDate: "2026-04-17T09:00:00"
 category: "wedding-planning"
 description: "Plan the perfect wedding photography timeline in Edmonton. Hour-by-hour schedule for getting ready, ceremony, portraits, golden hour, and reception. Expert guide by Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/008-ceremony-kiss.jpg"
 draft: false
 ---
 

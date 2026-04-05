@@ -5,7 +5,7 @@ date: "2017-02-27"
 publishDate: "2017-02-27T21:41:18"
 category: "wedding"
 description: "Mercy and Martin engagement session in Edmonton — a beautiful river valley shoot by Edmonton engagement photographer Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/engagement/001-Miranda.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2017-02-15"
 publishDate: "2017-02-15T23:32:23"
 category: "wedding"
 description: "Masoud and Kim wedding at Valley Ridge Golf Club — a beautiful celebration captured by Edmonton wedding photographer Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/weddings/012-groom-prep.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-18"
 publishDate: "2026-06-18T09:00:00"
 category: "family-sessions"
 description: "Why every Edmonton family needs a generational portrait. Planning tips, essential groupings, best locations, and how to capture four generations together beautifully."
-image: ""
+image: "/gallery-images/family/006-autumn-portrait.jpg"
 draft: false
 ---
 

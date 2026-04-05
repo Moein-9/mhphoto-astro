@@ -5,7 +5,7 @@ date: "2026-07-09"
 publishDate: "2026-07-09T09:00:00"
 category: "indian-weddings"
 description: "Guide to photographing a Nikah ceremony — spiritual moments, mosque etiquette, gender separation protocols, and lighting challenges. Indian wedding photography Edmonton."
-image: ""
+image: "/gallery-images/indian-weddings/015-barn-couple-portrait.jpg"
 draft: false
 ---
 

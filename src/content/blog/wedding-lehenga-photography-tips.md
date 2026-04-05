@@ -5,7 +5,7 @@ date: "2026-07-18"
 publishDate: "2026-07-18T09:00:00"
 category: "indian-weddings"
 description: "How to photograph a bridal lehenga — embroidery details, movement shots, getting-ready moments, and lighting for rich fabrics. Indian wedding photography tips from Edmonton."
-image: ""
+image: "/gallery-images/indian-weddings/018-bridal-portrait-edmonton.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-07"
 publishDate: "2026-05-07T09:00:00"
 category: "indian-weddings"
 description: "South Asian wedding traditions explained for photographers — Hindu, Sikh, and Muslim ceremonies, pre-wedding events, and tips for couples choosing an Edmonton photographer."
-image: ""
+image: "/gallery-images/indian-weddings/019-ceremony-emotion.jpg"
 draft: false
 ---
 

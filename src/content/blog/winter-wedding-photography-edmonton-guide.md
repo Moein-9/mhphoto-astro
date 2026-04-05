@@ -5,7 +5,7 @@ date: "2026-06-12"
 publishDate: "2026-06-12T09:00:00"
 category: "edmonton-venues"
 description: "Winter wedding photography in Edmonton — embracing the snow, indoor and outdoor tips, best venues, timeline adjustments, and dramatic portrait ideas. By Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/016-outdoor-portrait.jpg"
 draft: false
 ---
 

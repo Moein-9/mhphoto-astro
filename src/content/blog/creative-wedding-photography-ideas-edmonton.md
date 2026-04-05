@@ -5,7 +5,7 @@ date: "2026-06-03"
 publishDate: "2026-06-03T09:00:00"
 category: "photography-tips"
 description: "Creative wedding photography ideas for Edmonton couples — double exposure, silhouettes, reflections, motion blur, and artistic detail shots. Elevate your wedding photos."
-image: ""
+image: "/gallery-images/weddings/009-ceremony-moment.jpg"
 draft: false
 ---
 

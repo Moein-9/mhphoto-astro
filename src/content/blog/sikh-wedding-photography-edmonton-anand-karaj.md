@@ -6,7 +6,7 @@ publishDate: "2026-04-24T09:00:00"
 category: "indian-weddings"
 keyword: "sikh wedding photographer edmonton"
 description: "Expert guide to Sikh wedding photography in Edmonton. Anand Karaj ceremony moments, Gurdwara protocols, and why cultural expertise matters. Multi-day packages by Moein Habibi."
-image: ""
+image: "/gallery-images/indian-weddings/020-ceremony-sacred.jpg"
 draft: false
 ---
 

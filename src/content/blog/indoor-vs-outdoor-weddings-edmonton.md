@@ -5,7 +5,7 @@ date: "2026-05-25"
 publishDate: "2026-05-25T09:00:00"
 category: "edmonton-venues"
 description: "Indoor vs outdoor weddings in Edmonton — lighting differences, weather reality, venue comparisons, and the hybrid approach. Honest advice from a wedding photographer."
-image: ""
+image: "/gallery-images/weddings/034-couple-candid.jpg"
 draft: false
 ---
 

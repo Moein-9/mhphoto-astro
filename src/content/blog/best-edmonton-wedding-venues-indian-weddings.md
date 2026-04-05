@@ -5,7 +5,7 @@ date: "2026-09-01"
 publishDate: "2026-09-01T09:00:00"
 category: "edmonton-venues"
 description: "The best Edmonton venues for large Indian weddings with 300+ guests. Oasis Centre, Convention Centre, and more. Photography and lighting tips included."
-image: ""
+image: "/gallery-images/indian-weddings/002-indian-wedding-couple-veil-edmonton.jpg"
 draft: false
 ---
 

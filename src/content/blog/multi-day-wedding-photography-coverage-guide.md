@@ -5,7 +5,7 @@ date: "2026-05-16"
 publishDate: "2026-05-16T09:00:00"
 category: "family-sessions"
 description: "How to plan photography for a 3 to 5 day wedding. Coverage, costs, and what to look for in a multi-day wedding photographer. For Indian and South Asian weddings in Edmonton."
-image: ""
+image: "/gallery-images/family/011-golden-hour-family.jpg"
 draft: false
 ---
 

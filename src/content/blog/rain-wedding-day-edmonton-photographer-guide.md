@@ -5,7 +5,7 @@ date: "2026-04-29"
 publishDate: "2026-04-29T09:00:00"
 category: "photography-tips"
 description: "What happens if it rains on your Edmonton wedding day? Why rain makes better photos, indoor backup plans, weather patterns, and how your photographer handles it."
-image: ""
+image: "/gallery-images/weddings/031-couple-portrait-outdoor.jpg"
 draft: false
 ---
 

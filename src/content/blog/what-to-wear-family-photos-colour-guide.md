@@ -5,7 +5,7 @@ date: "2026-05-31"
 publishDate: "2026-05-31T09:00:00"
 category: "family-sessions"
 description: "What to wear for family photos — best colours for outdoor pictures, seasonal palettes, coordinating without matching, and outfit ideas for kids and adults."
-image: ""
+image: "/gallery-images/family/023-outdoor-family-2.jpg"
 draft: false
 ---
 

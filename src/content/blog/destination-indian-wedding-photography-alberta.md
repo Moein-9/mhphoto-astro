@@ -5,7 +5,7 @@ date: "2026-08-08"
 publishDate: "2026-08-08T09:00:00"
 category: "indian-weddings"
 description: "Plan a destination Indian wedding in Banff, Jasper, or the Rocky Mountains. Venue options, logistics, and photography coverage for multi-day South Asian celebrations."
-image: ""
+image: "/gallery-images/indian-weddings/003-indian-wedding-ceremony-moment-edmonton.jpg"
 draft: false
 ---
 

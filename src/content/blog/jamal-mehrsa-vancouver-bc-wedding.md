@@ -5,7 +5,7 @@ date: "2017-08-11"
 publishDate: "2017-08-11T01:22:19"
 category: "wedding"
 description: "Jamal and Mehrsa destination wedding in Vancouver, BC — captured by Edmonton wedding photographer Moein Habibi. Available across Canada."
-image: ""
+image: "/gallery-images/weddings/037-bridal-detail.jpg"
 draft: false
 ---
 

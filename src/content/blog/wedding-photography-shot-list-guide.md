@@ -5,7 +5,7 @@ date: "2026-08-23"
 publishDate: "2026-08-23T09:00:00"
 category: "wedding"
 description: "The ultimate wedding photography shot list — getting ready, ceremony, family formals, couple portraits, reception, and detail shots. Free checklist from Moein Habibi."
-image: ""
+image: "/gallery-images/weddings/022-ring-exchange.jpg"
 draft: false
 ---
 

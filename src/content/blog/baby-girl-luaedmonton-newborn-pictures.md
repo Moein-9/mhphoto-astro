@@ -5,7 +5,7 @@ date: "2017-07-05"
 publishDate: "2017-07-05T19:42:38"
 category: "lifestyle"
 description: "Edmonton newborn photography session — baby girl Lua's portrait story by Moein Habibi. Newborn photography sessions available across Edmonton and Sherwood Park."
-image: ""
+image: "/gallery-images/family/002-fall-family-candid.jpg"
 draft: false
 ---
 

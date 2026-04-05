@@ -5,7 +5,7 @@ date: "2015-07-25"
 publishDate: "2015-07-25T21:55:47"
 category: "engagement-sessions"
 description: "Vahid and Tracey engagement session at Muttart Conservatory in Edmonton. Beautiful couples portraits by photographer Moein Habibi."
-image: ""
+image: "/gallery-images/engagement/008-Picture-19.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ date: "2017-08-15"
 publishDate: "2017-08-15T00:31:45"
 category: "wedding"
 description: "Tyler and Leah emotional countryside wedding videography near Edmonton, Alberta. Wedding videography by Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/weddings/002-first-look.jpg"
 draft: false
 ---
 

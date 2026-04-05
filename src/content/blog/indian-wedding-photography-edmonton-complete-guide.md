@@ -6,7 +6,7 @@ publishDate: "2026-04-01T09:00:00"
 category: "indian-weddings"
 keyword: "indian wedding photographer edmonton"
 description: "Indian wedding photographer Edmonton guide — Mehndi, Sangeet, Haldi, Baraat, and Anand Karaj coverage. Multi-day packages by Moein Habibi."
-image: ""
+image: "/gallery-images/indian-weddings/003-indian-wedding-ceremony-moment-edmonton.jpg"
 draft: false
 ---
 

@@ -6,7 +6,7 @@ publishDate: "2026-04-22T09:00:00"
 category: "engagement-sessions"
 keyword: "engagement photos edmonton"
 description: "Discover the 10 best engagement photo locations in Edmonton, Alberta. What to wear, when to schedule, and what to expect. By Moein Habibi of MH Photography. Book your session today."
-image: ""
+image: "/gallery-images/engagement/019-engagement-session-cherry-blossom-edmonton.jpg"
 draft: false
 ---
 

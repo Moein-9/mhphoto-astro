@@ -5,7 +5,7 @@ date: "2026-06-30"
 publishDate: "2026-06-30T09:00:00"
 category: "indian-weddings"
 description: "How Indian wedding decor affects your photos — mandap design, colour palettes, lighting, and floral arrangements. Photography tips for couples planning in Edmonton."
-image: ""
+image: "/gallery-images/indian-weddings/001-indian-wedding-ring-detail-edmonton.jpg"
 draft: false
 ---
 

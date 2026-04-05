@@ -6,7 +6,7 @@ publishDate: "2026-04-03T09:00:00"
 category: "indian-weddings"
 keyword: "punjabi wedding edmonton"
 description: "Punjabi wedding Edmonton planning guide — every ceremony from Roka to Reception, costs, best venues, and photography packages by Moein Habibi."
-image: ""
+image: "/gallery-images/indian-weddings/002-indian-wedding-couple-veil-edmonton.jpg"
 draft: false
 ---
 

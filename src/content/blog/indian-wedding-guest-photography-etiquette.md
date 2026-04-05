@@ -5,7 +5,7 @@ date: "2026-07-30"
 publishDate: "2026-07-30T09:00:00"
 category: "indian-weddings"
 description: "Indian wedding guest photography etiquette — when to take photos, when to put your phone away, and sacred ceremony protocols. A helpful guide for guests in Edmonton."
-image: ""
+image: "/gallery-images/indian-weddings/010-sangeet-dance.jpg"
 draft: false
 ---
 

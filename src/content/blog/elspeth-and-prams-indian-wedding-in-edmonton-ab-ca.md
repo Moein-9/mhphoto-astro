@@ -5,7 +5,7 @@ date: "2019-10-31"
 publishDate: "2019-10-31T12:17:02"
 category: "wedding"
 description: "Elspeth and Pram Indian wedding in Edmonton — a beautiful multicultural celebration captured by Indian wedding photographer Moein Habibi of MH Photography."
-image: ""
+image: "/gallery-images/indian-weddings/0000-traditional-moment.jpg"
 draft: false
 ---
 
