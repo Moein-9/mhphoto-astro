@@ -284,22 +284,12 @@ import { site } from '../data/site';
         : `New Inquiry — ${name}`;
 
       try {
-        const res = await fetch('https://formspree.io/f/mykbbppd', {
+        const res = await fetch('/api/contact', {
           method: 'POST',
           headers: {
-            'Accept': 'application/json',
             'Content-Type': 'application/json',
           },
-          body: JSON.stringify({
-            _subject: subject,
-            _replyto: email,
-            _autoresponse: "Thanks for reaching out! I'll get back to you within 24 hours. — Moein, MH Photography",
-            name: name,
-            email: email,
-            "session type": sessionType || "Not specified",
-            "event date": eventDate || "Not specified",
-            message: message || "No message provided",
-          }),
+          body: JSON.stringify({ name, email, sessionType, eventDate, message }),
         });
         if (res.ok) {
           hideModal();
