@@ -198,7 +198,8 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
           <video class="hero-intro-mob absolute inset-0 w-full h-full object-cover z-[3] transition-opacity duration-700" autoplay muted playsinline webkit-playsinline poster="/images/videography/frame-1.jpg">
             <source src="/videos/intro-hero.mp4" type="video/mp4" />
           </video>
-          <iframe class="mob-yt absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[1]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+          <iframe class="mob-yt-a absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[1]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+          <iframe class="mob-yt-b absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[2]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
           <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent z-10"></div>
           <div class="absolute bottom-0 left-0 right-0 p-4 z-20">
             <p class="text-[0.5rem] font-medium tracking-[0.15em] uppercase text-gold-light mb-1">Videography</p>
@@ -707,39 +708,18 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
         if (dV && dA && dB) initMontage(dV, dA, dB);
       }
 
-      // Mobile — lightweight single-iframe montage
+      // Mobile — same montage as desktop
       if (isMobile) {
         var mV = document.querySelector('.hero-intro-mob');
-        var mFrame = document.querySelector('.mob-yt');
-        if (mV && mFrame) {
+        var mA = document.querySelector('.mob-yt-a');
+        var mB = document.querySelector('.mob-yt-b');
+        if (mV && mA && mB) {
           mV.play().catch(function() {
             document.addEventListener('touchstart', function playOnTouch() {
               mV.play();
             }, { once: true });
           });
-
-          var mIdx = 0;
-          var mMax = 5; // only cycle 5 videos to save memory
-          function mobMontage() {
-            // Fade out intro, show iframe
-            mV.style.opacity = '0';
-            setTimeout(function() { mV.pause(); mV.style.display = 'none'; }, 500);
-            mFrame.src = makeSrc(ytIds[mIdx]);
-            mFrame.style.opacity = '1';
-            mFrame.style.zIndex = '3';
-            mIdx++;
-            if (mIdx < mMax) {
-              setTimeout(function() {
-                mFrame.src = makeSrc(ytIds[mIdx % ytIds.length]);
-                mIdx++;
-                if (mIdx < mMax) {
-                  setTimeout(arguments.callee.bind(null), 5000);
-                }
-              }, 5000);
-            }
-          }
-          mV.addEventListener('ended', mobMontage, { once: true });
-          setTimeout(mobMontage, 4000);
+          initMontage(mV, mA, mB);
         }
       }
     })();
