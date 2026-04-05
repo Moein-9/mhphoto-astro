@@ -11,11 +11,12 @@ interface Props {
 
 import fs from 'node:fs';
 import path from 'node:path';
+import sharp from 'sharp';
 
 const { slug, altPrefix } = Astro.props;
 
 const galleryDir = path.join(process.cwd(), 'public/gallery-images', slug);
-let images: { src: string; alt: string }[] = [];
+let images: { src: string; alt: string; width: number; height: number }[] = [];
 try {
   const files = fs.readdirSync(galleryDir)
     .filter((f: string) => /\.(jpg|jpeg|png|webp)$/i.test(f))
@@ -60,7 +61,7 @@ try {
   const variations = altVariations[slug] || ['photography by MH Photography'];
   let variationIndex = 0;
 
-  images = files.map((f: string) => {
+  images = await Promise.all(files.map(async (f: string) => {
     const rawName = f.replace(/^\d+[a-z]?-/, '').replace(/\.[^.]+$/, '').replace(/[_-]/g, ' ').replace(/\(.*?\)/g, '').trim();
     let altSuffix: string;
     if (isNonDescriptive(rawName)) {
@@ -69,11 +70,19 @@ try {
     } else {
       altSuffix = rawName;
     }
+    // Read image dimensions at build time so browser can reserve space
+    let width = 600, height = 800;
+    try {
+      const meta = await sharp(path.join(galleryDir, f)).metadata();
+      if (meta.width && meta.height) { width = meta.width; height = meta.height; }
+    } catch { /* use defaults */ }
     return {
       src: `/gallery-images/${slug}/${f}`,
       alt: `${altPrefix} — ${altSuffix}`,
+      width,
+      height,
     };
-  });
+  }));
 } catch (e) { /* empty */ }
 ---
 
@@ -88,7 +97,7 @@ try {
   <div class="tetris-gallery" id={`gallery-${slug}`}>
     {images.map((img, i) => (
       <div class="tetris-item" data-lightbox={i}>
-        <img src={img.src} alt={img.alt} loading={i < 6 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} />
+        <img src={img.src} alt={img.alt} width={img.width} height={img.height} style={`aspect-ratio:${img.width}/${img.height}`} loading={i < 6 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} />
       </div>
     ))}
   </div>

@@ -12,7 +12,7 @@ function isActive(href: string): boolean {
 <!-- Mobile header bar -->
 <header id="mobile-header" class="fixed top-0 left-0 xl:hidden w-full z-[10000] flex items-center justify-between transition-all duration-300 px-6 py-5">
   <a href="/">
-    <img src="/logo.png" alt={`${site.name} — Edmonton wedding photographer`} class="w-14 h-11 object-contain" />
+    <img src="/logo.png" alt={`${site.name} — Edmonton wedding photographer`} class="w-[68px] h-[52px] object-contain" />
   </a>
   <button id="nav-open" class="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
     <span></span>
@@ -25,13 +25,13 @@ function isActive(href: string): boolean {
 <div id="mobile-nav" class="mobile-overlay" role="dialog" aria-modal="true" aria-label="Navigation menu">
   <div class="mobile-overlay-inner">
     <!-- Top bar -->
-    <div class="flex items-center justify-between mb-12">
+    <div class="flex items-center justify-between mb-6">
       <button id="nav-close" class="close-btn" aria-label="Close menu">
         <span class="close-x">&times;</span>
         <span>Close</span>
       </button>
       <a href="/">
-        <img src="/logo.png" alt={`${site.name} logo`} class="w-12 h-9 object-contain" />
+        <img src="/logo.png" alt={`${site.name} logo`} class="w-16 h-12 object-contain" />
       </a>
     </div>
 
@@ -189,6 +189,7 @@ function isActive(href: string): boolean {
     border: none;
     padding: 10px;
     margin: -10px;
+    margin-right: 14px;
     -webkit-tap-highlight-color: transparent;
   }
   .hamburger span {
@@ -319,7 +320,7 @@ function isActive(href: string): boolean {
     line-height: 1.2;
     color: #2C2825;
     text-decoration: none;
-    padding: 18px 0;
+    padding: 10px 0;
     letter-spacing: -0.01em;
     -webkit-tap-highlight-color: transparent;
     transition: color 0.3s ease;
