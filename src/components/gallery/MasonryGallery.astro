@@ -217,36 +217,42 @@ try {
     }
   </style>
 
-  <!-- Show skeleton until all images loaded, then swap -->
+  <!-- Skeleton stays until ALL images are loaded AND layout is stable -->
   <script define:vars={{ gallerySlug: slug }}>
     (function() {
       const gallery = document.getElementById('gallery-' + gallerySlug);
       const skeleton = document.getElementById('skel-' + gallerySlug);
       if (!gallery || !skeleton) return;
 
-      const imgs = gallery.querySelectorAll('img');
+      const imgs = Array.from(gallery.querySelectorAll('img'));
       let loaded = 0;
-      const total = Math.min(imgs.length, 12);
 
       function settle() {
-        skeleton.classList.add('hidden');
-        gallery.classList.add('settled');
+        // Wait one extra frame for the browser to finish column layout reflow
+        requestAnimationFrame(function() {
+          requestAnimationFrame(function() {
+            skeleton.classList.add('hidden');
+            gallery.classList.add('settled');
+          });
+        });
       }
 
       function check() {
         loaded++;
-        if (loaded >= total) settle();
+        // Wait for ALL images, not just first 12
+        if (loaded >= imgs.length) settle();
       }
 
-      imgs.forEach(function(img, i) {
-        if (i >= total) return;
+      // Force all images to load eagerly on mobile (no lazy)
+      imgs.forEach(function(img) {
+        img.removeAttribute('loading');
         if (img.complete && img.naturalHeight > 0) { check(); return; }
         img.addEventListener('load', check, { once: true });
         img.addEventListener('error', check, { once: true });
       });
 
-      // Fallback
-      setTimeout(settle, 3000);
+      // Fallback — show after 5s max
+      setTimeout(settle, 5000);
     })();
   </script>
 
