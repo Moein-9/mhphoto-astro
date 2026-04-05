@@ -11,13 +11,14 @@ export async function getStaticPaths() {
     return pubDate <= now;
   });
 
+  // For related posts: pass all posts so we can filter by category
   return posts.map((post) => ({
     params: { slug: post.data.slug },
-    props: { post },
+    props: { post, allPosts: posts },
   }));
 }
 
-const { post } = Astro.props;
+const { post, allPosts } = Astro.props;
 const { Content } = await render(post);
 
 const catLabels: Record<string, string> = {
@@ -34,6 +35,27 @@ const catLabels: Record<string, string> = {
 
 const cat = catLabels[post.data.category] || post.data.category;
 const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Estimate reading time (rough: 200 words/min)
+// We don't have raw word count easily, so estimate from body length
+const wordCount = post.body ? post.body.split(/\s+/).length : 800;
+const readingTime = Math.max(3, Math.ceil(wordCount / 200));
+
+// Related posts: same category, exclude current, max 3
+const relatedPosts = allPosts
+  .filter((p: any) => p.data.category === post.data.category && p.data.slug !== post.data.slug && p.data.image)
+  .sort((a: any, b: any) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+  .slice(0, 3);
+
+// If not enough same-category posts, fill with recent posts
+const recentFill = relatedPosts.length < 3
+  ? allPosts
+      .filter((p: any) => p.data.slug !== post.data.slug && p.data.image && !relatedPosts.find((r: any) => r.data.slug === p.data.slug))
+      .sort((a: any, b: any) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+      .slice(0, 3 - relatedPosts.length)
+  : [];
+
+const finalRelated = [...relatedPosts, ...recentFill];
 ---
 
 <BaseLayout
@@ -75,6 +97,7 @@ const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numer
       },
       "articleSection": cat,
       "inLanguage": "en-CA",
+      "wordCount": wordCount,
     })} />
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
@@ -87,164 +110,351 @@ const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numer
     })} />
   </Fragment>
 
-  <article class="max-w-[720px] mx-auto">
-    <!-- Back link -->
-    <a href="/blog/" class="inline-flex items-center gap-1.5 text-[0.7rem] font-medium tracking-[0.1em] uppercase text-ink-muted hover:text-gold transition-colors mb-8">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-      Back to Blog
-    </a>
+  <!-- Reading Progress Bar -->
+  <div id="reading-progress" class="fixed top-0 left-0 w-0 h-[2px] bg-gold z-[100] transition-[width] duration-100 ease-linear"></div>
+
+  <article class="blog-article" itemscope itemtype="https://schema.org/BlogPosting">
+
+    <!-- Back link + meta row -->
+    <div class="flex items-center justify-between mb-8">
+      <a href="/blog/" class="inline-flex items-center gap-1.5 text-[0.7rem] font-medium tracking-[0.1em] uppercase text-ink-muted hover:text-gold transition-colors duration-300">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Blog
+      </a>
+      <span class="text-[0.7rem] text-ink-muted font-light">{readingTime} min read</span>
+    </div>
 
     <!-- Header -->
     <header class="mb-10">
-      <div class="flex items-center gap-3 mb-4">
-        <span class="text-[0.55rem] font-semibold tracking-[0.12em] uppercase text-gold bg-gold/10 px-2.5 py-1 rounded-full">
+      <div class="flex items-center gap-3 mb-5">
+        <a href={`/blog/?category=${post.data.category}`} class="text-[0.6rem] font-semibold tracking-[0.14em] uppercase text-gold bg-gold/8 px-3 py-1.5 rounded-full hover:bg-gold/15 transition-colors duration-300">
           {cat}
-        </span>
-        <time class="text-[0.7rem] text-ink-muted font-light">{date}</time>
+        </a>
+        <span class="w-1 h-1 rounded-full bg-ink-muted/40"></span>
+        <time class="text-[0.72rem] text-ink-muted font-light tracking-wide" datetime={post.data.date} itemprop="datePublished">{date}</time>
       </div>
-      <h1 class="font-serif font-light text-[clamp(1.75rem,4vw,2.5rem)] leading-[1.15] text-ink mb-5">
+      <h1 class="font-serif font-light text-[clamp(1.8rem,4.5vw,2.75rem)] leading-[1.12] text-ink tracking-[-0.01em] mb-6" itemprop="headline">
         {post.data.title}
       </h1>
       {post.data.description && (
-        <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+        <p class="font-light text-ink-soft text-[1.02rem] leading-[1.8] max-w-[600px]" itemprop="description">
           {post.data.description}
         </p>
       )}
+
+      <!-- Author byline -->
+      <div class="flex items-center gap-3 mt-6 pt-6 border-t border-[#e8e4de]">
+        <img src="/images/about-moe.jpg" alt={site.owner} class="w-9 h-9 rounded-full object-cover" loading="eager" />
+        <div class="flex items-center gap-2 text-[0.75rem]">
+          <span class="font-medium text-ink" itemprop="author">{site.owner}</span>
+          <span class="text-ink-muted/40">|</span>
+          <span class="font-light text-ink-muted">Edmonton Wedding Photographer</span>
+        </div>
+      </div>
     </header>
 
     <!-- Featured Image -->
     {post.data.image && (
-      <div class="rounded-xl overflow-hidden mb-10 aspect-[16/9]">
-        <img
-          src={post.data.image}
-          alt={`${post.data.title} — Edmonton photography blog by MH Photography`}
-          class="w-full h-full object-cover"
-          loading="eager"
-          fetchpriority="high"
-        />
-      </div>
+      <figure class="blog-hero-image mb-12">
+        <div class="rounded-sm overflow-hidden aspect-[16/9] bg-cream-warm">
+          <img
+            src={post.data.image}
+            alt={`${post.data.title} — Edmonton photography blog by MH Photography`}
+            class="w-full h-full object-cover"
+            loading="eager"
+            fetchpriority="high"
+            itemprop="image"
+          />
+        </div>
+      </figure>
     )}
 
     <!-- Content -->
-    <div class="blog-content mh-post">
+    <div class="blog-content mh-post" itemprop="articleBody">
       <Content />
     </div>
 
-    <!-- Author / CTA -->
-    <div class="mt-14 pt-8 border-t border-[#e0dcd6]">
-      <div class="flex items-center gap-4 mb-6">
-        <img src="/images/about-moe.jpg" alt={`${site.owner} — Edmonton wedding photographer at MH Photography`} class="w-12 h-12 rounded-full object-cover" loading="lazy" />
-        <div>
-          <p class="font-medium text-sm text-ink">{site.owner}</p>
-          <p class="text-[0.7rem] text-ink-muted font-light">Edmonton Wedding Photographer & Videographer</p>
+    <!-- Share + Tags -->
+    <div class="mt-16 pt-8 border-t border-[#e8e4de]">
+      <div class="flex items-center justify-between">
+        <p class="text-[0.65rem] font-semibold tracking-[0.14em] uppercase text-ink-muted">Share this article</p>
+        <div class="flex items-center gap-3">
+          <a
+            href={`https://www.facebook.com/sharer/sharer.php?u=https://mhphoto.ca/blog/${post.data.slug}/`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Share on Facebook"
+            class="w-9 h-9 rounded-full border border-[#e0dcd6] flex items-center justify-center text-ink-muted hover:text-gold hover:border-gold/40 transition-all duration-300"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+          </a>
+          <a
+            href={`https://twitter.com/intent/tweet?url=https://mhphoto.ca/blog/${post.data.slug}/&text=${encodeURIComponent(post.data.title)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Share on X"
+            class="w-9 h-9 rounded-full border border-[#e0dcd6] flex items-center justify-center text-ink-muted hover:text-gold hover:border-gold/40 transition-all duration-300"
+          >
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          </a>
+          <a
+            href={`https://pinterest.com/pin/create/button/?url=https://mhphoto.ca/blog/${post.data.slug}/&media=${encodeURIComponent(post.data.image || '')}&description=${encodeURIComponent(post.data.title)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Share on Pinterest"
+            class="w-9 h-9 rounded-full border border-[#e0dcd6] flex items-center justify-center text-ink-muted hover:text-gold hover:border-gold/40 transition-all duration-300"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z"/></svg>
+          </a>
+          <button
+            id="copy-link-btn"
+            aria-label="Copy link"
+            class="w-9 h-9 rounded-full border border-[#e0dcd6] flex items-center justify-center text-ink-muted hover:text-gold hover:border-gold/40 transition-all duration-300 cursor-pointer"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+          </button>
         </div>
       </div>
-      <div class="bg-[#f7f5f2] rounded-xl p-6 text-center">
-        <p class="font-serif font-light text-lg text-ink mb-2">Like what you see?</p>
-        <p class="text-[0.8rem] font-light text-ink-soft mb-5">Let's chat about your wedding, family session, or project.</p>
-        <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-7 py-3 rounded-full hover:bg-[#333] transition-colors duration-300">
-          Get in Touch
+    </div>
+
+    <!-- Author Card -->
+    <div class="mt-12 p-8 bg-white rounded-lg border border-[#e8e4de]">
+      <div class="flex items-start gap-5">
+        <img src="/images/about-moe.jpg" alt={`${site.owner} — Edmonton wedding photographer`} class="w-16 h-16 rounded-full object-cover flex-shrink-0" loading="lazy" />
+        <div class="flex-1">
+          <p class="text-[0.6rem] font-semibold tracking-[0.14em] uppercase text-gold mb-1">Written by</p>
+          <p class="font-serif font-light text-[1.2rem] text-ink mb-2">{site.owner}</p>
+          <p class="text-[0.82rem] font-light text-ink-soft leading-[1.7] mb-4">
+            Edmonton-based wedding photographer and videographer capturing love stories across Alberta. Specializing in candid, cinematic moments that feel as real as they looked.
+          </p>
+          <div class="flex items-center gap-3">
+            <a href="/about/" class="text-[0.7rem] font-medium tracking-[0.08em] uppercase text-ink hover:text-gold transition-colors duration-300">About Moein</a>
+            <span class="w-1 h-1 rounded-full bg-ink-muted/30"></span>
+            <a href={site.social.instagram} target="_blank" rel="noopener noreferrer" class="text-[0.7rem] font-medium tracking-[0.08em] uppercase text-ink hover:text-gold transition-colors duration-300">Instagram</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA Banner -->
+    <div class="mt-10 relative overflow-hidden rounded-lg bg-[#1a1614] p-10 text-center">
+      <div class="absolute inset-0 opacity-[0.04]" style="background-image: url('/images/about-moe.jpg'); background-size: cover; background-position: center; filter: blur(40px);"></div>
+      <div class="relative">
+        <p class="font-serif font-light text-[clamp(1.3rem,3vw,1.75rem)] text-[#f3ede5] mb-3 leading-[1.3]">
+          Planning your own wedding?
+        </p>
+        <p class="text-[0.85rem] font-light text-[#f3ede5]/60 mb-7 max-w-[400px] mx-auto leading-[1.7]">
+          I'd love to hear your story and help you create timeless images you'll treasure forever.
+        </p>
+        <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.14em] uppercase text-[#1a1614] bg-gold px-8 py-3.5 rounded-full hover:bg-gold-light transition-colors duration-300">
+          Let's Talk
         </a>
       </div>
     </div>
+
+    <!-- Related Posts -->
+    {finalRelated.length > 0 && (
+      <section class="mt-20">
+        <div class="flex items-center gap-4 mb-8">
+          <h2 class="font-serif font-light text-[1.5rem] text-ink">Keep Reading</h2>
+          <div class="flex-1 h-px bg-[#e8e4de]"></div>
+          <a href="/blog/" class="text-[0.65rem] font-medium tracking-[0.12em] uppercase text-ink-muted hover:text-gold transition-colors duration-300">View All</a>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+          {finalRelated.map((p: any) => {
+            const relCat = catLabels[p.data.category] || p.data.category;
+            return (
+              <a href={`/blog/${p.data.slug}/`} class="group block">
+                <article>
+                  <div class="aspect-[4/3] rounded-sm overflow-hidden mb-4 bg-cream-warm">
+                    <img
+                      src={p.data.image}
+                      alt={p.data.title}
+                      class="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.04]"
+                      loading="lazy"
+                    />
+                  </div>
+                  <span class="text-[0.55rem] font-semibold tracking-[0.14em] uppercase text-gold">{relCat}</span>
+                  <h3 class="font-serif font-light text-[0.95rem] text-ink leading-snug mt-1.5 group-hover:text-gold-deep transition-colors duration-300 line-clamp-2">
+                    {p.data.title}
+                  </h3>
+                </article>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    )}
+
   </article>
 </BaseLayout>
 
 <style>
+  /* --- Article Container --- */
+  .blog-article {
+    max-width: 740px;
+    margin: 0 auto;
+  }
+
+  /* --- Hero Image --- */
+  .blog-hero-image {
+    margin-left: -24px;
+    margin-right: -24px;
+  }
+  @media (min-width: 768px) {
+    .blog-hero-image {
+      margin-left: -60px;
+      margin-right: -60px;
+    }
+  }
+
+  /* --- Typography: Editorial Reading Experience --- */
+
+  /* Drop cap on first paragraph */
+  .blog-content :global(> p:first-of-type::first-letter) {
+    font-family: 'Canela', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    float: left;
+    font-size: 3.8em;
+    line-height: 0.8;
+    padding-right: 0.08em;
+    padding-top: 0.06em;
+    color: var(--color-ink);
+  }
+
   .blog-content :global(h2) {
-    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-family: 'Canela', 'Cormorant Garamond', Georgia, serif;
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: clamp(1.35rem, 2.5vw, 1.65rem);
     line-height: 1.2;
     color: #1a1a1a;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
+    margin-top: 3.5rem;
+    margin-bottom: 1.25rem;
+    letter-spacing: -0.01em;
   }
+
   .blog-content :global(h3) {
-    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-family: 'Canela', 'Cormorant Garamond', Georgia, serif;
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1.15rem;
     line-height: 1.3;
+    color: #1a1a1a;
+    margin-top: 2.5rem;
+    margin-bottom: 0.85rem;
+  }
+
+  .blog-content :global(h4) {
+    font-family: 'Montserrat', system-ui, sans-serif;
+    font-weight: 600;
+    font-size: 0.85rem;
+    line-height: 1.4;
     color: #1a1a1a;
     margin-top: 2rem;
     margin-bottom: 0.75rem;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
   }
+
   .blog-content :global(p) {
     font-weight: 300;
-    font-size: 0.9rem;
-    line-height: 1.85;
-    color: #444;
-    margin-bottom: 1.25rem;
+    font-size: 0.95rem;
+    line-height: 1.9;
+    color: #4a4541;
+    margin-bottom: 1.5rem;
+    hanging-punctuation: first;
   }
+
   .blog-content :global(ul),
   .blog-content :global(ol) {
     padding-left: 1.5rem;
-    margin-bottom: 1.25rem;
+    margin-bottom: 1.5rem;
   }
+
   .blog-content :global(li) {
     font-weight: 300;
-    font-size: 0.9rem;
-    line-height: 1.75;
-    color: #444;
-    margin-bottom: 0.4rem;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    color: #4a4541;
+    margin-bottom: 0.5rem;
   }
+
+  .blog-content :global(li::marker) {
+    color: var(--color-gold);
+  }
+
   .blog-content :global(a) {
-    color: #c9a86c;
+    color: var(--color-gold-deep);
     text-decoration: underline;
-    text-underline-offset: 2px;
-    transition: color 0.2s;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba(160,122,74,0.3);
+    transition: text-decoration-color 0.2s;
   }
   .blog-content :global(a:hover) {
-    color: #a8884e;
+    text-decoration-color: rgba(160,122,74,1);
   }
+
   .blog-content :global(img) {
-    border-radius: 0.75rem;
-    margin: 1.5rem 0;
+    border-radius: 2px;
+    margin: 2rem 0;
     max-width: 100%;
     height: auto;
   }
+
   .blog-content :global(blockquote) {
-    border-left: 3px solid #c9a86c;
-    padding-left: 1.25rem;
-    margin: 1.5rem 0;
+    font-family: 'Canela', Georgia, 'Times New Roman', serif;
+    font-weight: 300;
     font-style: italic;
-    color: #666;
+    font-size: clamp(1.05rem, 2vw, 1.25rem);
+    line-height: 1.55;
+    color: var(--color-ink);
+    border-left: 2px solid var(--color-gold);
+    padding: 0.5rem 0 0.5rem 1.75rem;
+    margin: 2.5rem 0;
   }
+
   .blog-content :global(strong) {
     font-weight: 500;
     color: #1a1a1a;
   }
 
-  /* WordPress .mh-post design system */
+  .blog-content :global(hr) {
+    border: none;
+    height: 1px;
+    background: rgba(201, 168, 108, 0.2);
+    margin: 3rem auto;
+    max-width: 80px;
+  }
+
+  /* --- WordPress .mh-post design system --- */
   .blog-content :global(.mh-stat) { background: #1a1614; color: #f3ede5; border-radius: 6px; padding: 1.75rem 1.5rem; margin: 2rem 0; text-align: center; border-left: 4px solid #c9a86c; position: relative; overflow: hidden; }
   .blog-content :global(.mh-stat::before) { content: ""; position: absolute; top: 0; right: 0; width: 120px; height: 120px; background: radial-gradient(circle, rgba(201,168,108,0.12) 0%, transparent 70%); pointer-events: none; }
-  .blog-content :global(.mh-stat-number) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.5rem; font-weight: 700; color: #c9a86c; display: block; line-height: 1.2; margin-bottom: 0.35rem; }
+  .blog-content :global(.mh-stat-number) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 2.5rem; font-weight: 500; color: #c9a86c; display: block; line-height: 1.2; margin-bottom: 0.35rem; }
   .blog-content :global(.mh-stat-label) { font-size: 0.92rem; color: #dfc596; letter-spacing: 0.04em; text-transform: uppercase; display: block; margin-bottom: 0.5rem; }
   .blog-content :global(.mh-stat-source) { font-size: 0.78rem; color: rgba(255,255,255,0.4); margin-top: 0.5rem; display: block; }
   .blog-content :global(.mh-stat-row) { display: grid; grid-template-columns: 1fr; gap: 0.75rem; margin: 2rem 0; }
-  .blog-content :global(.mh-pullquote) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.45rem; font-weight: 500; font-style: italic; color: #1a1614; text-align: center; padding: 2rem 1.25rem; margin: 2.5rem 0; border-top: 1px solid rgba(201,168,108,0.25); border-bottom: 1px solid rgba(201,168,108,0.25); line-height: 1.55; position: relative; }
-  .blog-content :global(.mh-pullquote::before) { content: "\201C"; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 4rem; color: #c9a86c; position: absolute; top: 0.25rem; left: 50%; transform: translateX(-50%); line-height: 1; opacity: 0.3; }
+  .blog-content :global(.mh-pullquote) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 1.45rem; font-weight: 400; font-style: italic; color: #1a1614; text-align: center; padding: 2rem 1.25rem; margin: 2.5rem 0; border-top: 1px solid rgba(201,168,108,0.25); border-bottom: 1px solid rgba(201,168,108,0.25); line-height: 1.55; position: relative; }
+  .blog-content :global(.mh-pullquote::before) { content: "\201C"; font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 4rem; color: #c9a86c; position: absolute; top: 0.25rem; left: 50%; transform: translateX(-50%); line-height: 1; opacity: 0.3; }
   .blog-content :global(.mh-tip) { background: #f9f6f2; border-radius: 6px; padding: 1.5rem; margin: 2rem 0; border-left: 4px solid #c9a86c; }
-  .blog-content :global(.mh-tip-label) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #c9a86c; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.4rem; }
+  .blog-content :global(.mh-tip-label) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #c9a86c; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.4rem; }
   .blog-content :global(.mh-tip p) { margin: 0; font-size: 0.95rem; color: #3d3632; line-height: 1.65; }
   .blog-content :global(.mh-tip p + p) { margin-top: 0.75rem; }
   .blog-content :global(.mh-takeaway) { background: #1a1614; color: #f3ede5; border-radius: 6px; padding: 1.75rem 1.5rem; margin: 2.5rem 0; }
-  .blog-content :global(.mh-takeaway-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.15rem; font-weight: 700; color: #c9a86c; margin-bottom: 1rem; letter-spacing: 0.02em; }
+  .blog-content :global(.mh-takeaway-title) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 1.15rem; font-weight: 500; color: #c9a86c; margin-bottom: 1rem; letter-spacing: 0.02em; }
   .blog-content :global(.mh-takeaway ul) { margin: 0; padding-left: 0; list-style: none; }
   .blog-content :global(.mh-takeaway li) { position: relative; padding-left: 1.25rem; margin-bottom: 0.6rem; font-size: 0.95rem; line-height: 1.6; color: #dfc596; }
   .blog-content :global(.mh-takeaway li::before) { content: "\2014"; position: absolute; left: 0; color: #c9a86c; }
   .blog-content :global(.mh-cta) { background: linear-gradient(135deg, #1a1614 0%, #2a2422 100%); border-radius: 6px; padding: 2rem 1.5rem; margin: 2.5rem 0; text-align: center; border: 1px solid rgba(201,168,108,0.2); }
-  .blog-content :global(.mh-cta-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5rem; color: #f3ede5; margin-bottom: 0.5rem; font-weight: 600; }
+  .blog-content :global(.mh-cta-title) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 1.5rem; color: #f3ede5; margin-bottom: 0.5rem; font-weight: 400; }
   .blog-content :global(.mh-cta-text) { font-size: 0.92rem; color: rgba(255,255,255,0.65); margin-bottom: 1.25rem; line-height: 1.6; }
   .blog-content :global(.mh-cta-btn) { display: inline-block; font-size: 0.88rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #1a1614 !important; background: #c9a86c; padding: 0.85rem 2rem; border-radius: 50px; text-decoration: none !important; transition: background 0.25s, transform 0.2s; }
   .blog-content :global(.mh-cta-btn:hover) { background: #dfc596; transform: translateY(-1px); color: #1a1614 !important; }
   .blog-content :global(.mh-divider) { border: none; height: 1px; background: rgba(201,168,108,0.25); margin: 2.5rem auto; max-width: 120px; }
   .blog-content :global(.mh-faq) { margin: 2.5rem 0; }
-  .blog-content :global(.mh-faq-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5rem; color: #1a1614; margin-bottom: 1.25rem; text-align: center; }
+  .blog-content :global(.mh-faq-title) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 1.5rem; color: #1a1614; margin-bottom: 1.25rem; text-align: center; }
   .blog-content :global(.mh-faq-item) { border-bottom: 1px solid rgba(201,168,108,0.25); }
   .blog-content :global(.mh-faq-q) { font-size: 1rem; font-weight: 600; color: #1a1614; padding: 1.1rem 2rem 1.1rem 0; margin: 0; cursor: pointer; position: relative; list-style: none; line-height: 1.5; }
   .blog-content :global(.mh-faq-q::-webkit-details-marker) { display: none; }
-  .blog-content :global(.mh-faq-q::after) { content: "+"; position: absolute; right: 0; top: 50%; transform: translateY(-50%); font-size: 1.25rem; color: #c9a86c; font-weight: 300; }
+  .blog-content :global(.mh-faq-q::after) { content: "+"; position: absolute; right: 0; top: 50%; transform: translateY(-50%); font-size: 1.25rem; color: #c9a86c; font-weight: 300; transition: transform 0.3s; }
   .blog-content :global(details[open] > .mh-faq-q::after) { content: "\2212"; }
   .blog-content :global(.mh-faq-a) { padding: 0 0 1.25rem; font-size: 0.95rem; color: #6b5f58; line-height: 1.7; }
   .blog-content :global(.mh-table-wrap) { margin: 2rem 0; overflow-x: auto; border-radius: 6px; border: 1px solid rgba(201,168,108,0.25); }
@@ -255,7 +465,7 @@ const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numer
   .blog-content :global(.mh-table tbody tr:last-child td) { border-bottom: none; }
   .blog-content :global(.mh-table tbody tr:nth-child(even)) { background: #f9f6f2; }
   .blog-content :global(.mh-toc) { background: #f9f6f2; border-radius: 6px; padding: 1.5rem; margin: 1.5rem 0 2.5rem; }
-  .blog-content :global(.mh-toc-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1rem; font-weight: 700; color: #1a1614; margin-bottom: 0.75rem; }
+  .blog-content :global(.mh-toc-title) { font-family: 'Canela', 'Cormorant Garamond', Georgia, serif; font-size: 1rem; font-weight: 500; color: #1a1614; margin-bottom: 0.75rem; }
   .blog-content :global(.mh-toc ol) { margin: 0; padding-left: 1.25rem; }
   .blog-content :global(.mh-toc li) { margin-bottom: 0.4rem; font-size: 0.92rem; line-height: 1.5; }
   .blog-content :global(.mh-toc a) { color: #8b6f47; text-decoration: none; }
@@ -269,4 +479,54 @@ const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numer
     .blog-content :global(.mh-cta) { padding: 2.5rem 3rem; }
     .blog-content :global(.mh-cta-title) { font-size: 1.75rem; }
   }
+
+  /* --- line-clamp utility --- */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
 </style>
+
+<script>
+  // Reading progress bar
+  const progressBar = document.getElementById('reading-progress');
+  if (progressBar) {
+    const article = document.querySelector('.blog-article');
+    if (article) {
+      const updateProgress = () => {
+        const rect = article.getBoundingClientRect();
+        const articleTop = rect.top + window.scrollY;
+        const articleHeight = rect.height;
+        const scrolled = window.scrollY - articleTop;
+        const progress = Math.min(100, Math.max(0, (scrolled / (articleHeight - window.innerHeight)) * 100));
+        progressBar.style.width = progress + '%';
+      };
+      window.addEventListener('scroll', updateProgress, { passive: true });
+      updateProgress();
+    }
+  }
+
+  // Copy link button
+  const copyBtn = document.getElementById('copy-link-btn');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        const svg = copyBtn.querySelector('svg');
+        if (svg) {
+          const original = svg.innerHTML;
+          svg.innerHTML = '<path d="M20 6L9 17l-5-5" fill="none" stroke="currentColor" stroke-width="2"/>';
+          copyBtn.classList.add('!text-gold', '!border-gold/40');
+          setTimeout(() => {
+            svg.innerHTML = original;
+            copyBtn.classList.remove('!text-gold', '!border-gold/40');
+          }, 2000);
+        }
+      } catch (e) {
+        // Fallback: do nothing
+      }
+    });
+  }
+</script>
