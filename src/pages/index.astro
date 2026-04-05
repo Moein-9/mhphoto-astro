@@ -195,11 +195,10 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
           </div>
         </a>
         <a href="/videography/" class="hero-video-mob group relative block rounded-xl overflow-hidden aspect-[3/4]">
-          <video class="hero-intro-mob absolute inset-0 w-full h-full object-cover z-[3] transition-opacity duration-700" autoplay muted playsinline poster="/images/videography/frame-1.jpg">
+          <video class="hero-intro-mob absolute inset-0 w-full h-full object-cover z-[3] transition-opacity duration-700" autoplay muted playsinline webkit-playsinline poster="/images/videography/frame-1.jpg">
             <source src="/videos/intro-hero.mp4" type="video/mp4" />
           </video>
-          <iframe class="mob-yt-a absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[1]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
-          <iframe class="mob-yt-b absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[2]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+          <iframe class="mob-yt absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[1]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
           <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent z-10"></div>
           <div class="absolute bottom-0 left-0 right-0 p-4 z-20">
             <p class="text-[0.5rem] font-medium tracking-[0.15em] uppercase text-gold-light mb-1">Videography</p>
@@ -700,7 +699,7 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
         setTimeout(startMontage, 4000);
       }
 
-      // Desktop only — do NOT load YouTube iframes on mobile
+      // Desktop
       if (!isMobile) {
         var dV = document.getElementById('hero-intro-video');
         var dA = document.getElementById('hero-yt-a');
@@ -708,11 +707,19 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
         if (dV && dA && dB) initMontage(dV, dA, dB);
       }
 
-      // Mobile: just let the intro video play and loop, no YouTube iframes
+      // Mobile — same montage as desktop
       if (isMobile) {
         var mV = document.querySelector('.hero-intro-mob');
-        if (mV) {
-          mV.setAttribute('loop', '');
+        var mA = document.querySelector('.mob-yt-a');
+        var mB = document.querySelector('.mob-yt-b');
+        if (mV && mA && mB) {
+          mV.play().catch(function() {
+            document.addEventListener('touchstart', function playOnTouch() {
+              mV.play();
+              document.removeEventListener('touchstart', playOnTouch);
+            }, { once: true });
+          });
+          initMontage(mV, mA, mB);
         }
       }
     })();
