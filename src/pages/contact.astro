@@ -293,11 +293,12 @@ import { site } from '../data/site';
           body: JSON.stringify({
             _subject: subject,
             _replyto: email,
-            "Name": name,
-            "Email": email,
-            "Session Type": sessionType || "Not specified",
-            "Event Date": eventDate || "Not specified",
-            "Message": message || "No message provided",
+            _autoresponse: "Thanks for reaching out! I'll get back to you within 24 hours. — Moein, MH Photography",
+            name: name,
+            email: email,
+            "session type": sessionType || "Not specified",
+            "event date": eventDate || "Not specified",
+            message: message || "No message provided",
           }),
         });
         if (res.ok) {
