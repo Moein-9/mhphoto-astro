@@ -5,7 +5,7 @@ date: "2026-05-22"
 publishDate: "2026-05-22T09:00:00"
 category: "indian-weddings"
 description: "Mehndi ceremony photography guide — capturing henna details, candid dance moments, and lighting solutions. Essential reading for Indian wedding photography in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg"
+image: ""
 draft: false
 ---
 
@@ -45,7 +45,6 @@ The venue is being decorated. Fresh flowers, cushions, marigold garlands, and co
 
 The bride's henna is the centrepiece. A skilled artist works on her hands and feet, creating patterns that often include hidden initials of the groom — a fun tradition where the groom later has to find his name hidden in the design. Meanwhile, other guests take turns getting their own mehndi done. The atmosphere during this phase is relaxed and intimate. Conversations flow naturally, and I capture everything from macro detail shots of the henna art to wide shots of the scene.
 
-![Traditional Indian mehndi ceremony with detailed henna application in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*The mehndi artist at work — hours of intricate patterns that become a work of art.*
 
 ### Music and Dancing (6:00 PM – 10:00 PM)
 
@@ -73,7 +72,6 @@ Ask the mehndi artist to let you know when they are about to start on a particul
 
 **Context shots.** Detail shots are essential, but they need context. I also capture wider compositions that show the henna within the broader scene — the bride's decorated hands resting on her colourful outfit, hands holding a chai cup, hands folded in her lap while she talks to a friend. These contextual images connect the art to the person and the moment.
 
-![Indian bride with detailed mehndi henna design close-up at Edmonton mehndi ceremony](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Every mehndi tells a story — from traditional paisley patterns to hidden names.*
 
 ## Candid Moments That Tell the Story
 
@@ -121,7 +119,6 @@ Rear-curtain sync flash, high ISO, anticipate peak moments
 
 **Mixed colour temperatures:** A mehndi might have warm string lights, cool fluorescent overheads, and coloured LED strips all in the same room. In addition, candles and fairy lights add their own warm glow. I manage this by choosing the dominant light source as my white balance reference and correcting the rest in post-production. That said, sometimes the mixed lighting actually adds atmosphere — the warm-cool contrast can create beautiful, moody images.
 
-![Lively mehndi celebration with dancing and colourful decorations at Indian party](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*When the dancing starts, the mehndi transforms from intimate gathering to full celebration.*
 
 ## Planning Tips for Couples
 
@@ -136,7 +133,7 @@ Whether you are planning your mehndi for an intimate home gathering or a grand v
 
 Photographer Tip
 
-Book your [multi-day wedding package](https://mhphoto.ca/multidaypacakge/) to include mehndi coverage. Trying to find a separate photographer for the mehndi means a different eye, different editing style, and someone who does not know your family yet. Consistent coverage across every event creates a cohesive wedding story.
+Book your [multi-day wedding package](/multiday-packages/) to include mehndi coverage. Trying to find a separate photographer for the mehndi means a different eye, different editing style, and someone who does not know your family yet. Consistent coverage across every event creates a cohesive wedding story.
 
 Key Takeaways
 
@@ -154,7 +151,7 @@ I would love to hear about your plans. Whether your mehndi is an intimate family
 ## Frequently Asked Questions
 
 How many hours of mehndi coverage do I need?
-For a typical mehndi ceremony, 3 to 5 hours covers the henna application, detail shots, candid moments, and the dancing portion. If your mehndi is combined with other events (like a haldi or sangeet), you may want extended coverage. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) include flexible hours across all your events.
+For a typical mehndi ceremony, 3 to 5 hours covers the henna application, detail shots, candid moments, and the dancing portion. If your mehndi is combined with other events (like a haldi or sangeet), you may want extended coverage. My [multi-day packages](/multiday-packages/) include flexible hours across all your events.
 
 Should the groom attend the mehndi?
 Many modern mehndi celebrations include the groom. His arrival adds a fun dynamic — the name-finding tradition, the couple dancing together, and the interaction between families. However, it is a personal choice rooted in your family traditions. From a photography perspective, the groom's presence adds wonderful storytelling moments.

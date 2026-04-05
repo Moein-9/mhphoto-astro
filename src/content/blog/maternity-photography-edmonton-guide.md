@@ -6,7 +6,7 @@ publishDate: "2026-08-29T09:00:00"
 category: "family-sessions"
 keyword: "maternity photography edmonton"
 description: "Maternity photography in Edmonton -- when to book (28-34 weeks), what to wear, best locations, and including your partner. Sessions from $400 with Moein Habibi. Book today."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-15-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -53,7 +53,6 @@ That said, every pregnancy is different. If you are carrying multiples, your bum
 
 Some families want to document the entire journey, not just the final stretch. I have done sessions as early as 14 weeks — not to show a bump, but to capture the joy and excitement of early pregnancy. These sessions focus more on the couple's connection, the nursery preparation, and the emotional anticipation rather than the belly itself. They make beautiful additions to a maternity gallery, especially when paired with a third-trimester session.
 
-![Maternity photography session in Edmonton park with golden hour light on expecting mother](https://mhphoto.ca/wp-content/uploads/2025/09/DSC06459.jpg)*The golden hour light creates a warm, glowing backdrop for maternity portraits*
 
 Photographer Tip
 
@@ -101,7 +100,6 @@ This is one of my favourite maternity locations in Edmonton. The formal gardens 
 
 Edmonton's river valley is one of the largest urban park systems in North America. The trails offer natural, woodsy backdrops with dappled light filtering through the canopy. For families who want a more adventurous, nature-focused session, the river valley is perfect. The paths are generally accessible for pregnant mothers, with gentle slopes and plenty of rest spots.
 
-![Beautiful Edmonton location for maternity photography with natural light and greenery](https://mhphoto.ca/wp-content/uploads/2025/09/DSC06436.jpg)*Edmonton locations offer stunning natural backdrops for maternity portraits*
 
 ### Home Sessions
 

@@ -5,7 +5,7 @@ date: "2026-07-12"
 publishDate: "2026-07-12T09:00:00"
 category: "indian-weddings"
 description: "Planning a multi-cultural wedding in Edmonton? Photography tips for blending traditions, building realistic timelines, and best venues for mixed-ceremony celebrations."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg"
+image: ""
 draft: false
 ---
 
@@ -26,7 +26,6 @@ Edmonton has always been a city that brings people together. However, in the las
 
 According to Statistics Canada, roughly 1 in 5 marriages in major Canadian cities now involve partners from different cultural or religious backgrounds. In fact, that number is even higher in diverse cities like Edmonton, Toronto, and Vancouver. The result is a new kind of wedding — one that honours both families while creating something entirely original.
 
-![Multi-cultural wedding ceremony blending Indian and Western traditions in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*Blending traditions creates moments that are entirely unique to each couple*
 
 For a photographer, these celebrations are deeply rewarding. They are also complex. You cannot approach a multi-cultural wedding the same way you would a single-tradition event. The ceremonies move differently, the emotional beats happen at different moments, and the expectations from both families can be quite distinct. Moreover, the details — from the bride's outfit changes to the symbolic rituals — require someone who has done the homework.
 
@@ -63,7 +62,6 @@ Here is what I have learned after photographing dozens of multi-cultural wedding
 
 To achieve this, I look for visual threads that connect both ceremonies. The couple's expressions during their vows — whether spoken under a mandap or at an altar — carry the same emotion. The parents' tears are universal. The laughter during speeches transcends language. These are the connective tissues of the album.
 
-![Emotional family moments during a blended cultural wedding ceremony](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*The emotions at a multi-cultural wedding are universal — joy, pride, and happy tears from both families*
 
 In addition, I pay close attention to the details that bridge both cultures. The invitation suite that features both scripts. The table settings that incorporate elements from both traditions. The bride's outfit change — perhaps a lehenga for the Indian ceremony and a white gown for the Western reception. These transitions are beautiful storytelling opportunities.
 
@@ -96,7 +94,7 @@ Here is a realistic timeline framework for a two-ceremony day:
 | 4:30 PM | Cocktail hour | Guest candids, venue details |
 | 5:30 PM | Reception | Speeches, dances, party coverage |
 
-Of course, every wedding is different. Some couples spread their celebrations across two days, which gives everyone more breathing room. I offer dedicated [multi-day packages](https://mhphoto.ca/multidaypacakge/) specifically for celebrations that span more than one day.
+Of course, every wedding is different. Some couples spread their celebrations across two days, which gives everyone more breathing room. I offer dedicated [multi-day packages](/multiday-packages/) specifically for celebrations that span more than one day.
 
 ## Best Edmonton Venues for Multi-Cultural Celebrations
 
@@ -104,7 +102,6 @@ Not every venue can accommodate two ceremonies in one day. You need a space that
 
 The [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) is a stunning option for couples who want old-world elegance that works beautifully for both Western and South Asian aesthetics. The ballroom can be transformed dramatically between ceremony styles.
 
-![Elegant wedding venue setup for a multi-cultural celebration in Edmonton](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-1066-scaled.jpg)*Edmonton offers stunning venues that adapt beautifully to multi-cultural celebrations*
 
 For couples who prefer a more rustic, outdoor feel, [Willow Lane Barn](https://willowlanebarn.com) near Edmonton offers a charming barn setting. On the other hand, if you are planning a larger celebration with 300+ guests — as many Indian families need — the larger banquet halls in south Edmonton provide the space and flexibility required.
 
@@ -152,6 +149,6 @@ How do you handle different dress codes or outfit changes?
 I build in dedicated portrait time for each outfit. Most multi-cultural brides change 2 to 4 times, and each look deserves its own portrait session — even a brief one. I coordinate with the bride's attendants to ensure smooth transitions and always have a portable lighting setup ready for dressing room portraits.
 
 What is the cost for multi-cultural wedding photography?
-Multi-cultural weddings typically require more coverage hours and often span multiple days. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) start with full-day coverage and include a second photographer. I provide custom quotes based on your specific celebration structure. Visit my [pricing page](https://mhphoto.ca/pricing/) for starting rates.
+Multi-cultural weddings typically require more coverage hours and often span multiple days. My [multi-day packages](/multiday-packages/) start with full-day coverage and include a second photographer. I provide custom quotes based on your specific celebration structure. Visit my [pricing page](https://mhphoto.ca/pricing/) for starting rates.
 
 Explore my [Indian wedding gallery](https://mhphoto.ca/photography/indian-weddings/) and [wedding photography portfolio](https://mhphoto.ca/photography/weddings/) to see real multi-cultural celebrations.

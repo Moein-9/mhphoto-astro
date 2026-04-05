@@ -5,7 +5,7 @@ date: "2026-05-07"
 publishDate: "2026-05-07T09:00:00"
 category: "indian-weddings"
 description: "South Asian wedding traditions explained for photographers — Hindu, Sikh, and Muslim ceremonies, pre-wedding events, and tips for couples choosing an Edmonton photographer."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg"
+image: ""
 draft: false
 ---
 
@@ -35,7 +35,6 @@ As a [South Asian wedding photographer in Edmonton](https://mhphoto.ca/photograp
 
 The investment families make in South Asian weddings is extraordinary. With budgets that often exceed $100,000 — compared to the Canadian average of $39,000 — these celebrations deserve a photographer who can do them justice. Moreover, 87% of couples hire a professional photographer, and for South Asian families, photography and videography often represent one of the largest single vendor investments.
 
-![Beautiful Indian bridal portrait showing traditional wedding attire and jewellery](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Every South Asian bride tells a story through her attire — the colours, the jewellery, the henna all carry deep cultural meaning*
 
 ## Hindu Wedding Ceremonies
 
@@ -71,7 +70,6 @@ Let your photographer know if your pandit will allow close access during the phe
 
 The Sikh wedding ceremony — the Anand Karaj, meaning "blissful union" — is one of the most spiritual and moving ceremonies I have the honour of photographing. It takes place in a Gurdwara (or sometimes in a banquet hall with the Guru Granth Sahib present) and centres entirely around the holy scripture.
 
-![Sacred Sikh wedding ceremony with traditional rituals](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*The spiritual depth of a Sikh Anand Karaj ceremony creates some of the most powerful wedding photographs*
 
 ### Milni — The Meeting of Families
 
@@ -138,7 +136,6 @@ The sangeet is the big pre-wedding party, most common in Punjabi and North India
 
 The turmeric ceremony — called haldi in Hindi, maiyan in Punjabi, and ubtan in Urdu — involves family members applying a turmeric paste to the bride and groom. It symbolizes purification, blessings, and protection. The deep yellow of the turmeric against colourful clothing makes for stunning photos.
 
-![Colourful South Asian wedding celebration with vibrant decorations](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*The colours at South Asian weddings are not decoration — they are language, carrying centuries of meaning and tradition*
 
 ## Tips for Couples Working with Photographers
 
@@ -150,7 +147,7 @@ Whether your wedding is Hindu, Sikh, Muslim, or a multi-faith celebration, here 
 - **Build in time for portraits.** With so many ceremonies and events packed into each day, it is easy to run behind schedule. Build buffer time for couple portraits. The golden hour does not wait for anyone.
 - **Choose a photographer who specializes in South Asian weddings.** This is not elitism — it is practicality. The skills required to photograph a multi-day, multi-ceremony South Asian wedding are specific and take years to develop.
 
-I offer [multi-day packages](https://mhphoto.ca/multidaypacakge/) specifically designed for South Asian celebrations. Combined [photography](https://mhphoto.ca/photography/) and [videography](https://mhphoto.ca/videography/) packages are also available, which simplifies coordination across multiple events.
+I offer [multi-day packages](/multiday-packages/) specifically designed for South Asian celebrations. Combined [photography](https://mhphoto.ca/photography/) and [videography](https://mhphoto.ca/videography/) packages are also available, which simplifies coordination across multiple events.
 
 Key Takeaways
 

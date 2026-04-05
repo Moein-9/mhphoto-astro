@@ -5,7 +5,7 @@ date: "2019-07-10"
 publishDate: "2019-07-10T07:06:25"
 category: "wedding"
 description: "Why wedding photography is the most important investment on your wedding day. The one vendor whose work lasts forever. By Edmonton photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2019/04/Picture-10.jpg"
+image: ""
 draft: false
 ---
 

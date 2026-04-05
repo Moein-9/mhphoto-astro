@@ -63,6 +63,7 @@ export default defineConfig({
   },
   integrations: [sitemap({
     filter: (page) => !page.includes('wedding-packages') && !page.includes('multiday-packages'),
+    customSitemaps: ['https://mhphoto.ca/sitemap-images.xml'],
     changefreq: 'weekly',
     priority: 0.5,
     serialize(item) {

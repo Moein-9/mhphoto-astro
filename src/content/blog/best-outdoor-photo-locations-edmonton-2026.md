@@ -6,7 +6,7 @@ publishDate: "2026-04-19T09:00:00"
 category: "edmonton-venues"
 keyword: "wedding photography locations edmonton"
 description: "The best outdoor wedding photography locations in Edmonton for 2026 -- Hawrelak Park, Legislature Grounds, Walterdale Bridge, Elk Island, and more. Photographer tips by Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-35-of-43-scaled.jpeg"
+image: ""
 draft: false
 ---
 

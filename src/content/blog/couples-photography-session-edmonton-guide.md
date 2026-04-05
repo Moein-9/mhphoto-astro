@@ -5,7 +5,7 @@ date: "2026-07-15"
 publishDate: "2026-07-15T09:00:00"
 category: "engagement-sessions"
 description: "Couples photography sessions in Edmonton — anniversary, just-because, and engagement photos. Best locations, outfit ideas, and what to expect. By Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-34-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -25,7 +25,6 @@ When most people think of couples photography, they immediately picture two fres
 
 Here is the thing. Your relationship does not stop being photo-worthy after the engagement. In fact, some of the most meaningful couples sessions I have ever photographed had nothing to do with an upcoming wedding. Anniversary milestones, pregnancy announcements, a couple celebrating five years of surviving Edmonton winters together — these moments deserve to be documented too.
 
-![Couples photography session in Edmonton capturing genuine connection](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-718-scaled.jpg)*Couples photography is about capturing who you are together — at any stage of your relationship*
 
 Moreover, couples photography has changed dramatically in the last few years. The stiff, posed, "look at the camera and smile" approach is fading. What has replaced it is something much more authentic — sessions that feel like a date, where the photographer captures genuine interactions rather than manufactured moments. That is the approach I take with every couples session, and the results speak for themselves.
 
@@ -58,7 +57,6 @@ No occasion needed. No ring required. Just two people who love each other and wa
 
 Moving in together, getting a new puppy, a pregnancy announcement, surviving a tough year, starting a business together — life is full of moments worth documenting. I have photographed couples celebrating everything from matching PhDs to adopting their first dog. The joy is genuine, and genuine joy makes extraordinary photographs.
 
-![Edmonton fall couples photography session with golden autumn colours](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-35-of-43-scaled.jpeg)*Edmonton fall sessions are pure magic — golden light, warm colours, and that crisp autumn air*
 
 ## Best Edmonton Locations for Couples Photos
 
@@ -93,7 +91,6 @@ That said, there are a few practical tips that genuinely help:
 - **Bring a second outfit.** A quick change midway through the session gives you variety in the gallery without extra cost.
 - **Comfortable shoes.** We will be walking and possibly climbing over things. Save the heels for the last 10 minutes if you want them.
 
-![Couple preparing for their Edmonton photography session](https://mhphoto.ca/wp-content/uploads/2022/01/picture-34-scaled.jpg)*A little planning goes a long way — but the most important thing is to show up as yourselves*
 
 Photographer Tip
 

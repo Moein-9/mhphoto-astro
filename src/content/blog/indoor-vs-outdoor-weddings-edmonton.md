@@ -5,7 +5,7 @@ date: "2026-05-25"
 publishDate: "2026-05-25T09:00:00"
 category: "edmonton-venues"
 description: "Indoor vs outdoor weddings in Edmonton — lighting differences, weather reality, venue comparisons, and the hybrid approach. Honest advice from a wedding photographer."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/Picture-43-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -44,7 +44,6 @@ The best outdoor light happens during "golden hour" — roughly the hour before 
 
 However, midday outdoor light is a completely different story. Between 11:00 AM and 3:00 PM, the sun sits high overhead and creates harsh, unflattering shadows — dark eye sockets, bright foreheads, squinting faces. Moreover, guests and the wedding party are uncomfortable in direct sun. This is the reality that Pinterest boards never show you. In fact, the most beautiful outdoor wedding photos you see online were almost always shot during golden hour or in open shade — not at noon under blazing sun.
 
-![Indoor wedding ceremony with beautiful lighting at Edmonton venue](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-718-scaled.jpg)*Indoor ceremonies offer consistent, controlled lighting that flatters every moment.*
 
 ### Indoor Lighting
 
@@ -116,7 +115,6 @@ That said, outdoor weddings offer things that no indoor venue can replicate. Her
 
 **Backdrop variety.** A single outdoor venue often provides multiple distinct photo locations — a garden, a treeline, a field, a water feature, an architectural element. This means more variety in your portrait gallery without driving between locations.
 
-![Stunning outdoor Indian wedding reception with colourful decorations in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*Outdoor receptions bring together nature and celebration in a way nothing else can.*
 
 ## Edmonton Venue Comparisons
 

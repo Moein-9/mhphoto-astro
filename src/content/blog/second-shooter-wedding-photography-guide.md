@@ -5,7 +5,7 @@ date: "2026-06-21"
 publishDate: "2026-06-21T09:00:00"
 category: "wedding"
 description: "Do you need a second shooter at your wedding? When you definitely need one, when you might not, cost factors, and questions to ask. Edmonton wedding photography guide."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-220-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -42,9 +42,8 @@ When you have 150 or more guests, one photographer physically cannot capture eve
 
 ### Multi-Day or Multi-Event Celebrations
 
-If your celebration spans multiple days or includes multiple events — which is very common for [Indian, Sikh, and Punjabi weddings](https://mhphoto.ca/photography/indian-weddings/) — a second shooter is essential. Events like the mehndi, sangeet, ceremony, and reception each have their own energy, key moments, and logistical demands. Having two photographers ensures nothing falls through the cracks across a marathon celebration. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) always include a second shooter for this reason.
+If your celebration spans multiple days or includes multiple events — which is very common for [Indian, Sikh, and Punjabi weddings](https://mhphoto.ca/photography/indian-weddings/) — a second shooter is essential. Events like the mehndi, sangeet, ceremony, and reception each have their own energy, key moments, and logistical demands. Having two photographers ensures nothing falls through the cracks across a marathon celebration. My [multi-day packages](/multiday-packages/) always include a second shooter for this reason.
 
-![Wedding ceremony captured from multiple angles showing both bride and guest reactions](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-718-scaled.jpg)*A second shooter captures the ceremony from angles the lead photographer cannot cover simultaneously*
 
 ### Getting-Ready Coverage in Two Locations
 
@@ -116,7 +115,6 @@ Let me show you the tangible difference with real examples from weddings I have 
 
 With one photographer, you get beautiful shots of the couple at the altar, the officiant, and carefully timed reaction shots when the photographer can glance at the crowd. With two photographers, you get all of that plus continuous coverage of guest reactions, the view from behind the couple (showing the aisle and the audience), and wider establishing shots that show the entire ceremony space. The result is a ceremony section in your gallery that tells the story from every angle.
 
-![Wedding couple portrait showing emotional connection during ceremony in Edmonton](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-1066-scaled.jpg)*While the lead captures the couple, the second shooter documents the reactions all around them*
 
 ### The Reception
 
@@ -182,6 +180,6 @@ Does a second shooter mean twice as many photos?
 Not exactly. A second shooter typically increases delivered images by 30-50%, not 100%. There is natural overlap — both photographers capture some of the same key moments. The real value is in the unique perspectives and moments that only the second shooter captures, plus the increased coverage breadth.
 
 Is a second shooter included in your wedding packages?
-My full-day wedding packages and all [multi-day packages](https://mhphoto.ca/multidaypacakge/) include a second shooter. For shorter coverage options, a second shooter can be added. I am always transparent about what is included and what is additional. Check my [pricing page](https://mhphoto.ca/pricing/) for details, or reach out and I will walk you through everything.
+My full-day wedding packages and all [multi-day packages](/multiday-packages/) include a second shooter. For shorter coverage options, a second shooter can be added. I am always transparent about what is included and what is additional. Check my [pricing page](https://mhphoto.ca/pricing/) for details, or reach out and I will walk you through everything.
 
 Browse our [wedding photography gallery](https://mhphoto.ca/photography/weddings/) or view [packages and pricing](https://mhphoto.ca/pricing/).

@@ -5,7 +5,7 @@ date: "2026-05-31"
 publishDate: "2026-05-31T09:00:00"
 category: "family-sessions"
 description: "What to wear for family photos — best colours for outdoor pictures, seasonal palettes, coordinating without matching, and outfit ideas for kids and adults."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-20-of-41-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -79,7 +79,6 @@ White, soft yellow, light green, and natural denim. This palette captures the en
 
 Emerald green, deep teal, gold, and warm ivory. Summer's rich green backdrop allows bold jewel tones to shine without clashing. This palette is especially beautiful for [family portraits](https://mhphoto.ca/photography/family/) at botanical gardens or lush park settings. The deep colours add sophistication and photograph as timeless rather than trendy.
 
-![Family photo session with coordinated earth-tone outfits in Edmonton fall setting](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-35-of-43-scaled.jpeg)*Coordinated earth tones create beautiful harmony with natural backgrounds.*
 
 ## Fall Colour Palettes
 
@@ -115,7 +114,6 @@ Ivory, oatmeal, soft brown, and camel. This palette creates a soft, dreamy look 
 
 Deep navy, berry, dusty rose, and cream. This palette adds colour without the full brightness of red. Berry tones are flattering on virtually every skin tone and look rich against winter backgrounds. The navy provides a strong anchor colour for coats and trousers. As a result, the palette feels both warm and sophisticated.
 
-![Outdoor family portrait session with natural autumn colours in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/picture-34-scaled.jpg)*The right colours make your family the focal point of every frame.*
 
 ## What to Avoid
 

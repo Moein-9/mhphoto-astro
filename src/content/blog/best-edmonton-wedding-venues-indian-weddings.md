@@ -5,7 +5,7 @@ date: "2026-09-01"
 publishDate: "2026-09-01T09:00:00"
 category: "edmonton-venues"
 description: "The best Edmonton venues for large Indian weddings with 300+ guests. Oasis Centre, Convention Centre, and more. Photography and lighting tips included."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-718-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -54,7 +54,6 @@ Indian weddings have multiple phases — sometimes a ceremony and reception on t
 
 The dance floor at an Indian wedding is not optional — it is essential. And it needs to be big. A dance floor that is too small for the guest count creates overcrowding, limited movement, and photographs where everyone is packed together without any visual breathing room. For 500+ guests, I recommend a dance floor that can comfortably hold at least 100 to 150 people at once.
 
-![Grand ballroom venue setup for large Indian wedding with elaborate decor and high ceilings](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*High ceilings and grand proportions make all the difference in wedding photography*
 
 Photographer Tip
 
@@ -81,7 +80,6 @@ This is the gold standard for large Indian weddings in Edmonton. The upper halls
 
 This venue was built specifically for South Asian celebrations, and it shows. The stage is designed for large mandap setups. The kitchen can handle Indian catering at scale. The sound system is built for dhol and DJ alike. From a photography standpoint, the familiarity of the venue with Indian wedding logistics means fewer surprises and smoother timelines — both of which translate directly into better photos.
 
-![Edmonton wedding venue decorated for Indian wedding with elaborate mandap and floral arrangements](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*The right venue provides the canvas — the decor and photography bring it to life*
 
 ### Enjoy Centre (St. Albert)
 

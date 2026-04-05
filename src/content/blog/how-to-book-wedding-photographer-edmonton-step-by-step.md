@@ -5,7 +5,7 @@ date: "2026-09-16"
 publishDate: "2026-09-16T09:00:00"
 category: "wedding"
 description: "Step-by-step guide to booking a wedding photographer in Edmonton. Research, portfolio review, consultations, contracts, and timeline. By Moein Habibi, MH Photography."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-15-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -53,7 +53,6 @@ Here is what to look for during your research phase:
 - **Detail coverage:** Do they photograph the small things — rings, invitations, venue details — with care?
 - **Cultural experience:** If you are having an Indian, South Asian, or culturally specific wedding, look for evidence that they have covered similar celebrations before
 
-![Edmonton wedding photographer portfolio showing diverse wedding coverage styles](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*A strong portfolio shows consistency across different weddings, venues, and conditions*
 
 Research Tip
 
@@ -109,7 +108,6 @@ A professional has a backup plan and emergency contacts for substitutes
 
 Pay attention to response time and communication style. A photographer who takes a week to reply to your initial inquiry or gives vague answers to straightforward questions may not be the right fit. Clear, warm, and prompt communication is a strong indicator of professionalism.
 
-![Couple meeting with wedding photographer during consultation in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*A good consultation feels like a conversation, not a sales pitch*
 
 ## Step 4: Book a Consultation
 
@@ -162,7 +160,6 @@ Every professional wedding photographer uses a contract. This protects both you 
 
 The retainer — typically 25 to 50 percent of the total — reserves your date. Once the retainer is paid and the contract is signed, your date is held exclusively for you. No one else can book it. This is why moving quickly matters during peak season — every day you wait is another chance someone else books your date.
 
-![Wedding photography contract signing and booking process](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*A signed contract protects your date, your investment, and your peace of mind*
 | Stat | Figure | Source |
 |---|---|---|
 | Typical Retainer to Hold a Wedding Date | **25–50%** | PPA Industry Standards, 2025 |

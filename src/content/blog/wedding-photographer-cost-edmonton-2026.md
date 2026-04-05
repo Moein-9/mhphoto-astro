@@ -6,7 +6,7 @@ publishDate: "2026-04-08T09:00:00"
 category: "wedding-planning"
 keyword: "wedding photographer edmonton cost"
 description: "Wedding photographer Edmonton cost ranges from $2,000 to $6,000+ in 2026. See pricing tiers, what is included, Indian wedding packages, and photo+video bundles. Get a custom quote today."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-718-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -97,7 +97,7 @@ Here is what you should expect (and demand) at each price point. If a photograph
 
 **At $4,000 to $7,000:** Everything above, plus a second photographer for the full day. A professionally designed wedding album (typically 30 to 60 pages). Print credits or wall art. Same-day highlight slideshows or sneak peeks. Priority editing with faster turnaround. Multiple pre-wedding consultations and timeline assistance.
 
-**At $7,000+:** Everything above, plus multi-day coverage for extended celebrations. Combined [photography and videography](https://mhphoto.ca/videography/). Multiple albums (couple + parents). Bridal or boudoir session. A dedicated planning timeline. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) live in this tier, specifically designed for Indian and South Asian weddings.
+**At $7,000+:** Everything above, plus multi-day coverage for extended celebrations. Combined [photography and videography](https://mhphoto.ca/videography/). Multiple albums (couple + parents). Bridal or boudoir session. A dedicated planning timeline. My [multi-day packages](/multiday-packages/) live in this tier, specifically designed for Indian and South Asian weddings.
 
 Value Tip
 
@@ -116,7 +116,7 @@ A typical Punjabi wedding in Edmonton might include a Mehndi on Thursday evening
 
 At $100,000+ for the total celebration, investing $5,000 to $12,000 in photography and videography represents 5 to 12 percent of the overall budget. That is actually in line with — or even below — the industry recommendation of 10 to 15 percent for photography.
 
-The key is to book a [multi-day package](https://mhphoto.ca/multidaypacakge/) rather than pricing each event individually. Multi-day rates are structured to provide comprehensive coverage at a lower per-event cost, and you get the consistency of the same photographer across every ceremony.
+The key is to book a [multi-day package](/multiday-packages/) rather than pricing each event individually. Multi-day rates are structured to provide comprehensive coverage at a lower per-event cost, and you get the consistency of the same photographer across every ceremony.
 
 ## Photo + Video Combo Packages
 

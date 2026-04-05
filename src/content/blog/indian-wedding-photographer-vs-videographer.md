@@ -5,7 +5,7 @@ date: "2026-09-13"
 publishDate: "2026-09-13T09:00:00"
 category: "indian-weddings"
 description: "Do you need both a photographer and videographer for your Indian wedding? Cost comparison, combined vs separate coverage, and why Edmonton couples choose both."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg"
+image: ""
 draft: false
 ---
 
@@ -47,7 +47,6 @@ Your family spent weeks choreographing dances. Your cousins flew in from India t
 
 While video captures the flow of the ceremony, photography captures its defining moments with a precision that video cannot match. The exact second your partner's eyes fill with tears during the saat phere. The detail of your grandmother's hands applying sindoor. The composition of the entire mandap from a perfect angle. These are photographs you will frame, print, and display for decades.
 
-![Indian wedding photographer and videographer working together to capture ceremony](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Photography and videography work together to tell your complete wedding story*
 
 ### The Baraat Needs Both
 
@@ -92,7 +91,6 @@ A combined team edits with a unified aesthetic. Your photos and your wedding fil
 
 Instead of coordinating with two separate vendors about timelines, locations, and deliverables, you communicate with one team. One contract. One timeline. One vision. This simplifies the planning process enormously, especially for multi-day Indian weddings where coordination is already complex.
 
-![Combined photography and videography team working together at Indian wedding](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*A coordinated team moves as one, capturing more moments with less disruption*
 
 Booking Tip
 

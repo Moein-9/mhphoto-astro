@@ -5,7 +5,7 @@ date: "2026-05-16"
 publishDate: "2026-05-16T09:00:00"
 category: "family-sessions"
 description: "How to plan photography for a 3 to 5 day wedding. Coverage, costs, and what to look for in a multi-day wedding photographer. For Indian and South Asian weddings in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg"
+image: ""
 draft: false
 ---
 
@@ -26,7 +26,7 @@ A standard wedding photography package is built for one day. Eight hours, maybe 
 
 Multi-day weddings are a completely different animal. A typical Punjabi wedding celebration includes a mehndi, a sangeet, a maiyan, the ceremony itself, and a reception — spread across three to five days. Each event has its own energy, its own rituals, its own outfit changes, and its own guest list. As a result, the photography requirements are exponentially larger than a one-day wedding.
 
-I specialize in [multi-day wedding photography](https://mhphoto.ca/multidaypacakge/) here in Edmonton because I believe these celebrations deserve complete documentation. Not highlights. Not just the big day. Every event, every ritual, every emotion — captured with the same care and attention.
+I specialize in [multi-day wedding photography](/multiday-packages/) here in Edmonton because I believe these celebrations deserve complete documentation. Not highlights. Not just the big day. Every event, every ritual, every emotion — captured with the same care and attention.
 
 | Stat | Figure | Source |
 |---|---|---|
@@ -35,7 +35,6 @@ I specialize in [multi-day wedding photography](https://mhphoto.ca/multidaypacak
 
 Consider this: the average Canadian wedding costs about $39,000, and the average photography investment is around $2,900. But the average Indian wedding in Canada exceeds $100,000. The scale is fundamentally different. And yet, many photographers try to apply single-day thinking to multi-day celebrations. That approach simply does not work. You need a photographer who understands the rhythm, the stamina requirements, and the cultural significance of every single event.
 
-![Vibrant Indian wedding celebration with guests enjoying the party](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*Multi-day celebrations bring a different energy to every event — from intimate ceremonies to grand parties, each day tells its own story*
 
 ## What Events Need to Be Covered
 
@@ -65,7 +64,6 @@ The ceremony day is the longest and most complex. It often starts with the baraa
 
 I plan for 10 to 14 hours on the ceremony day. Getting ready coverage for both bride and groom. The baraat. The ceremony. Portraits during golden hour. The reception. The vidaai (bride's farewell) or rukhsati. It is a marathon, and I love every minute of it.
 
-![Colourful Indian wedding celebration with vibrant decorations and traditions](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*Every day of a multi-day celebration brings new colours, new energy, and new stories to capture*
 
 ### Day 4: Reception
 
@@ -118,7 +116,6 @@ This might sound unusual, but it matters. Multi-day wedding photography is physi
 What happens if your photographer gets sick on day two? A professional who regularly shoots multi-day weddings has a network of trusted second shooters and backup photographers. Ask about their contingency plan. It is not a fun question, but it is an important one.
 
 Your multi-day wedding is not just a bigger wedding. It is a completely different experience that requires a photographer who treats every day — not just the ceremony — as essential to the story.
-![Grand Indian wedding reception with hundreds of guests celebrating](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*Reception nights at multi-day weddings are grand, joyful, and absolutely electric — the energy is unlike anything else*
 
 ## Understanding Costs and Packages
 
@@ -126,7 +123,7 @@ Let me be transparent about costs, because this is where many couples get confus
 
 A standard single-day wedding package in Edmonton typically ranges from $2,500 to $5,000 for 8 to 10 hours of coverage. Multi-day packages, on the other hand, typically range from $5,000 to $12,000 depending on the number of events, the number of days, and whether videography is included.
 
-Here is how I structure my [multi-day packages](https://mhphoto.ca/multidaypacakge/):
+Here is how I structure my [multi-day packages](/multiday-packages/):
 
 - **Base coverage:** The main ceremony day with full coverage (getting ready through vidaai or reception end)
 - **Additional events:** Each pre-wedding event (mehndi, sangeet, haldi) is added at a per-event rate
@@ -169,7 +166,7 @@ Whether your wedding spans two days or five, I would love to hear about your pla
 ## Frequently Asked Questions
 
 Do you cover every event at a multi-day wedding?
-Yes. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) are designed to cover every event in your celebration — from the mehndi and sangeet through the ceremony, reception, and any additional events. I work with you to create a custom coverage plan that matches your specific schedule.
+Yes. My [multi-day packages](/multiday-packages/) are designed to cover every event in your celebration — from the mehndi and sangeet through the ceremony, reception, and any additional events. I work with you to create a custom coverage plan that matches your specific schedule.
 
 How many photos will we receive from a multi-day wedding?
 For a typical 3-day celebration, expect 1,500 to 3,000 fully edited images. A 4 to 5 day celebration can produce 2,500 to 4,000 or more. Every image is individually edited — no batch processing, no presets applied blindly.

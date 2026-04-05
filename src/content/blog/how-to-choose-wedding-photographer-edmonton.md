@@ -6,7 +6,7 @@ publishDate: "2026-04-05T09:00:00"
 category: "photography-tips"
 keyword: "best wedding photographer edmonton"
 description: "Find the best wedding photographer in Edmonton with this 2026 guide. Photography styles, 15 questions to ask, red flags, and pricing tiers by Moein Habibi. Get a free consultation."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-1066-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -191,11 +191,11 @@ The best way to find a wedding photographer in Edmonton is to start with referra
 
 ## How Much Should I Budget for Wedding Photography in Edmonton?
 
-The average wedding photographer in Canada costs $2,900, and in Edmonton the realistic range is $2,000 to $6,000 for single-day coverage. Multi-day Indian and Punjabi celebrations range from $5,000 to $15,000. For a full pricing breakdown, read my [wedding photographer cost guide](/blog/wedding-photographer-cost-edmonton-2026). At MH Photography, [photography](/photography/) starts at $2,250, [videography](/videography/) at $3,750, and combined bundles from $8,750.
+The average wedding photographer in Canada costs $2,900, and in Edmonton the realistic range is $2,000 to $6,000 for single-day coverage. Multi-day Indian and Punjabi celebrations range from $5,000 to $15,000. For a full pricing breakdown, read my wedding photographer cost guide. At MH Photography, [photography](/photography/) starts at $2,250, [videography](/videography/) at $3,750, and combined bundles from $8,750.
 
 ## Related Guides
 
-- [Wedding Photographer Cost in Edmonton: 2026 Pricing](/blog/wedding-photographer-cost-edmonton-2026)
+- Wedding Photographer Cost in Edmonton: 2026 Pricing
 - [15 Best Wedding Venues in Edmonton](/blog/best-wedding-venues-edmonton-2026)
 - [Engagement Photos Edmonton: Locations Guide](/blog/engagement-photos-edmonton-locations-guide)
 - [Indian Wedding Photography Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)

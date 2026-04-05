@@ -5,7 +5,7 @@ date: "2019-07-18"
 publishDate: "2019-07-18T01:37:24"
 category: "wedding"
 description: "Wedding day ideas for introverts in Edmonton — intimate ceremonies, small guest lists, and photography tips for couples who prefer quieter celebrations."
-image: "https://mhphoto.ca/wp-content/uploads/2018/11/Picture-5091.jpg"
+image: ""
 draft: false
 ---
 

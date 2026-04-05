@@ -5,7 +5,7 @@ date: "2026-06-18"
 publishDate: "2026-06-18T09:00:00"
 category: "family-sessions"
 description: "Why every Edmonton family needs a generational portrait. Planning tips, essential groupings, best locations, and how to capture four generations together beautifully."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-40-of-43-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -46,7 +46,6 @@ Designate one person in the family as the session coordinator. This person handl
 
 Before the session, sit down and list every grouping you want captured. The full group is obvious. But what about grandmother with just her grandchildren? The three sisters together? Great-grandpa with the baby? These specific combinations are often the most treasured images, and they need to be planned in advance. During a busy session with many people, it is easy to forget a grouping in the moment.
 
-![Multi-generational family portrait during fall session in Edmonton with autumn colours](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-35-of-43-scaled.jpeg)*Fall colours create a warm natural backdrop that flatters every generation*
 
 ### Consider Timing and Energy
 
@@ -120,7 +119,6 @@ Small children are unpredictable. That is part of their charm, but it can also m
 - **Assign a kid wrangler.** A family member (not a parent — they need to be in photos) who manages the children between shots is invaluable.
 - **Embrace the chaos.** Some of the best family photos include a toddler doing something unexpected. Those imperfect moments are often the most authentic.
 
-![Family portrait session in autumn with children and parents in Edmonton park](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-20-of-41-scaled.jpeg)*The best family photos capture real interactions — including the beautifully imperfect ones*
 
 ### Keep It Fun
 

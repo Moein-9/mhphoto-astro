@@ -5,7 +5,7 @@ date: "2026-08-26"
 publishDate: "2026-08-26T09:00:00"
 category: "indian-weddings"
 description: "Why you need an Indian wedding photographer, not a regular one. Cultural knowledge, multi-day stamina, and ceremony expertise for Edmonton South Asian weddings."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg"
+image: ""
 draft: false
 ---
 
@@ -44,7 +44,6 @@ A photographer without this knowledge? They are standing in the wrong spot. They
 
 Cultural knowledge extends beyond just knowing the timeline. It means understanding the emotional weight of each ritual. It means knowing that the sindoor application is sacred and should be photographed with reverence, not as just another "candid." It means understanding that the vidaai — when the bride leaves her parents' home — is often the most heart-wrenching moment of the entire multi-day celebration.
 
-![Intimate cultural moment during Indian wedding ceremony captured by experienced photographer](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*Cultural knowledge means knowing which moments carry the deepest emotional weight*
 
 ### The Rituals a Regular Photographer Will Not Understand
 
@@ -102,7 +101,6 @@ Indian weddings present lighting scenarios that most Western wedding photographe
 
 Hindu ceremonies centre around the havan kund — the sacred fire. The fire is beautiful. It is symbolic. And it is an absolute nightmare for auto-exposure. Your camera sees a bright fire and a relatively dark couple, and it tries to average the two. The result, if you are not prepared, is either a blown-out fire or underexposed faces. An experienced Indian wedding photographer knows to expose for the skin tones and let the fire bloom naturally. The warm glow on the couple's faces, lit by the flickering flames, creates some of the most beautiful images in the entire gallery.
 
-![Indian wedding ceremony lit by sacred fire with warm tones on couple faces](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*The sacred fire creates some of the most beautiful and challenging lighting in all of wedding photography*
 
 ### Coloured Decor Lighting
 
@@ -167,7 +165,7 @@ I have photographed Indian weddings across Edmonton for years. I know the ritual
 ## Frequently Asked Questions
 
 Is an Indian wedding photographer more expensive than a regular one?
-Indian wedding photography often costs more because of the multi-day coverage required. However, the cost per hour is usually comparable. The difference is volume — a three-day wedding simply requires more time, more images, and more post-processing than a one-day event. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) are designed specifically for this.
+Indian wedding photography often costs more because of the multi-day coverage required. However, the cost per hour is usually comparable. The difference is volume — a three-day wedding simply requires more time, more images, and more post-processing than a one-day event. My [multi-day packages](/multiday-packages/) are designed specifically for this.
 
 Can a regular photographer learn to shoot Indian weddings?
 Absolutely — with time and experience. But your wedding is not the place for someone to learn. The learning curve is steep, and the consequences of inexperience are missed moments that cannot be recreated. Choose a photographer who has already climbed that curve.

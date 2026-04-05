@@ -5,7 +5,7 @@ date: "2026-06-24"
 publishDate: "2026-06-24T09:00:00"
 category: "indian-weddings"
 description: "Haldi ceremony photography guide — turmeric, tears, and beautiful chaos. Key moments, gear protection, and lighting tips for Indian wedding photographers in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg"
+image: ""
 draft: false
 ---
 
@@ -40,7 +40,6 @@ I have photographed dozens of haldi ceremonies over the years, and I can tell yo
 
 Unlike a formal ceremony where everyone is on their best behaviour, the haldi brings out people's real personalities. Grandmothers who are usually reserved will suddenly break into tears as they bless their grandchild. Cousins who flew in from India will start a turmeric fight. The bride's mother will cradle her daughter's face with yellow-stained hands and whisper something that makes them both cry.
 
-![Haldi ceremony turmeric application during an Indian pre-wedding celebration in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*The golden glow of turmeric transforms every frame into something magical*
 
 These moments happen fast. They happen once. And if your photographer does not know the flow of a haldi, they will miss them. That is why cultural knowledge is not optional — it is essential. Knowing when the mother will step forward, knowing when the friends will start the playful smearing, knowing when the emotional weight of the blessing will hit — that anticipation is what separates good coverage from exceptional coverage.
 
@@ -80,7 +79,6 @@ Usually the mother or a close female relative applies the first haldi. This is t
 
 After the initial application, family members take turns. Grandparents, aunties, uncles, siblings — each one steps forward to apply a small amount of turmeric and give their blessing. Every interaction is different. Some are playful. Some are deeply emotional. Some are quick and shy. The diversity of reactions makes for a rich, varied gallery.
 
-![Family members applying haldi turmeric paste to bride during pre-wedding ceremony](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Every family member brings their own emotion to the moment — some tender, some playful, all beautiful*
 
 ### The Chaos Erupts
 
@@ -120,7 +118,6 @@ In terms of exposure, I slightly overexpose by about one-third of a stop. The da
 
 For editing, I lean into the warmth rather than trying to correct it away. The golden tones of a haldi are part of its beauty. I adjust skin tones to look natural within the warm environment rather than trying to make the entire scene look neutral. The result is images that feel warm and authentic — exactly how the moment felt.
 
-![Warm golden light during haldi ceremony photography with natural turmeric tones](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*Leaning into the warm golden tones creates images that feel exactly as the moment did*
 
 ## What to Wear to a Haldi
 
@@ -157,7 +154,7 @@ Key Takeaways
 - Plan for the mess — turmeric stains everything, so protect gear and wear disposable clothing
 - Coordinate outfits in yellow or white for the most cohesive photos
 - The best moments happen in the chaos — let the turmeric fly and trust your photographer
-- Multi-day packages from your [wedding photographer](https://mhphoto.ca/multidaypacakge/) should always include haldi coverage
+- Multi-day packages from your [wedding photographer](/multiday-packages/) should always include haldi coverage
 
 Planning a Haldi Ceremony in Edmonton?
 I would love to be part of your celebration. Whether it is an intimate backyard haldi or a grand venue affair, I bring cultural knowledge, turmeric-proof gear, and a genuine love for these traditions. Let us chat.
@@ -172,7 +169,7 @@ Can you protect your camera from turmeric?
 Yes. I use weather-sealed camera bodies, UV filters on all lenses, and clear rain sleeves during the chaotic portion. In years of shooting haldi ceremonies, I have never had turmeric damage any equipment. The preparation is key.
 
 Should we have a separate photographer for the haldi?
-Ideally, the same photographer who covers your main wedding should cover the haldi. Consistency in editing style and storytelling matters. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) include all pre-wedding events including the haldi, mehndi, and sangeet.
+Ideally, the same photographer who covers your main wedding should cover the haldi. Consistency in editing style and storytelling matters. My [multi-day packages](/multiday-packages/) include all pre-wedding events including the haldi, mehndi, and sangeet.
 
 Is the haldi ceremony done for both the bride and groom?
 Yes, traditionally both the bride and groom have their own separate haldi ceremonies. Some modern families combine them into one event. Either way, both ceremonies are photographically beautiful and worth documenting.

@@ -5,7 +5,7 @@ date: "2026-04-12"
 publishDate: "2026-04-12T09:00:00"
 category: "indian-weddings"
 description: "Complete Hindu wedding ceremony photography guide — Jaimala, Kanyadaan, Mangal Pheras, Sindoor explained. Why you need a specialist Indian wedding photographer in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg"
+image: ""
 draft: false
 ---
 
@@ -138,7 +138,7 @@ Vidaai
 15-20 min
 Emotional farewells, parents, siblings
 
-**Total ceremony time: approximately 2.5 to 3.5 hours.** This does not include the reception, which typically adds another 4 to 6 hours of coverage. When I shoot Hindu weddings, I always plan for a minimum of 8 to 10 hours of coverage on the ceremony day alone, with [multi-day packages](https://mhphoto.ca/multidaypacakge/) for families who want pre-wedding ceremonies covered as well.
+**Total ceremony time: approximately 2.5 to 3.5 hours.** This does not include the reception, which typically adds another 4 to 6 hours of coverage. When I shoot Hindu weddings, I always plan for a minimum of 8 to 10 hours of coverage on the ceremony day alone, with [multi-day packages](/multiday-packages/) for families who want pre-wedding ceremonies covered as well.
 
 ## Tips for Couples
 

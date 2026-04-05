@@ -5,7 +5,7 @@ date: "2026-06-30"
 publishDate: "2026-06-30T09:00:00"
 category: "indian-weddings"
 description: "How Indian wedding decor affects your photos — mandap design, colour palettes, lighting, and floral arrangements. Photography tips for couples planning in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg"
+image: ""
 draft: false
 ---
 
@@ -44,7 +44,6 @@ An open mandap with four pillars and a canopy gives photographers 360-degree acc
 
 An enclosed mandap with heavy draping, solid walls, or dense floral curtains looks dramatic in person. But it severely limits camera angles. If I can only shoot from the front, every ceremony photo will have the same perspective. The storytelling suffers because I cannot capture the priest's expressions, the family's reactions from the side, or the intimate moments that happen when the couple thinks no one can see them.
 
-![Indian wedding mandap decor design and photography angles at Edmonton celebration](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*An open mandap design gives your photographer the freedom to capture every angle of the ceremony*
 
 Photographer Tip
 
@@ -78,7 +77,6 @@ However, not all colour combinations photograph equally well. Here is what I hav
 - **All-red everything:** When the mandap, the stage, the flowers, and the carpet are all the same shade of red, there is no visual separation. The couple gets lost in a sea of colour.
 - **Highly reflective metallics:** Chrome, mirror, and metallic surfaces create harsh reflections that show up as bright white spots in photos. Matte gold and brushed metals are much better choices.
 
-![Indian wedding colour palette decor choices for stunning photography in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*A thoughtful colour palette creates visual depth and makes every element stand out in photos*
 
 | Colour Palette | Photo Quality | Best For |
 |---|---|---|
@@ -124,7 +122,6 @@ Flower walls have become incredibly popular in Indian weddings, and for good rea
 
 Also, consider the colour of your flower wall relative to the outfits. A deep red flower wall behind a bride in a deep red lehenga will make her blend into the background. Choose colours that complement the outfits rather than matching them exactly.
 
-![Indian wedding floral decor and photography considerations for Edmonton celebrations](https://mhphoto.ca/wp-content/uploads/2022/01/picture-3.jpg)*Mixed textures and complementary colours create flower arrangements that photograph with beautiful dimension*
 
 ## Stage and Backdrop Considerations
 
@@ -178,6 +175,6 @@ How tall should centrepieces be?
 Either under 12 inches or over 24 inches on a tall stand. The worst height is 14 to 20 inches — high enough to block faces across the table but not high enough to see under. Tall arrangements on elevated stands allow guests to see each other underneath while adding drama to the room.
 
 Do you offer venue and decor consultations?
-Yes. For couples booking [multi-day packages](https://mhphoto.ca/multidaypacakge/), I include a complimentary venue walk-through where we discuss decor placement, lighting, and photography angles. It is one of the most valuable parts of the planning process.
+Yes. For couples booking [multi-day packages](/multiday-packages/), I include a complimentary venue walk-through where we discuss decor placement, lighting, and photography angles. It is one of the most valuable parts of the planning process.
 
 See stunning Indian wedding decor in our [gallery](https://mhphoto.ca/photography/indian-weddings/) or explore [packages and pricing](https://mhphoto.ca/pricing/).

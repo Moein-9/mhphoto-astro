@@ -5,7 +5,7 @@ date: "2026-09-07"
 publishDate: "2026-09-07T09:00:00"
 category: "family-sessions"
 description: "Winter family photography in Edmonton — snowy backdrops, cozy indoor sessions, keeping warm, and best locations. Book your winter family pictures with MH Photography."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-40-of-43-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -44,7 +44,6 @@ The North Saskatchewan River Valley is Edmonton's crown jewel for winter photogr
 
 The grounds around Government House offer a more manicured winter look. The snow-covered lawns, the elegant architecture in the background, and the beautiful iron fencing create a timeless, classic portrait setting. It is particularly beautiful right after a fresh snowfall when everything is pristine and untouched.
 
-![Winter family portrait session in Edmonton snowy landscape with frosted trees](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*Edmonton winters create a natural white studio that no indoor backdrop can match*
 
 ### Hawrelak Park
 
@@ -114,7 +113,6 @@ Here is my recommended timing for winter family sessions in Edmonton based on th
 
 The low winter sun is actually a gift for photography. It creates long, soft shadows and a warm golden glow that summer's harsh overhead sun simply cannot produce. I have photographed families in July at 7:00 PM and in January at 3:00 PM, and the January light is often more beautiful.
 
-![Golden winter light during family photo session in Edmonton with warm tones](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*Edmonton winter light sits low and golden — perfect for portraits that glow*
 Hours of Daylight in Edmonton on December 217h 27mNational Research Council Canada
 
 ## Keeping Everyone Warm and Happy

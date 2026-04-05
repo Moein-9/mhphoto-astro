@@ -5,7 +5,7 @@ date: "2026-07-21"
 publishDate: "2026-07-21T09:00:00"
 category: "family-sessions"
 description: "Holiday family photo cards in Edmonton — when to book, indoor vs outdoor sessions, outfit planning, and design tips. Christmas family pictures by Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-35-of-43-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -26,7 +26,6 @@ Every year, without fail, I get a flood of inquiries in November from families l
 
 Here is the thing that catches people off guard: it is not just the photography that takes time. After the session, there is editing (typically 2 to 3 weeks), then the time you need to select your favourite image, order cards from a printer, and get them in the mail before the holiday rush. That whole pipeline takes 6 to 8 weeks minimum. As a result, if you want cards in mailboxes by mid-December, you need to be shooting in early to mid-October at the latest.
 
-![Edmonton family fall photo session for holiday cards among autumn leaves](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-20-of-41-scaled.jpeg)*Early fall sessions give you warm colours AND plenty of time for card printing and mailing*
 
 Moreover, fall in Edmonton is gorgeous for photos. The foliage turns gold and red, the light is soft and warm, and the temperatures are still manageable for outdoor sessions. Booking a fall session serves double duty — you get beautiful seasonal photos AND your holiday card images in one session.
 
@@ -65,7 +64,6 @@ That said, outdoor sessions do depend on weather. Edmonton is unpredictable in t
 
 For families with very young children, or for those who want a more controlled environment, indoor sessions are excellent. I set up holiday-themed backgrounds — think warm lights, greenery, wooden textures — that create a festive feel without being kitschy. The consistent lighting means the session moves quickly and efficiently, which is a blessing when you have a toddler with a 20-minute attention span.
 
-![Indoor family photography session with warm studio lighting for holiday cards](https://mhphoto.ca/wp-content/uploads/2022/01/Picture5.jpg)*Indoor sessions offer controlled lighting and a cozy atmosphere — perfect for families with little ones*
 
 ### In-Home Sessions
 
@@ -93,7 +91,6 @@ I am going to be honest with you. Photographing families with toddlers and young
 - **Keep it short.** For families with children under 4, I recommend 30 to 45-minute sessions. Quality over quantity.
 - **Dress them last.** Put on their nice outfit right before the session starts. The less time they have to spill on it, the better.
 
-![Family with young children during a playful outdoor Edmonton photo session](https://mhphoto.ca/wp-content/uploads/2022/03/Picture-scaled.jpg)*Let the kids be kids — the genuine moments are always the ones families treasure most*
 
 Photographer Tip
 

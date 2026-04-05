@@ -5,7 +5,7 @@ date: "2026-05-10"
 publishDate: "2026-05-10T09:00:00"
 category: "wedding-planning"
 description: "First look vs traditional reveal — which is right for your Edmonton wedding? Pros, cons, timeline impact, and real advice from a photographer with 200+ weddings."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-718-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -33,7 +33,6 @@ Both approaches have real advantages and real drawbacks. Neither one is objectiv
 | Stat | Figure | Source |
 |---|---|---|
 | Couples Who Include an Engagement Session | **85%** | The Knot, 2025 |
-![Bride getting ready before her wedding ceremony in Edmonton](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-220-scaled.jpg)*The getting ready moments before the first look build anticipation that makes the reveal even more powerful*
 
 ## The Case for a First Look
 
@@ -77,7 +76,6 @@ For many families, especially in South Asian, religious, and traditional culture
 
 There is something beautiful about spending the morning apart. The bride getting ready with her bridesmaids, the groom adjusting his tie with his groomsmen. The anticipation builds throughout the morning. By the time you finally see each other, the emotion has been building for hours. That delayed gratification creates an emotional peak that is undeniable.
 
-![Wedding couple portrait in Edmonton after ceremony](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-1066-scaled.jpg)*The traditional reveal builds anticipation throughout the morning — when you finally see each other, the emotion is at its peak*
 
 ### You Only Get One First Time
 
@@ -115,7 +113,6 @@ Ceremony reveal photos tend to be dramatic and communal. The groom's face as the
 
 Moreover, here is something many couples do not realize: you will still have a beautiful moment walking down the aisle even if you do a first look. Seeing your partner in the context of the ceremony, with your family and friends watching, with music playing, with flowers and decor surrounding you — that is a completely different experience from the private first look. The aisle walk is still emotional. It is still powerful. It is just not the first time anymore.
 
-![Intimate first look moment between bride and groom](https://mhphoto.ca/wp-content/uploads/2022/01/Picture5.jpg)*First look moments are raw and private — the emotion is unfiltered because it is just the two of you*
 
 In addition, I want to address a common concern. Some couples worry that a first look will "use up" the emotion and the ceremony will feel flat. In my experience, this almost never happens. The ceremony carries its own emotional weight — the vows, the rings, the declaration, the kiss. These moments are powerful regardless of whether you have already seen each other. If anything, the first look takes the edge off so you can be more present during the ceremony.
 

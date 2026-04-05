@@ -5,7 +5,7 @@ date: "2026-07-30"
 publishDate: "2026-07-30T09:00:00"
 category: "indian-weddings"
 description: "Indian wedding guest photography etiquette — when to take photos, when to put your phone away, and sacred ceremony protocols. A helpful guide for guests in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg"
+image: ""
 draft: false
 ---
 
@@ -41,7 +41,7 @@ Let me be clear: Indian weddings have plenty of moments where guest photography 
 
 ### The Baraat
 
-The [baraat (groom's procession)](https://mhphoto.ca/blog/baraat-photography-indian-weddings/) is essentially a dance party. Everyone is singing, dancing, clapping, and celebrating the groom's arrival. This is absolutely the time to take photos and videos. In fact, the more the merrier. Your perspective from within the crowd adds to the documentation of the event. The energy is contagious, and the groom's family typically loves seeing photos from different angles.
+The baraat (groom's procession) is essentially a dance party. Everyone is singing, dancing, clapping, and celebrating the groom's arrival. This is absolutely the time to take photos and videos. In fact, the more the merrier. Your perspective from within the crowd adds to the documentation of the event. The energy is contagious, and the groom's family typically loves seeing photos from different angles.
 
 ### Reception Events
 
@@ -51,7 +51,6 @@ The reception, sangeet (music night), mehndi (henna party), and cocktail hour ar
 
 Before the ceremony starts, take all the decor photos you want. The flowers, the mandap, the table settings, the food stations — these are all fair game. The couple spent months planning these details, and they appreciate guests noticing and photographing them. Similarly, the food at Indian weddings is spectacular. Go ahead and photograph that butter chicken station.
 
-![Guests celebrating at a vibrant Indian wedding reception in Edmonton with colourful decorations and dancing](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*Reception events are the perfect time for guest photography — the energy is electric and everyone is celebrating*
 
 ### Group Photos with Friends
 
@@ -77,7 +76,6 @@ In a Sikh wedding, the Anand Karaj takes place in the Gurdwara (temple). This is
 
 The sindoor (vermillion in the bride's hair parting) and mangalsutra (sacred necklace) moments are incredibly intimate. The groom is performing these rituals for his bride, and the emotions are raw and real. This is when you might see the bride's tears, the groom's shaking hands, the parents crying in the background. The professional photographer is capturing all of this from carefully planned positions. A flash from a guest's phone at this moment is not just distracting — it can ruin the photo.
 
-![Sacred Indian wedding ceremony with traditional rituals and beautiful decorations](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*During sacred ceremonies like the pheras and sindoor, put your phone away and be fully present*
 
 ### During Formal Portraits
 
@@ -155,7 +153,6 @@ If you are going to take photos during the reception or baraat, be aware of wher
 
 You do not need to record the entire ceremony on video. Your phone video will never match the quality of the professional videographer's work. Instead, capture a few short clips of your favourite moments during appropriate times, and spend the rest of the celebration actually enjoying it. The couple will share their professional photos with you later, and those will be the ones you actually want to look at.
 
-![Colourful Indian wedding celebration with vibrant attire and beautiful traditional decorations](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*Enjoy the vibrant beauty of the celebration with your eyes first, your camera second*
 
 ## Social Media Etiquette After the Wedding
 

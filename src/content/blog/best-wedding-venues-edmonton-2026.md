@@ -6,7 +6,7 @@ publishDate: "2026-04-10T09:00:00"
 category: "edmonton-venues"
 keyword: "best wedding venues edmonton"
 description: "The 15 best wedding venues in Edmonton for 2026 -- Fairmont Hotel Macdonald, Oasis Centre, Art Gallery of Alberta, and more. Photographer tips, pricing ranges, and comparison table."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-220-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -200,7 +200,7 @@ The best wedding photography locations in Edmonton include the Fairmont Hotel Ma
 
 ## Related Guides
 
-- [Wedding Photographer Cost in Edmonton: 2026 Pricing](/blog/wedding-photographer-cost-edmonton-2026)
+- Wedding Photographer Cost in Edmonton: 2026 Pricing
 - [How to Choose the Right Wedding Photographer](/blog/how-to-choose-wedding-photographer-edmonton)
 - [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [Indian Wedding Photography Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)

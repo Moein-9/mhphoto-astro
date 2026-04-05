@@ -5,7 +5,7 @@ date: "2026-05-28"
 publishDate: "2026-05-28T09:00:00"
 category: "indian-weddings"
 description: "Sangeet night photography tips — capturing dance performances, low-light stage lighting, candid audience reactions, and the energy of pre-wedding celebrations in Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg"
+image: ""
 draft: false
 ---
 
@@ -44,7 +44,6 @@ So how do you translate energy into a photograph? There are a few key techniques
 
 **Multiple perspectives.** I do not stay in one spot during a sangeet. I move constantly — front of the stage, sides, behind the performers, in the audience, from above if possible. Each position gives a different energy to the same performance. A dance filmed from the front shows the choreography. A shot from the audience shows the reactions. Both are essential to telling the full story.
 
-![Energetic sangeet celebration with dancing and colourful decorations at Indian pre-wedding party](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*The sangeet dance floor — where weeks of rehearsal become unforgettable moments.*
 
 **Emotional range.** A sangeet is not just dancing. It includes quiet moments too — a father watching his daughter dance, a grandmother clapping along from her seat, the couple holding hands while watching a performance in their honour. These quiet moments provide contrast to the high-energy dance shots. Moreover, they are often the images that make couples cry when they see their final gallery.
 
@@ -116,7 +115,6 @@ The choreographed dance performances are the highlight of every sangeet. Familie
 
 **Shoot in bursts.** During fast-paced dance sequences, I switch to continuous shooting mode. A bhangra dancer can complete a full spin in less than a second. Shooting at 10 to 20 frames per second during peak action ensures I capture the perfect frozen moment within the movement. Of course, this generates thousands of images per event — which is why professional culling and editing is so important.
 
-![Vibrant Indian wedding reception with stage lighting and dance performances](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*Stage performances demand fast reflexes, the right gear, and knowing the choreography flow.*
 
 **Wide and tight alternation.** For each performance, I capture both wide establishing shots (showing the full stage, performers, and audience) and tight close-ups (individual expressions, hand gestures, flying dupatta fabric). Alternating between these gives the final gallery depth and variety. Moreover, the wide shots establish context while the close-ups deliver emotion.
 
@@ -132,7 +130,6 @@ Here is something that surprises many couples when they receive their sangeet ga
 
 **The impromptu dance floor.** After the formal performances end, the DJ takes over and the open dance floor erupts. This is where uncles bust out unexpected moves, kids try to breakdance, and two families who may have just met start dancing together. The spontaneity creates images with genuine, unposed joy. In fact, these are often the most shared photos on social media after the wedding.
 
-![Colourful and vibrant candid moment at Indian sangeet celebration in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*The moments between performances — laughter, connection, and genuine celebration.*
 
 ## Gear and Settings That Work
 
@@ -176,7 +173,7 @@ I have photographed sangeet celebrations from intimate 50-person gatherings to 5
 ## Frequently Asked Questions
 
 How many hours of sangeet coverage do I need?
-Most sangeet celebrations run 4 to 6 hours. I recommend full-event coverage from the start of performances through the open dance floor. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) include sangeet coverage with flexible timing so you are never watching the clock.
+Most sangeet celebrations run 4 to 6 hours. I recommend full-event coverage from the start of performances through the open dance floor. My [multi-day packages](/multiday-packages/) include sangeet coverage with flexible timing so you are never watching the clock.
 
 Should we have videography at the sangeet too?
 I strongly recommend it. Dance performances and music are inherently dynamic — [video](https://mhphoto.ca/videography/) captures movement and sound in a way photos cannot. Seeing your family's choreographed bhangra routine in motion, with the music and crowd reactions — that is something a still image cannot fully convey.

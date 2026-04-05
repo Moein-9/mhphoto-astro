@@ -10,10 +10,15 @@ import { site } from '../data/site';
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
-      "@type": "ContactPage",
+      "@type": "WebPage",
       "name": "Contact MH Photography",
       "description": "Get in touch about your wedding, engagement, or family session in Edmonton.",
       "url": "https://mhphoto.ca/contact/",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca"
+      },
       "mainEntity": {
         "@type": "PhotographyBusiness",
         "name": "MH Photography",
@@ -220,20 +225,28 @@ import { site } from '../data/site';
   </div>
 
   <script>
-    const form = document.getElementById('contact-form') as HTMLFormElement;
-    const confirmPanel = document.getElementById('email-confirm')!;
-    const confirmModal = document.getElementById('confirm-modal')!;
-    const confirmBackdrop = document.getElementById('confirm-backdrop')!;
-    const confirmClose = document.getElementById('confirm-close')!;
-    const successPanel = document.getElementById('form-success')!;
-    const confirmEmailDisplay = document.getElementById('confirm-email-display')!;
-    const confirmYes = document.getElementById('confirm-yes')!;
-    const confirmEdit = document.getElementById('confirm-edit')!;
+    var form = document.getElementById('contact-form');
+    var confirmPanel = document.getElementById('email-confirm');
+    var confirmModal = document.getElementById('confirm-modal');
+    var confirmBackdrop = document.getElementById('confirm-backdrop');
+    var confirmClose = document.getElementById('confirm-close');
+    var successPanel = document.getElementById('form-success');
+    var confirmEmailDisplay = document.getElementById('confirm-email-display');
+    var confirmYes = document.getElementById('confirm-yes');
+    var confirmEdit = document.getElementById('confirm-edit');
+
+    // Guard — if any critical element is missing, bail out safely
+    if (!form || !confirmPanel || !confirmModal || !confirmBackdrop || !confirmClose || !successPanel || !confirmEmailDisplay || !confirmYes || !confirmEdit) {
+      // Form won't have the confirmation flow, but the page won't crash
+      if (form) {
+        form.addEventListener('submit', function(e) { /* allow normal submit as fallback */ });
+      }
+    } else {
 
     function showModal() {
       confirmPanel.classList.remove('hidden');
       document.body.style.overflow = 'hidden';
-      requestAnimationFrame(() => {
+      requestAnimationFrame(function() {
         confirmModal.style.opacity = '1';
         confirmModal.style.transform = 'scale(1)';
       });
@@ -243,82 +256,82 @@ import { site } from '../data/site';
       confirmModal.style.opacity = '0';
       confirmModal.style.transform = 'scale(0.95)';
       document.body.style.overflow = '';
-      setTimeout(() => { confirmPanel.classList.add('hidden'); }, 200);
+      setTimeout(function() { confirmPanel.classList.add('hidden'); }, 200);
     }
 
     function getFormData() {
-      const name = (form.querySelector('#cf-name') as HTMLInputElement).value.trim();
-      const email = (form.querySelector('#cf-email') as HTMLInputElement).value.trim();
-      const sessionType = (form.querySelector('#cf-type') as HTMLSelectElement).value;
-      const eventDate = (form.querySelector('#cf-date') as HTMLInputElement).value.trim();
-      const message = (form.querySelector('#cf-message') as HTMLTextAreaElement).value.trim();
-      return { name, email, sessionType, eventDate, message };
+      var nameEl = form.querySelector('#cf-name');
+      var emailEl = form.querySelector('#cf-email');
+      var typeEl = form.querySelector('#cf-type');
+      var dateEl = form.querySelector('#cf-date');
+      var msgEl = form.querySelector('#cf-message');
+      return {
+        name: nameEl ? nameEl.value.trim() : '',
+        email: emailEl ? emailEl.value.trim() : '',
+        sessionType: typeEl ? typeEl.value : '',
+        eventDate: dateEl ? dateEl.value.trim() : '',
+        message: msgEl ? msgEl.value.trim() : ''
+      };
     }
 
-    // Step 1: intercept submit → show email confirmation popup
-    form.addEventListener('submit', (e) => {
+    // Step 1: intercept submit -> show email confirmation popup
+    form.addEventListener('submit', function(e) {
       e.preventDefault();
-      const { email } = getFormData();
-      if (!email) return;
-      confirmEmailDisplay.textContent = email;
+      var data = getFormData();
+      if (!data.email) return;
+      confirmEmailDisplay.textContent = data.email;
       showModal();
     });
 
     // Close modal on backdrop click, X button, or Escape
     confirmBackdrop.addEventListener('click', hideModal);
     confirmClose.addEventListener('click', hideModal);
-    document.addEventListener('keydown', (e) => {
+    document.addEventListener('keydown', function(e) {
       if (e.key === 'Escape' && !confirmPanel.classList.contains('hidden')) hideModal();
     });
 
-    // Step 2a: "Yes, Send It" → send JSON with nice structure
-    confirmYes.addEventListener('click', async () => {
-      const original = confirmYes.innerHTML;
-      (confirmYes as HTMLButtonElement).disabled = true;
+    // Step 2a: "Yes, Send It" -> send JSON with nice structure
+    confirmYes.addEventListener('click', function() {
+      var original = confirmYes.innerHTML;
+      confirmYes.disabled = true;
       confirmYes.innerHTML = 'Sending...';
 
-      const { name, email, sessionType, eventDate, message } = getFormData();
+      var data = getFormData();
 
-      const subject = sessionType
-        ? `New Inquiry — ${name} · ${sessionType}`
-        : `New Inquiry — ${name}`;
-
-      try {
-        const res = await fetch('/api/contact', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ name, email, sessionType, eventDate, message }),
-        });
+      fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      }).then(function(res) {
         if (res.ok) {
           hideModal();
-          setTimeout(() => {
+          setTimeout(function() {
             form.classList.add('hidden');
             successPanel.classList.remove('hidden');
             successPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
           }, 250);
         } else {
           confirmYes.innerHTML = 'Error — try again';
-          (confirmYes as HTMLButtonElement).disabled = false;
-          setTimeout(() => { confirmYes.innerHTML = original; }, 3000);
+          confirmYes.disabled = false;
+          setTimeout(function() { confirmYes.innerHTML = original; }, 3000);
         }
-      } catch {
+      }).catch(function() {
         confirmYes.innerHTML = 'Error — try again';
-        (confirmYes as HTMLButtonElement).disabled = false;
-        setTimeout(() => { confirmYes.innerHTML = original; }, 3000);
-      }
+        confirmYes.disabled = false;
+        setTimeout(function() { confirmYes.innerHTML = original; }, 3000);
+      });
     });
 
-    // Step 2b: "Let Me Fix It" → close popup, focus email field
-    confirmEdit.addEventListener('click', () => {
+    // Step 2b: "Let Me Fix It" -> close popup, focus email field
+    confirmEdit.addEventListener('click', function() {
       hideModal();
-      setTimeout(() => {
-        const emailInput = form.querySelector('#cf-email') as HTMLInputElement;
-        emailInput.focus();
-        emailInput.select();
+      setTimeout(function() {
+        var emailInput = form.querySelector('#cf-email');
+        if (emailInput) { emailInput.focus(); emailInput.select(); }
       }, 250);
     });
+
+    } // end of else block for null guard
   </script>
 </BaseLayout>
 

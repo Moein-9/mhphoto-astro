@@ -5,7 +5,7 @@ date: "2026-06-06"
 publishDate: "2026-06-06T09:00:00"
 category: "indian-weddings"
 description: "How to photograph a Baraat groom entrance at an Indian wedding in Edmonton. Key moments, gear tips, and working with dhol players. By Moein Habibi, MH Photography."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg"
+image: ""
 draft: false
 ---
 
@@ -45,7 +45,6 @@ Let me be honest with you. The baraat is controlled chaos. Beautiful, joyful, in
 
 Moreover, the baraat happens once. There is no "let us do that again." If you miss the groom's reaction when he first sees the bride's family waiting for him, it is gone forever. That said, the challenge is exactly what makes baraat photography so rewarding. When you nail it, the images are absolutely spectacular.
 
-![Energetic Indian wedding baraat celebration with guests dancing and celebrating the groom arrival in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*The energy of a baraat is unlike anything else — pure celebration from start to finish*
 
 ## Gear and Settings That Work
 
@@ -89,7 +88,6 @@ At some point, the groom's friends will lift him onto their shoulders. This is o
 
 Before or during the baraat, the groom's mother often performs a small ritual — applying a tikka, feeding him sweets, or simply holding his face in her hands. These quiet moments amid the chaos are incredibly powerful. I use a longer lens to capture them without intruding. The contrast between her tender expression and the wild energy surrounding them makes for extraordinary photographs.
 
-![Colourful Indian wedding celebration with vibrant traditional outfits and joyful dancing](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*The vibrant colours of an Indian wedding baraat create photographs that feel alive with energy*
 
 ### 5. The Milni (Family Meeting)
 
@@ -154,7 +152,7 @@ Key Takeaways
 - Build rapport with dhol players — they control the energy that creates the best images
 
 Planning a Baraat in Edmonton?
-I would love to hear about your celebration. Whether it is a small family procession or a 300-person dance party, let us talk about how to capture every moment of your grand entrance. Check out my [multi-day packages](https://mhphoto.ca/multidaypacakge/) built for Indian weddings.
+I would love to hear about your celebration. Whether it is a small family procession or a 300-person dance party, let us talk about how to capture every moment of your grand entrance. Check out my [multi-day packages](/multiday-packages/) built for Indian weddings.
 [Get in Touch](https://mhphoto.ca/contact/)
 
 ## Frequently Asked Questions
@@ -169,7 +167,7 @@ Can you photograph the baraat if it happens at night?
 Absolutely. Evening baraats are dramatic and cinematic. I use a combination of off-camera flash and high-ISO techniques to capture the energy without losing the ambient atmosphere. Sparklers, string lights, and venue lighting all add to the mood.
 
 Do you bring a second shooter for the baraat?
-Yes, always. For baraats, having two photographers is essential. One leads the procession capturing the groom and front-facing crowd, while the other captures reactions from behind and the sides. This dual-angle approach ensures comprehensive coverage. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) include a second shooter.
+Yes, always. For baraats, having two photographers is essential. One leads the procession capturing the groom and front-facing crowd, while the other captures reactions from behind and the sides. This dual-angle approach ensures comprehensive coverage. My [multi-day packages](/multiday-packages/) include a second shooter.
 
 How long should we plan for the baraat?
 Most baraats last 30 to 60 minutes. I recommend planning for 45 minutes in your timeline. This gives enough time for the procession, dancing, the milni ceremony, and the transition into the venue without feeling rushed. Of course, if the energy is high and everyone is having a great time, we let it go longer.

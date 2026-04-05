@@ -15,4 +15,3 @@ This Saturday, i have shoot such a beautiful wedding! Britney and Gerogry were s
 
  
 
-![](http://mhphoto.ca/wp-content/uploads/2014/07/rsz_1picture-1-2.jpg)

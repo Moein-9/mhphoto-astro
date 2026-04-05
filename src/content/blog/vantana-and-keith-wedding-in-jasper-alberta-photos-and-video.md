@@ -1,11 +1,11 @@
 ---
-title: "Vantanna and Keith wedding in Jasper Alberta Photos and video"
+title: "Vantanna & Keith Jasper Wedding"
 slug: "vantana-and-keith-wedding-in-jasper-alberta-photos-and-video"
 date: "2018-08-24"
 publishDate: "2018-08-24T18:01:01"
 category: "wedding"
 description: "Vantana and Keith wedding photography and videography in Jasper, Alberta. Stunning mountain ceremony captured by Edmonton wedding photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2018/08/Picture-16.jpg"
+image: ""
 draft: false
 ---
 
@@ -41,42 +41,15 @@ If you want for a fun photoshoot without glamorous or tiring poses. MH photograp
 
  
 
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-1-copy-1-1024x602.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-1-copy-1.jpg)[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-10-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-10.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-5-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-5.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-9-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-9.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-22-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-22.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-26-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-26.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-23-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-23.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-29-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-29.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-14-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-14.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-44-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-44.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-46-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-46.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-48-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-48.jpg)
-
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-35-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-35.jpg)
 
  
 
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-3-768x1024.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-3.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-4-1-768x1024.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-4-1.jpg)
 
  
 
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-1-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-1-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-3-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-3-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-7-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-7-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-8-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-8-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-20-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-20-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-26-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-26-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-28-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-28-1.jpg) ![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-29-1-1024x683.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-31-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-31-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-44-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-44-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-45-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-45-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-51-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-51-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-54-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-54-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-60-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-60-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-61-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-61-1.jpg)
 
  
 
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-2-copy-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-2-copy.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-2-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-2.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-4-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-4.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-7-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-7.jpg) ![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-16-1024x683.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-20-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-20.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-21-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-21.jpg)
 
  
 
-[![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-2-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-2-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-3-2-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-3-2.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-4-2-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-4-2.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-6-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-6.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-11-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-11.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-18-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-18.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-48-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-48-1.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-50-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-50.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-51-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-51.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-58-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-58.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-60-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-60.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-69-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-69.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-70-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-70.jpg) [![](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-71-683x1024.jpg)](http://mhphoto.ca/wp-content/uploads/2018/08/Picture-71.jpg)

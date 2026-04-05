@@ -5,7 +5,7 @@ date: "2026-06-12"
 publishDate: "2026-06-12T09:00:00"
 category: "edmonton-venues"
 description: "Winter wedding photography in Edmonton — embracing the snow, indoor and outdoor tips, best venues, timeline adjustments, and dramatic portrait ideas. By Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-718-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -41,7 +41,6 @@ In summer, the sun climbs high and creates harsh, direct light during the middle
 
 For example, on a December wedding day in Edmonton, the sun rises around 8:30 AM and sets around 4:15 PM. The entire window from about 10 AM to 3 PM has beautiful, usable light. Compare that to June, where the midday sun from 11 AM to 6 PM is harsh and unflattering. Winter gives photographers more flexibility, not less.
 
-![Beautiful winter wedding ceremony with warm indoor lighting in Edmonton venue](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-718-scaled.jpg)*Winter ceremonies create a warm, intimate atmosphere that photographs beautifully*
 
 On the other hand, winter also brings shorter days. This means your timeline needs careful planning. You want to maximize daylight for portraits and outdoor shots. I work closely with every winter couple to build a timeline that takes full advantage of the available light. As a result, we never miss those golden moments.
 
@@ -69,7 +68,6 @@ Bring a warm, stylish cover-up for outdoor portraits — a faux fur stole, a cas
 
 Photographing a couple during active snowfall is one of the most magical things I get to do. The falling snowflakes, backlit by a flash or the setting sun, create a bokeh effect that looks like the couple is standing inside a snow globe. It is genuinely breathtaking. I use a slower shutter speed and off-camera flash behind the couple to illuminate the snowflakes. The result is otherworldly.
 
-![Couple in a beautiful outdoor portrait session with natural landscape backdrop near Edmonton](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*Winter landscapes create a dramatic natural backdrop that no studio can replicate*
 
 ## Best Edmonton Venues for Winter Weddings
 

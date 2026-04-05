@@ -6,7 +6,7 @@ publishDate: "2026-04-15T09:00:00"
 category: "family-sessions"
 keyword: "family pictures photographer edmonton"
 description: "Looking for a family pictures photographer near Edmonton? Complete guide to sessions, best locations, what to wear, pricing from $400, and tips for kids. Book your 2026 session today."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-35-of-43-scaled.jpeg"
+image: ""
 draft: false
 ---
 

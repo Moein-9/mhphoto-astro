@@ -5,8 +5,8 @@ date: "2026-04-03"
 publishDate: "2026-04-03T09:00:00"
 category: "indian-weddings"
 keyword: "punjabi wedding edmonton"
-description: "Planning a Punjabi wedding in Edmonton? Complete guide to every ceremony (Roka to Reception), costs ($100K+), best venues, and photography packages. By Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg"
+description: "Punjabi wedding Edmonton planning guide — every ceremony from Roka to Reception, costs, best venues, and photography packages by Moein Habibi."
+image: ""
 draft: false
 ---
 
@@ -124,7 +124,7 @@ That national average of $39,000 is for a typical one-day Western wedding. When 
 
 Budget Tip
 
-The single biggest money-saving move for photography is booking a [multi-day package](https://mhphoto.ca/multidaypacakge/) rather than booking individual days. Multi-day rates are always more cost-effective, and you get consistency — the same photographer who captures your Mehndi captures your reception, so the visual story is cohesive.
+The single biggest money-saving move for photography is booking a [multi-day package](/multiday-packages/) rather than booking individual days. Multi-day rates are always more cost-effective, and you get consistency — the same photographer who captures your Mehndi captures your reception, so the visual story is cohesive.
 
 ## Best Edmonton Venues for Punjabi Weddings
 
@@ -185,7 +185,7 @@ Here is something I tell every couple during our first consultation: your Punjab
 
 For Punjabi weddings, I strongly recommend combined [photography and videography](https://mhphoto.ca/videography/) coverage. The reason is simple: moments like the Baraat procession, the Laavan during the Anand Karaj, and the bhangra at the reception are dynamic events that need both still photos and video to be fully captured. Having the same team handle both means seamless coordination and no stepping on each other's toes.
 
-My [multi-day wedding packages](https://mhphoto.ca/multidaypacakge/) are built specifically for celebrations like yours. I have learned through experience exactly what coverage each event needs — from the quiet intimacy of the Maiyan to the full-throttle energy of the reception. Browse my [Indian wedding gallery](https://mhphoto.ca/photography/indian-weddings/) to see what that looks like in practice.
+My [multi-day wedding packages](/multiday-packages/) are built specifically for celebrations like yours. I have learned through experience exactly what coverage each event needs — from the quiet intimacy of the Maiyan to the full-throttle energy of the reception. Browse my [Indian wedding gallery](https://mhphoto.ca/photography/indian-weddings/) to see what that looks like in practice.
 
 ## Tips From a Photographer Who Has Seen It All
 
@@ -237,14 +237,14 @@ Always. Punjabi wedding events happen simultaneously in different areas — the 
 ## Related Guides
 
 - [Indian Wedding Photography Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)
-- [Sikh Wedding Photography: Capturing the Anand Karaj](/blog/sikh-wedding-photography-edmonton-anand-karaj)
-- [Baraat Photography: Groom Entrance Guide](/blog/baraat-photography-groom-entrance-guide)
-- [Mehndi Ceremony Photography Guide](/blog/mehndi-ceremony-photography-guide)
-- [Sangeet Night Photography Tips](/blog/sangeet-night-photography-tips-guide)
-- [Haldi Ceremony Photography Guide](/blog/haldi-ceremony-photography-guide)
-- [Vidaai Photography: Emotional Indian Wedding](/blog/vidaai-photography-emotional-indian-wedding)
-- [Best Edmonton Venues for Indian Weddings](/blog/best-edmonton-wedding-venues-indian-weddings)
-- [Wedding Photographer Cost Edmonton 2026](/blog/wedding-photographer-cost-edmonton-2026)
+- Sikh Wedding Photography: Capturing the Anand Karaj
+- Baraat Photography: Groom Entrance Guide
+- Mehndi Ceremony Photography Guide
+- Sangeet Night Photography Tips
+- Haldi Ceremony Photography Guide
+- Vidaai Photography: Emotional Indian Wedding
+- Best Edmonton Venues for Indian Weddings
+- Wedding Photographer Cost Edmonton 2026
 
 See my [Punjabi & Indian wedding gallery](/photography/indian-weddings/) or explore [packages and pricing](/pricing/) to get started. Serving families across Edmonton, Sherwood Park, St. Albert, Spruce Grove, Leduc, and Beaumont.
 

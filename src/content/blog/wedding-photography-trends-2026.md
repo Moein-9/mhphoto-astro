@@ -5,7 +5,7 @@ date: "2026-09-10"
 publishDate: "2026-09-10T09:00:00"
 category: "wedding"
 description: "Wedding photography trends for 2026 — film aesthetic, candid-first coverage, drone photography, golden hour obsession, and flash photography revival. Edmonton couples guide."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-1066-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -43,7 +43,6 @@ What is driving this? Nostalgia. Couples who grew up seeing their parents' film 
 
 As a photographer, I love this trend because it aligns with how I naturally see and process images. Film tones prioritize warmth, skin texture, and emotional mood over pixel-perfect sharpness. The result is images that feel like memories rather than advertisements.
 
-![Film-style wedding photograph with warm Kodak tones and soft light in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*The film aesthetic brings warmth and soul to modern digital wedding photography*
 
 What to Ask Your Photographer
 
@@ -74,7 +73,6 @@ In Edmonton specifically, drone photography is a natural fit. Our prairie landsc
 
 However, drone photography requires planning. You need a licensed drone pilot (which I am). You need to understand the airspace regulations around your venue. Many venues have specific drone policies, and weddings near airports or in national parks may have restrictions. Always discuss drone coverage with your photographer well in advance so there are no surprises on the day.
 
-![Aerial drone photograph of wedding venue and couple from above in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*Drone photography adds cinematic scale to your wedding story*
 | Stat | Figure | Source |
 |---|---|---|
 | Couples Including Drone Photography in 2026 | **62%** | The Knot Canada, 2026 |
@@ -120,7 +118,6 @@ This trend goes beyond simply photographing two ceremonies. It is about understa
 
 For photographers, cultural fusion weddings require genuine preparation. You need to understand the flow of multiple traditions, know the key moments in each, and be ready to capture emotional reactions from guests who may be experiencing these traditions for the first time. It is challenging and deeply rewarding work.
 
-![Cultural fusion wedding ceremony blending traditions in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*When two cultures come together at a wedding, the result is something entirely new and beautiful*
 
 Key Takeaways
 

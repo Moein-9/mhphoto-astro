@@ -5,7 +5,7 @@ date: "2026-05-01"
 publishDate: "2026-05-01T09:00:00"
 category: "indian-weddings"
 description: "In This Article Why Indian Wedding Photography Stands Apart The Power of Colour in Indian Celebrations Emotion That Cannot Be Staged Traditions That Tell a Story A Photographer's Honest Perspective Wh"
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg"
+image: ""
 draft: false
 ---
 
@@ -35,7 +35,6 @@ In fact, according to [WeddingWire Canada](https://www.weddingwire.ca/), the ave
 
 Moreover, 34% of couples rank photography as their number one budget priority. For Indian families, that percentage is even higher in my experience. When you are investing this much love, time, and money into a celebration, you want every single moment preserved beautifully.
 
-![Indian wedding ceremony in Edmonton with vibrant colours and traditional rituals](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*The sacred rituals of an Indian wedding ceremony — every moment happens once and deserves to be captured perfectly*
 
 ## The Power of Colour in Indian Celebrations
 
@@ -63,7 +62,6 @@ The emotional depth of Indian wedding traditions is unlike anything else I photo
 
 In Western culture, there is sometimes a pressure to keep emotions contained at weddings. To look happy and composed. At Indian weddings, emotions flow freely. Joy, tears, laughter, love — everything is expressed without filter. As a result, the photographs carry a rawness and authenticity that is incredibly powerful.
 
-![Emotional moments at an Indian wedding reception in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*The joy at an Indian wedding reception is contagious — every frame captures genuine celebration*
 
 Meanwhile, the baraat — the groom's procession — is the polar opposite of the vidaai. It is pure, unrestrained joy. The groom arrives at the venue and his entire family is dancing around him. Dhol drummers are pounding out beats that shake your chest. People are singing, jumping, throwing petals. It is a moving party that sweeps through the parking lot and into the venue.
 
@@ -103,7 +101,6 @@ However — and this is important — the exhaustion is completely worth it. Whe
 
 I always tell couples that Indian wedding photography is not a side skill. It is a specialization. The global wedding photography market is valued at $26.9 billion, and within that market, Indian and South Asian weddings represent one of the most demanding and rewarding niches. Photographers who excel at it have invested years in understanding the culture, the rituals, and the pace of these celebrations.
 
-![Vibrant Indian wedding party celebration with guests dancing](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*The energy at an Indian wedding celebration is electric — these are the moments that make every long day behind the camera absolutely worth it*
 
 ## Why Specialization Matters
 
@@ -115,7 +112,7 @@ In addition, you need to understand how to work with Indian wedding lighting. Ma
 
 I specialize in [Indian wedding photography](https://mhphoto.ca/photography/indian-weddings/) because I believe these celebrations deserve a photographer who truly understands them. Not someone who is learning on your wedding day. Not someone who treats it like a regular wedding with more colours. Someone who has done this many times before and knows exactly what to expect.
 
-If you are planning a multi-day celebration, I have dedicated [multi-day wedding packages](https://mhphoto.ca/multidaypacakge/) that are designed specifically for Indian, Sikh, and Punjabi weddings. They include coverage for every event, from mehndi to reception. And they are built around the understanding that your wedding is not a one-day event — it is a multi-day story that deserves complete documentation.
+If you are planning a multi-day celebration, I have dedicated [multi-day wedding packages](/multiday-packages/) that are designed specifically for Indian, Sikh, and Punjabi weddings. They include coverage for every event, from mehndi to reception. And they are built around the understanding that your wedding is not a one-day event — it is a multi-day story that deserves complete documentation.
 
 Key Takeaways
 

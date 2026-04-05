@@ -6,7 +6,7 @@ publishDate: "2026-04-22T09:00:00"
 category: "engagement-sessions"
 keyword: "engagement photos edmonton"
 description: "Discover the 10 best engagement photo locations in Edmonton, Alberta. What to wear, when to schedule, and what to expect. By Moein Habibi of MH Photography. Book your session today."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-34-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -255,7 +255,7 @@ Engagement photo sessions in Edmonton typically range from $300 to $600 for a 60
 - [How to Prepare for Your Engagement Photo Session](/blog/how-to-prepare-engagement-photo-session)
 - [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [How to Choose the Right Wedding Photographer](/blog/how-to-choose-wedding-photographer-edmonton)
-- [Wedding Photographer Cost Edmonton 2026](/blog/wedding-photographer-cost-edmonton-2026)
+- Wedding Photographer Cost Edmonton 2026
 - [Golden Hour Wedding Photography Edmonton](/blog/golden-hour-wedding-photography-edmonton)
 - [Couples Photography Session Edmonton](/blog/couples-photography-session-edmonton-guide)
 

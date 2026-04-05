@@ -1,11 +1,11 @@
 ---
-title: "Things You Should Know about Wedding Photographer in Edmonton"
+title: "Hiring a Wedding Photographer"
 slug: "things-you-should-know-about-wedding-photographer-in-edmonton"
 date: "2024-05-08"
 publishDate: "2024-05-08T16:09:20"
 category: "wedding"
 description: "Things you should know about hiring a wedding photographer in Edmonton — what to look for, questions to ask, and how to get the best value. By Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-220-scaled.jpg"
+image: ""
 draft: false
 ---
 

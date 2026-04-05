@@ -5,7 +5,7 @@ date: "2026-09-04"
 publishDate: "2026-09-04T09:00:00"
 category: "indian-weddings"
 description: "How many photos to expect from an Indian wedding — single-day vs multi-day coverage, what affects your count, and editing standards. Edmonton photographer guide."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg"
+image: ""
 draft: false
 ---
 
@@ -48,7 +48,6 @@ The getting-ready phase at an Indian wedding is an event in itself. The bride's 
 
 Whether it is a Hindu, Sikh, Muslim, or fusion ceremony, the ritual portion of an Indian wedding is dense with photographable moments. The pheras, the jaimala, the vidaai, the kanyadaan — each one deserves thorough coverage. I typically shoot between 1,500 and 2,500 frames during the ceremony alone. After culling and editing, couples receive 300 to 500 of the very best.
 
-![Indian wedding ceremony with bride and groom during pheras ritual in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*Every ritual in an Indian ceremony is a chapter in your love story worth preserving*
 
 ### Reception: 300–400 Photos
 
@@ -81,7 +80,6 @@ When you add all of that together, a full multi-day Indian wedding celebration c
 
 That is not padding or filler. Each image earned its place in the gallery because it captured something meaningful. A glance between parents during the vidaai. A cousin mid-air during a sangeet dance. The groom's face when he first sees the bride in her reception outfit. These moments multiply across multiple events, and they all deserve space in your final gallery.
 
-![Multi-day Indian wedding celebration with colourful decor and traditional rituals](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*Multi-day celebrations give your photographer the chance to tell a truly complete story*
 An Indian wedding is not one story. It is a dozen stories woven together across days of love, tradition, and family.
 
 ## What Affects Your Final Photo Count
@@ -90,7 +88,7 @@ Several factors influence how many edited photos you receive. Understanding thes
 
 ### Number of Events
 
-This is the biggest factor. A two-event wedding produces roughly half the photos of a four-event wedding. Simple math. If you are booking a [multi-day package](https://mhphoto.ca/multidaypacakge/), each event adds its own layer to the gallery.
+This is the biggest factor. A two-event wedding produces roughly half the photos of a four-event wedding. Simple math. If you are booking a [multi-day package](/multiday-packages/), each event adds its own layer to the gallery.
 
 ### Guest Count
 
@@ -134,7 +132,6 @@ A curated gallery of 1,500 stunning images tells your story better than an overw
 
 That said, Indian weddings genuinely produce more meaningful moments than most other celebrations. So a higher photo count is natural and expected. The key is that every image in your gallery should be there for a reason — because it captures something beautiful, meaningful, or emotionally significant.
 
-![Beautifully edited Indian wedding photo gallery showcasing curated moments](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Every photo in a curated gallery should make you feel something*
 More photos does not mean better coverage. Better moments, better light, and better editing — that is what makes a gallery extraordinary.
 
 ## Typical Deliverables Breakdown
@@ -183,7 +180,7 @@ Key Takeaways
 - Photo count depends on events covered, guest count, hours booked, and editing style
 - Editing takes 4 to 10 weeks depending on wedding size — sneak peeks come within days
 - Quality always matters more than quantity — every image should earn its place
-- A [multi-day package](https://mhphoto.ca/multidaypacakge/) ensures consistent coverage and editing across all events
+- A [multi-day package](/multiday-packages/) ensures consistent coverage and editing across all events
 
 Planning Your Indian Wedding in Edmonton?
 I would love to hear about your celebration. Whether it is a one-day affair or a week-long event, I will make sure every moment is captured beautifully. Let us chat about what your gallery will look like.

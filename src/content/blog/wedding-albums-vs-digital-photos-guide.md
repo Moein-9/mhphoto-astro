@@ -5,7 +5,7 @@ date: "2026-07-06"
 publishDate: "2026-07-06T09:00:00"
 category: "wedding"
 description: "Wedding albums vs digital photos — what modern couples choose, the case for each, types of albums, risks of digital-only, and investment guide. Edmonton wedding photography."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-1066-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -48,7 +48,6 @@ Your wedding album will outlast every device you currently own. It will outlast 
 
 A digital gallery might contain 800 photos. An album contains 60 to 100 of the absolute best, arranged in a narrative sequence that tells the story of your day from start to finish. It is the difference between watching raw footage and watching a finished film. The curation process itself creates value — someone with expertise has selected the definitive images and arranged them for maximum emotional impact.
 
-![Professional wedding album and digital photo comparison for Edmonton couples](https://mhphoto.ca/wp-content/uploads/2023/07/SJ-1066-scaled.jpg)*A physical album tells your wedding story in a way that scrolling through files never will*
 
 ### Albums Get Looked At
 
@@ -89,7 +88,6 @@ The most interesting trend is parent albums. In South Asian and Indian families 
 | Stat | Figure | Source |
 |---|---|---|
 | Couples Who Add an Album After Initial Digital-Only Delivery | **48%** | PPA Industry Survey, 2025 |
-![Modern couple reviewing wedding album and digital photos together](https://mhphoto.ca/wp-content/uploads/2022/01/picture-16-scaled.jpg)*The trend is clear: most couples want both — digital for sharing and an album for keeping*
 
 ## Types of Wedding Albums
 

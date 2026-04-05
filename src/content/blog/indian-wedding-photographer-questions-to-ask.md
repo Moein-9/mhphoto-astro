@@ -5,7 +5,7 @@ date: "2026-07-27"
 publishDate: "2026-07-27T09:00:00"
 category: "indian-weddings"
 description: "15 essential questions to ask your Indian wedding photographer before booking. Experience, coverage, deliverables, and cultural knowledge checklist for Edmonton couples."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg"
+image: ""
 draft: false
 ---
 
@@ -25,7 +25,6 @@ Choosing a photographer for your Indian wedding is one of the most important dec
 
 I have heard too many stories from couples who hired a photographer based on a beautiful Instagram feed, only to discover on the wedding day that the photographer had never shot an Indian ceremony before, did not know what a baraat was, and missed half the pheras because they were changing a lens. That is heartbreaking. And it is entirely preventable.
 
-![Indian wedding photographer capturing ceremony moments with cultural expertise](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*The right photographer knows your traditions as well as you do — and is ready for every moment*
 
 The questions below are the ones I wish every couple would ask before booking anyone — including me. In fact, I welcome these questions. A confident photographer will answer them openly. A photographer who gets defensive or vague should raise red flags. Moreover, these questions will help you compare photographers on substance, not just style.
 
@@ -56,7 +55,6 @@ Highlight reels are curated. Anyone can pick 20 great shots from a 2,000-image g
 
 Venue familiarity is a genuine advantage. A photographer who has shot at your Gurdwara knows where the natural light falls, where the best angles are, and what restrictions the management imposes. Similarly, knowing a banquet hall's lighting setup, stage layout, and power outlet locations means faster setup and fewer surprises. That said, a great photographer can adapt to any venue — this question is about preparation, not a dealbreaker.
 
-![Photographer capturing an Indian wedding ceremony with precision and cultural awareness](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*Experience shows in every frame — from knowing where to stand to anticipating the next ritual*
 
 ### 5. Do you have experience with multi-faith or multi-cultural ceremonies?
 
@@ -66,7 +64,7 @@ If your wedding blends traditions — for example, a Hindu ceremony and a Wester
 
 ### 6. How many days of coverage do you include?
 
-A standard Western wedding package covers one day. An Indian wedding typically spans 2 to 5 days. If the photographer only offers single-day packages, they are not set up for Indian weddings. Look for photographers who offer dedicated [multi-day packages](https://mhphoto.ca/multidaypacakge/) that cover mehndi, sangeet, haldi, ceremony, and reception as a complete package.
+A standard Western wedding package covers one day. An Indian wedding typically spans 2 to 5 days. If the photographer only offers single-day packages, they are not set up for Indian weddings. Look for photographers who offer dedicated [multi-day packages](/multiday-packages/) that cover mehndi, sangeet, haldi, ceremony, and reception as a complete package.
 
 ### 7. Will you bring a second photographer?
 
@@ -120,7 +118,6 @@ This is crucial. Many Western wedding photographers favour a muted, desaturated 
 
 Turnaround time varies significantly between photographers. For a multi-day Indian wedding, a reasonable timeline is 8 to 12 weeks for the full edited gallery, with sneak peeks delivered within 1 to 2 weeks. Be cautious of promises under 4 weeks for a large wedding — that often means rushed editing. On the other hand, anything over 16 weeks is unreasonably long.
 
-![Beautifully edited Indian wedding photos showcasing vibrant colours and details](https://mhphoto.ca/wp-content/uploads/2022/01/picture-01223-scaled.jpg)*Editing should celebrate the vibrant colours of an Indian wedding, not mute them*
 
 ## Questions About Business and Contracts
 

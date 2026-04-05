@@ -5,7 +5,7 @@ date: "2026-06-09"
 publishDate: "2026-06-09T09:00:00"
 category: "engagement-sessions"
 description: "Complete engagement photo session checklist — when to schedule, what to wear, choosing the right Edmonton location, and day-of tips. By Moein Habibi, MH Photography."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-15-2-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -55,7 +55,6 @@ Golden hour is the magic window. That is the hour before sunset when the light i
 
 Fall is the most popular season for engagement sessions in Edmonton, and for good reason. The changing leaves create a natural backdrop that is warm, colourful, and romantic. However, summer evenings offer incredibly long golden hours, and winter sessions with fresh snow are absolutely stunning. On the other hand, spring brings fresh blooms and green landscapes that feel alive and vibrant.
 
-![Couple during outdoor engagement photo session in Edmonton with natural light](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*Golden hour light creates the warmest, most flattering engagement photos*
 
 ## What to Wear (The Complete Outfit Guide)
 
@@ -110,7 +109,6 @@ For something more wild and natural, Elk Island is about 45 minutes from Edmonto
 
 Some of the best engagement sessions I have shot happened in places that meant something to the couple. The coffee shop where they had their first date. The park where they got engaged. Their own living room with their pets. These personal touches make the photos feel authentic and uniquely yours.
 
-![Bridal portrait with soft natural light in Edmonton engagement photography session](https://mhphoto.ca/wp-content/uploads/2022/01/picture-15-scaled.jpg)*The right location paired with golden hour light creates effortlessly beautiful portraits*
 Average Duration of an Engagement Session60–90 minMH Photography session data, 2024-2025
 
 ## Day-of Checklist

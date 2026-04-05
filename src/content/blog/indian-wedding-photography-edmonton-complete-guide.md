@@ -5,8 +5,8 @@ date: "2026-04-01"
 publishDate: "2026-04-01T09:00:00"
 category: "indian-weddings"
 keyword: "indian wedding photographer edmonton"
-description: "Searching for an Indian wedding photographer in Edmonton? Complete guide to Mehndi, Sangeet, Haldi, Baraat, Anand Karaj, and Vidaai photography. Multi-day packages from Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg"
+description: "Indian wedding photographer Edmonton guide — Mehndi, Sangeet, Haldi, Baraat, and Anand Karaj coverage. Multi-day packages by Moein Habibi."
+image: ""
 draft: false
 ---
 
@@ -107,7 +107,6 @@ When choosing a photographer for your Indian wedding, ask to see full galleries 
 | Catering (per person) | **$50 – $150 CAD** | Full Indian menu, 350-400 guests typical |
 | Decor & Mandap | **$8,000 – $30,000 CAD** | Floral mandap, stage, centrepieces |
 
-*Sources: WeddingWire Canada, Plan Events Canada, Indian Destination Weddings Canada (2025 data)*
 
 | Stat | Figure | Source |
 |---|---|---|
@@ -118,7 +117,7 @@ When choosing a photographer for your Indian wedding, ask to see full galleries 
 
 A standard 8-hour wedding package was not designed for Indian weddings. When you have a mehndi on Thursday, a sangeet on Friday, the ceremony on Saturday, and a reception on Sunday — you need a photographer who understands multi-day coverage and has packages built for it.
 
-I offer dedicated [multi-day wedding packages](https://mhphoto.ca/multidaypacakge/) designed specifically for multi-day Indian, Sikh, and Punjabi celebrations. Every event gets the attention it deserves. Every outfit change, every ceremony, every dance — all of it is captured.
+I offer dedicated [multi-day wedding packages](/multiday-packages/) designed specifically for multi-day Indian, Sikh, and Punjabi celebrations. Every event gets the attention it deserves. Every outfit change, every ceremony, every dance — all of it is captured.
 
 Key Takeaways
 
@@ -147,7 +146,7 @@ Can you shoot at Gurdwaras and Hindu temples?
 Absolutely. I have experience photographing at multiple Gurdwaras and Hindu temples in the Edmonton area, including the Hindu Society of Alberta. I understand and respect the protocols of each sacred space while still capturing beautiful images.
 
 What is included in your multi-day Indian wedding packages?
-My [multi-day packages](https://mhphoto.ca/multidaypacakge/) include pre-wedding consultations, coverage of all events (mehndi, sangeet, ceremony, reception), a second shooter, professional editing, and a full online gallery. Engagement sessions and albums can be added.
+My [multi-day packages](/multiday-packages/) include pre-wedding consultations, coverage of all events (mehndi, sangeet, ceremony, reception), a second shooter, professional editing, and a full online gallery. Engagement sessions and albums can be added.
 
 Do you travel for destination Indian weddings?
 Yes. I have photographed Indian weddings across Alberta and would love to travel for yours. Travel within 100km of Edmonton is included in most packages. For destinations like [Banff & Lake Louise](https://www.banfflakelouise.com/) or [Jasper](https://www.jasper-alberta.com/), we simply add travel costs.
@@ -162,15 +161,15 @@ Look for a photographer who has shot at least 3 to 5 full Indian weddings and ca
 
 ## Related Guides
 
-- [Sikh Wedding Photography: Capturing the Anand Karaj](/blog/sikh-wedding-photography-edmonton-anand-karaj)
+- Sikh Wedding Photography: Capturing the Anand Karaj
 - [Planning a Punjabi Wedding in Edmonton](/blog/planning-punjabi-wedding-edmonton-guide)
-- [Baraat Photography: Groom Entrance Guide](/blog/baraat-photography-groom-entrance-guide)
-- [Mehndi Ceremony Photography Guide](/blog/mehndi-ceremony-photography-guide)
-- [Sangeet Night Photography Tips](/blog/sangeet-night-photography-tips-guide)
-- [Haldi Ceremony Photography Guide](/blog/haldi-ceremony-photography-guide)
-- [Vidaai Photography: Emotional Indian Wedding Moments](/blog/vidaai-photography-emotional-indian-wedding)
-- [Best Edmonton Venues for Indian Weddings](/blog/best-edmonton-wedding-venues-indian-weddings)
-- [Wedding Photographer Cost Edmonton 2026](/blog/wedding-photographer-cost-edmonton-2026)
+- Baraat Photography: Groom Entrance Guide
+- Mehndi Ceremony Photography Guide
+- Sangeet Night Photography Tips
+- Haldi Ceremony Photography Guide
+- Vidaai Photography: Emotional Indian Wedding Moments
+- Best Edmonton Venues for Indian Weddings
+- Wedding Photographer Cost Edmonton 2026
 
 Browse my [Indian wedding photography gallery](https://mhphoto.ca/photography/indian-weddings/) to see real celebrations. Or check out [packages and pricing](/pricing/) for details.
 

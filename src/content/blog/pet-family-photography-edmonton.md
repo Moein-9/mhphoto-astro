@@ -5,7 +5,7 @@ date: "2026-08-11"
 publishDate: "2026-08-11T09:00:00"
 category: "family-sessions"
 description: "Including pets in Edmonton family photos — preparation tips, best dog-friendly locations, and how to get great shots with dogs, cats, and other family pets."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-21-of-51-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -49,7 +49,6 @@ Schedule a grooming appointment for 2 to 3 days before the session. Not the day 
 
 Regular kibble will not cut it when you need your dog to look at the camera while surrounded by squirrels, other dogs, and exciting new smells. Bring high-value treats — the kind they go absolutely crazy for. Small pieces of cooked chicken, cheese cubes, or their favourite commercial treats. I use these strategically throughout the session to reward good behaviour and direct attention.
 
-![Family enjoying an outdoor photo session in Edmonton with beautiful autumn backdrop and warm natural light](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-35-of-43-scaled.jpeg)*Pets add warmth, personality, and genuine joy to family photos — they belong in the frame*
 
 ### Bring Their Favourite Toy
 
@@ -113,7 +112,6 @@ The biggest challenge with dogs is getting them to look at the camera at the sam
 
 For formal family portraits, a sitting dog creates the cleanest composition. If your dog knows "sit" and "stay," even for a few seconds, we can get beautiful group shots. However, do not stress if your dog is not the most obedient model. Standing, walking, and even mid-action shots work too. Some of my favourite dog-family images show the family walking together with the dog trotting alongside, everyone looking at each other rather than the camera. These are natural, relaxed, and full of genuine connection.
 
-![Beautiful outdoor family photography session in Edmonton park with natural light and greenery](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*Edmonton parks offer the perfect combination of natural beauty and pet-friendly spaces for family sessions*
 
 ### Small Dogs vs. Large Dogs
 

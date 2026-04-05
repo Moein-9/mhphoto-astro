@@ -5,7 +5,7 @@ date: "2026-08-08"
 publishDate: "2026-08-08T09:00:00"
 category: "indian-weddings"
 description: "Plan a destination Indian wedding in Banff, Jasper, or the Rocky Mountains. Venue options, logistics, and photography coverage for multi-day South Asian celebrations."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg"
+image: ""
 draft: false
 ---
 
@@ -46,7 +46,6 @@ Banff is the most popular destination for Indian weddings in the Rockies, and fo
 
 **Buffalo Mountain Lodge.** For couples who want a more rustic, mountain-lodge feel, Buffalo Mountain Lodge offers timber-frame architecture, stone fireplaces, and an intimate atmosphere. It works beautifully for smaller mehndi or sangeet events, or for couples having a more intimate celebration with 50 to 100 guests.
 
-![Stunning mountain wedding photography location with dramatic Alberta Rocky Mountain scenery](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*The Canadian Rockies provide a backdrop that makes every wedding photo look like a painting*
 
 ### Banff Photo Opportunities
 
@@ -82,7 +81,6 @@ The Chateau sits right on the lakeshore, and its event spaces offer direct views
 
 However, Lake Louise comes with a few practical considerations. The area is extremely popular with tourists, especially in summer. Getting private moments at the lakeshore requires careful timing — early morning or late evening work best. Additionally, the weather at Lake Louise can change rapidly due to the elevation. A sunny morning can become an overcast afternoon quickly, which actually works in photography's favour because overcast light is beautifully soft and even.
 
-![Romantic wedding couple portrait with natural mountain scenery and beautiful golden light](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-1066-scaled.jpg)*Lake Louise and the surrounding area offer some of the most iconic wedding portrait locations in the world*
 
 ### Beyond the Chateau
 
@@ -161,7 +159,7 @@ Key Takeaways
 - Hire a local planner experienced with Indian celebrations for mountain-specific logistics
 
 Planning a Destination Indian Wedding in the Rockies?
-I have photographed weddings across Banff, Jasper, Lake Louise, and Canmore. I know the best photo spots, the ideal times, and how to work with mountain weather. Let us talk about capturing your celebration against the most stunning backdrop in Canada. Explore my [multi-day wedding packages](https://mhphoto.ca/multidaypacakge/).
+I have photographed weddings across Banff, Jasper, Lake Louise, and Canmore. I know the best photo spots, the ideal times, and how to work with mountain weather. Let us talk about capturing your celebration against the most stunning backdrop in Canada. Explore my [multi-day wedding packages](/multiday-packages/).
 [Plan Your Mountain Wedding](https://mhphoto.ca/contact/)
 
 ## Frequently Asked Questions
@@ -170,7 +168,7 @@ What is the best month for a mountain wedding in Alberta?
 Late June through mid-September offers the best combination of weather, daylight, and accessibility. July and August have the warmest temperatures and longest days. September brings fall colours to the mountain valleys, which creates a stunning visual backdrop. However, even in summer, be prepared for cool evenings — mountain temperatures can drop significantly after sunset.
 
 Can you accommodate multi-day Indian wedding coverage in the mountains?
-Absolutely. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) are designed specifically for Indian celebrations. I cover the mehndi, sangeet, ceremony, and reception across multiple days. For mountain weddings, I build in extra time for landscape portraits at different locations each day, taking advantage of the incredible variety the Rockies offer.
+Absolutely. My [multi-day packages](/multiday-packages/) are designed specifically for Indian celebrations. I cover the mehndi, sangeet, ceremony, and reception across multiple days. For mountain weddings, I build in extra time for landscape portraits at different locations each day, taking advantage of the incredible variety the Rockies offer.
 
 Is drone photography allowed in the National Parks?
 Drone use in Banff and Jasper National Parks requires a Special Activity Permit from Parks Canada. These permits are not guaranteed and require advance application. Many venues outside the park boundaries (like those in Canmore) do not have the same restrictions. I recommend discussing drone options early in the planning process.

@@ -5,7 +5,7 @@ date: "2026-04-17"
 publishDate: "2026-04-17T09:00:00"
 category: "wedding-planning"
 description: "Plan the perfect wedding photography timeline in Edmonton. Hour-by-hour schedule for getting ready, ceremony, portraits, golden hour, and reception. Expert guide by Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-1066-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -159,7 +159,7 @@ One of the things I love about my work is the diversity of celebrations I get to
 | 8:00 – 8:30 PM | Parent dances, cake cutting | Cake cutting, vidaai (bride's farewell) |
 | 8:30 – 10:30 PM | Dance floor & party | DJ/bhangra dancing, doli departure |
 
-For multi-day Indian celebrations with a mehndi, sangeet, and main wedding day, I offer dedicated [multi-day packages](https://mhphoto.ca/multidaypacakge/) that cover each event fully. The timeline above shows a condensed single-day version, but many families choose to spread these events over two to four days.
+For multi-day Indian celebrations with a mehndi, sangeet, and main wedding day, I offer dedicated [multi-day packages](/multiday-packages/) that cover each event fully. The timeline above shows a condensed single-day version, but many families choose to spread these events over two to four days.
 
 | Stat | Figure | Source |
 |---|---|---|

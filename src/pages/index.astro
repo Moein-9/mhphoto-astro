@@ -54,7 +54,7 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
       },
       "areaServed": [
         { "@type": "City", "name": "Edmonton" },
-        { "@type": "Province", "name": "Alberta" }
+        { "@type": "AdministrativeArea", "name": "Alberta" }
       ],
       "founder": {
         "@type": "Person",
@@ -152,12 +152,12 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
       "itemListOrder": "https://schema.org/ItemListUnordered",
       "numberOfItems": 6,
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Wedding Photography", "url": "https://mhphoto.ca/photography/weddings/" },
-        { "@type": "ListItem", "position": 2, "name": "Wedding Videography", "url": "https://mhphoto.ca/videography/" },
-        { "@type": "ListItem", "position": 3, "name": "Photo + Video Packages", "url": "https://mhphoto.ca/pricing/" },
-        { "@type": "ListItem", "position": 4, "name": "Indian Wedding Photography", "url": "https://mhphoto.ca/photography/indian-weddings/" },
-        { "@type": "ListItem", "position": 5, "name": "Family Photography", "url": "https://mhphoto.ca/photography/family/" },
-        { "@type": "ListItem", "position": 6, "name": "Engagement Photography", "url": "https://mhphoto.ca/photography/engagement/" }
+        { "@type": "ListItem", "position": 1, "name": "Wedding Photography", "item": "https://mhphoto.ca/photography/weddings/" },
+        { "@type": "ListItem", "position": 2, "name": "Wedding Videography", "item": "https://mhphoto.ca/videography/" },
+        { "@type": "ListItem", "position": 3, "name": "Photo + Video Packages", "item": "https://mhphoto.ca/pricing/" },
+        { "@type": "ListItem", "position": 4, "name": "Indian Wedding Photography", "item": "https://mhphoto.ca/photography/indian-weddings/" },
+        { "@type": "ListItem", "position": 5, "name": "Family Photography", "item": "https://mhphoto.ca/photography/family/" },
+        { "@type": "ListItem", "position": 6, "name": "Engagement Photography", "item": "https://mhphoto.ca/photography/engagement/" }
       ]
     })} />
   </Fragment>
@@ -598,76 +598,118 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
 
   <!-- Hero video montage — preload behind, instant swap, no black flash -->
   <script>
-    const ytIds = [
-      'pSsYZDZ2RrA','FGd-xPVMnqw','dH6PCKpI1cE','1MfX3kmm-bk','qwaoL0Vh504',
-      'RF9HilUgpM8','BGosd-NzmUs','oSrzm24ITA8','kljdC_0R_JM','XuFXGSL2-AU'
-    ];
-    function makeSrc(id) {
-      const start = 5 + Math.floor(Math.random() * 90);
-      return `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&controls=0&showinfo=0&rel=0&modestbranding=1&start=${start}&loop=1&playlist=${id}`;
-    }
+    (function() {
+      // Skip YouTube montage entirely on mobile — iframes are too heavy
+      // and cause memory exhaustion / crashes on mobile Safari and Chrome
+      var isMobile = window.innerWidth < 1024;
 
-    function initMontage(introEl, frameA, frameB) {
-      let idx = 0;
-      let started = false;
-      let front = frameA;
-      let back = frameB;
+      var ytIds = [
+        'pSsYZDZ2RrA','FGd-xPVMnqw','dH6PCKpI1cE','1MfX3kmm-bk','qwaoL0Vh504',
+        'RF9HilUgpM8','BGosd-NzmUs','oSrzm24ITA8','kljdC_0R_JM','XuFXGSL2-AU'
+      ];
+      function makeSrc(id) {
+        var start = 5 + Math.floor(Math.random() * 90);
+        return 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&mute=1&controls=0&showinfo=0&rel=0&modestbranding=1&start=' + start + '&loop=1&playlist=' + id;
+      }
 
-      const start = () => {
-        if (started) return;
-        started = true;
-        introEl.style.opacity = '0';
-        setTimeout(() => { introEl.pause(); introEl.style.display = 'none'; }, 500);
+      function initMontage(introEl, frameA, frameB) {
+        var idx = 0;
+        var started = false;
+        var front = frameA;
+        var back = frameB;
+        var montageTimer = null;
+        var destroyed = false;
 
-        // Load first video in front frame
-        front.src = makeSrc(ytIds[0]);
-        front.style.opacity = '1';
-        front.style.zIndex = '2';
-        idx = 1;
+        function cleanup() {
+          destroyed = true;
+          if (montageTimer) { clearTimeout(montageTimer); montageTimer = null; }
+          // Release iframe resources
+          try { frameA.src = ''; } catch(e) {}
+          try { frameB.src = ''; } catch(e) {}
+        }
 
-        // Preload next video in back frame after a short delay
-        setTimeout(() => {
-          const i = idx % ytIds.length;
-          back.src = makeSrc(ytIds[i]);
-        }, 1000);
+        // Cleanup when navigating away to prevent leaked iframes
+        document.addEventListener('visibilitychange', function() {
+          if (document.hidden) {
+            if (montageTimer) { clearTimeout(montageTimer); montageTimer = null; }
+          }
+        });
 
-        function nextVideo() {
-          // Back frame has been preloading — bring it to front
-          back.style.zIndex = '2';
-          back.style.opacity = '1';
-          front.style.zIndex = '1';
-          idx++;
-
-          // Swap references
-          const tmp = front;
-          front = back;
-          back = tmp;
-
-          // Preload next video in the now-hidden back frame
-          setTimeout(() => {
-            const i = idx % ytIds.length;
-            back.src = makeSrc(ytIds[i]);
+        var startMontage = function() {
+          if (started || destroyed) return;
+          started = true;
+          introEl.style.opacity = '0';
+          setTimeout(function() {
+            try { introEl.pause(); } catch(e) {}
+            introEl.style.display = 'none';
           }, 500);
 
-          setTimeout(nextVideo, 2000 + Math.random() * 500);
+          // Load first video in front frame
+          front.src = makeSrc(ytIds[0]);
+          front.style.opacity = '1';
+          front.style.zIndex = '2';
+          idx = 1;
+
+          // Preload next video in back frame after a short delay
+          montageTimer = setTimeout(function() {
+            if (destroyed) return;
+            var i = idx % ytIds.length;
+            back.src = makeSrc(ytIds[i]);
+          }, 1000);
+
+          function nextVideo() {
+            if (destroyed) return;
+            // Cap at 10 rotations to prevent infinite resource consumption
+            if (idx >= ytIds.length * 2) {
+              // Stop cycling — just leave the last video playing
+              return;
+            }
+            // Back frame has been preloading — bring it to front
+            back.style.zIndex = '2';
+            back.style.opacity = '1';
+            front.style.zIndex = '1';
+            idx++;
+
+            // Swap references
+            var tmp = front;
+            front = back;
+            back = tmp;
+
+            // Preload next video in the now-hidden back frame
+            montageTimer = setTimeout(function() {
+              if (destroyed) return;
+              var i = idx % ytIds.length;
+              back.src = makeSrc(ytIds[i]);
+            }, 500);
+
+            montageTimer = setTimeout(function() {
+              if (!destroyed) nextVideo();
+            }, 2000 + Math.random() * 500);
+          }
+          montageTimer = setTimeout(function() {
+            if (!destroyed) nextVideo();
+          }, 2000 + Math.random() * 500);
+        };
+
+        introEl.addEventListener('ended', startMontage, { once: true });
+        setTimeout(startMontage, 4000);
+      }
+
+      // Desktop only — do NOT load YouTube iframes on mobile
+      if (!isMobile) {
+        var dV = document.getElementById('hero-intro-video');
+        var dA = document.getElementById('hero-yt-a');
+        var dB = document.getElementById('hero-yt-b');
+        if (dV && dA && dB) initMontage(dV, dA, dB);
+      }
+
+      // Mobile: just let the intro video play and loop, no YouTube iframes
+      if (isMobile) {
+        var mV = document.querySelector('.hero-intro-mob');
+        if (mV) {
+          mV.setAttribute('loop', '');
         }
-        setTimeout(nextVideo, 2000 + Math.random() * 500);
-      };
-
-      introEl.addEventListener('ended', start, { once: true });
-      setTimeout(start, 4000);
-    }
-
-    // Desktop
-    const dV = document.getElementById('hero-intro-video');
-    const dA = document.getElementById('hero-yt-a');
-    const dB = document.getElementById('hero-yt-b');
-    if (dV && dA && dB) initMontage(dV, dA, dB);
-
-    // Mobile
-    const mV = document.querySelector('.hero-intro-mob');
-    const mA = document.querySelector('.mob-yt-a');
-    const mB = document.querySelector('.mob-yt-b');
-    if (mV && mA && mB) initMontage(mV, mA, mB);
+      }
+    })();
   </script>
 </BaseLayout>

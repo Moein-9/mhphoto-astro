@@ -5,7 +5,7 @@ date: "2016-09-01"
 publishDate: "2016-09-01T04:03:04"
 category: "wedding"
 description: "MH Photography fall mini sessions in Edmonton — affordable family pictures during peak autumn colour. Book your session with Edmonton photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2018/01/Picture-8_1.jpg"
+image: ""
 draft: false
 ---
 
@@ -25,4 +25,3 @@ For booking and inquiry, please email me at Moein@mhphoto.ca
 
  
 
-![Fall session](http://mhphoto.ca/wp-content/uploads/2016/09/Fall-session-724x1024.jpg)

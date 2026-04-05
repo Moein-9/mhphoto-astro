@@ -5,7 +5,7 @@ date: "2026-08-02"
 publishDate: "2026-08-02T09:00:00"
 category: "family-sessions"
 description: "Back-to-school family photos in Edmonton — best timing, locations like Hawrelak Park and the river valley, what to wear, and tips for kids. Book your fall family pictures session today."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-20-of-41-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -49,7 +49,6 @@ This is the most popular window, and for good reason. The leaves are starting to
 
 If you want the full autumn experience — golden canopy, fallen leaves, warm scarves — early October is your window. Edmonton's river valley parks are absolutely stunning during this period. The risk is weather. Edmonton can get its first snow as early as October, and the leaves can drop quickly after a cold snap. So flexibility helps.
 
-![Beautiful fall family photo session in Edmonton with golden autumn leaves and warm natural light](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-35-of-43-scaled.jpeg)*Edmonton fall sessions offer stunning golden light and colourful backdrops that you simply cannot replicate in a studio*
 
 Booking Tip
 
@@ -113,7 +112,6 @@ Outfit Tip
 
 Avoid large logos, busy patterns, and neon colours. These compete with the beautiful natural backdrop and draw attention away from faces. Solid colours and subtle patterns always photograph best. And bring an extra outfit for young kids — just in case of a spill or a muddy adventure.
 
-![Edmonton family enjoying an autumn photo session among colourful fall foliage](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-20-of-41-scaled.jpeg)*Earthy tones and layers create beautiful visual harmony against Edmonton fall backdrops*
 
 ## How to Get Natural Smiles From Kids
 
@@ -168,7 +166,7 @@ My kids never cooperate for photos. Should I be worried?
 Not at all. I work with kids at every session, and I have a whole toolkit of games, jokes, and prompts to bring out genuine expressions. The key is letting kids be themselves. I do not force smiles or rigid poses. Some of the best photos come from kids who "never cooperate" — their authentic energy produces the most memorable images.
 
 Can we bring our dog to the family session?
-Absolutely. Pets are part of the family. I recommend bringing a handler — a friend or family member who can hold the dog during non-pet shots and bring them in for the group photos. We usually do pet photos first so the dog can relax afterward. Check out my tips on [including pets in family photos](https://mhphoto.ca/blog/pet-family-photography-edmonton/).
+Absolutely. Pets are part of the family. I recommend bringing a handler — a friend or family member who can hold the dog during non-pet shots and bring them in for the group photos. We usually do pet photos first so the dog can relax afterward. Check out my tips on including pets in family photos.
 
 How many outfit changes can we do?
 I recommend one or two outfits maximum. One outfit change works well — perhaps a casual look for the candid portion and something slightly dressier for the posed family portraits. More than two changes eats into shooting time and can disrupt the flow, especially with young children.

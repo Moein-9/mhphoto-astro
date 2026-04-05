@@ -5,7 +5,7 @@ date: "2026-06-27"
 publishDate: "2026-06-27T09:00:00"
 category: "wedding"
 description: "How to look good in wedding photos even if you hate being photographed. Posing basics, best angles, body language, and outfit tips from an Edmonton wedding photographer."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/Picture-41-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -48,7 +48,6 @@ Standing directly facing the camera is the least flattering angle for almost eve
 
 This is one of the simplest tricks in photography, and it works for everyone. Shift your weight to your back foot and let your front foot relax slightly. This creates a natural, relaxed posture and prevents the stiff, soldier-at-attention look that ruins so many wedding photos.
 
-![Natural relaxed wedding photo posing tips with Edmonton couple](https://mhphoto.ca/wp-content/uploads/2023/07/Picture-41-scaled.jpg)*Relaxed, natural posing creates photos you will actually want to hang on your wall*
 
 ### Chin Forward and Down
 
@@ -76,7 +75,6 @@ Nothing ruins a photo faster than a forced smile. You know the one — lips pull
 
 I will ask you to whisper something in your partner's ear. I will tell a terrible joke. I will ask the groom to describe the first moment he knew. Genuine emotions create genuine expressions. And genuine expressions create photos that make you feel something every time you look at them.
 
-![Genuine smiling couple during wedding portrait session with Edmonton photographer](https://mhphoto.ca/wp-content/uploads/2023/07/SJ-220-scaled.jpg)*Real laughter always looks better than a posed smile — every single time*
 
 ## Body Language and Connection
 
@@ -132,7 +130,6 @@ This is the single best piece of advice I can give to anyone who is nervous abou
 
 By the time your wedding day arrives, you will already know your photographer. You will know their voice, their prompts, their energy. And instead of spending the first thirty minutes of portrait time warming up, you will be relaxed from the very first frame.
 
-![Engagement session practice photos at Edmonton park for wedding preparation](https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-21-of-51-scaled.jpeg)*Your engagement session is the best rehearsal for looking amazing on your wedding day*
 
 I include engagement sessions in most of my [wedding photography packages](https://mhphoto.ca/pricing/) for exactly this reason. The investment in comfort pays off enormously on the wedding day.
 

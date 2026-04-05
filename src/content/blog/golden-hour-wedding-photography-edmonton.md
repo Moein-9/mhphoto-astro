@@ -5,7 +5,7 @@ date: "2026-05-13"
 publishDate: "2026-05-13T09:00:00"
 category: "photography-tips"
 description: "Golden hour wedding photography timing in Edmonton by season, best locations, and how to plan your timeline. Tips from Edmonton wedding photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-01223-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -34,7 +34,6 @@ However, there is a catch. Golden hour does not wait. It happens when it happens
 | Couples Who Prioritize Photography | **34%** | The Knot, 2025 |
 | Wedding Photography Market | **$26.9B** | Fortune Business Insights, 2026 |
 
-![Couple portrait during golden hour in Edmonton with warm sunset light](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*Golden hour light transforms ordinary locations into something extraordinary — this is why timing matters so much*
 
 ## Golden Hour Timing in Edmonton by Season
 
@@ -91,7 +90,6 @@ Some of the most dramatic golden hour photos I have ever taken were in the farml
 
 For couples who want a modern, urban feel, Edmonton's downtown rooftops and riverbank lookouts offer stunning golden hour opportunities. The city skyline lit by sunset, the reflections in glass buildings, the High Level Bridge silhouetted against the sky — these create a completely different mood from the natural settings.
 
-![Outdoor portrait in beautiful natural light near Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/picture-34-scaled.jpg)*Natural light portraits in Edmonton — the right location and timing make all the difference*
 
 ### Elk Island National Park
 
@@ -113,7 +111,6 @@ Golden hour is not just about the sun. It is about planning your day so you can 
 
 I should mention that even if you miss golden hour entirely — maybe dinner ran long, or speeches went overtime — that is okay. A skilled photographer can create beautiful images at any time of day. We use reflectors, flash, natural shade, and creative positioning to find great light in any condition. Golden hour is the icing. But the cake — your love, your joy, your connection — is what makes the photos truly special.
 
-![Creative double exposure wedding portrait](https://mhphoto.ca/wp-content/uploads/2022/03/Picture-scaled.jpg)*Sometimes the most creative and artistic images come from pushing beyond standard techniques — like this double exposure portrait*
 
 ## Photography Tips for Stunning Sunset Portraits
 

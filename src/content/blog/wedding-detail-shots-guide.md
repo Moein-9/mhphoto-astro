@@ -5,7 +5,7 @@ date: "2026-08-05"
 publishDate: "2026-08-05T09:00:00"
 category: "photography-tips"
 description: "Wedding detail shots that tell your story — rings, invitations, flowers, shoes, and flat lays. What to prepare and when they happen in your timeline. Edmonton photographer tips."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-718-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -51,7 +51,6 @@ Before you put them on, your wedding outfit deserves its own portrait. I hang th
 
 Your invitation set the tone for your entire wedding. The paper stock, the calligraphy, the colour scheme — these design choices informed everything from your table decor to your cake design. A flat lay of the full suite — invitation, RSVP card, details card, envelope, wax seal — is one of the most popular images for wedding albums and social media. It tells the story of your aesthetic vision in a single frame.
 
-![Beautiful bridal details including wedding dress and accessories photographed with natural light in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/picture-15-scaled.jpg)*Every detail of your wedding day was chosen with love — they deserve to be photographed with the same care*
 
 ### Shoes
 
@@ -87,7 +86,6 @@ Flat lay arrangement follows basic design principles: balance, negative space, a
 
 Flat lays need soft, directional light. I position them near a large window where the light comes from one side, creating gentle shadows that add dimension. Direct overhead light flattens everything. Harsh sun creates dark shadows. Window light, filtered through a sheer curtain, is perfect. It is why I ask for a well-lit space during the getting-ready portion of the timeline.
 
-![Traditional wedding accessories and details arranged in a beautiful composition with warm lighting](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*A well-composed flat lay brings together all your carefully chosen details into one stunning image*
 Details are what transform a wedding from an event into your event. The choices you made — every ring, every ribbon, every hand-written vow — are what make your day uniquely yours. Photography preserves those choices forever.
 
 ## When Detail Shots Happen in Your Timeline

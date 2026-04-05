@@ -1,11 +1,11 @@
 ---
-title: "Gill Family session at Edmonton River valley park"
+title: "Gill Family River Valley Session"
 slug: "gill-family-session-edmonton-river-valley-park"
 date: "2017-08-23"
 publishDate: "2017-08-23T20:32:21"
 category: "family-sessions"
 description: "Gill family photography session at Edmonton River Valley Park — custom family portraits in a beautiful natural setting. By Moein Habibi, MH Photography."
-image: "https://mhphoto.ca/wp-content/uploads/2017/08/ss-2.jpg"
+image: ""
 draft: false
 ---
 
@@ -25,4 +25,3 @@ If you want for a fun family photoshoot, MH[https://mhphoto.ca/](https://mhphoto
 
  
 
-[![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-1-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2017/08/ss-1.jpg) [![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-23-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2017/08/ss-23.jpg) [![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-14-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2017/08/ss-14.jpg) [![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-6-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2017/08/ss-6.jpg) [![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-4-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2017/08/ss-4.jpg) [![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-3-1024x683.jpg)](http://mhphoto.ca/wp-content/uploads/2017/08/ss-3.jpg) ![Gill family photography session in Edmonton river valley](http://mhphoto.ca/wp-content/uploads/2017/08/ss-2-1024x683.jpg)

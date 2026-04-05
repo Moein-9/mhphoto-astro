@@ -6,7 +6,7 @@ publishDate: "2026-04-26T09:00:00"
 category: "family-sessions"
 keyword: "fall family pictures edmonton"
 description: "Book your fall family pictures in Edmonton before peak colour dates sell out. Best locations, what to wear, colour palettes, and pricing from $400. Reserve your October spot now."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-20-of-41-scaled.jpeg"
+image: ""
 draft: false
 ---
 

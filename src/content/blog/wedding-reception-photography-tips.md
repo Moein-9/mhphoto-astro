@@ -5,7 +5,7 @@ date: "2026-07-24"
 publishDate: "2026-07-24T09:00:00"
 category: "edmonton-venues"
 description: "Wedding reception photography tips — speeches, first dance, cake cutting, candid moments, and low-light techniques. By Edmonton wedding photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/Picture-43-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -26,7 +26,6 @@ Here is something that surprises a lot of couples: when you look back at your we
 
 According to [The Knot](https://www.theknot.com), 34% of couples rank photography as their number one wedding budget priority. And yet, many photographers treat the reception as an afterthought — they are exhausted from the ceremony and portrait sessions, and the reception coverage suffers. That is a mistake I refuse to make.
 
-![Wedding reception dancing and celebration with guests on the dance floor](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-220-scaled.jpg)*The reception is where your wedding truly comes alive — and those moments deserve to be captured with the same energy they were lived*
 
 At an Indian wedding reception, the energy is on another level entirely. Punjabi receptions, in particular, are legendary for their dance floors. The bhangra circles, the Bollywood moves, the moment when someone's turban comes loose mid-spin — these are the images that become family legends. Moreover, with guest counts often reaching 300 to 500 people, the scale of an Indian reception creates incredible wide-angle opportunities.
 
@@ -57,7 +56,6 @@ The first dance is one of the most photographed moments at any wedding, and for 
 
 I use a combination of wide-angle shots (capturing the couple in the context of the venue and watching guests) and tight close-ups (their expressions, their hands, a whispered word). The key is movement — I orbit the dance floor slowly, finding different angles and backgrounds as the couple moves.
 
-![Couple sharing their first dance at an Edmonton wedding reception](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*The first dance is intimate, tender, and fleeting — capturing it well requires being ready from every angle*
 
 For Indian wedding receptions, the "first dance" often evolves into a choreographed performance by the couple, followed by family members joining in. These choreographed moments are visually spectacular — the couple has rehearsed specific moves, the lighting is usually dramatic, and the crowd erupts at the big reveals. I communicate with the DJ beforehand to know when the choreography peaks so I can position myself for the best angles.
 

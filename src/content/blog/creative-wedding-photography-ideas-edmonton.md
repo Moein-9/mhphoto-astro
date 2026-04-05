@@ -5,7 +5,7 @@ date: "2026-06-03"
 publishDate: "2026-06-03T09:00:00"
 category: "photography-tips"
 description: "Creative wedding photography ideas for Edmonton couples — double exposure, silhouettes, reflections, motion blur, and artistic detail shots. Elevate your wedding photos."
-image: "https://mhphoto.ca/wp-content/uploads/2022/07/Picture-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -41,7 +41,6 @@ Double exposure is one of my favourite creative techniques, and it consistently 
 
 In a wedding context, double exposure typically combines a portrait of the couple with a meaningful environment — the ceremony venue, a landscape, flowers, or architectural details. The result is an image that is both a portrait and a story. The couple's silhouette filled with the forest where they said their vows. A bride's profile merged with her bouquet flowers. A groom's outline containing the church interior.
 
-![Creative double exposure wedding photography combining couple portrait with landscape](https://mhphoto.ca/wp-content/uploads/2022/03/Picture-scaled.jpg)*Double exposure — two images becoming one story. This technique creates art that belongs on your wall.*
 
 I create double exposures both in-camera and in post-production. In-camera double exposures have a beautiful, organic quality — the way the two images blend is slightly unpredictable, which gives each result a unique character. Post-production double exposures offer more control over the blend, opacity, and positioning. Both approaches have their place, and I often create several versions to give couples options.
 
@@ -57,7 +56,6 @@ Silhouettes strip away every detail except shape. There is no dress detail, no f
 
 Creating a wedding silhouette requires backlighting — positioning a strong light source behind the couple. The most natural and beautiful backlight is the setting sun. During golden hour, I position the couple directly between my camera and the sun, expose for the bright sky behind them, and let their figures fall into pure black silhouette.
 
-![Romantic sunset couple silhouette wedding photography in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/picture-01223-scaled.jpg)*Sunset silhouettes — simple, powerful, and endlessly romantic.*
 
 Edmonton's summer golden hour is ideal for this technique. The sun sits low on the horizon for an extended period, giving us a wide window to capture multiple silhouette compositions. I look for opportunities that add story to the silhouette — the couple under a tree, in a doorway, against a venue's architecture, or with their veil caught in the wind.
 
@@ -89,7 +87,6 @@ Detail shots often get overlooked in wedding photography discussions. However, t
 
 **Flat-lay compositions.** Gathering wedding details — invitation, rings, perfume, earrings, shoes, vow booklet — and arranging them in an artful flat-lay composition creates a single image that encapsulates the entire wedding aesthetic. I spend 10 to 15 minutes during the getting-ready phase creating these compositions. The resulting images are perfect for the first page of a wedding album.
 
-![Artistic bridal portrait with creative lighting and composition in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/picture-15-scaled.jpg)*Every detail tells part of the story — from the dress to the light in her eyes.*
 
 ## Motion and Long Exposure
 

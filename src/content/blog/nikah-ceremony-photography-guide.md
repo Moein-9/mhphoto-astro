@@ -5,7 +5,7 @@ date: "2026-07-09"
 publishDate: "2026-07-09T09:00:00"
 category: "indian-weddings"
 description: "Guide to photographing a Nikah ceremony — spiritual moments, mosque etiquette, gender separation protocols, and lighting challenges. Indian wedding photography Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg"
+image: ""
 draft: false
 ---
 
@@ -54,7 +54,6 @@ The groom typically arrives first, often with his family. In some traditions, th
 
 This is the heart of the Nikah. The imam asks the groom if he accepts the bride in marriage. The groom says "Qubool hai" — "I accept." The same question is posed to the bride. Her "Qubool hai" is the moment the marriage is sealed. It is quiet, it is powerful, and it is one of the most significant moments I photograph at any wedding. I use a longer lens — typically 70-200mm — to capture the close-up expressions without being physically close enough to intrude.
 
-![Nikah ceremony photography capturing the sacred moment of acceptance in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/2.jpg)*The quiet power of "Qubool hai" — two words that change everything*
 
 ### Signing the Nikahnama
 
@@ -92,7 +91,6 @@ Your shutter should be as quiet as possible during the ceremony. I set my camera
 
 Not every area of a mosque is accessible to photographers. The prayer hall may have restrictions on where non-Muslims can stand or walk. Always ask the family or the imam before positioning yourself anywhere during the ceremony. When in doubt, stay at the back and use a long lens.
 
-![Respectful mosque photography during Nikah ceremony in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/picture-01223-scaled.jpg)*Respectful distance and quiet equipment are non-negotiable in sacred spaces*
 
 ## Gender Separation and Photography
 
@@ -170,7 +168,7 @@ Do you offer a female photographer for women-only events?
 Yes. I work with an experienced female second shooter who covers women's gatherings and events with gender separation. This ensures complete coverage of your celebration while fully respecting your traditions and boundaries.
 
 How do you handle the Walima (reception)?
-The Walima is typically a larger, more celebratory event that I cover with the same energy and attention as any wedding reception. The photography approach shifts from the quiet documentary style of the Nikah to capturing the joy, the food, the guests, and the celebration. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) are ideal for covering both the Nikah and Walima.
+The Walima is typically a larger, more celebratory event that I cover with the same energy and attention as any wedding reception. The photography approach shifts from the quiet documentary style of the Nikah to capturing the joy, the food, the guests, and the celebration. My [multi-day packages](/multiday-packages/) are ideal for covering both the Nikah and Walima.
 
 What should the couple wear for Nikah photos?
 The couple should wear whatever is traditional and meaningful for their family. Common choices include a white or cream sherwani for the groom and an embellished hijab, dupatta, or modest gown for the bride. The most important thing is that you feel comfortable and confident — comfort always photographs better than costume. See examples in our [gallery](https://mhphoto.ca/photography/indian-weddings/).

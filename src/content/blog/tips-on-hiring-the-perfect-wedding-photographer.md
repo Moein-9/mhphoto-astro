@@ -4,12 +4,11 @@ slug: "tips-on-hiring-the-perfect-wedding-photographer"
 date: "2024-02-02"
 publishDate: "2024-02-02T13:47:34"
 category: "wedding"
-description: "So you’re getting hitched, congratulations! Now comes the fun part: finding the perfect wedding photographer. Don’t worry, it’s not like this person will be capturing one of the most important days of"
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-220-scaled.jpg"
+description: "Tips for finding your perfect wedding photographer — what to look for, questions to ask, and red flags to avoid. By Edmonton photographer Moein Habibi."
+image: ""
 draft: false
 ---
 
-![](https://mhphoto.ca/wp-content/uploads/2023/07/SJ-220-1024x683.jpg)
 
 So you’re getting hitched, congratulations! Now comes the fun part: finding the perfect wedding photographer. Don’t worry, it’s not like this person will be capturing one of the most important days of your life or anything. No pressure.
 
@@ -31,7 +30,6 @@ You don’t want to spend your entire wedding day with someone who annoys the cr
 
 You don’t want your photographer to show up to your wedding with a disposable camera, right? Ask about the equipment they use and if it’s up to date. You want someone who has high-quality equipment and knows how to use it.
 
-![](https://mhphoto.ca/wp-content/uploads/2022/09/16-1024x576.jpg)
 
 ## **Experience Is Key:**
 

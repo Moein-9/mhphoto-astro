@@ -102,65 +102,80 @@ function isActive(href: string): boolean {
 </div>
 
 <script>
-  const openBtn = document.getElementById('nav-open')!;
-  const closeBtn = document.getElementById('nav-close')!;
-  const nav = document.getElementById('mobile-nav')!;
-  const header = document.getElementById('mobile-header')!;
-  const photoToggle = document.getElementById('photo-toggle');
-  const photoSubmenu = document.getElementById('photo-submenu');
-  let savedScrollY = 0;
+  (function() {
+    var openBtn = document.getElementById('nav-open');
+    var closeBtn = document.getElementById('nav-close');
+    var nav = document.getElementById('mobile-nav');
+    var header = document.getElementById('mobile-header');
+    var photoToggle = document.getElementById('photo-toggle');
+    var photoSubmenu = document.getElementById('photo-submenu');
 
-  function openMenu() {
-    savedScrollY = window.scrollY;
-    nav.classList.add('is-open');
-    openBtn.classList.add('is-open');
-    openBtn.setAttribute('aria-expanded', 'true');
-    document.body.style.overflow = 'hidden';
-    document.body.style.position = 'fixed';
-    document.body.style.width = '100%';
-    document.body.style.top = `-${savedScrollY}px`;
-  }
+    // Guard against missing elements — prevents crash if DOM structure changes
+    if (!openBtn || !closeBtn || !nav || !header) return;
 
-  function closeMenu() {
-    nav.classList.remove('is-open');
-    openBtn.classList.remove('is-open');
-    openBtn.setAttribute('aria-expanded', 'false');
-    document.body.style.overflow = '';
-    document.body.style.position = '';
-    document.body.style.width = '';
-    document.body.style.top = '';
-    window.scrollTo(0, savedScrollY);
-  }
+    var savedScrollY = 0;
 
-  openBtn.addEventListener('click', openMenu);
-  closeBtn.addEventListener('click', closeMenu);
-
-  // Close on escape
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && nav.classList.contains('is-open')) closeMenu();
-  });
-
-  // Photography sub-menu toggle
-  photoToggle?.addEventListener('click', () => {
-    photoSubmenu?.classList.toggle('is-expanded');
-    photoToggle.classList.toggle('is-expanded');
-  });
-
-  // Close menu on nav link click
-  nav.querySelectorAll('a[href]').forEach(link => {
-    link.addEventListener('click', () => {
-      setTimeout(closeMenu, 150);
-    });
-  });
-
-  // Scrolled header state
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 10) {
-      header.classList.add('header-scrolled');
-    } else {
-      header.classList.remove('header-scrolled');
+    function openMenu() {
+      savedScrollY = window.scrollY;
+      nav.classList.add('is-open');
+      openBtn.classList.add('is-open');
+      openBtn.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+      document.body.style.position = 'fixed';
+      document.body.style.width = '100%';
+      document.body.style.top = '-' + savedScrollY + 'px';
     }
-  }, { passive: true });
+
+    function closeMenu() {
+      nav.classList.remove('is-open');
+      openBtn.classList.remove('is-open');
+      openBtn.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+      document.body.style.position = '';
+      document.body.style.width = '';
+      document.body.style.top = '';
+      window.scrollTo(0, savedScrollY);
+    }
+
+    openBtn.addEventListener('click', openMenu);
+    closeBtn.addEventListener('click', closeMenu);
+
+    // Close on escape
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && nav.classList.contains('is-open')) closeMenu();
+    });
+
+    // Photography sub-menu toggle
+    if (photoToggle) {
+      photoToggle.addEventListener('click', function() {
+        if (photoSubmenu) photoSubmenu.classList.toggle('is-expanded');
+        photoToggle.classList.toggle('is-expanded');
+      });
+    }
+
+    // Close menu on nav link click
+    nav.querySelectorAll('a[href]').forEach(function(link) {
+      link.addEventListener('click', function() {
+        setTimeout(closeMenu, 150);
+      });
+    });
+
+    // Scrolled header state — throttled to prevent excessive reflows
+    var scrollTicking = false;
+    window.addEventListener('scroll', function() {
+      if (!scrollTicking) {
+        scrollTicking = true;
+        requestAnimationFrame(function() {
+          if (window.scrollY > 10) {
+            header.classList.add('header-scrolled');
+          } else {
+            header.classList.remove('header-scrolled');
+          }
+          scrollTicking = false;
+        });
+      }
+    }, { passive: true });
+  })();
 </script>
 
 <style>

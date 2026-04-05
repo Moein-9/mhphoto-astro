@@ -4,12 +4,11 @@ slug: "cherry-blossom-season-special"
 date: "2017-05-16"
 publishDate: "2017-05-16T17:41:15"
 category: "wedding"
-description: "Cherry blossom photography special in Edmonton — family, engagement, and maternity sessions during peak bloom. Limited availability with Moein Habibi, MH Photography."
+description: "Cherry blossom photography special in Edmonton — family, engagement, and maternity sessions during peak bloom. Book with Moein Habibi."
 image: ""
 draft: false
 ---
 
-[![Cherry blossom season ](http://mhphoto.ca/wp-content/uploads/2017/05/final-poster-724x1024.jpg)](http://mhphoto.ca/wp-content/uploads/2017/05/final-poster.jpg)
 
  
 
@@ -19,7 +18,6 @@ Cherry blossom season is around the corner, and with that, my special is back!
 
 This special will be valid from Saturday, May 27th until June 10th.
 
-*The date might change depends on when the blossom are peaking *
 
 FAQ:
 

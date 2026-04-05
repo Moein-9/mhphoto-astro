@@ -5,7 +5,7 @@ date: "2026-07-18"
 publishDate: "2026-07-18T09:00:00"
 category: "indian-weddings"
 description: "How to photograph a bridal lehenga — embroidery details, movement shots, getting-ready moments, and lighting for rich fabrics. Indian wedding photography tips from Edmonton."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg"
+image: ""
 draft: false
 ---
 
@@ -26,7 +26,6 @@ A bridal lehenga is not just an outfit. It is often the single most expensive ga
 
 And yet, I have seen too many wedding albums where the lehenga is barely visible. The photographer captured the couple standing together, sure, but the intricate embroidery, the way the dupatta falls, the hand-stitched zardozi work — all of that gets lost. That is a failure, plain and simple.
 
-![Bridal lehenga detail photography showing intricate embroidery and beadwork](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*Every stitch tells a story — your lehenga photography should capture that craftsmanship*
 
 As someone who has photographed dozens of [Indian weddings](https://mhphoto.ca/photography/indian-weddings/), I treat the lehenga as a subject in its own right. It gets dedicated shooting time, specific lighting considerations, and a variety of angles designed to showcase its full beauty. In fact, I build lehenga photography into every Indian wedding timeline I plan.
 
@@ -56,7 +55,6 @@ The dupatta (veil/scarf) and the border of the skirt are often the most intricat
 
 A lehenga was designed to move. The way it flares when the bride twirls, the way the fabric catches the light as she walks, the way the dupatta floats in the wind — these are the moments that take a lehenga from a beautiful garment to a breathtaking photograph.
 
-![Bride twirling in her lehenga showing full fabric movement and colours](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Movement brings the lehenga to life in ways a static pose simply cannot*
 
 I always build in time for movement shots during the portrait session. I ask the bride to walk slowly toward me, then twirl. I shoot at a high shutter speed (1/800 or faster) to freeze the fabric in motion, while keeping the background slightly soft. The result is a dynamic, editorial-quality image that shows the full volume and flow of the lehenga.
 
@@ -86,7 +84,6 @@ Natural light is almost always my first choice for lehenga photography. Golden h
 
 For indoor ceremonies and receptions, I use off-camera flash with modifiers to create directional light that mimics golden hour. A large softbox at 45 degrees creates beautiful dimension, and a second light behind the bride can add a subtle rim light that separates her from the background and highlights the dupatta edge.
 
-![Bride in lehenga with beautiful golden hour lighting showcasing fabric detail](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*Golden hour light turns a lehenga into something almost magical — every thread catches the warmth*
 
 Lighting Scenario
 Best Approach

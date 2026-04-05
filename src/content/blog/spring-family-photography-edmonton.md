@@ -5,7 +5,7 @@ date: "2026-08-20"
 publishDate: "2026-08-20T09:00:00"
 category: "family-sessions"
 description: "Spring family photography in Edmonton — cherry blossoms, fresh starts, and beautiful light. Best locations, what to wear, and booking tips. Sessions from $400 with MH Photography."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-02420-5-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -50,7 +50,6 @@ This is the golden window. Edmonton's crabapple trees, lilac bushes, and cherry 
 
 I recommend booking your session for the last week of May or the first week of June. This catches the peak of the lilac season, which is Edmonton's most iconic spring bloom. The scent alone is worth the visit, but the photography opportunities are extraordinary — dense clusters of purple and white flowers that create depth and colour in every frame.
 
-![Family spring photography session with Edmonton blossoms and fresh green backdrop](https://mhphoto.ca/wp-content/uploads/2025/09/DSC06459.jpg)*Spring blossoms create a softness and colour that no other season can match*
 
 ### Mid-June: Full Canopy
 
@@ -101,7 +100,6 @@ River views, forest trails, multiple backdrops in one walk
 
 My personal favourite? The Legislature Grounds during crabapple blossom season. There is a row of crabapple trees along the south side of the grounds that creates a tunnel of pink blossoms. When you stand underneath and look up, the branches form a natural canopy of colour. Place a family underneath, use a wide aperture to blur the blossoms into a creamy pink wash, and the result is absolute magic.
 
-![Spring photography location in Edmonton with fresh green trees and warm golden light](https://mhphoto.ca/wp-content/uploads/2025/09/DSC06436.jpg)*Edmonton spring locations offer fresh greens and soft light that families love*
 
 ## What to Wear for Spring Family Photos
 

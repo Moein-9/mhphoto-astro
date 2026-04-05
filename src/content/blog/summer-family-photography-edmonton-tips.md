@@ -5,7 +5,7 @@ date: "2026-07-03"
 publishDate: "2026-07-03T09:00:00"
 category: "family-sessions"
 description: "Summer family photography in Edmonton — beating the heat, best times of day, top locations, what to wear, and keeping kids happy. Book your session with Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-21-of-51-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -48,7 +48,6 @@ Golden hour in Edmonton during summer starts late — around 8:30 PM in June and
 
 Evening sessions work better for families with young children who nap in the afternoon. By 7 PM, they have had their nap, had dinner, and are usually in a good mood. The trade-off is mosquitoes — Edmonton evenings near the river valley can be buggy. Bring repellent.
 
-![Golden hour family photography session in Edmonton park during summer](https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-21-of-51-scaled.jpeg)*Edmonton golden hour light creates a warm, magical glow that flatters every skin tone*
 
 Photographer Tip
 
@@ -121,7 +120,6 @@ Pick two to three colours that complement each other and stick to them. For summ
 - **Warm tones:** Mustard, terracotta, burgundy. These pop beautifully in golden hour light.
 - **Jewel tones:** Emerald, navy, deep plum. Rich and elegant against summer greenery.
 
-![Coordinated family outfit choices for summer photography session in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-16-of-103-scaled.jpeg)*Coordinating rather than matching creates a polished look that feels natural and intentional*
 
 ### Avoid These
 

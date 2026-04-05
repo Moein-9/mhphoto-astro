@@ -5,7 +5,7 @@ date: "2026-08-17"
 publishDate: "2026-08-17T09:00:00"
 category: "indian-weddings"
 description: "Indian wedding reception photography — speeches, dances, 500 to 800 guests. How to capture dance floor energy and emotional moments. Edmonton photographer guide."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg"
+image: ""
 draft: false
 ---
 
@@ -42,7 +42,6 @@ Here is how I approach it. Before the reception, I sit down with the couple or t
 
 During the reception, I work through this list methodically. The couple's entrance and stage time is the best opportunity. As guests come up to congratulate the couple on stage, I am positioned to capture every interaction. I keep a mental count and check names off as we go.
 
-![Large Indian wedding reception with hundreds of guests in Edmonton ballroom](https://mhphoto.ca/wp-content/uploads/2022/01/1.jpg)*When 600 guests fill a ballroom, every second of positioning matters*
 
 ### The Stage Setup Matters
 
@@ -70,7 +69,6 @@ In many families, the couple and their parents stand at the entrance to greet ev
 
 At some point during the reception, the couple's grandparents and elder relatives will formally bless them. This is often done on stage and involves placing hands on the couple's heads, offering prayers, and sometimes giving gifts. These moments are deeply emotional. The grandmother who raised the bride, the grandfather who never shows emotion but is visibly moved — these photos become heirlooms.
 
-![Elder family members blessing the couple during Indian wedding reception in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*The blessing from elders is one of the most treasured reception moments for families*
 
 ### Dinner Service
 
@@ -108,7 +106,6 @@ Some of the most emotional moments I have ever photographed have happened during
 
 Many modern Indian couples now include a first dance, sometimes blending Western slow-dance traditions with Bollywood choreography. The transition from a tender, intimate slow dance into a high-energy Bollywood performance is always a crowd favourite — and a photographer's dream. The contrast between the quiet, close moments and the explosive dance moves creates a natural story arc in the gallery.
 
-![Emotional speech moment during Indian wedding reception with couple reacting](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*Speeches are where raw emotion surfaces — and where the best candid photos happen*
 
 ## Gear and Lighting for Large Receptions
 
@@ -177,7 +174,7 @@ I have photographed Indian wedding receptions with over 800 guests. I know the m
 ## Frequently Asked Questions
 
 How many photographers do you recommend for an Indian wedding reception?
-For receptions with 300 or more guests, I strongly recommend two photographers. This ensures simultaneous coverage of the stage, the dance floor, and the guest interactions. My [multi-day packages](https://mhphoto.ca/multidaypacakge/) include second shooter coverage for large events.
+For receptions with 300 or more guests, I strongly recommend two photographers. This ensures simultaneous coverage of the stage, the dance floor, and the guest interactions. My [multi-day packages](/multiday-packages/) include second shooter coverage for large events.
 
 How do you handle mixed lighting at reception venues?
 I bring my own off-camera flash setup to supplement venue lighting. I also coordinate with the DJ to request neutral or warm tones during key moments like speeches and the first dance. Shooting in RAW gives me full control over colour correction in post-processing.

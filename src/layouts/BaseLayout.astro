@@ -95,17 +95,26 @@ const ogImageURL = new URL(ogImage, Astro.site).href;
         }
       });
 
-      // Track scroll depth (25%, 50%, 75%, 100%)
+      // Track scroll depth (25%, 50%, 75%, 100%) — throttled via rAF
       (function() {
-        var marks = [25, 50, 75, 100], fired = {};
+        var marks = [25, 50, 75, 100], fired = {}, ticking = false;
         window.addEventListener('scroll', function() {
-          var pct = Math.round(100 * (window.scrollY + window.innerHeight) / document.body.scrollHeight);
-          marks.forEach(function(m) {
-            if (pct >= m && !fired[m]) {
-              fired[m] = true;
-              gtag('event', 'scroll_depth', { event_category: 'engagement', event_label: m + '%', value: m });
-            }
-          });
+          if (!ticking) {
+            ticking = true;
+            requestAnimationFrame(function() {
+              var docHeight = document.body.scrollHeight;
+              if (docHeight > 0) {
+                var pct = Math.round(100 * (window.scrollY + window.innerHeight) / docHeight);
+                marks.forEach(function(m) {
+                  if (pct >= m && !fired[m]) {
+                    fired[m] = true;
+                    gtag('event', 'scroll_depth', { event_category: 'engagement', event_label: m + '%', value: m });
+                  }
+                });
+              }
+              ticking = false;
+            });
+          }
         }, { passive: true });
       })();
 
@@ -234,15 +243,27 @@ const ogImageURL = new URL(ogImage, Astro.site).href;
 
   <!-- Scroll reveal observer -->
   <script>
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.15, rootMargin: '0px 0px -60px 0px' });
-    document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    (function() {
+      if (!('IntersectionObserver' in window)) {
+        // Fallback: just show everything immediately on old browsers
+        document.querySelectorAll('.reveal').forEach(function(el) { el.classList.add('visible'); });
+        return;
+      }
+      try {
+        var observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('visible');
+              observer.unobserve(entry.target);
+            }
+          });
+        }, { threshold: 0.15, rootMargin: '0px 0px -60px 0px' });
+        document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el); });
+      } catch(e) {
+        // If observer fails, show all elements immediately
+        document.querySelectorAll('.reveal').forEach(function(el) { el.classList.add('visible'); });
+      }
+    })();
   </script>
 </body>
 </html>

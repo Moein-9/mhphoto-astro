@@ -6,7 +6,7 @@ publishDate: "2026-05-04T09:00:00"
 category: "family-sessions"
 keyword: "newborn photography edmonton"
 description: "Newborn photography in Edmonton -- when to book (5-14 days), what to expect, safety tips, and milestone sessions. Sessions from $400 with Moein Habibi. Book during your second trimester."
-image: "https://mhphoto.ca/wp-content/uploads/2022/09/Fall-session-35-of-43-scaled.jpeg"
+image: ""
 draft: false
 ---
 
@@ -46,7 +46,6 @@ Pro Tip
 
 Contact your photographer during your second trimester. This gives you plenty of time to discuss styles, plan the session, and secure your spot. Last-minute bookings are stressful for everyone — especially new parents who already have enough on their plates.
 
-![Beautiful family portrait in Edmonton during fall season](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-20-of-41-scaled.jpeg)*Family sessions capture the love and connection that grows with every new addition to your family*
 
 ## What to Expect During the Session
 
@@ -90,7 +89,6 @@ Safety Tip
 
 When choosing a newborn photographer, ask specifically about their safety practices. Ask about composite poses, temperature control, and hygiene protocols. A good photographer will welcome these questions. If they seem annoyed or dismissive, that is a red flag.
 
-![Gentle family portrait with newborn in Edmonton park setting](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-40-of-43-scaled.jpeg)*Safety and comfort come first in every session — beautiful photos are the natural result of a relaxed, well-cared-for baby*
 
 ## How to Prepare Your Baby and Your Home
 
@@ -152,7 +150,6 @@ I offer [family photography packages](https://mhphoto.ca/photography/family/) th
 
 In fact, one of the most powerful gifts I have ever delivered was a first-year album for a family. Twelve months of photos, from a seven-pound newborn to a wobbly one-year-old taking their first steps. The parents cried when they saw it. Those milestones go by so fast. Photography is how you hold onto them.
 
-![Fall family portrait session in Edmonton with golden autumn colours](https://mhphoto.ca/wp-content/uploads/2022/10/Fall-session-21-of-51-scaled.jpeg)*Edmonton fall colours provide a stunning natural backdrop for family and milestone photography sessions*
 
 ## Best Locations in Edmonton for Baby and Family Photography
 

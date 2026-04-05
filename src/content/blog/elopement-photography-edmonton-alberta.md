@@ -5,7 +5,7 @@ date: "2026-08-14"
 publishDate: "2026-08-14T09:00:00"
 category: "wedding"
 description: "Elopement photography in Edmonton and Alberta — intimate ceremony locations, planning tips, Rocky Mountain elopement spots, and packages starting at $2,250."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/picture-01223-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -51,7 +51,6 @@ Traditional weddings come with expectations. Family politics. Seating arrangemen
 
 Not every couple wants to spend $35,000 on a single day. Some would rather invest in their future — a house, a business, travel, starting a family. Eloping does not mean you value your marriage less. It means you are making a practical decision about where your money goes. And honestly, the couples who elope often tell me their day was more meaningful precisely because it was stripped down to what truly mattered.
 
-![Intimate couple portrait with natural light and beautiful surroundings for elopement photography](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-1066-scaled.jpg)*Elopements focus on what truly matters — the two of you and your commitment to each other*
 
 ### They Value Experience Over Event
 
@@ -123,7 +122,6 @@ Jasper is less crowded and more raw than Banff, which many elopement couples pre
 
 Kananaskis is the Rockies without the National Park crowds and permit requirements. Wedge Pond, the Kananaskis Nordic Spa area, and the many trail systems offer stunning mountain scenery with more flexibility and fewer logistical hurdles. For couples who want a mountain elopement without the complexity of Parks Canada permits, Kananaskis is an excellent choice.
 
-![Dramatic sunset landscape perfect for elopement photography in Alberta with warm golden light](https://mhphoto.ca/wp-content/uploads/2022/01/picture-01223-scaled.jpg)*Alberta offers some of the most dramatic elopement backdrops in the world — from urban river valleys to mountain summits*
 
 ### Abraham Lake
 

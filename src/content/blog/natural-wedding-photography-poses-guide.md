@@ -5,7 +5,7 @@ date: "2026-05-19"
 publishDate: "2026-05-19T09:00:00"
 category: "photography-tips"
 description: "Wedding photography poses that look natural, not awkward. Prompts over poses, couple and group photo tips from Edmonton wedding photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/SJ-1066-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -43,7 +43,6 @@ A pose sounds like this: "Stand with your left foot forward, turn your shoulder 
 
 For example, I might say "Tell him the most embarrassing thing that happened to you this week." The result? Genuine laughter, real eye contact, and a photo that looks nothing like a posed portrait. In addition, the couple actually enjoys the experience instead of dreading it.
 
-![Natural wedding ceremony moment captured candidly in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*Real moments always photograph better than posed ones.*
 
 Photographer Tip
 
@@ -107,7 +106,6 @@ Full Guest Group
 Drone shot, everyone look up
 Elevated angle with a cheer or toss
 
-![Relaxed wedding couple portrait in Edmonton with natural posing](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-1066-scaled.jpg)*Movement and prompts create photos that feel real and alive.*
 
 ## Bridal Party Poses That Feel Fun
 

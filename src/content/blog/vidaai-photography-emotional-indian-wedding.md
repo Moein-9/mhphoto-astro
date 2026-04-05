@@ -5,7 +5,7 @@ date: "2026-06-15"
 publishDate: "2026-06-15T09:00:00"
 category: "indian-weddings"
 description: "Vidaai photography guide — capturing the most emotional moment of an Indian wedding. Camera approach, key shots, and tips for families. By Edmonton photographer Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg"
+image: ""
 draft: false
 ---
 
@@ -38,7 +38,6 @@ I have been a professional photographer for years. I have witnessed thousands of
 
 Here is what typically happens. The wedding ceremony is complete. The couple is married. There is joy, celebration, relief. And then it hits. The bride realizes she is about to leave. Her mother's expression changes. Her father, who has been composed all day, begins to crumble. Siblings who were laughing an hour ago are now sobbing. The bride herself is torn between happiness for her new life and grief at leaving the old one.
 
-![Emotional moment during traditional Indian wedding ceremony in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*The vidaai captures the raw, unfiltered emotion that makes Indian wedding photography so powerful*
 
 Moreover, this is not performative emotion. This is the real thing. The tears are genuine. The embraces are desperate. The whispered words between parent and child are private and sacred. As a photographer, standing in the presence of that much authentic emotion is both a privilege and a responsibility.
 
@@ -62,7 +61,6 @@ I never use flash during the vidaai. Flash is intrusive. It breaks the mood. It 
 
 There is absolutely no directing during a vidaai. Zero. I do not ask anyone to look at the camera. I do not suggest poses. I do not say "can you do that again." Everything is documented as it happens, in real time, with no interference. This requires me to anticipate every movement. I watch the father's hands. I watch the mother's eyes. I position myself where I think the most powerful moment will unfold next, and I wait.
 
-![Bride portrait with emotional expression during Indian wedding vidaai ceremony](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Capturing the bride during the vidaai requires sensitivity, distance, and trust*
 
 Photographer Insight
 
@@ -92,7 +90,6 @@ The final walk — from the venue to the decorated car — is the culmination of
 
 After the car leaves, there is a stillness. The family stands together, processing what just happened. Sometimes they hold each other. Sometimes they stand alone. Sometimes someone starts to laugh through their tears. These post-vidaai moments are often overlooked, but they are deeply human and deeply beautiful. I always stay a few minutes after the departure to document this quiet aftermath.
 
-![Indian wedding ceremony ritual with family gathered in emotional moment](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*The moments immediately after the bride departs are some of the most powerful images in the entire gallery*
 
 ## Technical Considerations
 
@@ -130,7 +127,7 @@ Important Note
 The vidaai can be overwhelming for elderly family members, especially grandparents. Have someone designated to support them during the ceremony. I have seen grandmothers become so emotional during the vidaai that they need physical support. Having a family member ready to help ensures everyone is comfortable and safe.
 
 Planning an Indian Wedding in Edmonton?
-The vidaai is just one of many sacred moments I am honoured to document. I bring cultural understanding, technical skill, and genuine respect to every ceremony. Let us talk about your celebration and how to capture every important moment beautifully. Explore my [multi-day wedding packages](https://mhphoto.ca/multidaypacakge/).
+The vidaai is just one of many sacred moments I am honoured to document. I bring cultural understanding, technical skill, and genuine respect to every ceremony. Let us talk about your celebration and how to capture every important moment beautifully. Explore my [multi-day wedding packages](/multiday-packages/).
 [Start the Conversation](https://mhphoto.ca/contact/)
 
 ## Frequently Asked Questions

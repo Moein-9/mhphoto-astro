@@ -5,7 +5,7 @@ date: "2026-08-23"
 publishDate: "2026-08-23T09:00:00"
 category: "wedding"
 description: "The ultimate wedding photography shot list — getting ready, ceremony, family formals, couple portraits, reception, and detail shots. Free checklist from Moein Habibi."
-image: "https://mhphoto.ca/wp-content/uploads/2023/07/Picture-41-scaled.jpg"
+image: ""
 draft: false
 ---
 
@@ -58,7 +58,6 @@ The getting-ready phase sets the tone for the entire gallery. It is intimate, em
 - **Family blessings:** In many cultures, the groom receives blessings from elders before leaving for the ceremony
 - **Mirror shot:** The groom checking himself in the mirror — a quiet moment of anticipation
 
-![Bride getting ready with mother helping with wedding dress in natural window light](https://mhphoto.ca/wp-content/uploads/2022/01/0.jpg)*The getting-ready moments set the emotional tone for the entire wedding gallery*
 
 Photographer Tip
 
@@ -88,7 +87,6 @@ The ceremony is the heart of the wedding. Every moment matters, and most of them
 
 For [Indian wedding ceremonies](https://mhphoto.ca/photography/indian-weddings/) specifically, the shot list expands significantly. The baraat procession, the milni, the jaimala, the kanyadaan, the saat pheras — each of these is a distinct ritual with its own emotional weight. An experienced photographer who understands the cultural significance of each ritual will know exactly when to position themselves for the best angles.
 
-![Wedding ceremony moment with couple exchanging vows surrounded by emotional guests](https://mhphoto.ca/wp-content/uploads/2022/01/3.jpg)*Ceremony moments happen once — a shot list ensures nothing is missed*
 Average Number of Ceremony Photos in Final Gallery150–250MH Photography, Edmonton
 
 ## Family Formals and Group Photos
@@ -150,7 +148,6 @@ The reception is a long event with many moving parts. Here is what should be on 
 - **Dance floor:** Guests celebrating, Bollywood performances, choreographed dances
 - **Send-off:** Sparklers, petals, confetti — the final exit as a married couple
 
-![Wedding reception dance floor with guests celebrating under warm lighting](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*The reception tells the story of celebration — every dance, every laugh, every toast*
 
 ## Detail and Decor Shots
 
@@ -232,6 +229,6 @@ What if we forget something on the shot list?
 An experienced photographer will naturally capture the major moments even without a list. The shot list is specifically for personalized requests — that specific family grouping, that heirloom detail, that particular tradition. If you forget something, your photographer's instinct will likely cover it anyway.
 
 Do Indian weddings need a longer shot list?
-Yes. Multi-day Indian weddings with events like mehndi, sangeet, haldi, baraat, ceremony, and reception each need their own shot list. I work with my [multi-day package](https://mhphoto.ca/multidaypacakge/) couples to build a comprehensive guide covering every event and every cultural ritual.
+Yes. Multi-day Indian weddings with events like mehndi, sangeet, haldi, baraat, ceremony, and reception each need their own shot list. I work with my [multi-day package](/multiday-packages/) couples to build a comprehensive guide covering every event and every cultural ritual.
 
 View our [wedding photography gallery](https://mhphoto.ca/photography/weddings/) or learn about [packages and pricing](https://mhphoto.ca/pricing/) for your wedding day.
