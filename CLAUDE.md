@@ -278,23 +278,18 @@ mhphoto-astro/
 
 ### What Still Needs Doing (SEO)
 
-**User must do manually:**
-- [ ] Submit disavow file to GSC (103 spam domains)
-- [ ] Request indexing in GSC for unindexed pages
-- [ ] Set up Google Business Profile (service-area business, Edmonton)
-- [ ] Start asking past clients for Google reviews (target 25 in 6 months)
+**User must do:**
+- [ ] Get more Google reviews (target 25 in 6 months) — biggest local SEO lever
+- [ ] Submit to wedding directories (WeddingWire.ca, The Knot, Maharani Weddings) for backlinks
+- [x] Set up Google Business Profile — DONE (user confirmed)
+- [x] DNS records for Resend email (SPF, DKIM, DMARC) — DONE Apr 5 2026
 
-**Can do in sessions:**
-- [ ] Add content to thin gallery pages (they're image-only, Google has nothing to rank)
-- [ ] Fix title tags on all service pages
-- [ ] Add FAQPage schema to blog posts with FAQ sections
-- [ ] Add Service/Offer schema to pricing page
-- [ ] Set up Vercel cron for daily rebuilds (blog scheduled publishing)
+**Can do in future sessions:**
 - [ ] Build new landing pages: `/wedding-photo-video-packages-edmonton/`, `/elopement-photographer-edmonton/`
 - [ ] Build satellite city pages (Sherwood Park, St. Albert)
-- [ ] Submit to wedding directories (WeddingWire.ca, The Knot, Maharani Weddings)
 - [ ] Add 4 missing blog posts to calendar (photo+video bundle, affordable wedding, mini sessions x2)
-- [ ] Internal linking audit across all pages
+- [ ] Page speed: convert gallery to Astro `<Image>` component for auto WebP/AVIF
+- [ ] Create per-page OG images (currently all share `/og/home.jpg`)
 
 ---
 
@@ -307,15 +302,116 @@ mhphoto-astro/
 | `mhphoto-keyword-analysis-final.md` | Final keyword analysis |
 | `mhphoto-competitor-serp-analysis-2026-04-03.md` | Competitor SERP analysis |
 | `mhphoto-service-page-drafts.md` | Service page content drafts |
-| `mhphoto-disavow.txt` | Disavow file (103 spam domains) |
 | `mhphoto-theme/` | Old WordPress site backup |
 | `mhphoto-theme/CLAUDE.md` | Old WP site reference (60 blog posts, image alt text, schema, etc.) |
+
+---
+
+## Session: April 5, 2026 — Full SEO Audit Fix + Site Hardening
+
+### Ahrefs Audit — Before vs After
+| Issue | Before | After |
+|-------|--------|-------|
+| Broken images | 2,692 | 0 |
+| HTTP/HTTPS mixed content | 1,540 | 0 |
+| Missing alt text | 734 | 0 |
+| Redirected images | 1,432 | 0 |
+| Broken internal links | 103 | 0 |
+| 404 pages | 80 | 6 (old WP URLs, not linked from site) |
+| Oversized images | 100 | 0 |
+| Title too long | 15 | 4 (borderline, keywords worth keeping) |
+| Meta desc too long | 9 | 0 |
+| Schema errors | 58 | 0 (verified via schema.org spec) |
+
+### What Was Done
+
+**Blog fixes (90+ files):**
+- Removed 477 broken `wp-content/uploads` image references
+- Assigned gallery images to all 91 posts by category (mehndi→mehndi, family→family, etc.)
+- Fixed `/multidaypacakge/` typo in 24 files (36 occurrences)
+- Fixed `/photo/` → `/photography/` path
+- Removed links to future (unpublished) blog posts
+- Added 350+ authoritative outbound links (venues, PPOC, The Knot, WeddingWire, Parks Canada, cultural orgs)
+- Shortened 12 titles to ≤60 chars, 42 meta descriptions to ≤155 chars
+
+**Schema fixes (9 pages):**
+- Fixed JSON-LD on homepage, contact, videography, about, pricing, 4 gallery pages
+- Province→AdministrativeArea, ContactPage→WebPage, added contentUrl on VideoObjects, author→creator on galleries
+
+**Mobile crash fixes (9 issues):**
+- Disabled YouTube iframe montage on mobile (infinite iframe spawning)
+- Gallery: only wait for first 6 images, rest stay lazy (was loading all 103 at once)
+- Unified duplicate lightbox touch handlers (race condition fix)
+- Reduced backdrop blur on mobile (GPU crash prevention)
+- Added requestAnimationFrame throttling to 3 scroll handlers
+- Division by zero guard on blog progress bar
+- Null checks in MobileNav and contact form
+- IntersectionObserver fallback for old browsers
+
+**Image optimization:**
+- Compressed 50+ images total (biggest: 26MB→0.4MB, 5.2MB PNG→0.2MB JPG)
+- Zero images remain over 1.5MB across entire site
+- SEO-friendly alt text generation for non-descriptive filenames (rotates category-specific variations)
+- Lightbox now propagates alt text from gallery images
+
+**Font optimization:**
+- Canela OTF→WOFF2 (774KB→224KB, 72% reduction)
+- Montserrat trimmed from 8 weights to 5
+
+**Contact form UX:**
+- Icon-only social buttons (no overflow)
+- Removed "Indian / South Asian Wedding" from dropdown
+- Event date with "Not finalized yet" checkbox
+- All fields sync to Resend email template
+
+**Sitemap & Indexing:**
+- Fixed sitemap-images.xml (added to sitemap-index.xml, robots.txt, XML headers)
+- Daily cron rebuild for blog auto-publishing (vercel.json + api/cron-rebuild.js)
+- Deploy hook created and env var set in Vercel
+- Submitted 34 blog posts for indexing via Google Indexing API
+- Resubmitted both sitemaps in GSC
+
+**Content & SEO updates:**
+- "Across Canada" language on all service pages, FAQs, schema, footer
+- "Team" language for photo+video (not one-man show)
+- Homepage: single H1 (sr-only), removed ARIA duplicate
+- Removed competitor alt text from legacy blog post
+- Scroll reveal flicker fix
+
+**New content:**
+- 4 Banff/Lake Minnewanka engagement photos (56MB→1.2MB)
+- 3 Edmonton wedding photos (33MB→1MB)
+- 4 Edmonton family photos (64MB→2.3MB)
+- Image sitemap updated with all new images
+
+**Infrastructure:**
+- 404 page (matches site design, Vercel auto-serves)
+- 301 redirect for `/multidaypacakge/` → `/multiday-packages/`
+- Email DNS: SPF (amazonses.com), DKIM (resend._domainkey), DMARC, MX bounce handling
+- Google OAuth token refreshed for GSC API access
+
+### Indexing Status (Apr 5, 2026)
+- 11 pages indexed (all main pages)
+- 34 blog posts submitted via Indexing API (24-48hr processing)
+- 57 future posts will auto-publish via daily cron rebuild
+- Next scheduled post: `wedding-photographer-cost-edmonton-2026` on April 8, 2026
+
+### SEO Audit Scores
+- Full SEO audit: 88/100 (page speed is the remaining gap)
+- Image alt audit: 86/100
 
 ---
 
 ## Git History
 
 ```
+6b36658 Add 404 page — matches site design, links to home and portfolio
+e317f09 Add 301 redirect for /multidaypacakge/ typo to /multiday-packages/
+fd8ed0b Fix remaining Ahrefs issues: future post links, 20 oversized images compressed
+c0b1938 Fix 33 blog meta descriptions to under 155 chars for SERP display
+a1df032 Contact form UX, 350+ outbound links, Canada-wide, WOFF2 fonts, 11 new gallery images, SEO fixes
+d5f910c Assign gallery images to all 91 blog posts by category
+c0f7023 Ahrefs audit fix: broken images, schema, SEO, mobile crashes, image compression, sitemap, auto-publish
 44fb218 Remove Formspree completely, Resend verified and ready
 ff1433b Use noreply@mhphoto.ca as email sender
 a05b1ee Replace Formspree with Resend — branded HTML emails + auto-response
