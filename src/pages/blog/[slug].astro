@@ -11,14 +11,21 @@ export async function getStaticPaths() {
     return pubDate <= now;
   });
 
-  // For related posts: pass all posts so we can filter by category
   return posts.map((post) => ({
     params: { slug: post.data.slug },
-    props: { post, allPosts: posts },
+    props: { post },
   }));
 }
 
-const { post, allPosts } = Astro.props;
+const { post } = Astro.props;
+
+// Fetch all posts for related posts section
+const now = new Date();
+const allPosts = await getCollection('blog', ({ data }) => {
+  if (data.draft) return false;
+  const pubDate = new Date(data.publishDate || data.date);
+  return pubDate <= now;
+});
 const { Content } = await render(post);
 
 const catLabels: Record<string, string> = {
