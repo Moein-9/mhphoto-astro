@@ -25,6 +25,7 @@ export default defineConfig({
   site: 'https://mhphoto.ca',
   trailingSlash: 'always',
   redirects: {
+    '/multidaypacakge/': { status: 301, destination: '/multiday-packages/' },
     '/planning-punjabi-wedding-edmonton-guide/': { status: 301, destination: '/blog/planning-punjabi-wedding-edmonton-guide/' },
     '/indian-wedding-photography-edmonton-complete-guide/': { status: 301, destination: '/blog/indian-wedding-photography-edmonton-complete-guide/' },
     '/6-remarkable-benefits-of-hiring-indian-wedding-photographers-in-edmonton/': { status: 301, destination: '/blog/6-remarkable-benefits-of-hiring-indian-wedding-photographers-in-edmonton/' },
