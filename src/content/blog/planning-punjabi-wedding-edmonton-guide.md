@@ -35,8 +35,10 @@ Edmonton has one of the largest Punjabi communities in Western Canada, and the c
 
 I have photographed dozens of Punjabi weddings across Edmonton and the surrounding area. I have been in the room at 5 AM for the Choora ceremony. I have dodged dance-offs during the Jaggo. I have watched grandmothers weep with joy during the Anand Karaj. And through all of it, I have learned what makes these celebrations run smoothly — and what can go sideways if you are not prepared.
 
-Average Indian Wedding in Canada$100,000+Plan Events Canada, 2025
-Average Guest Count350–400Plan Events Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
+| Average Guest Count | **350–400** | Plan Events Canada, 2025 |
 
 Those numbers are not exaggerations. Punjabi weddings are large because family is large. When you have aunts and uncles and cousins and family friends who have known you since you were born, the guest list grows naturally. And when the guest list grows, so does everything else — the venue, the catering, the decor, and yes, the photography coverage.
 
@@ -100,55 +102,23 @@ Modern Punjabi receptions in Edmonton have become increasingly elaborate — LED
 
 Let us talk numbers. One of the biggest sources of stress for couples planning a Punjabi wedding is the budget, because the costs can escalate quickly when you are hosting multi-day events for hundreds of guests.
 
-Category
-Budget Range (CAD)
-Notes
+| Category | Budget Range (CAD) | Notes |
+|---|---|---|
+| Venue Rental (All Events) | **$8,000 – $35,000** | Multiple venues for multi-day celebrations |
+| Catering (350-400 guests) | **$15,000 – $50,000** | $40-$125 per person depending on menu |
+| Decor & Florals | **$8,000 – $30,000** | Mandap/stage, centrepieces, lighting |
+| Photography & Videography | **$5,000 – $15,000** | Multi-day packages with 2 shooters recommended |
+| Bride's Outfits (All Events) | **$3,000 – $15,000** | Lehenga, suits for mehndi/sangeet/reception |
+| Groom's Outfits | **$1,500 – $5,000** | Sherwani, suits for pre-events |
+| DJ / Dhol / Entertainment | **$2,000 – $8,000** | DJ for reception + dhol for baraat/jaggo |
+| Hair & Makeup | **$1,500 – $4,000** | Multiple looks for multiple events |
+| Invitations & Stationery | **$500 – $3,000** | Printed or digital, save-the-dates |
+| Miscellaneous | **$3,000 – $10,000** | Gifts, favours, transportation, tips |
+| **Total Estimated Range** | **$47,500 – $175,000+** | Average sits around $80,000-$120,000 |
 
-Venue Rental (All Events)
-$8,000 – $35,000
-Multiple venues for multi-day celebrations
-
-Catering (350-400 guests)
-$15,000 – $50,000
-$40-$125 per person depending on menu
-
-Decor & Florals
-$8,000 – $30,000
-Mandap/stage, centrepieces, lighting
-
-Photography & Videography
-$5,000 – $15,000
-Multi-day packages with 2 shooters recommended
-
-Bride's Outfits (All Events)
-$3,000 – $15,000
-Lehenga, suits for mehndi/sangeet/reception
-
-Groom's Outfits
-$1,500 – $5,000
-Sherwani, suits for pre-events
-
-DJ / Dhol / Entertainment
-$2,000 – $8,000
-DJ for reception + dhol for baraat/jaggo
-
-Hair & Makeup
-$1,500 – $4,000
-Multiple looks for multiple events
-
-Invitations & Stationery
-$500 – $3,000
-Printed or digital, save-the-dates
-
-Miscellaneous
-$3,000 – $10,000
-Gifts, favours, transportation, tips
-
-**Total Estimated Range**
-**$47,500 – $175,000+**
-Average sits around $80,000-$120,000
-
-Average Canadian Wedding Cost$39,000WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Canadian Wedding Cost | **$39,000** | WeddingWire Canada, 2025 |
 
 That national average of $39,000 is for a typical one-day Western wedding. When you factor in the multi-day nature of Punjabi celebrations, the larger guest counts, and the additional vendors needed, it is easy to see why costs are significantly higher. The key is not to be shocked by the numbers — it is to plan for them strategically.
 

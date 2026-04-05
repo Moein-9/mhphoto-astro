@@ -432,6 +432,77 @@ const finalRelated = [...relatedPosts, ...recentFill];
     max-width: 80px;
   }
 
+  /* --- Tables --- */
+  .blog-content :global(table) {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 2rem 0;
+    font-size: 0.85rem;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    border: 1px solid rgba(201, 168, 108, 0.2);
+  }
+  .blog-content :global(thead) {
+    background: #1a1614;
+  }
+  .blog-content :global(th) {
+    color: #dfc596;
+    font-weight: 600;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.9rem 1rem;
+    text-align: left;
+    white-space: nowrap;
+  }
+  .blog-content :global(td) {
+    padding: 0.85rem 1rem;
+    color: #3d3632;
+    border-bottom: 1px solid rgba(201, 168, 108, 0.12);
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .blog-content :global(tbody tr:last-child td) {
+    border-bottom: none;
+  }
+  .blog-content :global(tbody tr:nth-child(even)) {
+    background: #f9f6f2;
+  }
+  .blog-content :global(tbody tr:hover) {
+    background: rgba(201, 168, 108, 0.08);
+  }
+  .blog-content :global(tbody tr td:first-child) {
+    font-weight: 500;
+    color: #1a1614;
+  }
+  .blog-content :global(td strong),
+  .blog-content :global(th strong) {
+    color: #c9a86c;
+    font-weight: 700;
+  }
+
+  /* Table wrapper for mobile scroll */
+  .blog-content :global(.table-wrap),
+  .blog-content :global(div:has(> table)) {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 2rem -1rem;
+    padding: 0 1rem;
+  }
+
+  @media (max-width: 640px) {
+    .blog-content :global(table) {
+      font-size: 0.78rem;
+      min-width: 500px;
+    }
+    .blog-content :global(th),
+    .blog-content :global(td) {
+      padding: 0.7rem 0.75rem;
+    }
+  }
+
   /* --- WordPress .mh-post design system --- */
   .blog-content :global(.mh-stat) { background: #1a1614; color: #f3ede5; border-radius: 6px; padding: 1.75rem 1.5rem; margin: 2rem 0; text-align: center; border-left: 4px solid #c9a86c; position: relative; overflow: hidden; }
   .blog-content :global(.mh-stat::before) { content: ""; position: absolute; top: 0; right: 0; width: 120px; height: 120px; background: radial-gradient(circle, rgba(201,168,108,0.12) 0%, transparent 70%); pointer-events: none; }
