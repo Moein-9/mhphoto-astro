@@ -24,7 +24,7 @@ export default async function handler(req, res) {
 
     // Send branded email to you
     await resend.emails.send({
-      from: 'MH Photography <onboarding@resend.dev>',
+      from: 'MH Photography <noreply@mhphoto.ca>',
       to: 'moein@mhphoto.ca',
       replyTo: email,
       subject: subject,
@@ -119,7 +119,7 @@ export default async function handler(req, res) {
 
     // Send auto-response to the client
     await resend.emails.send({
-      from: 'MH Photography <onboarding@resend.dev>',
+      from: 'MH Photography <noreply@mhphoto.ca>',
       to: email,
       replyTo: 'moein@mhphoto.ca',
       subject: `Thanks for reaching out, ${name}!`,
