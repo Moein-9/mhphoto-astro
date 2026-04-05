@@ -1,0 +1,42 @@
+---
+title: "Nur and Nicholas Engagement session!"
+slug: "nur-nicholas-engagement-session"
+date: "2014-08-07"
+publishDate: "2014-08-07T19:02:05"
+category: "wedding"
+description: "Nur and Nicholas engagement session by Edmonton photographer Moein Habibi. Beautiful couple portraits at a favourite Edmonton location. MH Photography."
+image: ""
+draft: false
+---
+
+What is the best way to start to post your 1st blog, and your favorite people be part of it! Nur and Nicholas are simply one of the cutest couple i have met, and they truly care for each other.  i know Nur for many years, and capturing her Engagement session felt like part of my family is getting married.
+
+![nur_and_nicholas](http://mhphoto.ca/wp-content/uploads/2014/08/nur_and_nicholas.jpg)
+
+We started the session in Downtown area,  and it we had so much laughs, that it was so hard to take one single quite picture, but finally we manged to take the picture!
+
+![](http://mhphoto.ca/wp-content/uploads/2014/08/picture-6.jpg)
+
+![](http://mhphoto.ca/wp-content/uploads/2014/08/picture-8.jpg)
+
+Isn't she the cutest bride to be? 
+
+![picture-12](http://mhphoto.ca/wp-content/uploads/2014/08/picture-12.jpg)
+
+Later on, we went to take couple pictures around City Hall area, we did the session around evening time, and it was super quite, and i loved it!
+
+![](http://mhphoto.ca/wp-content/uploads/2014/08/picture-14.jpg)
+
+and after that it was tickle time! 
+
+![picmonkey_collage](http://mhphoto.ca/wp-content/uploads/2014/08/picmonkey_collage.jpg)
+
+During the session, Nicholas had a great idea, and he shared with me, and i was like YES, lets do it that is a great idea! and it turned out to be one of the best pictures of the session!
+
+![](http://mhphoto.ca/wp-content/uploads/2014/08/picture-24.jpg) 
+
+Few days later, they held their Engagement party in a resort area called, Moonlight bay, its 2 hours away from Edmonton, such a beautiful place! 
+
+![](http://mhphoto.ca/wp-content/uploads/2014/08/picture-33.jpg)
+
+i really hope you guys enjoyed this 1st blog, and big congrats to Nur and Nicholas, they are getting married this Weekend in London, UK! i wish you guys the best in your new chapter!

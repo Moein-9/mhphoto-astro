@@ -1,0 +1,235 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { photographyNav } from '../../data/navigation';
+import { site } from '../../data/site';
+
+const categoryImages: Record<string, string> = {
+  weddings: '/images/categories/weddings.jpg',
+  'indian-weddings': '/images/categories/indian-weddings.jpg',
+  family: '/images/categories/family.jpg',
+  engagement: '/images/categories/engagement.jpg',
+};
+
+const categoryDescriptions: Record<string, string> = {
+  weddings: 'Timeless documentary-style coverage of your entire wedding day. From getting ready through the last dance — every real moment, captured honestly.',
+  'indian-weddings': 'Multi-day Hindu, Sikh & Punjabi celebrations photographed with cultural understanding. Mehndi to Vidaai, we know when every moment happens.',
+  family: 'Relaxed outdoor sessions across Edmonton. River valley, Hawrelak Park, golden fall colours. Let the kids run — we will catch the magic.',
+  engagement: 'Natural couple portraits at golden hour. River valley, Old Strathcona, Legislature grounds. No awkward posing, just you two being real.',
+};
+
+const categoryKeywords: Record<string, string[]> = {
+  weddings: ['Wedding Photography', 'Photo + Video', 'Documentary Style'],
+  'indian-weddings': ['Multi-Day Coverage', 'Cultural Expertise', 'Photo + Video'],
+  family: ['Outdoor Sessions', 'Fall Minis', 'Kids & Newborns'],
+  engagement: ['Golden Hour', 'Location Scouting', 'Couples Sessions'],
+};
+
+const categoryCount: Record<string, string> = {
+  weddings: '200+ weddings',
+  'indian-weddings': '50+ celebrations',
+  family: '100+ families',
+  engagement: '80+ couples',
+};
+---
+
+<BaseLayout
+  title="Photography Portfolio | MH Photography Edmonton"
+  description="Wedding, Indian wedding, family, and engagement photography by MH Photography in Edmonton. Documentary-style coverage. Booking 2026 & 2027."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Photography Portfolio — MH Photography Edmonton",
+      "description": "Wedding, Indian wedding, family, and engagement photography portfolio by MH Photography in Edmonton, Alberta.",
+      "url": "https://mhphoto.ca/photography/",
+      "isPartOf": { "@type": "WebSite", "name": "MH Photography", "url": "https://mhphoto.ca" },
+      "about": [
+        { "@type": "Service", "name": "Wedding Photography Edmonton", "url": "https://mhphoto.ca/photography/weddings/" },
+        { "@type": "Service", "name": "Indian Wedding Photography Edmonton", "url": "https://mhphoto.ca/photography/indian-weddings/" },
+        { "@type": "Service", "name": "Family Photography Edmonton", "url": "https://mhphoto.ca/photography/family/" },
+        { "@type": "Service", "name": "Engagement Photography Edmonton", "url": "https://mhphoto.ca/photography/engagement/" }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Photography", "item": "https://mhphoto.ca/photography/" }
+      ]
+    })} />
+  </Fragment>
+
+  <!-- Hero Section -->
+  <div class="mb-10 md:mb-14">
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">{site.booking}</p>
+    <h1 class="font-serif font-light text-[clamp(1.75rem,4vw,2.75rem)] leading-[1.1] text-ink mb-5">
+      Edmonton wedding & portrait<br class="hidden sm:block" /> photography
+    </h1>
+    <p class="font-light text-ink-soft text-[0.95rem] leading-[1.8] max-w-[520px]">
+      Real moments from real celebrations. Documentary-style photography
+      for couples and families across Edmonton, Sherwood Park, and St. Albert.
+    </p>
+  </div>
+
+  <!-- Category Cards Grid — 2x2 on desktop, stacked on mobile -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5 mb-14">
+    {photographyNav.map((cat, i) => (
+      <a href={cat.href} class="photo-card group block aspect-[4/5] sm:aspect-[3/4] relative shadow-md">
+        <img
+          src={categoryImages[cat.slug]}
+          alt={`${cat.label} photographer Edmonton — portfolio by MH Photography`}
+          class="absolute inset-0 w-full h-full object-cover"
+          loading={i < 2 ? 'eager' : 'lazy'}
+          fetchpriority={i === 0 ? 'high' : undefined}
+        />
+
+        <!-- Gradient overlay -->
+        <div class="card-overlay absolute inset-0 z-10"></div>
+
+        <!-- Top: stat badge -->
+        <div class="absolute top-4 left-4 z-20">
+          <span class="stat-badge">{categoryCount[cat.slug]}</span>
+        </div>
+
+        <!-- Top right: arrow -->
+        <div class="arrow-circle absolute top-4 right-4 z-20 w-10 h-10 rounded-full bg-white/15 backdrop-blur-sm flex items-center justify-center">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
+        </div>
+
+        <!-- Bottom content -->
+        <div class="absolute bottom-0 left-0 right-0 p-5 sm:p-6 z-20">
+          <!-- Tags -->
+          <div class="flex flex-wrap gap-1.5 mb-3">
+            {categoryKeywords[cat.slug].map((tag: string) => (
+              <span class="tag-pill">{tag}</span>
+            ))}
+          </div>
+
+          <!-- Title -->
+          <h2 class="text-white font-serif font-light text-xl sm:text-2xl leading-tight mb-2">
+            {cat.label}
+          </h2>
+
+          <!-- Description -->
+          <p class="text-white/60 font-light text-[0.8rem] leading-relaxed line-clamp-2">
+            {categoryDescriptions[cat.slug]}
+          </p>
+
+          <!-- CTA -->
+          <span class="inline-flex items-center gap-2 mt-4 text-[0.7rem] font-medium tracking-[0.1em] uppercase text-white/80 group-hover:text-white group-hover:gap-3 transition-all duration-300">
+            View Gallery
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </span>
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <!-- Bottom SEO Section -->
+  <section class="border-t border-[#e0dcd6] pt-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 mb-10">
+      <div>
+        <h2 class="font-serif font-light text-xl text-ink mb-3">Why choose MH Photography?</h2>
+        <p class="font-light text-ink-soft text-[0.85rem] leading-[1.8]">
+          With over 8 years of experience and 200+ weddings captured across Edmonton and Alberta,
+          we specialize in documentary-style photography that tells your story honestly. No stiff poses,
+          no forced smiles — just the real moments that matter most.
+        </p>
+      </div>
+      <div>
+        <h2 class="font-serif font-light text-xl text-ink mb-3">Photo and video, one team</h2>
+        <p class="font-light text-ink-soft text-[0.85rem] leading-[1.8]">
+          Unlike most studios, we handle both photography and cinematic videography in-house.
+          One team, one vision, zero coordination stress. Your photos and film feel like they belong
+          together because they were made by the same person.
+        </p>
+      </div>
+    </div>
+
+    <div class="flex flex-col sm:flex-row gap-4 sm:gap-6 items-start sm:items-center">
+      <a href="/pricing/" class="inline-flex items-center gap-2 text-[0.8rem] font-medium tracking-[0.05em] text-ink border border-ink/20 px-6 py-2.5 rounded-full hover:bg-ink hover:text-white transition-all duration-300">
+        View Packages & Pricing
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+      <a href="/contact/" class="inline-flex items-center gap-2 text-[0.8rem] font-medium tracking-[0.05em] text-white bg-ink px-6 py-2.5 rounded-full hover:bg-[#333] transition-all duration-300">
+        Get in Touch
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .photo-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 16px;
+    transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.5s ease;
+  }
+  .photo-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 25px 50px -12px rgba(0,0,0,0.15);
+  }
+  .photo-card img {
+    transition: transform 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  .photo-card:hover img {
+    transform: scale(1.05);
+  }
+  .photo-card .card-overlay {
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.75) 0%,
+      rgba(0,0,0,0.4) 35%,
+      rgba(0,0,0,0.05) 65%,
+      transparent 100%
+    );
+    transition: opacity 0.4s ease;
+  }
+  .photo-card:hover .card-overlay {
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.8) 0%,
+      rgba(0,0,0,0.45) 40%,
+      rgba(0,0,0,0.08) 70%,
+      transparent 100%
+    );
+  }
+  .photo-card .arrow-circle {
+    opacity: 0;
+    transform: translate(4px, 4px);
+    transition: all 0.35s ease;
+  }
+  .photo-card:hover .arrow-circle {
+    opacity: 1;
+    transform: translate(0, 0);
+  }
+  .tag-pill {
+    background: rgba(255,255,255,0.12);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.08);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.6rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: rgba(255,255,255,0.8);
+    white-space: nowrap;
+  }
+  .stat-badge {
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.1);
+    padding: 6px 12px;
+    border-radius: 24px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: rgba(255,255,255,0.9);
+    text-transform: uppercase;
+  }
+</style>

@@ -1,0 +1,127 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Get all published posts (not drafts, not future-dated)
+const now = new Date();
+const allPosts = await getCollection('blog', ({ data }) => {
+  if (data.draft) return false;
+  const pubDate = new Date(data.publishDate || data.date);
+  return pubDate <= now;
+});
+
+// Sort newest first
+const posts = allPosts.sort((a, b) =>
+  new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+const catLabels: Record<string, string> = {
+  'indian-weddings': 'Indian Weddings',
+  'wedding': 'Wedding',
+  'wedding-tips': 'Wedding Tips',
+  'wedding-planning': 'Wedding Planning',
+  'family-sessions': 'Family',
+  'engagement-sessions': 'Engagement',
+  'edmonton-venues': 'Edmonton Venues',
+  'photography-tips': 'Photography Tips',
+  'lifestyle': 'Lifestyle',
+};
+---
+
+<BaseLayout
+  title="Blog | Wedding Tips & Inspiration | MH Photography"
+  description="Wedding photography tips, Indian wedding guides, Edmonton venue reviews, and behind-the-scenes stories from MH Photography. Updated weekly."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Blog — MH Photography Edmonton",
+      "description": "Wedding photography tips, Indian wedding guides, Edmonton venue reviews, and behind-the-scenes stories from MH Photography.",
+      "url": "https://mhphoto.ca/blog/",
+      "isPartOf": { "@type": "WebSite", "name": "MH Photography", "url": "https://mhphoto.ca" },
+      "publisher": {
+        "@type": "Organization",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": posts.slice(0, 20).map((post, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "url": `https://mhphoto.ca/blog/${post.data.slug}/`,
+          "name": post.data.title
+        }))
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://mhphoto.ca/blog/" }
+      ]
+    })} />
+  </Fragment>
+
+  <div class="mb-14">
+    <p class="text-xs font-medium tracking-[0.2em] uppercase text-gold mb-4">Blog</p>
+    <h1 class="font-serif font-light text-[clamp(2rem,4vw,3rem)] leading-[1.1] text-ink mb-4">
+      Stories, tips &amp; inspiration
+    </h1>
+    <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75] max-w-[500px]">
+      Wedding planning guides, Indian ceremony photography tips, Edmonton venue spotlights, and real stories from behind the lens.
+    </p>
+  </div>
+
+  <!-- Blog grid -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
+    {posts.map((post) => {
+      const cat = catLabels[post.data.category] || post.data.category;
+      const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric' });
+      return (
+        <a href={`/blog/${post.data.slug}/`} class="group block">
+          <article class="bg-white rounded-xl overflow-hidden ring-1 ring-black/5 shadow-sm hover:shadow-md transition-all duration-300 hover:-translate-y-1">
+            {post.data.image && (
+              <div class="relative h-[200px] overflow-hidden">
+                <img
+                  src={post.data.image}
+                  alt={`${post.data.title} — Edmonton wedding photography blog by MH Photography`}
+                  class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+                  loading="lazy"
+                />
+                <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+              </div>
+            )}
+            <div class="p-5">
+              <div class="flex items-center gap-2 mb-3">
+                <span class="text-[0.55rem] font-semibold tracking-[0.12em] uppercase text-gold bg-gold/10 px-2 py-0.5 rounded-full">
+                  {cat}
+                </span>
+                <span class="text-[0.6rem] text-ink-muted font-light">{date}</span>
+              </div>
+              <h2 class="font-serif font-light text-[1.05rem] text-ink leading-snug group-hover:text-gold-warm transition-colors duration-300">
+                {post.data.title}
+              </h2>
+              {post.data.description && (
+                <p class="text-[0.75rem] font-light text-ink-soft mt-2 leading-relaxed line-clamp-2">
+                  {post.data.description}
+                </p>
+              )}
+            </div>
+          </article>
+        </a>
+      );
+    })}
+  </div>
+</BaseLayout>
+
+<style>
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

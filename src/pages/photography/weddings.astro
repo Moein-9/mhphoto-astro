@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MasonryGallery from '../../components/gallery/MasonryGallery.astro';
+import { site } from '../../data/site';
+
+const faqs = [
+  { q: 'How much does wedding photography cost in Edmonton?', a: 'Wedding photography packages at MH Photography start at $2,250 for full-day coverage. Photo and video bundles start at $8,750. Multi-day wedding packages for Indian and South Asian celebrations are also available with custom pricing.' },
+  { q: 'What is included in your wedding photography packages?', a: 'Every package includes full-day coverage from getting ready through the reception, professional editing, an online gallery with full download rights, and colour grading. Second shooter and engagement sessions can be added.' },
+  { q: 'Do you offer both wedding photography and videography?', a: 'Yes. MH Photography provides both photo and video from one team. This means consistent creative direction, no competing vendors, and a seamless experience on your wedding day.' },
+  { q: 'How many photos will I receive from my wedding?', a: 'A typical full-day wedding receives 400-600+ professionally edited images. Every moment from prep to the last dance is covered — not just the highlight reel.' },
+  { q: 'Do you photograph weddings outside of Edmonton?', a: 'Absolutely. We regularly cover weddings across Alberta — Calgary, Banff, Jasper, Canmore, Sherwood Park, St. Albert, Spruce Grove, and anywhere your celebration takes you.' },
+  { q: 'What is your wedding photography style?', a: 'Our approach is documentary and candid. We capture your day as it naturally unfolds — real emotions, real moments, no stiff poses. The result is a gallery that feels like your story, not a photoshoot.' },
+  { q: 'How far in advance should I book my wedding photographer?', a: 'We recommend booking 6-12 months in advance, especially for summer and fall weddings. Popular dates fill quickly. We are currently booking for the upcoming wedding season.' },
+];
+---
+
+<BaseLayout
+  title="Edmonton Wedding Photographer | MH Photo & Video"
+  description="Documentary wedding photography in Edmonton. Candid moments, real emotions, photo + video under one roof. Currently booking 2026 & 2027."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(f => ({
+        "@type": "Question", "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a },
+      })),
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Photography", "item": "https://mhphoto.ca/photography/" },
+        { "@type": "ListItem", "position": 3, "name": "Weddings", "item": "https://mhphoto.ca/photography/weddings/" }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ImageGallery",
+      "name": "Edmonton Wedding Photography Gallery",
+      "description": "Documentary wedding photography portfolio by MH Photography in Edmonton, Alberta.",
+      "url": "https://mhphoto.ca/photography/weddings/",
+      "author": { "@type": "Person", "name": "Moein Habibi" }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Wedding Photography Edmonton",
+      "description": "Full-day documentary wedding photography coverage in Edmonton and across Alberta. Packages from $2,250.",
+      "provider": { "@type": "PhotographyBusiness", "name": "MH Photography", "url": "https://mhphoto.ca" },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "City", "name": "Sherwood Park" },
+        { "@type": "City", "name": "St. Albert" },
+        { "@type": "AdministrativeArea", "name": "Alberta" }
+      ],
+      "serviceType": "Wedding Photography",
+      "offers": { "@type": "Offer", "priceCurrency": "CAD", "price": "2250", "description": "Single-day wedding photography starting price", "url": "https://mhphoto.ca/pricing/" }
+    })} />
+  </Fragment>
+
+  <p class="text-sm font-light mb-1">
+    <a href="/photography/" class="text-ink-muted hover:text-gold transition-colors">Photography</a>
+    <span class="mx-1.5 text-ink-muted/40">/</span>
+    <strong class="font-medium text-ink">Weddings</strong>
+  </p>
+
+  <div class="mb-12 max-w-2xl reveal">
+    <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.1] tracking-[-0.02em] text-ink mb-5">
+      Edmonton Wedding Photographer
+    </h1>
+    <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+      Documentary-style wedding photography. Candid moments, real emotions, photo and video under one roof. I stay close, move quietly, and capture your day as it actually unfolds.
+    </p>
+  </div>
+
+  <div class="mb-20">
+    <MasonryGallery slug="weddings" altPrefix="Edmonton wedding photography" />
+  </div>
+
+  <section class="text-center py-16 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-2xl text-ink mb-4">Want to see if we're a good fit?</h2>
+    <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+      Get in Touch
+    </a>
+  </section>
+
+  <!-- FAQ — SEO -->
+  <section class="py-12 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-6">Wedding Photography in Edmonton — FAQ</h2>
+    <div class="space-y-5">
+      {[
+        { q: 'How much does wedding photography cost in Edmonton?', a: 'Wedding photography packages at MH Photography start at $2,250 for full-day coverage. Photo and video bundles start at $8,750. Multi-day wedding packages for Indian and South Asian celebrations are also available with custom pricing.' },
+        { q: 'What is included in your wedding photography packages?', a: 'Every package includes full-day coverage from getting ready through the reception, professional editing, an online gallery with full download rights, and colour grading. Second shooter and engagement sessions can be added.' },
+        { q: 'Do you offer both wedding photography and videography?', a: 'Yes. MH Photography provides both photo and video from one team. This means consistent creative direction, no competing vendors, and a seamless experience on your wedding day.' },
+        { q: 'How many photos will I receive from my wedding?', a: 'A typical full-day wedding receives 400-600+ professionally edited images. Every moment from prep to the last dance is covered — not just the highlight reel.' },
+        { q: 'Do you photograph weddings outside of Edmonton?', a: 'Absolutely. We regularly cover weddings across Alberta — Calgary, Banff, Jasper, Canmore, Sherwood Park, St. Albert, Spruce Grove, and anywhere your celebration takes you.' },
+        { q: 'What is your wedding photography style?', a: 'Our approach is documentary and candid. We capture your day as it naturally unfolds — real emotions, real moments, no stiff poses. The result is a gallery that feels like your story, not a photoshoot.' },
+        { q: 'How far in advance should I book my wedding photographer?', a: 'We recommend booking 6-12 months in advance, especially for summer and fall weddings. Popular dates fill quickly. We are currently booking for the upcoming wedding season.' },
+      ].map(faq => (
+        <details class="group border border-[#e0dcd6] rounded-lg">
+          <summary class="flex items-center justify-between p-4 cursor-pointer text-[0.85rem] font-medium text-ink">
+            {faq.q}
+            <svg class="w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-200 group-open:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </summary>
+          <p class="px-4 pb-4 text-[0.8rem] font-light text-ink-soft leading-relaxed">{faq.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <!-- Cross-links to other services -->
+  <section class="py-10 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-5">Explore more</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <a href="/photography/indian-weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Indian Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Multi-day coverage</p>
+      </a>
+      <a href="/videography/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Videography</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Cinematic wedding films</p>
+      </a>
+      <a href="/photography/engagement/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Engagement</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Couple portraits</p>
+      </a>
+      <a href="/pricing/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Packages</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">View pricing</p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

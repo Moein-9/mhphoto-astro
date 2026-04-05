@@ -1,0 +1,139 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MasonryGallery from '../../components/gallery/MasonryGallery.astro';
+import { site } from '../../data/site';
+
+const faqs = [
+  { q: 'Do you cover multi-day Indian weddings in Edmonton?', a: 'Yes. Most Indian and South Asian weddings span two to four days. I offer multi-day packages covering Mehndi, Sangeet, ceremony, and reception — photography and videography included.' },
+  { q: 'Are you experienced with Hindu and Sikh ceremonies?', a: 'Years of experience with Hindu ceremonies, Anand Karaj at Gurdwaras, and Punjabi wedding traditions. I understand the timing and flow so I never miss key moments.' },
+  { q: 'How much does Indian wedding photography cost?', a: 'Multi-day packages start at $3,500 for photography and $4,500 for photo + video. Every celebration is unique — get in touch for a custom quote.' },
+  { q: 'Do you travel outside Edmonton?', a: 'Absolutely. I cover weddings across Alberta — Calgary, Sherwood Park, St. Albert, and beyond. Travel fees are included in your custom quote.' },
+  { q: 'What venues do you recommend for Indian weddings?', a: 'Popular Edmonton venues include the Oasis Centre, Gurdwaras, Hindu Society of Alberta, Fairmont Hotel Macdonald, and banquet halls for large celebrations.' },
+  { q: 'Do you offer both photography and videography?', a: 'Yes — I handle both myself. One consistent style, zero coordination headaches, complete coverage of every moment.' },
+];
+---
+
+<BaseLayout
+  title="Indian Wedding Photographer Edmonton | MH Photo"
+  description="Experienced with Hindu, Sikh & Punjabi weddings in Edmonton. Multi-day photo + video coverage from Mehndi to reception. Booking 2026 & 2027."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Photography", "item": "https://mhphoto.ca/photography/" },
+        { "@type": "ListItem", "position": 3, "name": "Indian Weddings", "item": "https://mhphoto.ca/photography/indian-weddings/" }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ImageGallery",
+      "name": "Edmonton Indian Wedding Photography Gallery",
+      "description": "Hindu, Sikh, and Punjabi wedding photography portfolio by MH Photography in Edmonton.",
+      "url": "https://mhphoto.ca/photography/indian-weddings/",
+      "author": { "@type": "Person", "name": "Moein Habibi" }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Indian Wedding Photography Edmonton",
+      "description": "Multi-day Hindu, Sikh, and Punjabi wedding photography and videography in Edmonton. Mehndi to reception coverage.",
+      "provider": { "@type": "PhotographyBusiness", "name": "MH Photography", "url": "https://mhphoto.ca" },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "AdministrativeArea", "name": "Alberta" }
+      ],
+      "serviceType": "Indian Wedding Photography",
+      "offers": { "@type": "Offer", "priceCurrency": "CAD", "price": "3500", "description": "Multi-day Indian wedding photography starting price", "url": "https://mhphoto.ca/pricing/" }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(f => ({
+        "@type": "Question", "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a },
+      }))
+    })} />
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <p class="text-sm font-light mb-1">
+    <a href="/photography/" class="text-ink-muted hover:text-gold transition-colors">Photography</a>
+    <span class="mx-1.5 text-ink-muted/40">/</span>
+    <strong class="font-medium text-ink">Indian Weddings</strong>
+  </p>
+
+  <!-- Hero -->
+  <div class="mb-12 max-w-2xl reveal">
+    <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.1] tracking-[-0.02em] text-ink mb-5">
+      Indian Wedding Photographer in Edmonton
+    </h1>
+    <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+      Documenting Hindu, Sikh, and Punjabi wedding traditions across Edmonton. Multi-day coverage from Mehndi through reception, with the cultural understanding your celebration deserves.
+    </p>
+  </div>
+
+  <!-- Masonry Gallery — all 61 images -->
+  <div class="mb-20">
+    <MasonryGallery
+      slug="indian-weddings"
+      altPrefix="Indian wedding photography Edmonton"
+    />
+  </div>
+
+  <!-- CTA -->
+  <section class="text-center py-16 mb-16 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-4">
+      Let's document your celebration.
+    </h2>
+    <p class="font-light text-ink-muted text-sm mb-7 max-w-md mx-auto">
+      Whether it's a two-day celebration or a full weekend, I'd love to hear about your plans.
+    </p>
+    <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+      Get in Touch
+    </a>
+  </section>
+
+  <!-- FAQ -->
+  <section class="max-w-2xl mx-auto mb-16 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2rem)] text-ink mb-8">
+      Frequently Asked Questions
+    </h2>
+    {faqs.map((faq) => (
+      <div class="faq-item border-b border-ink/[0.06] first:border-t">
+        <button class="flex justify-between items-center w-full py-5 text-left cursor-pointer group" onclick="this.closest('.faq-item').classList.toggle('open')">
+          <h3 class="font-normal text-[0.9rem] text-ink pr-4 leading-relaxed group-hover:text-gold-deep transition-colors">{faq.q}</h3>
+          <svg class="faq-chevron w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-500" style="transition-timing-function:cubic-bezier(0.16,1,0.3,1)" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="faq-answer"><p class="font-light text-[0.85rem] text-ink-soft leading-[1.7] pb-5 max-w-[640px]">{faq.a}</p></div>
+      </div>
+    ))}
+  </section>
+
+  <!-- Cross-links to other services -->
+  <section class="py-10 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-5">Explore more</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <a href="/photography/weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Full-day coverage</p>
+      </a>
+      <a href="/videography/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Videography</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Cinematic wedding films</p>
+      </a>
+      <a href="/photography/family/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Family</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Outdoor sessions</p>
+      </a>
+      <a href="/pricing/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Packages</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">View pricing</p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

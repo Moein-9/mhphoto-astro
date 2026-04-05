@@ -1,0 +1,368 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+---
+
+<BaseLayout
+  title="Contact MH Photography | Edmonton Wedding Photographer"
+  description="Get in touch about your wedding, engagement, or family session in Edmonton. Email moein@mhphoto.ca — I'll get back to you within 24 hours."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact MH Photography",
+      "description": "Get in touch about your wedding, engagement, or family session in Edmonton.",
+      "url": "https://mhphoto.ca/contact/",
+      "mainEntity": {
+        "@type": "PhotographyBusiness",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca",
+        "email": "moein@mhphoto.ca",
+        "address": { "@type": "PostalAddress", "addressLocality": "Edmonton", "addressRegion": "AB", "addressCountry": "CA" },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "email": "moein@mhphoto.ca",
+          "contactType": "customer service",
+          "availableLanguage": "English"
+        },
+        "sameAs": [
+          "https://www.instagram.com/mhphotoss",
+          "https://www.youtube.com/@MoeinHabibi",
+          "https://www.facebook.com/MoeinHphotography"
+        ]
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Contact", "item": "https://mhphoto.ca/contact/" }
+      ]
+    })} />
+  </Fragment>
+
+  <!-- Hero area -->
+  <div class="mb-14">
+    <p class="text-[0.6rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">{site.booking}</p>
+    <h1 class="font-serif font-light text-[clamp(2rem,5vw,3.25rem)] leading-[1.08] text-ink mb-5">
+      Let's talk about<br class="hidden sm:block" /> your day.
+    </h1>
+    <p class="font-light text-ink-soft text-[0.9rem] leading-[1.8] max-w-[480px]">
+      Whether it's a wedding, an engagement, or a family milestone —
+      I'd love to hear about it. Fill out the form and I'll get back to you within 24 hours.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-[1fr_320px] gap-10 lg:gap-12 items-start">
+    <!-- Left — the form -->
+    <div>
+      <!-- Success state -->
+      <div id="form-success" class="hidden">
+        <div class="glass-card text-center py-16 px-6 rounded-3xl">
+          <div class="w-16 h-16 mx-auto mb-5 rounded-full bg-gold/10 flex items-center justify-center">
+            <svg class="w-8 h-8 text-gold" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-serif font-light text-2xl text-ink mb-2">You're all set!</h3>
+          <p class="text-[0.85rem] font-light text-ink-soft max-w-[320px] mx-auto">
+            Your message is on its way. I'll get back to you within 24 hours — talk soon.
+          </p>
+        </div>
+      </div>
+
+      <!-- Email confirmation overlay -->
+      <div id="email-confirm" class="hidden">
+        <div class="glass-card rounded-3xl p-8 sm:p-10 text-center">
+          <div class="w-14 h-14 mx-auto mb-5 rounded-full bg-gold/10 flex items-center justify-center">
+            <svg class="w-7 h-7 text-gold" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+          </div>
+          <p class="text-[0.65rem] font-medium tracking-[0.15em] uppercase text-ink-muted mb-2">Quick check</p>
+          <h3 class="font-serif font-light text-xl text-ink mb-2">Is this your correct email?</h3>
+          <p class="font-serif text-lg text-gold mb-1" id="confirm-email-display"></p>
+          <p class="text-[0.78rem] font-light text-ink-soft mb-8">I'll reply here, so make sure it's right.</p>
+          <div class="flex flex-col sm:flex-row gap-3 justify-center max-w-[360px] mx-auto">
+            <button id="confirm-yes"
+              class="flex-1 font-semibold text-[0.68rem] tracking-[0.14em] uppercase text-white bg-ink py-3.5 rounded-full hover:bg-[#333] transition-colors duration-300">
+              Yes, Send It
+            </button>
+            <button id="confirm-edit"
+              class="flex-1 font-semibold text-[0.68rem] tracking-[0.14em] uppercase text-ink bg-transparent py-3.5 rounded-full border border-ink/20 hover:bg-ink hover:text-white transition-all duration-300">
+              Let Me Fix It
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- The form -->
+      <form id="contact-form" action="https://formspree.io/f/mykbbppd" method="POST">
+        <div class="glass-card rounded-3xl p-6 sm:p-10">
+          <!-- Name + Email row -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-5">
+            <div>
+              <label for="cf-name" class="block text-[0.62rem] font-medium tracking-[0.14em] uppercase text-ink-muted mb-2.5">Your Name *</label>
+              <input type="text" id="cf-name" name="Name" required placeholder="e.g. Sarah & James"
+                class="contact-input" />
+            </div>
+            <div>
+              <label for="cf-email" class="block text-[0.62rem] font-medium tracking-[0.14em] uppercase text-ink-muted mb-2.5">Your Email *</label>
+              <input type="email" id="cf-email" name="Email" required placeholder="you@email.com"
+                class="contact-input" />
+            </div>
+          </div>
+
+          <!-- Session type + Date row -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-5">
+            <div>
+              <label for="cf-type" class="block text-[0.62rem] font-medium tracking-[0.14em] uppercase text-ink-muted mb-2.5">What Are You Looking For?</label>
+              <select id="cf-type" name="Session Type" class="contact-input">
+                <option value="">Select...</option>
+                <option>Wedding Photography</option>
+                <option>Wedding Videography</option>
+                <option>Wedding Photo + Video</option>
+                <option>Indian / South Asian Wedding</option>
+                <option>Family Session</option>
+                <option>Engagement Session</option>
+                <option>Other</option>
+              </select>
+            </div>
+            <div>
+              <label for="cf-date" class="block text-[0.62rem] font-medium tracking-[0.14em] uppercase text-ink-muted mb-2.5">When Is Your Event?</label>
+              <input type="text" id="cf-date" name="Event Date" placeholder="e.g. August 2027"
+                class="contact-input" />
+            </div>
+          </div>
+
+          <!-- Message -->
+          <div class="mb-7">
+            <label for="cf-message" class="block text-[0.62rem] font-medium tracking-[0.14em] uppercase text-ink-muted mb-2.5">Tell Me About Your Day</label>
+            <textarea id="cf-message" name="Message" rows="5" placeholder="What are you celebrating? What matters most to you? Any details — I'm all ears."
+              class="contact-input resize-none"></textarea>
+          </div>
+
+          <!-- Submit -->
+          <button type="submit" id="submit-btn"
+            class="w-full font-semibold text-[0.68rem] tracking-[0.14em] uppercase text-white bg-ink py-4 rounded-full hover:bg-[#333] transition-all duration-300 flex items-center justify-center gap-2.5 shadow-sm">
+            Send Message
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Right — sidebar info -->
+    <div class="lg:sticky lg:top-8">
+      <!-- Profile card -->
+      <div class="glass-card rounded-2xl p-6 mb-4">
+        <div class="flex items-center gap-4 mb-5">
+          <div class="w-14 h-14 rounded-full overflow-hidden ring-2 ring-gold/20 flex-shrink-0">
+            <img src="/images/about-moe.jpg" alt="Moein Habibi — Edmonton wedding photographer and filmmaker at MH Photography" class="w-full h-full object-cover" loading="lazy" />
+          </div>
+          <div>
+            <p class="font-serif font-light text-[1rem] text-ink leading-tight">Moe Habibi</p>
+            <p class="text-[0.7rem] font-light text-ink-soft">Photographer & Filmmaker</p>
+          </div>
+        </div>
+        <div class="space-y-4">
+          <div class="flex items-start gap-3">
+            <svg class="w-4 h-4 mt-0.5 text-gold flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+            <a href={`mailto:${site.email}`} class="text-[0.8rem] font-light text-ink hover:text-gold transition-colors">{site.email}</a>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-4 h-4 mt-0.5 text-gold flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            <div>
+              <p class="text-[0.8rem] font-light text-ink">Edmonton, Alberta</p>
+              <p class="text-[0.7rem] font-light text-ink-soft mt-0.5">Also serving Sherwood Park, St. Albert, Spruce Grove & all of Alberta</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-3">
+            <svg class="w-4 h-4 mt-0.5 text-gold flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            <p class="text-[0.8rem] font-light text-ink">Replies within 24 hours</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stats -->
+      <div class="grid grid-cols-2 gap-3 mb-4">
+        <div class="glass-card rounded-2xl p-5 text-center">
+          <p class="font-serif font-light text-2xl text-ink mb-0.5">200<span class="text-gold">+</span></p>
+          <p class="text-[0.58rem] font-medium tracking-[0.1em] uppercase text-ink-muted">Weddings Shot</p>
+        </div>
+        <div class="glass-card rounded-2xl p-5 text-center">
+          <p class="font-serif font-light text-2xl text-gold mb-0.5">5.0</p>
+          <p class="text-[0.58rem] font-medium tracking-[0.1em] uppercase text-ink-muted">Google Rating</p>
+        </div>
+      </div>
+
+      <!-- Social links -->
+      <div class="glass-card rounded-2xl p-5">
+        <p class="text-[0.58rem] font-medium tracking-[0.12em] uppercase text-ink-muted mb-3">Follow Along</p>
+        <div class="flex gap-3">
+          <a href={site.social.instagram} target="_blank" rel="noopener noreferrer" class="social-pill">
+            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1.5" fill="currentColor" stroke="none"/></svg>
+            Instagram
+          </a>
+          <a href={site.social.youtube} target="_blank" rel="noopener noreferrer" class="social-pill">
+            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M22.54 6.42a2.78 2.78 0 00-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 00-1.94 2A29.94 29.94 0 001 12a29.94 29.94 0 00.46 5.58 2.78 2.78 0 001.94 2C5.12 20 12 20 12 20s6.88 0 8.6-.46a2.78 2.78 0 001.94-2A29.94 29.94 0 0023 12a29.94 29.94 0 00-.46-5.58z"/><path d="M9.75 15.02l5.75-3.27-5.75-3.27v6.54z"/></svg>
+            YouTube
+          </a>
+          <a href={site.social.facebook} target="_blank" rel="noopener noreferrer" class="social-pill">
+            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+            Facebook
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById('contact-form') as HTMLFormElement;
+    const confirmPanel = document.getElementById('email-confirm')!;
+    const successPanel = document.getElementById('form-success')!;
+    const confirmEmailDisplay = document.getElementById('confirm-email-display')!;
+    const confirmYes = document.getElementById('confirm-yes')!;
+    const confirmEdit = document.getElementById('confirm-edit')!;
+
+    function getFormData() {
+      const name = (form.querySelector('#cf-name') as HTMLInputElement).value.trim();
+      const email = (form.querySelector('#cf-email') as HTMLInputElement).value.trim();
+      const sessionType = (form.querySelector('#cf-type') as HTMLSelectElement).value;
+      const eventDate = (form.querySelector('#cf-date') as HTMLInputElement).value.trim();
+      const message = (form.querySelector('#cf-message') as HTMLTextAreaElement).value.trim();
+      return { name, email, sessionType, eventDate, message };
+    }
+
+    // Step 1: intercept submit → show email confirmation
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const { email } = getFormData();
+      if (!email) return;
+
+      confirmEmailDisplay.textContent = email;
+      form.classList.add('hidden');
+      confirmPanel.classList.remove('hidden');
+      confirmPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+    // Step 2a: "Yes, Send It" → send JSON with nice structure
+    confirmYes.addEventListener('click', async () => {
+      const original = confirmYes.innerHTML;
+      (confirmYes as HTMLButtonElement).disabled = true;
+      confirmYes.innerHTML = 'Sending...';
+
+      const { name, email, sessionType, eventDate, message } = getFormData();
+
+      // Build a clean subject line
+      const subject = sessionType
+        ? `New Inquiry — ${name} · ${sessionType}`
+        : `New Inquiry — ${name}`;
+
+      try {
+        const res = await fetch('https://formspree.io/f/mykbbppd', {
+          method: 'POST',
+          headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            _subject: subject,
+            _replyto: email,
+            "Name": name,
+            "Email": email,
+            "Session Type": sessionType || "Not specified",
+            "Event Date": eventDate || "Not specified",
+            "Message": message || "No message provided",
+          }),
+        });
+        if (res.ok) {
+          confirmPanel.classList.add('hidden');
+          successPanel.classList.remove('hidden');
+          successPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        } else {
+          confirmYes.innerHTML = 'Error — try again';
+          (confirmYes as HTMLButtonElement).disabled = false;
+          setTimeout(() => { confirmYes.innerHTML = original; }, 3000);
+        }
+      } catch {
+        confirmYes.innerHTML = 'Error — try again';
+        (confirmYes as HTMLButtonElement).disabled = false;
+        setTimeout(() => { confirmYes.innerHTML = original; }, 3000);
+      }
+    });
+
+    // Step 2b: "Let Me Fix It" → go back to form with email focused
+    confirmEdit.addEventListener('click', () => {
+      confirmPanel.classList.add('hidden');
+      form.classList.remove('hidden');
+      const emailInput = form.querySelector('#cf-email') as HTMLInputElement;
+      emailInput.focus();
+      emailInput.select();
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  /* Glass effect card */
+  .glass-card {
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow:
+      0 4px 30px rgba(0, 0, 0, 0.04),
+      0 1px 3px rgba(0, 0, 0, 0.02),
+      inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  }
+  @supports not (backdrop-filter: blur(20px)) {
+    .glass-card {
+      background: #f8f6f2;
+      border: 1px solid #e8e4de;
+    }
+  }
+
+  .contact-input {
+    width: 100%;
+    padding: 0.85rem 1.1rem;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 0.875rem;
+    font-size: 0.875rem;
+    font-weight: 300;
+    color: #1a1a1a;
+    transition: all 0.25s ease;
+  }
+  .contact-input::placeholder {
+    color: #b5ad9f;
+  }
+  .contact-input:focus {
+    outline: none;
+    border-color: #C9A86C;
+    box-shadow: 0 0 0 3px rgba(201, 168, 108, 0.12);
+    background: #fff;
+  }
+  select.contact-input {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    padding-right: 2.5rem;
+  }
+  .social-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.4rem 0.75rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    font-size: 0.7rem;
+    font-weight: 400;
+    color: #555;
+    transition: all 0.25s ease;
+  }
+  .social-pill:hover {
+    background: #1a1a1a;
+    color: #fff;
+    border-color: #1a1a1a;
+  }
+</style>

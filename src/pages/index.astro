@@ -1,0 +1,673 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+import { photographyNav } from '../data/navigation';
+
+const categoryImages: Record<string, string> = {
+  weddings: '/images/categories/weddings.jpg',
+  'indian-weddings': '/images/categories/indian-weddings.jpg',
+  family: '/images/categories/family.jpg',
+  engagement: '/images/categories/engagement.jpg',
+};
+
+const categoryDescriptions: Record<string, string> = {
+  weddings: 'Timeless documentary-style coverage of your entire wedding day',
+  'indian-weddings': 'Multi-day celebrations captured with cultural understanding and care',
+  family: 'Relaxed outdoor sessions that capture your family as you really are',
+  engagement: 'Natural couple portraits in Edmonton\'s most beautiful locations',
+};
+
+// Pull all gallery images and shuffle for "Recent Work" section
+const galleryGlob = import.meta.glob('/public/gallery-images/**/*.{jpg,jpeg,png,webp}');
+const allGalleryPaths = Object.keys(galleryGlob).map(p => p.replace('/public', ''));
+// Fisher-Yates shuffle
+for (let i = allGalleryPaths.length - 1; i > 0; i--) {
+  const j = Math.floor(Math.random() * (i + 1));
+  [allGalleryPaths[i], allGalleryPaths[j]] = [allGalleryPaths[j], allGalleryPaths[i]];
+}
+const recentWorkImages = allGalleryPaths.slice(0, 14);
+---
+
+<BaseLayout
+  title="Edmonton Wedding Photographer & Videographer | MH Photo"
+  description="Edmonton wedding photographer and videographer. Indian weddings, family portraits, engagement sessions. Documentary photo + cinematic video. Book now."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "PhotographyBusiness",
+      "name": "MH Photography",
+      "alternateName": "MH Photo",
+      "url": "https://mhphoto.ca",
+      "image": "https://mhphoto.ca/images/hero/hero-1.jpg",
+      "description": "Edmonton wedding photographer and videographer specializing in Indian weddings, family portraits, and engagement sessions. Documentary photography and cinematic video.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 53.5461,
+        "longitude": -113.4937
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "Province", "name": "Alberta" }
+      ],
+      "founder": {
+        "@type": "Person",
+        "name": "Moein Habibi"
+      },
+      "email": "moein@mhphoto.ca",
+      "priceRange": "$$",
+      "knowsAbout": [
+        "Wedding Photography",
+        "Wedding Videography",
+        "Indian Wedding Photography",
+        "South Asian Wedding Photography",
+        "Family Photography",
+        "Engagement Photography"
+      ],
+      "sameAs": [
+        "https://www.instagram.com/mhphotoss",
+        "https://www.youtube.com/@MoeinHabibi",
+        "https://www.facebook.com/MoeinHphotography"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "50",
+        "bestRating": "5"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Photography & Videography Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Wedding Photography Edmonton",
+              "description": "Full-day documentary wedding photography coverage in Edmonton and across Alberta"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Wedding Videography Edmonton",
+              "description": "Cinematic wedding films and highlight videos"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Indian Wedding Photography Edmonton",
+              "description": "Multi-day Indian and South Asian wedding coverage including mehndi, sangeet, ceremony, and reception"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Family Photography Edmonton",
+              "description": "Relaxed outdoor family portrait sessions in Edmonton"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Engagement Photography Edmonton",
+              "description": "Couple portrait sessions and engagement photos across Edmonton"
+            }
+          }
+        ]
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "MH Photography",
+      "url": "https://mhphoto.ca",
+      "description": "Edmonton wedding photographer and videographer specializing in Indian weddings, family portraits, and engagement sessions.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://mhphoto.ca/blog/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Photography & Videography Services by MH Photography",
+      "itemListOrder": "https://schema.org/ItemListUnordered",
+      "numberOfItems": 6,
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Wedding Photography", "url": "https://mhphoto.ca/photography/weddings/" },
+        { "@type": "ListItem", "position": 2, "name": "Wedding Videography", "url": "https://mhphoto.ca/videography/" },
+        { "@type": "ListItem", "position": 3, "name": "Photo + Video Packages", "url": "https://mhphoto.ca/pricing/" },
+        { "@type": "ListItem", "position": 4, "name": "Indian Wedding Photography", "url": "https://mhphoto.ca/photography/indian-weddings/" },
+        { "@type": "ListItem", "position": 5, "name": "Family Photography", "url": "https://mhphoto.ca/photography/family/" },
+        { "@type": "ListItem", "position": 6, "name": "Engagement Photography", "url": "https://mhphoto.ca/photography/engagement/" }
+      ]
+    })} />
+  </Fragment>
+
+  <!-- ============================================= -->
+  <!-- HERO — Full-impact, image-first, every screen -->
+  <!-- ============================================= -->
+  <section class="mb-16 md:mb-24">
+    <!-- Mobile hero — two cards (photo + video) matching desktop vibe -->
+    <div class="lg:hidden">
+      <div class="mb-6">
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">Edmonton, Alberta</p>
+        <h1 class="font-serif font-light text-[clamp(1.75rem,7vw,2.5rem)] leading-[1.1] tracking-[-0.02em] text-ink mb-4">
+          Edmonton Wedding<br />Photographer &amp;&nbsp;<em class="italic">Videographer</em>
+        </h1>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.7] mb-5">
+          Documentary photography and cinematic film for weddings, Indian celebrations, and families.
+        </p>
+        <p class="text-[0.6rem] font-medium tracking-[0.18em] uppercase text-gold">{site.booking}</p>
+      </div>
+
+      <!-- Two cards stacked — photo + video -->
+      <div class="grid grid-cols-2 gap-3 -mx-2 mb-8">
+        <a href="/photography/" class="group relative block rounded-xl overflow-hidden aspect-[3/4]">
+          <img src="/images/hero/motion-couple.jpg" alt="Edmonton wedding photography — motion blur couple portrait by MH Photography" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.02]" loading="eager" fetchpriority="high" />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-4">
+            <p class="text-[0.5rem] font-medium tracking-[0.15em] uppercase text-gold-light mb-1">Photography</p>
+            <span class="font-serif font-light text-base text-white">See Gallery</span>
+          </div>
+        </a>
+        <a href="/videography/" class="hero-video-mob group relative block rounded-xl overflow-hidden aspect-[3/4]">
+          <video class="hero-intro-mob absolute inset-0 w-full h-full object-cover z-[3] transition-opacity duration-700" autoplay muted playsinline poster="/images/videography/frame-1.jpg">
+            <source src="/videos/intro-hero.mp4" type="video/mp4" />
+          </video>
+          <iframe class="mob-yt-a absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[1]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+          <iframe class="mob-yt-b absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[2]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent z-10"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-4 z-20">
+            <p class="text-[0.5rem] font-medium tracking-[0.15em] uppercase text-gold-light mb-1">Videography</p>
+            <span class="font-serif font-light text-base text-white">View Videos</span>
+          </div>
+          <div class="absolute top-3 right-3 w-8 h-8 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center z-20">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+          </div>
+        </a>
+      </div>
+
+      <!-- Mobile CTAs -->
+      <div class="flex items-center gap-4">
+        <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-7 py-3.5 rounded-full hover:bg-[#333] transition-colors duration-300">
+          Book a Consultation
+        </a>
+        <a href="/photography/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+          Browse Work
+        </a>
+      </div>
+    </div>
+
+    <!-- Desktop hero: H1 + two big hero cards (photo / video) -->
+    <div class="hidden lg:block xl:pt-[40px]">
+      <!-- H1 + subtitle -->
+      <div class="mb-10">
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-5">Edmonton, Alberta</p>
+        <p class="font-serif font-light text-[clamp(2.25rem,4.2vw,3.5rem)] leading-[1.08] tracking-[-0.02em] text-ink mb-5" role="heading" aria-level="1">
+          Edmonton Wedding Photographer<br />&amp; <em class="italic">Videographer</em>
+        </p>
+        <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75] max-w-[560px] mb-6">
+          Documentary photography and cinematic film for weddings, Indian celebrations, and families across Edmonton and Alberta.
+        </p>
+        <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold">{site.booking}</p>
+      </div>
+
+      <!-- Two hero cards side by side -->
+      <div class="grid grid-cols-2 gap-5">
+        <!-- PHOTO card — static image → See Gallery -->
+        <a href="/photography/" class="group relative block rounded-lg overflow-hidden aspect-[4/5]">
+          <div class="w-full h-full">
+            <img
+              src="/images/hero/motion-couple.jpg"
+              alt="Edmonton wedding photography — artistic motion blur couple portrait by MH Photography"
+              class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.03]"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </div>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent z-10"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-7 z-20 flex items-end justify-between">
+            <div>
+              <p class="text-[0.6rem] font-medium tracking-[0.18em] uppercase text-gold-light mb-1.5">Photography</p>
+              <span class="font-serif font-light text-2xl text-white">See Gallery</span>
+            </div>
+            <div class="w-10 h-10 rounded-full bg-white/15 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
+            </div>
+          </div>
+        </a>
+
+        <!-- VIDEO card — intro video then thumbnail montage → View Videos -->
+        <a href="/videography/" id="hero-video-card" class="group relative block rounded-lg overflow-hidden aspect-[4/5]">
+          <div class="w-full h-full">
+            <!-- Intro video (plays first, then fades out) -->
+            <video
+              id="hero-intro-video"
+              autoplay muted playsinline
+              class="absolute inset-0 w-full h-full object-cover z-[3] transition-opacity duration-700"
+              poster="/images/videography/frame-1.jpg"
+            >
+              <source src="/videos/intro-hero.mp4" type="video/mp4" />
+            </video>
+            <!-- Two iframes: one visible, one preloading behind -->
+            <iframe id="hero-yt-a" class="absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[1]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+            <iframe id="hero-yt-b" class="absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%] pointer-events-none z-[2]" style="opacity:0" src="" allow="autoplay; encrypted-media" tabindex="-1"></iframe>
+          </div>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent z-10"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-7 z-20 flex items-end justify-between">
+            <div>
+              <p class="text-[0.6rem] font-medium tracking-[0.18em] uppercase text-gold-light mb-1.5">Videography</p>
+              <span class="font-serif font-light text-2xl text-white">View Videos</span>
+            </div>
+            <div class="w-10 h-10 rounded-full bg-white/15 backdrop-blur-sm flex items-center justify-center">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <!-- CTAs below the hero cards -->
+      <div class="flex items-center gap-5 mt-8">
+        <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-8 py-3.5 rounded-full hover:bg-[#333] transition-colors duration-300">
+          Book a Consultation
+        </a>
+        <a href="/photography/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+          Browse All Work
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ====================================== -->
+  <!-- SOCIAL PROOF — trust signals at a glance -->
+  <!-- ====================================== -->
+  <section class="mb-16 md:mb-24 reveal">
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-6 sm:gap-4 py-8 border-y border-[#e0dcd6]">
+      <div class="text-center">
+        <p class="font-serif font-light text-[clamp(1.75rem,3vw,2.25rem)] text-ink leading-none mb-1">200+</p>
+        <p class="text-[0.65rem] font-medium tracking-[0.12em] uppercase text-ink-muted">Weddings Captured</p>
+      </div>
+      <div class="text-center">
+        <p class="font-serif font-light text-[clamp(1.75rem,3vw,2.25rem)] text-ink leading-none mb-1">8+</p>
+        <p class="text-[0.65rem] font-medium tracking-[0.12em] uppercase text-ink-muted">Years of Experience</p>
+      </div>
+      <div class="text-center">
+        <p class="font-serif font-light text-[clamp(1.75rem,3vw,2.25rem)] text-ink leading-none mb-1">50+</p>
+        <p class="text-[0.65rem] font-medium tracking-[0.12em] uppercase text-ink-muted">Indian Weddings</p>
+      </div>
+      <div class="text-center">
+        <p class="font-serif font-light text-[clamp(1.75rem,3vw,2.25rem)] text-gold leading-none mb-1">
+          <svg class="inline w-5 h-5 -mt-1 mr-0.5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+          5.0
+        </p>
+        <p class="text-[0.65rem] font-medium tracking-[0.12em] uppercase text-ink-muted">Google Rating</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- PORTFOLIO CATEGORIES — four clear service lanes -->
+  <!-- ============================================ -->
+  <section class="mb-16 md:mb-24">
+    <div class="flex items-end justify-between mb-10 reveal">
+      <div>
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">What We Photograph</p>
+        <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink leading-tight">
+          Edmonton photography for every milestone
+        </h2>
+      </div>
+      <a href="/photography/" class="hidden sm:inline-block font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors">
+        View all work
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-12 gap-5 reveal-stagger">
+      {photographyNav.map((cat, i) => {
+        const spans = ['lg:col-span-7', 'lg:col-span-5', 'lg:col-span-5', 'lg:col-span-7'];
+        const aspects = ['aspect-[16/10]', 'aspect-[4/5]', 'aspect-[4/3]', 'aspect-[16/10]'];
+        const altTexts = [
+          'Edmonton wedding photographer — vow exchange captured by MH Photography',
+          'Indian wedding photographer Edmonton — vibrant ceremony and reception coverage',
+          'Edmonton family photographer — outdoor fall session by MH Photography',
+          'Edmonton engagement photographer — couple portrait session',
+        ];
+        return (
+          <a href={cat.href} class={`reveal group relative block rounded-xl overflow-hidden ${spans[i]} ${aspects[i]} shadow-md hover:shadow-2xl transition-shadow duration-500`}>
+            <img
+              src={categoryImages[cat.slug]}
+              alt={altTexts[i]}
+              class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.04]"
+              loading="lazy"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-black/65 via-black/15 to-transparent z-10 transition-opacity duration-500 group-hover:from-black/70"></div>
+            <div class="absolute bottom-0 left-0 right-0 p-5 sm:p-7 z-20">
+              <span class="text-white/50 text-[0.6rem] font-medium tracking-[0.18em] uppercase block mb-1.5">
+                {cat.label === 'Indian Weddings' ? 'Specialty' : 'Photography'}
+              </span>
+              <h3 class="text-white font-serif font-light text-xl sm:text-2xl">{cat.label}</h3>
+              <p class="text-white/65 font-light text-[0.8rem] leading-relaxed mt-2.5 max-w-[340px] hidden sm:block">
+                {categoryDescriptions[cat.slug]}
+              </p>
+            </div>
+            <div class="absolute top-4 right-4 sm:top-5 sm:right-5 z-20 w-9 h-9 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M7 17L17 7M17 7H7M17 7V17"/></svg>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+
+    <!-- Mobile "View all" link -->
+    <div class="sm:hidden mt-6 text-center">
+      <a href="/photography/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors">
+        View all photography
+      </a>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- PHOTO + VIDEO — the dual-service differentiator -->
+  <!-- ============================================= -->
+  <section class="mb-20 md:mb-28 reveal">
+    <div class="grid grid-cols-1 md:grid-cols-[1.2fr_1fr] gap-10 md:gap-12 items-center">
+      <!-- Image pair with staggered offset -->
+      <div class="grid grid-cols-2 gap-3 max-w-[560px]">
+        <div class="relative rounded-xl overflow-hidden aspect-[3/4] shadow-lg">
+          <img
+            src="/images/portfolio/wedding-ceremony.jpg"
+            alt="Edmonton wedding photographer — first look moment, documentary style by MH Photography"
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+        <div class="relative rounded-xl overflow-hidden aspect-[3/4] mt-8 shadow-lg">
+          <img
+            src="/images/portfolio/reception.jpg"
+            alt="Edmonton wedding videographer — first dance, cinematic film by MH Photography"
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+      </div>
+
+      <!-- Text -->
+      <div>
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">Photo + Video</p>
+        <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink leading-tight mb-6">
+          Photography and cinematic video,<br class="hidden sm:block" /> from one team
+        </h2>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.85] mb-5">
+          Most couples hire separate photographers and videographers who have never worked together.
+          With MH Photography, you get both from one team that knows exactly how to stay out
+          of each other's frames while capturing every moment that matters.
+        </p>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.85] mb-10">
+          The result: a complete visual story of your day — stunning photographs for your walls
+          and a cinematic wedding film you'll replay for the rest of your life.
+        </p>
+        <div class="flex flex-wrap gap-x-5 gap-y-3">
+          <a href="/photography/" class="inline-flex items-center gap-2 text-[0.8rem] font-medium tracking-[0.05em] text-ink border border-ink/20 px-5 py-2.5 rounded-full hover:bg-ink hover:text-white transition-all duration-300">
+            View Photography
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+          <a href="/videography/" class="inline-flex items-center gap-2 text-[0.8rem] font-medium tracking-[0.05em] text-ink border border-ink/20 px-5 py-2.5 rounded-full hover:bg-ink hover:text-white transition-all duration-300">
+            View Videography
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- INDIAN WEDDINGS — the specialty differentiator -->
+  <!-- ============================================= -->
+  <section class="mb-16 md:mb-24 reveal">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-14 items-center">
+      <!-- Text first on mobile, second on desktop -->
+      <div class="order-2 md:order-1">
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">Our Specialty</p>
+        <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink leading-tight mb-5">
+          Indian wedding photographer in Edmonton
+        </h2>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.8] mb-6">
+          Indian and South Asian weddings are multi-day celebrations filled with colour, emotion, and traditions
+          that most photographers simply don't understand. After covering over 50 Indian weddings across Edmonton and Alberta,
+          we know exactly when the key moments happen -- from the Baraat procession to the Vidaai.
+        </p>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.8] mb-8">
+          We photograph Sikh, Hindu, Muslim, and interfaith ceremonies with the same cultural respect and attention
+          to detail that your family expects.
+        </p>
+        <a href="/photography/indian-weddings/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-7 py-3.5 rounded-full hover:bg-[#333] transition-colors duration-300">
+          View Indian Weddings
+        </a>
+      </div>
+
+      <!-- Image -->
+      <div class="order-1 md:order-2">
+        <div class="rounded-lg overflow-hidden aspect-[4/5]">
+          <img
+            src="/images/hero/hero-indian-2.jpg"
+            alt="Indian wedding photographer Edmonton — Sikh couple with lilac flowers captured by MH Photography"
+            class="w-full h-full object-cover object-[75%_center]"
+            loading="lazy"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- RECENT WORK — horizontal scroll film strip   -->
+  <!-- ============================================ -->
+  <section class="mb-16 md:mb-24 reveal">
+    <div class="flex items-end justify-between mb-8">
+      <div>
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Recent Work</p>
+        <h2 class="font-serif font-light text-[clamp(1.25rem,2.5vw,1.75rem)] text-ink leading-tight">
+          From our latest sessions
+        </h2>
+      </div>
+    </div>
+    <div class="flex gap-4 overflow-x-auto pb-6 -mx-6 px-6 snap-x snap-mandatory scrollbar-hide" style="scroll-behavior:smooth">
+      {recentWorkImages.map((src) => {
+        const folder = src.split('/')[2] || 'wedding';
+        const alt = `Edmonton ${folder.replace('-', ' ')} photography by MH Photography`;
+        return (
+          <div class="flex-shrink-0 w-[240px] sm:w-[280px] snap-start group">
+            <div class="rounded-xl overflow-hidden aspect-[3/4] shadow-md group-hover:shadow-xl transition-shadow duration-400">
+              <img src={src} alt={alt} class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-[1.03]" loading="lazy" />
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- ================================ -->
+  <!-- ABOUT — personal connection      -->
+  <!-- ================================ -->
+  <section class="mb-16 md:mb-24 reveal">
+    <div class="grid grid-cols-1 md:grid-cols-[280px_1fr] gap-8 md:gap-12 items-start">
+      <!-- Portrait -->
+      <div class="mx-auto md:mx-0 w-[220px] md:w-full">
+        <div class="rounded-md overflow-hidden aspect-[3/4]">
+          <img
+            src="/images/about-moe.jpg"
+            alt="Moein Habibi — Edmonton wedding photographer and owner of MH Photography"
+            class="w-full h-full object-cover"
+            loading="lazy"
+          />
+        </div>
+      </div>
+
+      <!-- Bio -->
+      <div class="text-center md:text-left">
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">The Photographer</p>
+        <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink leading-tight mb-5">
+          Hey, I'm Moein
+        </h2>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.8] mb-5">
+          I'm an Edmonton-based wedding photographer and videographer who believes the best images happen
+          when people forget the camera is there. My approach is documentary -- I observe, I anticipate,
+          and I capture the moments that actually tell your story.
+        </p>
+        <p class="font-light text-ink-soft text-[0.9rem] leading-[1.8] mb-8">
+          Whether it's a grand Indian wedding celebration across multiple days or a quiet family session
+          in Edmonton's river valley, I bring the same care and attention to every shoot.
+        </p>
+        <a href="/about/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+          More about me
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================================ -->
+  <!-- SERVICES LIST — what we cover    -->
+  <!-- ================================ -->
+  <section class="mb-16 md:mb-24 reveal">
+    <div class="border-y border-[#e0dcd6] py-8">
+      <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-6 text-center">What We Offer</p>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-y-5 gap-x-8 max-w-3xl mx-auto">
+        {[
+          { label: 'Wedding Photography', desc: 'Full-day documentary coverage' },
+          { label: 'Wedding Videography', desc: 'Cinematic films and highlight reels' },
+          { label: 'Indian & South Asian Weddings', desc: 'Multi-day celebration specialist' },
+          { label: 'Engagement Sessions', desc: 'Couple portraits in natural light' },
+          { label: 'Family Photography', desc: 'Relaxed outdoor sessions' },
+          { label: 'Photo + Video Packages', desc: 'One team, complete coverage' },
+        ].map((service) => (
+          <div class="flex items-start gap-3">
+            <span class="w-1.5 h-1.5 rounded-full bg-gold mt-[7px] flex-shrink-0"></span>
+            <div>
+              <p class="text-sm font-normal text-ink leading-snug">{service.label}</p>
+              <p class="text-[0.75rem] font-light text-ink-muted leading-snug mt-0.5">{service.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+      <div class="text-center mt-8">
+        <a href="/pricing/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+          View packages and pricing
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======================== -->
+  <!-- FINAL CTA — book now    -->
+  <!-- ======================== -->
+  <section class="text-center py-16 md:py-20 border-t border-[#e0dcd6] reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">{site.booking}</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3.5vw,2.75rem)] text-ink mb-4 leading-tight">
+      Let's tell your story
+    </h2>
+    <p class="font-light text-ink-soft text-sm mb-4 max-w-md mx-auto leading-relaxed">
+      Whether it's a multi-day Indian wedding celebration or a quiet afternoon with your family in Edmonton's river valley,
+      I'd love to hear what you're planning.
+    </p>
+    <p class="text-[0.75rem] text-ink-muted mb-8">
+      Email me at <a href={`mailto:${site.email}`} class="text-gold hover:text-gold-deep transition-colors">{site.email}</a> or use the form below.
+    </p>
+    <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+      Get in Touch
+    </a>
+  </section>
+
+  <!-- Hero video montage — preload behind, instant swap, no black flash -->
+  <script>
+    const ytIds = [
+      'pSsYZDZ2RrA','FGd-xPVMnqw','dH6PCKpI1cE','1MfX3kmm-bk','qwaoL0Vh504',
+      'RF9HilUgpM8','BGosd-NzmUs','oSrzm24ITA8','kljdC_0R_JM','XuFXGSL2-AU'
+    ];
+    function makeSrc(id) {
+      const start = 5 + Math.floor(Math.random() * 90);
+      return `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&controls=0&showinfo=0&rel=0&modestbranding=1&start=${start}&loop=1&playlist=${id}`;
+    }
+
+    function initMontage(introEl, frameA, frameB) {
+      let idx = 0;
+      let started = false;
+      let front = frameA;
+      let back = frameB;
+
+      const start = () => {
+        if (started) return;
+        started = true;
+        introEl.style.opacity = '0';
+        setTimeout(() => { introEl.pause(); introEl.style.display = 'none'; }, 500);
+
+        // Load first video in front frame
+        front.src = makeSrc(ytIds[0]);
+        front.style.opacity = '1';
+        front.style.zIndex = '2';
+        idx = 1;
+
+        // Preload next video in back frame after a short delay
+        setTimeout(() => {
+          const i = idx % ytIds.length;
+          back.src = makeSrc(ytIds[i]);
+        }, 1000);
+
+        function nextVideo() {
+          // Back frame has been preloading — bring it to front
+          back.style.zIndex = '2';
+          back.style.opacity = '1';
+          front.style.zIndex = '1';
+          idx++;
+
+          // Swap references
+          const tmp = front;
+          front = back;
+          back = tmp;
+
+          // Preload next video in the now-hidden back frame
+          setTimeout(() => {
+            const i = idx % ytIds.length;
+            back.src = makeSrc(ytIds[i]);
+          }, 500);
+
+          setTimeout(nextVideo, 2000 + Math.random() * 500);
+        }
+        setTimeout(nextVideo, 2000 + Math.random() * 500);
+      };
+
+      introEl.addEventListener('ended', start, { once: true });
+      setTimeout(start, 4000);
+    }
+
+    // Desktop
+    const dV = document.getElementById('hero-intro-video');
+    const dA = document.getElementById('hero-yt-a');
+    const dB = document.getElementById('hero-yt-b');
+    if (dV && dA && dB) initMontage(dV, dA, dB);
+
+    // Mobile
+    const mV = document.querySelector('.hero-intro-mob');
+    const mA = document.querySelector('.mob-yt-a');
+    const mB = document.querySelector('.mob-yt-b');
+    if (mV && mA && mB) initMontage(mV, mA, mB);
+  </script>
+</BaseLayout>

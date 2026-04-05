@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /wedding-packages/
+Disallow: /multiday-packages/
+
+Sitemap: https://mhphoto.ca/sitemap-index.xml

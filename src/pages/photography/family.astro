@@ -1,0 +1,135 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MasonryGallery from '../../components/gallery/MasonryGallery.astro';
+import { site } from '../../data/site';
+
+const faqs = [
+  { q: 'How much do family pictures cost in Edmonton?', a: 'Family photography sessions at MH Photography start at $400 for a one-hour outdoor session with 30+ edited images and an online gallery with full download rights. Fall mini sessions are also available at a reduced rate.' },
+  { q: 'What are the best locations for family pictures in Edmonton?', a: 'Edmonton has beautiful spots for family photos year-round. Our favourites include the river valley trails, Hawrelak Park, Government House Park, and Mill Creek Ravine. We also shoot in Sherwood Park, St. Albert, and Spruce Grove.' },
+  { q: 'What should we wear for family pictures?', a: 'Coordinated colours work well — think complementary tones rather than matching outfits. Neutral earth tones, soft blues, and warm greens photograph beautifully outdoors. Avoid bold logos and neon colours.' },
+  { q: 'What are the best colors for family pictures outside?', a: 'For outdoor family photos, the best colours are earth tones (cream, beige, olive, rust), muted blues, and soft pastels. These complement natural greenery in summer and golden tones in fall.' },
+  { q: 'When is the best time for fall family pictures in Edmonton?', a: 'The best window for fall family photos in Edmonton is mid-September through early October, when the leaves are at peak colour. We book fall mini sessions every year — reach out in August to reserve your spot.' },
+  { q: 'Do you offer newborn and maternity photography?', a: 'Yes. We photograph newborn sessions, maternity sessions, and growing family portraits. These are relaxed, in-home or outdoor sessions focused on natural, candid moments.' },
+  { q: 'How long does a family photo session last?', a: 'A typical family session runs about one hour. That gives the kids time to warm up, everyone time to relax, and us time to capture both posed portraits and candid moments.' },
+];
+---
+
+<BaseLayout
+  title="Family Photographer Edmonton | MH Photo"
+  description="Relaxed family photography in Edmonton. Outdoor sessions in the river valley, seasonal mini sessions, real moments with your kids. Booking 2026 & 2027."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(f => ({
+        "@type": "Question", "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a },
+      })),
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Photography", "item": "https://mhphoto.ca/photography/" },
+        { "@type": "ListItem", "position": 3, "name": "Family", "item": "https://mhphoto.ca/photography/family/" }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ImageGallery",
+      "name": "Edmonton Family Photography Gallery",
+      "description": "Family photography portfolio by MH Photography — outdoor sessions, fall minis, newborn portraits in Edmonton.",
+      "url": "https://mhphoto.ca/photography/family/",
+      "author": { "@type": "Person", "name": "Moein Habibi" }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Family Photography Edmonton",
+      "description": "Relaxed outdoor family photography sessions in Edmonton. River valley, Hawrelak Park, seasonal mini sessions. Sessions from $400.",
+      "provider": { "@type": "PhotographyBusiness", "name": "MH Photography", "url": "https://mhphoto.ca" },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "City", "name": "Sherwood Park" },
+        { "@type": "City", "name": "St. Albert" }
+      ],
+      "serviceType": "Family Photography",
+      "offers": { "@type": "Offer", "priceCurrency": "CAD", "price": "400", "description": "One-hour outdoor family session starting price", "url": "https://mhphoto.ca/pricing/" }
+    })} />
+  </Fragment>
+
+  <p class="text-sm font-light mb-1">
+    <a href="/photography/" class="text-ink-muted hover:text-gold transition-colors">Photography</a>
+    <span class="mx-1.5 text-ink-muted/40">/</span>
+    <strong class="font-medium text-ink">Family</strong>
+  </p>
+
+  <div class="mb-12 max-w-2xl reveal">
+    <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.1] tracking-[-0.02em] text-ink mb-5">
+      Family Photographer in Edmonton
+    </h1>
+    <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+      Relaxed family photography across Edmonton. Outdoor sessions in the river valley, Hawrelak Park, Government House. Fall mini sessions, newborn portraits, and everything in between. Let your kids be kids — I'll capture the real moments.
+    </p>
+  </div>
+
+  <div class="mb-20">
+    <MasonryGallery slug="family" altPrefix="Family photography Edmonton" />
+  </div>
+
+  <section class="text-center py-16 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-2xl text-ink mb-4">Ready for a session?</h2>
+    <p class="font-light text-ink-muted text-sm mb-7 max-w-md mx-auto">
+      Fall sessions fill up fast. Other seasons are flexible — reach out anytime.
+    </p>
+    <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+      Book Your Session
+    </a>
+  </section>
+
+  <section class="py-12 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-6">Family Photography in Edmonton — FAQ</h2>
+    <div class="space-y-5">
+      {[
+        { q: 'How much do family pictures cost in Edmonton?', a: 'Family photography sessions at MH Photography start at $400 for a one-hour outdoor session with 30+ edited images and an online gallery with full download rights. Fall mini sessions are also available at a reduced rate.' },
+        { q: 'What are the best locations for family pictures in Edmonton?', a: 'Edmonton has beautiful spots for family photos year-round. Our favourites include the river valley trails, Hawrelak Park, Government House Park, and Mill Creek Ravine. We also shoot in Sherwood Park, St. Albert, and Spruce Grove.' },
+        { q: 'What should we wear for family pictures?', a: 'Coordinated colours work well — think complementary tones rather than matching outfits. Neutral earth tones, soft blues, and warm greens photograph beautifully outdoors. Avoid bold logos and neon colours.' },
+        { q: 'What are the best colors for family pictures outside?', a: 'For outdoor family photos, the best colours are earth tones (cream, beige, olive, rust), muted blues, and soft pastels. These complement natural greenery in summer and golden tones in fall.' },
+        { q: 'When is the best time for fall family pictures in Edmonton?', a: 'The best window for fall family photos in Edmonton is mid-September through early October, when the leaves are at peak colour. We book fall mini sessions every year — reach out in August to reserve your spot.' },
+        { q: 'Do you offer newborn and maternity photography?', a: 'Yes. We photograph newborn sessions, maternity sessions, and growing family portraits. These are relaxed, in-home or outdoor sessions focused on natural, candid moments.' },
+        { q: 'How long does a family photo session last?', a: 'A typical family session runs about one hour. That gives the kids time to warm up, everyone time to relax, and us time to capture both posed portraits and candid moments.' },
+      ].map(faq => (
+        <details class="group border border-[#e0dcd6] rounded-lg">
+          <summary class="flex items-center justify-between p-4 cursor-pointer text-[0.85rem] font-medium text-ink">{faq.q}<svg class="w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-200 group-open:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></summary>
+          <p class="px-4 pb-4 text-[0.8rem] font-light text-ink-soft leading-relaxed">{faq.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <!-- Cross-links to other services -->
+  <section class="py-10 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-5">Explore more</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <a href="/photography/weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Full-day coverage</p>
+      </a>
+      <a href="/photography/indian-weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Indian Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Multi-day coverage</p>
+      </a>
+      <a href="/photography/engagement/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Engagement</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Couple portraits</p>
+      </a>
+      <a href="/pricing/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Packages</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">View pricing</p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,130 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MasonryGallery from '../../components/gallery/MasonryGallery.astro';
+import { site } from '../../data/site';
+
+const faqs = [
+  { q: 'Where are the best spots for engagement photos in Edmonton?', a: 'Edmonton has no shortage of beautiful locations. Our favourites include the river valley trails, Old Strathcona, Legislature grounds, University of Alberta campus, and Elk Island National Park. We are also happy to shoot at a location that is meaningful to you as a couple.' },
+  { q: 'How much do engagement photos cost in Edmonton?', a: 'Engagement sessions are often included with wedding photography packages, or can be booked separately. Contact us for current pricing and availability.' },
+  { q: 'What time of day is best for engagement photos?', a: 'Golden hour — about one hour before sunset — gives the warmest, most flattering light. Late spring through early fall offers the most flexibility with Edmonton daylight. We will help you pick the perfect time.' },
+  { q: 'What should we wear for our engagement session?', a: 'Wear something that feels like you. Coordinated but not matching. Layers add visual interest. Avoid bold patterns and neon colours. If you are doing your session at golden hour, warm tones photograph beautifully.' },
+  { q: 'Do you travel outside Edmonton for engagement sessions?', a: 'Yes — we shoot engagement sessions across the Edmonton area including Sherwood Park, St. Albert, Spruce Grove, and even mountain locations like Jasper and Banff for adventure sessions.' },
+];
+---
+
+<BaseLayout
+  title="Engagement Photographer Edmonton | MH Photo"
+  description="Fun, relaxed engagement photos in Edmonton. River valley, Old Strathcona, golden hour sessions. No awkward posing. Currently booking 2026 & 2027."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(f => ({
+        "@type": "Question", "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a },
+      })),
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Photography", "item": "https://mhphoto.ca/photography/" },
+        { "@type": "ListItem", "position": 3, "name": "Engagement", "item": "https://mhphoto.ca/photography/engagement/" }
+      ]
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ImageGallery",
+      "name": "Edmonton Engagement Photography Gallery",
+      "description": "Engagement photography portfolio by MH Photography — river valley, golden hour, natural couple portraits in Edmonton.",
+      "url": "https://mhphoto.ca/photography/engagement/",
+      "author": { "@type": "Person", "name": "Moein Habibi" }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Engagement Photography Edmonton",
+      "description": "Natural, relaxed engagement photo sessions across Edmonton. River valley, Old Strathcona, golden hour portraits.",
+      "provider": { "@type": "PhotographyBusiness", "name": "MH Photography", "url": "https://mhphoto.ca" },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "City", "name": "Sherwood Park" },
+        { "@type": "City", "name": "St. Albert" }
+      ],
+      "serviceType": "Engagement Photography"
+    })} />
+  </Fragment>
+
+  <p class="text-sm font-light mb-1">
+    <a href="/photography/" class="text-ink-muted hover:text-gold transition-colors">Photography</a>
+    <span class="mx-1.5 text-ink-muted/40">/</span>
+    <strong class="font-medium text-ink">Engagement</strong>
+  </p>
+
+  <div class="mb-12 max-w-2xl reveal">
+    <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.1] tracking-[-0.02em] text-ink mb-5">
+      Engagement Photographer in Edmonton
+    </h1>
+    <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+      Natural, relaxed engagement sessions across Edmonton. River valley trails, Old Strathcona brick walls, golden hour at the Legislature grounds. No awkward posing — just you two being yourselves.
+    </p>
+  </div>
+
+  <div class="mb-20">
+    <MasonryGallery slug="engagement" altPrefix="Engagement photography Edmonton" />
+  </div>
+
+  <section class="text-center py-16 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-2xl text-ink mb-4">A preview of working together.</h2>
+    <p class="font-light text-ink-muted text-sm mb-7 max-w-md mx-auto">
+      If I'm also photographing your wedding, the engagement session is your chance to get comfortable before the big day.
+    </p>
+    <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+      Let's Set Something Up
+    </a>
+  </section>
+
+  <section class="py-12 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-6">Engagement Photography in Edmonton — FAQ</h2>
+    <div class="space-y-5">
+      {[
+        { q: 'Where are the best spots for engagement photos in Edmonton?', a: 'Edmonton has no shortage of beautiful locations. Our favourites include the river valley trails, Old Strathcona, Legislature grounds, University of Alberta campus, and Elk Island National Park. We are also happy to shoot at a location that is meaningful to you as a couple.' },
+        { q: 'How much do engagement photos cost in Edmonton?', a: 'Engagement sessions are often included with wedding photography packages, or can be booked separately. Contact us for current pricing and availability.' },
+        { q: 'What time of day is best for engagement photos?', a: 'Golden hour — about one hour before sunset — gives the warmest, most flattering light. Late spring through early fall offers the most flexibility with Edmonton daylight. We will help you pick the perfect time.' },
+        { q: 'What should we wear for our engagement session?', a: 'Wear something that feels like you. Coordinated but not matching. Layers add visual interest. Avoid bold patterns and neon colours. If you are doing your session at golden hour, warm tones photograph beautifully.' },
+        { q: 'Do you travel outside Edmonton for engagement sessions?', a: 'Yes — we shoot engagement sessions across the Edmonton area including Sherwood Park, St. Albert, Spruce Grove, and even mountain locations like Jasper and Banff for adventure sessions.' },
+      ].map(faq => (
+        <details class="group border border-[#e0dcd6] rounded-lg">
+          <summary class="flex items-center justify-between p-4 cursor-pointer text-[0.85rem] font-medium text-ink">{faq.q}<svg class="w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-200 group-open:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg></summary>
+          <p class="px-4 pb-4 text-[0.8rem] font-light text-ink-soft leading-relaxed">{faq.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <!-- Cross-links to other services -->
+  <section class="py-10 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-5">Explore more</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <a href="/photography/weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Full-day coverage</p>
+      </a>
+      <a href="/photography/indian-weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Indian Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Multi-day coverage</p>
+      </a>
+      <a href="/photography/family/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Family</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Outdoor sessions</p>
+      </a>
+      <a href="/pricing/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Packages</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">View pricing</p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

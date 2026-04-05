@@ -1,0 +1,540 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+
+// Sorted: most recent first, oldest at bottom
+const videos = [
+  { id: 'pSsYZDZ2RrA', title: 'J.E. Next Day Edit', couple: 'Wedding Film', venue: 'Edmonton, AB', type: 'Wedding' },
+  { id: 'FGd-xPVMnqw', title: 'Sunam + Jasleen Wedding Film', couple: 'Sunam + Jasleen', venue: 'Edmonton, AB', type: 'Wedding' },
+  { id: 'dH6PCKpI1cE', title: 'Selina & Taran Wedding Film', couple: 'Selina & Taran', venue: 'Edmonton, AB', type: 'Wedding' },
+  { id: '1MfX3kmm-bk', title: 'Jaz & Shristi Highlight Video', couple: 'Jaz & Shristi', venue: 'Edmonton, AB', type: 'Indian Wedding' },
+  { id: 'qwaoL0Vh504', title: 'Kriti & Amar Next Day Edit', couple: 'Kriti & Amar', venue: 'Edmonton, AB', type: 'Wedding' },
+  { id: 'RF9HilUgpM8', title: 'Simrat & Nicholas Highlight', couple: 'Simrat & Nicholas', venue: 'Edmonton, AB', type: 'Indian Wedding' },
+  { id: 'BGosd-NzmUs', title: 'Christina & Branden Highlight Video', couple: 'Christina & Branden', venue: 'Edmonton, AB', type: 'Wedding' },
+  { id: 'oSrzm24ITA8', title: 'Elspeth & Pram Highlight Video', couple: 'Elspeth & Pram', venue: 'Edmonton, AB', type: 'Wedding' },
+  { id: 'kljdC_0R_JM', title: 'Shiv & Anjali Wedding Week', couple: 'Shiv & Anjali', venue: 'Edmonton, AB', type: 'Indian Wedding' },
+  { id: 'XuFXGSL2-AU', title: 'Sarb & Rajkamal Next Day Edit', couple: 'Sarb & Rajkamal', venue: 'Edmonton, AB', type: 'Wedding' },
+];
+---
+
+<BaseLayout
+  title="Edmonton Wedding Videographer | MH Photography"
+  description="Cinematic wedding films by Edmonton videographer Moein Habibi. Documentary-style highlights, Indian wedding video, photo + video from $3,500. Book now."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Edmonton Wedding Videographer | Cinematic Wedding Films",
+      "description": "Cinematic documentary-style wedding films from Edmonton wedding videographer Moein Habibi.",
+      "url": "https://mhphoto.ca/videography/",
+      "author": { "@type": "Person", "name": "Moein Habibi" },
+      "mainEntity": videos.map(v => ({
+        "@type": "VideoObject",
+        "name": v.title + " — Edmonton wedding videography by MH Photography",
+        "description": `${v.type} videography in ${v.venue} by MH Photography Edmonton`,
+        "thumbnailUrl": `https://img.youtube.com/vi/${v.id}/maxresdefault.jpg`,
+        "embedUrl": `https://www.youtube-nocookie.com/embed/${v.id}`,
+        "uploadDate": "2025-01-01",
+      })),
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        { "@type": "Question", "name": "How much does a wedding videographer in Edmonton cost?", "acceptedAnswer": { "@type": "Answer", "text": "Wedding videography packages at MH Photography start at $3,750 for single-day coverage. Photo and video bundles start at $8,750. Multi-day Indian wedding videography packages are available with custom pricing." }},
+        { "@type": "Question", "name": "Do you offer both wedding photography and videography?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — MH Photography handles both photography and videography as one team. This means seamless coordination, a consistent style across your photos and film, and no competing vendors on your wedding day." }},
+        { "@type": "Question", "name": "What style of wedding videos do you create?", "acceptedAnswer": { "@type": "Answer", "text": "Our wedding films are documentary-style and cinematic. We mix media — cinematic camera work, film-style textures, and camcorder-inspired moments. Every film feels like your day, not a music video." }},
+        { "@type": "Question", "name": "Do you film Indian and South Asian weddings?", "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. We have extensive experience filming Hindu, Sikh, Punjabi, and multi-day South Asian weddings across Edmonton and Alberta." }},
+        { "@type": "Question", "name": "How long is the wedding film?", "acceptedAnswer": { "@type": "Answer", "text": "A standard highlight video runs 4-5 minutes. Extended highlights go up to 15 minutes. Ceremony and reception footage is delivered separately." }},
+        { "@type": "Question", "name": "Do you travel outside Edmonton for wedding videography?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — we cover weddings across Alberta including Calgary, Banff, Jasper, Sherwood Park, St. Albert, Spruce Grove, and beyond." }},
+      ],
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Wedding Videography Edmonton",
+      "description": "Cinematic documentary-style wedding films by MH Photography in Edmonton. Highlight videos, ceremony and reception edits, multi-day Indian wedding videography.",
+      "provider": {
+        "@type": "PhotographyBusiness",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca"
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "Edmonton",
+        "containedInPlace": { "@type": "AdministrativeArea", "name": "Alberta, Canada" }
+      },
+      "serviceType": "Wedding Videography",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "CAD",
+        "price": "3750",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "priceCurrency": "CAD",
+          "price": "3750",
+          "description": "Single-day wedding videography starting price"
+        },
+        "url": "https://mhphoto.ca/pricing/"
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Videography", "item": "https://mhphoto.ca/videography/" }
+      ]
+    })} />
+  </Fragment>
+
+  <!-- ============================================= -->
+  <!-- HERO HEADING + MINI CARDS + REEL -->
+  <!-- ============================================= -->
+  <div class="mb-14">
+    <div class="mb-8 reveal">
+      <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-2">Wedding Videography</p>
+      <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.1] tracking-[-0.02em] text-ink mb-3">
+        Edmonton Wedding Videographer
+      </h1>
+      <p class="font-light text-ink-soft text-[0.85rem] max-w-[480px] mb-8">
+        My reel — a taste of how I see and tell wedding stories. Documentary, cinematic, and always real.
+      </p>
+
+      <!-- 5-card montage strip -->
+      <div class="flex gap-3 overflow-x-auto pb-4 -mx-6 px-6 snap-x snap-mandatory scrollbar-hide sm:grid sm:grid-cols-5 sm:gap-3 sm:mx-0 sm:px-0 sm:overflow-visible sm:pb-0">
+        {[0,1,2,3,4].map(i => (
+          <div class="montage-card flex-shrink-0 w-[45vw] sm:w-auto snap-center" data-card={i}>
+            <div class="relative aspect-[3/4] rounded-2xl overflow-hidden bg-ink shadow-md">
+              <iframe class="mc-frame mc-active absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%]" src="" allow="autoplay; encrypted-media"></iframe>
+              <iframe class="mc-frame absolute inset-0 w-[300%] h-[300%] -top-[100%] -left-[100%]" src="" allow="autoplay; encrypted-media"></iframe>
+            </div>
+          </div>
+        ))}
+      </div>
+      <p class="text-center text-[0.6rem] text-ink-muted/40 mt-2 sm:hidden">Swipe to see more &rarr;</p>
+      <p class="text-center text-[0.6rem] font-light text-ink-muted/40 mt-3 tracking-wide hidden sm:block">
+        Wedding Films &middot; Indian Weddings &middot; Edmonton Videographer &middot; Documentary &middot; Photo + Video
+      </p>
+    </div>
+
+    <div class="hero-video-wrap rounded-2xl overflow-hidden mb-10 reveal">
+      <div class="relative aspect-video bg-frame">
+        <iframe
+          id="hero-a"
+          class="montage-frame active absolute inset-0 w-full h-full"
+          src={`https://www.youtube-nocookie.com/embed/${videos[0].id}?rel=0&modestbranding=1&autoplay=1&mute=1&controls=0&showinfo=0&start=15`}
+          title="Edmonton wedding videography showreel by MH Photography"
+          loading="eager"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope"
+        ></iframe>
+        <iframe
+          id="hero-b"
+          class="montage-frame absolute inset-0 w-full h-full"
+          src=""
+          title="Edmonton wedding videography showreel"
+          loading="lazy"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope"
+        ></iframe>
+        <div class="absolute bottom-0 left-0 right-0 h-[2px] pointer-events-none">
+          <div id="montage-progress" class="h-full bg-gold/70 montage-bar"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ============================================= -->
+  <!-- FEATURED FILMS — autoplay muted grid -->
+  <!-- ============================================= -->
+  <section class="mb-20">
+    <div class="flex items-baseline justify-between mb-6">
+      <div>
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-2">Recent Work</p>
+        <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2rem)] text-ink">Featured Wedding Films</h2>
+      </div>
+      <span class="text-[0.7rem] font-light text-ink-muted hidden sm:block">{videos.length} films</span>
+    </div>
+
+    <!-- Main player -->
+    <div class="mb-5 reveal">
+      <div id="main-player" class="rounded-xl overflow-hidden">
+        <div class="relative aspect-video bg-frame">
+          <iframe
+            id="main-iframe"
+            src={`https://www.youtube-nocookie.com/embed/${videos[0].id}?rel=0&modestbranding=1`}
+            title={`${videos[0].title} — Edmonton wedding videography by MH Photography`}
+            class="absolute inset-0 w-full h-full"
+            loading="eager"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+      <div class="mt-4 flex items-baseline justify-between">
+        <div>
+          <h3 id="main-title" class="font-serif font-normal text-xl text-ink">{videos[0].title}</h3>
+          <p id="main-venue" class="text-[0.65rem] tracking-[0.1em] uppercase text-ink-muted font-light mt-1">{videos[0].venue} — MH Photography</p>
+        </div>
+        <span id="main-type" class="text-[0.6rem] font-medium tracking-[0.15em] uppercase text-gold bg-gold/10 px-3 py-1 rounded-full">{videos[0].type}</span>
+      </div>
+    </div>
+
+    <!-- Thumbnail grid -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-3 reveal">
+      {videos.map((video, i) => (
+        <button
+          class:list={[
+            'video-thumb group relative rounded-lg overflow-hidden aspect-video cursor-pointer transition-all duration-300',
+            i === 0 ? 'ring-2 ring-gold ring-offset-2 ring-offset-cream' : 'ring-1 ring-ink/10 hover:ring-gold/50',
+          ]}
+          data-id={video.id}
+          data-title={video.title}
+          data-venue={video.venue}
+          data-type={video.type}
+          data-index={i}
+        >
+          <img
+            src={`https://img.youtube.com/vi/${video.id}/mqdefault.jpg`}
+            alt={`${video.title} — Edmonton wedding videography thumbnail`}
+            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            loading="lazy"
+          />
+          <div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors duration-300"></div>
+          <div class="absolute inset-0 flex items-center justify-center">
+            <div class="w-8 h-8 rounded-full bg-white/25 backdrop-blur-sm flex items-center justify-center opacity-80 group-hover:opacity-100 transition-opacity duration-300">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+          </div>
+          {i === 0 && (
+            <div class="absolute top-1.5 left-1.5">
+              <span class="text-[0.5rem] font-medium tracking-[0.1em] uppercase bg-gold text-white px-1.5 py-0.5 rounded-sm">Now Playing</span>
+            </div>
+          )}
+        </button>
+      ))}
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- PHOTO + VIDEO SECTION -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_1.2fr] gap-10 lg:gap-14 items-center">
+      <div>
+        <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-4">Photo + Video</p>
+        <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] leading-[1.1] text-ink mb-5">
+          One person. Photos and film.
+        </h2>
+        <div class="space-y-4 font-light text-ink-soft text-[0.9rem] leading-[1.8]">
+          <p>
+            Looking for a <strong class="font-medium text-ink">wedding videographer in Edmonton</strong>? My style is documentary and storytelling-first.
+            I mix media — cinematic camera work, film-style textures, and camcorder-inspired moments — to build
+            something that actually feels like your day. Not a polished music video. Not heavy editorial effects.
+            Just your story, told honestly, with all the texture and emotion that made it yours.
+          </p>
+          <div class="highlight-quote bg-gold/[0.06] border-l-2 border-gold/30 rounded-r-xl px-5 py-4 my-2">
+            <p>
+              If you're looking for someone who'll follow the action, listen for the quiet moments between the loud ones,
+              and piece it all together into a film you'll actually want to rewatch — that's what I do. I'm not the right fit
+              if you want a music-clip-style edit with heavy effects and dramatic slow-mo of everything. But if you want something
+              real, with heart, that tells the story of how your day actually felt — let's talk.
+            </p>
+          </div>
+          <p>
+            I lead every project personally — from the first call to the final edit. For larger celebrations, I hand-pick
+            a team of shooters I trust and have worked with. Not always the same crew, but always people I've chosen
+            because I know they'll bring the same care and attention your day deserves. One creative vision,
+            whether it's me behind the camera or a team I've built around you.
+            From intimate ceremonies to <strong class="font-medium text-ink">multi-day Indian and South Asian weddings</strong>,
+            your photos and film will feel cohesive because every person on set was chosen for your story.
+            Photo + video packages start at <strong class="font-medium text-ink">$3,500</strong>.
+          </p>
+        </div>
+      </div>
+      <div class="rounded-2xl overflow-hidden shadow-lg">
+        <video autoplay muted loop playsinline class="w-full aspect-[9/16] object-cover">
+          <source src="/videos/intro-portrait.mp4" type="video/mp4" />
+        </video>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- WHAT YOU GET -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-6">What's Included</p>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+      {[
+        { title: 'Highlight Video', desc: 'A 4-5 minute cinematic edit capturing the full arc of your day — ceremony, speeches, first dance.', icon: 'M15 10l4.553-2.276A1 1 0 0 1 21 8.618v6.764a1 1 0 0 1-1.447.894L15 14V10zM1 6h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H1a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z' },
+        { title: 'Ceremony & Reception', desc: 'Fully edited footage of your ceremony and reception — every vow, every toast, every moment preserved.', icon: 'M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z' },
+        { title: 'Extended Highlight', desc: 'Up to 15-minute cinematic film for couples who want the full story — available in select packages.', icon: 'M13 10V3L4 14h7v7l9-11h-7z' },
+      ].map((item) => (
+        <div class="bg-cream-warm rounded-lg p-7 border border-ink/[0.04]">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#C9A86C" stroke-width="1.5" class="mb-4"><path d={item.icon} /></svg>
+          <h3 class="font-serif font-normal text-lg text-ink mb-2">{item.title}</h3>
+          <p class="font-light text-ink-soft text-[0.85rem] leading-relaxed">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- CTA -->
+  <!-- ============================================= -->
+  <section class="text-center py-16 border-t border-ink/[0.06] reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-4">
+      Let's tell your story in motion.
+    </h2>
+    <p class="font-light text-ink-muted text-sm mb-7 max-w-md mx-auto">
+      Photo + video packages start at $3,500. Custom quotes for multi-day Indian and South Asian weddings.
+    </p>
+    <div class="flex items-center justify-center gap-5">
+      <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+        Get in Touch
+      </a>
+      <a href="/pricing/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        View Packages
+      </a>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- FAQ — SEO (bottom of page) -->
+  <!-- ============================================= -->
+  <section class="py-12 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-6">Edmonton Wedding Videography — FAQ</h2>
+    <div class="space-y-5">
+      {[
+        { q: 'How much does a wedding videographer in Edmonton cost?', a: 'Wedding videography packages at MH Photography start at $3,750 for single-day coverage. Photo and video bundles start at $8,750. Multi-day Indian wedding videography packages are available with custom pricing based on the number of events.' },
+        { q: 'Do you offer both wedding photography and videography?', a: 'Yes — MH Photography handles both photography and videography as one team. This means seamless coordination, a consistent style across your photos and film, and no competing vendors on your wedding day.' },
+        { q: 'What style of wedding videos do you create?', a: 'Our wedding films are documentary-style and cinematic. We focus on real moments, real audio, and real emotion rather than overly produced content. Every film feels like your day, not a music video.' },
+        { q: 'Do you film Indian and South Asian weddings?', a: 'Absolutely. We have extensive experience filming Hindu, Sikh, Punjabi, and multi-day South Asian weddings across Edmonton and Alberta. We understand the timeline, the ceremonies, and the moments that matter most to your family.' },
+        { q: 'How long is the wedding film?', a: 'A standard highlight video runs 4-5 minutes. Extended highlights go up to 15 minutes for couples who want the full story. Ceremony and reception footage is delivered separately.' },
+        { q: 'Do you travel outside Edmonton for wedding videography?', a: 'Yes — we cover weddings across Alberta including Calgary, Banff, Jasper, Sherwood Park, St. Albert, Spruce Grove, and beyond. Travel is included or quoted based on distance.' },
+      ].map(faq => (
+        <details class="group border border-[#e0dcd6] rounded-lg">
+          <summary class="flex items-center justify-between p-4 cursor-pointer text-[0.85rem] font-medium text-ink">
+            {faq.q}
+            <svg class="w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-200 group-open:rotate-180" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+          </summary>
+          <p class="px-4 pb-4 text-[0.8rem] font-light text-ink-soft leading-relaxed">{faq.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <!-- 5-card montage script -->
+  <script define:vars={{ allIds: videos.map(v => v.id) }}>
+    (function() {
+      const cards = document.querySelectorAll('.montage-card');
+      if (!cards.length) return;
+
+      // Each card gets a different shuffled order and different timing
+      const timings = [4000, 6500, 3500, 5000, 7000]; // all different
+      const startOffsets = [10, 45, 25, 60, 35, 15, 50]; // variety of start points
+
+      cards.forEach((card, cardIdx) => {
+        const frames = card.querySelectorAll('.mc-frame');
+        if (frames.length < 2) return;
+
+        // Shuffle video order differently for each card
+        const order = [...allIds];
+        for (let i = order.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [order[i], order[j]] = [order[j], order[i]];
+        }
+        // Offset each card so they don't start on the same video
+        const shifted = [...order.slice(cardIdx % order.length), ...order.slice(0, cardIdx % order.length)];
+
+        let current = 0;
+        let activeIdx = 0;
+
+        function buildSrc(vidIdx) {
+          const id = shifted[vidIdx % shifted.length];
+          const start = startOffsets[(vidIdx + cardIdx) % startOffsets.length];
+          return `https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=1&controls=0&showinfo=0&rel=0&modestbranding=1&start=${start}`;
+        }
+
+        // Load first clip
+        frames[0].src = buildSrc(0);
+
+        function cycle() {
+          current++;
+          const nextFrame = activeIdx === 0 ? 1 : 0;
+          frames[nextFrame].src = buildSrc(current);
+          setTimeout(() => {
+            frames[nextFrame].classList.add('mc-active');
+            frames[activeIdx].classList.remove('mc-active');
+            activeIdx = nextFrame;
+          }, 600);
+        }
+
+        // Stagger start so they don't all begin cycling at the same time
+        const initialDelay = cardIdx * 1200 + Math.random() * 1000;
+        setTimeout(() => {
+          setInterval(cycle, timings[cardIdx % timings.length]);
+        }, initialDelay);
+      });
+    })();
+  </script>
+
+  <!-- Montage script — cycles hero between clips -->
+  <script define:vars={{ montageIds: videos.map(v => v.id) }}>
+    (function() {
+      const ids = montageIds;
+      const CLIP_DURATION = 3000; // 3 seconds per clip
+      const PRELOAD_BEFORE = 800; // preload next 0.8s before switch
+      // Each clip starts at a different interesting timestamp
+      const starts = [15, 20, 30, 10, 25, 35, 18];
+
+      const frameA = document.getElementById('hero-a');
+      const frameB = document.getElementById('hero-b');
+      const progressBar = document.getElementById('montage-progress');
+      if (!frameA || !frameB) return;
+
+      let current = 0;
+      let activeFrame = 'a'; // which frame is visible
+
+      function buildSrc(idx) {
+        const id = ids[idx % ids.length];
+        const start = starts[idx % starts.length];
+        return `https://www.youtube-nocookie.com/embed/${id}?rel=0&modestbranding=1&autoplay=1&mute=1&controls=0&showinfo=0&start=${start}`;
+      }
+
+      function nextClip() {
+        current++;
+        const nextIdx = current % ids.length;
+
+        if (activeFrame === 'a') {
+          // Load into B, then crossfade
+          frameB.src = buildSrc(nextIdx);
+          setTimeout(() => {
+            frameB.classList.add('active');
+            frameA.classList.remove('active');
+            activeFrame = 'b';
+          }, PRELOAD_BEFORE);
+        } else {
+          frameA.src = buildSrc(nextIdx);
+          setTimeout(() => {
+            frameA.classList.add('active');
+            frameB.classList.remove('active');
+            activeFrame = 'a';
+          }, PRELOAD_BEFORE);
+        }
+
+        // Restart progress bar
+        if (progressBar) {
+          progressBar.style.transition = 'none';
+          progressBar.style.width = '0%';
+          requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+              progressBar.style.transition = `width ${CLIP_DURATION}ms linear`;
+              progressBar.style.width = '100%';
+            });
+          });
+        }
+      }
+
+      // Start progress bar for first clip
+      if (progressBar) {
+        progressBar.style.transition = `width ${CLIP_DURATION}ms linear`;
+        progressBar.style.width = '100%';
+      }
+
+      // Only run montage when hero is visible
+      let interval;
+      const observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+          if (!interval) interval = setInterval(nextClip, CLIP_DURATION);
+        } else {
+          if (interval) { clearInterval(interval); interval = null; }
+        }
+      }, { threshold: 0.3 });
+
+      const heroWrap = frameA.closest('.hero-video-wrap');
+      if (heroWrap) observer.observe(heroWrap);
+    })();
+  </script>
+
+  <!-- Thumbnail swap script -->
+  <script>
+    const thumbs = document.querySelectorAll('.video-thumb');
+    const mainIframe = document.getElementById('main-iframe') as HTMLIFrameElement;
+    const mainTitle = document.getElementById('main-title');
+    const mainVenue = document.getElementById('main-venue');
+    const mainType = document.getElementById('main-type');
+
+    thumbs.forEach(thumb => {
+      thumb.addEventListener('click', () => {
+        const id = thumb.getAttribute('data-id');
+        const title = thumb.getAttribute('data-title');
+        const venue = thumb.getAttribute('data-venue');
+        const type = thumb.getAttribute('data-type');
+
+        // Swap main player — autoplay with sound this time (user clicked)
+        if (mainIframe) mainIframe.src = `https://www.youtube-nocookie.com/embed/${id}?rel=0&modestbranding=1&autoplay=1`;
+        if (mainTitle) mainTitle.textContent = title;
+        if (mainVenue) mainVenue.textContent = `${venue} — MH Photography`;
+        if (mainType) mainType.textContent = type;
+
+        // Update ring styles
+        thumbs.forEach(t => {
+          t.classList.remove('ring-2', 'ring-gold', 'ring-offset-2', 'ring-offset-cream');
+          t.classList.add('ring-1', 'ring-ink/10');
+          const badge = t.querySelector('[class*="bg-gold"]');
+          if (badge && badge.textContent?.includes('Now Playing')) badge.remove();
+        });
+        thumb.classList.remove('ring-1', 'ring-ink/10');
+        thumb.classList.add('ring-2', 'ring-gold', 'ring-offset-2', 'ring-offset-cream');
+
+        // Scroll to player
+        document.getElementById('main-player')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  .hero-video-wrap {
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.08);
+  }
+
+  /* Montage crossfade */
+  .montage-frame {
+    opacity: 0;
+    transition: opacity 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    z-index: 1;
+  }
+  .montage-frame.active {
+    opacity: 1;
+    z-index: 2;
+  }
+
+  /* Progress bar */
+  .montage-bar {
+    width: 0%;
+  }
+
+  /* 5-card montage frames */
+  .mc-frame {
+    opacity: 0;
+    transition: opacity 0.6s ease;
+    z-index: 1;
+    border: none;
+    pointer-events: none;
+  }
+  .mc-frame.mc-active {
+    opacity: 1;
+    z-index: 2;
+  }
+  .montage-card {
+    transition: transform 0.3s ease;
+  }
+  .montage-card:hover {
+    transform: translateY(-3px);
+  }
+</style>

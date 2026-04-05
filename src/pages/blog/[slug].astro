@@ -1,0 +1,272 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { site } from '../../data/site';
+
+export async function getStaticPaths() {
+  const now = new Date();
+  const posts = await getCollection('blog', ({ data }) => {
+    if (data.draft) return false;
+    const pubDate = new Date(data.publishDate || data.date);
+    return pubDate <= now;
+  });
+
+  return posts.map((post) => ({
+    params: { slug: post.data.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const catLabels: Record<string, string> = {
+  'indian-weddings': 'Indian Weddings',
+  'wedding': 'Wedding',
+  'wedding-tips': 'Wedding Tips',
+  'wedding-planning': 'Wedding Planning',
+  'family-sessions': 'Family',
+  'engagement-sessions': 'Engagement',
+  'edmonton-venues': 'Edmonton Venues',
+  'photography-tips': 'Photography Tips',
+  'lifestyle': 'Lifestyle',
+};
+
+const cat = catLabels[post.data.category] || post.data.category;
+const date = new Date(post.data.date).toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<BaseLayout
+  title={`${post.data.title} | MH Photography Edmonton`}
+  description={post.data.description}
+  ogImage={post.data.image || '/images/hero/motion-couple.jpg'}
+  ogType="article"
+  articleMeta={{
+    publishedTime: post.data.publishDate || post.data.date,
+    author: site.owner,
+  }}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": post.data.title,
+      "description": post.data.description,
+      "datePublished": post.data.publishDate || post.data.date,
+      "dateModified": post.data.publishDate || post.data.date,
+      "author": {
+        "@type": "Person",
+        "name": site.owner,
+        "url": site.url,
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": site.name,
+        "url": site.url,
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${site.url}/logo.png`
+        }
+      },
+      "image": post.data.image || `${site.url}/images/hero/motion-couple.jpg`,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `${site.url}/blog/${post.data.slug}/`,
+      },
+      "articleSection": cat,
+      "inLanguage": "en-CA",
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://mhphoto.ca/blog/" },
+        { "@type": "ListItem", "position": 3, "name": post.data.title, "item": `https://mhphoto.ca/blog/${post.data.slug}/` }
+      ]
+    })} />
+  </Fragment>
+
+  <article class="max-w-[720px] mx-auto">
+    <!-- Back link -->
+    <a href="/blog/" class="inline-flex items-center gap-1.5 text-[0.7rem] font-medium tracking-[0.1em] uppercase text-ink-muted hover:text-gold transition-colors mb-8">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+      Back to Blog
+    </a>
+
+    <!-- Header -->
+    <header class="mb-10">
+      <div class="flex items-center gap-3 mb-4">
+        <span class="text-[0.55rem] font-semibold tracking-[0.12em] uppercase text-gold bg-gold/10 px-2.5 py-1 rounded-full">
+          {cat}
+        </span>
+        <time class="text-[0.7rem] text-ink-muted font-light">{date}</time>
+      </div>
+      <h1 class="font-serif font-light text-[clamp(1.75rem,4vw,2.5rem)] leading-[1.15] text-ink mb-5">
+        {post.data.title}
+      </h1>
+      {post.data.description && (
+        <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+          {post.data.description}
+        </p>
+      )}
+    </header>
+
+    <!-- Featured Image -->
+    {post.data.image && (
+      <div class="rounded-xl overflow-hidden mb-10 aspect-[16/9]">
+        <img
+          src={post.data.image}
+          alt={`${post.data.title} — Edmonton photography blog by MH Photography`}
+          class="w-full h-full object-cover"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </div>
+    )}
+
+    <!-- Content -->
+    <div class="blog-content mh-post">
+      <Content />
+    </div>
+
+    <!-- Author / CTA -->
+    <div class="mt-14 pt-8 border-t border-[#e0dcd6]">
+      <div class="flex items-center gap-4 mb-6">
+        <img src="/images/about-moe.jpg" alt={`${site.owner} — Edmonton wedding photographer at MH Photography`} class="w-12 h-12 rounded-full object-cover" loading="lazy" />
+        <div>
+          <p class="font-medium text-sm text-ink">{site.owner}</p>
+          <p class="text-[0.7rem] text-ink-muted font-light">Edmonton Wedding Photographer & Videographer</p>
+        </div>
+      </div>
+      <div class="bg-[#f7f5f2] rounded-xl p-6 text-center">
+        <p class="font-serif font-light text-lg text-ink mb-2">Like what you see?</p>
+        <p class="text-[0.8rem] font-light text-ink-soft mb-5">Let's chat about your wedding, family session, or project.</p>
+        <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-7 py-3 rounded-full hover:bg-[#333] transition-colors duration-300">
+          Get in Touch
+        </a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .blog-content :global(h2) {
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    color: #1a1a1a;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  .blog-content :global(h3) {
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.3;
+    color: #1a1a1a;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  .blog-content :global(p) {
+    font-weight: 300;
+    font-size: 0.9rem;
+    line-height: 1.85;
+    color: #444;
+    margin-bottom: 1.25rem;
+  }
+  .blog-content :global(ul),
+  .blog-content :global(ol) {
+    padding-left: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+  .blog-content :global(li) {
+    font-weight: 300;
+    font-size: 0.9rem;
+    line-height: 1.75;
+    color: #444;
+    margin-bottom: 0.4rem;
+  }
+  .blog-content :global(a) {
+    color: #c9a86c;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.2s;
+  }
+  .blog-content :global(a:hover) {
+    color: #a8884e;
+  }
+  .blog-content :global(img) {
+    border-radius: 0.75rem;
+    margin: 1.5rem 0;
+    max-width: 100%;
+    height: auto;
+  }
+  .blog-content :global(blockquote) {
+    border-left: 3px solid #c9a86c;
+    padding-left: 1.25rem;
+    margin: 1.5rem 0;
+    font-style: italic;
+    color: #666;
+  }
+  .blog-content :global(strong) {
+    font-weight: 500;
+    color: #1a1a1a;
+  }
+
+  /* WordPress .mh-post design system */
+  .blog-content :global(.mh-stat) { background: #1a1614; color: #f3ede5; border-radius: 6px; padding: 1.75rem 1.5rem; margin: 2rem 0; text-align: center; border-left: 4px solid #c9a86c; position: relative; overflow: hidden; }
+  .blog-content :global(.mh-stat::before) { content: ""; position: absolute; top: 0; right: 0; width: 120px; height: 120px; background: radial-gradient(circle, rgba(201,168,108,0.12) 0%, transparent 70%); pointer-events: none; }
+  .blog-content :global(.mh-stat-number) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 2.5rem; font-weight: 700; color: #c9a86c; display: block; line-height: 1.2; margin-bottom: 0.35rem; }
+  .blog-content :global(.mh-stat-label) { font-size: 0.92rem; color: #dfc596; letter-spacing: 0.04em; text-transform: uppercase; display: block; margin-bottom: 0.5rem; }
+  .blog-content :global(.mh-stat-source) { font-size: 0.78rem; color: rgba(255,255,255,0.4); margin-top: 0.5rem; display: block; }
+  .blog-content :global(.mh-stat-row) { display: grid; grid-template-columns: 1fr; gap: 0.75rem; margin: 2rem 0; }
+  .blog-content :global(.mh-pullquote) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.45rem; font-weight: 500; font-style: italic; color: #1a1614; text-align: center; padding: 2rem 1.25rem; margin: 2.5rem 0; border-top: 1px solid rgba(201,168,108,0.25); border-bottom: 1px solid rgba(201,168,108,0.25); line-height: 1.55; position: relative; }
+  .blog-content :global(.mh-pullquote::before) { content: "\201C"; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 4rem; color: #c9a86c; position: absolute; top: 0.25rem; left: 50%; transform: translateX(-50%); line-height: 1; opacity: 0.3; }
+  .blog-content :global(.mh-tip) { background: #f9f6f2; border-radius: 6px; padding: 1.5rem; margin: 2rem 0; border-left: 4px solid #c9a86c; }
+  .blog-content :global(.mh-tip-label) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #c9a86c; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.4rem; }
+  .blog-content :global(.mh-tip p) { margin: 0; font-size: 0.95rem; color: #3d3632; line-height: 1.65; }
+  .blog-content :global(.mh-tip p + p) { margin-top: 0.75rem; }
+  .blog-content :global(.mh-takeaway) { background: #1a1614; color: #f3ede5; border-radius: 6px; padding: 1.75rem 1.5rem; margin: 2.5rem 0; }
+  .blog-content :global(.mh-takeaway-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.15rem; font-weight: 700; color: #c9a86c; margin-bottom: 1rem; letter-spacing: 0.02em; }
+  .blog-content :global(.mh-takeaway ul) { margin: 0; padding-left: 0; list-style: none; }
+  .blog-content :global(.mh-takeaway li) { position: relative; padding-left: 1.25rem; margin-bottom: 0.6rem; font-size: 0.95rem; line-height: 1.6; color: #dfc596; }
+  .blog-content :global(.mh-takeaway li::before) { content: "\2014"; position: absolute; left: 0; color: #c9a86c; }
+  .blog-content :global(.mh-cta) { background: linear-gradient(135deg, #1a1614 0%, #2a2422 100%); border-radius: 6px; padding: 2rem 1.5rem; margin: 2.5rem 0; text-align: center; border: 1px solid rgba(201,168,108,0.2); }
+  .blog-content :global(.mh-cta-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5rem; color: #f3ede5; margin-bottom: 0.5rem; font-weight: 600; }
+  .blog-content :global(.mh-cta-text) { font-size: 0.92rem; color: rgba(255,255,255,0.65); margin-bottom: 1.25rem; line-height: 1.6; }
+  .blog-content :global(.mh-cta-btn) { display: inline-block; font-size: 0.88rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #1a1614 !important; background: #c9a86c; padding: 0.85rem 2rem; border-radius: 50px; text-decoration: none !important; transition: background 0.25s, transform 0.2s; }
+  .blog-content :global(.mh-cta-btn:hover) { background: #dfc596; transform: translateY(-1px); color: #1a1614 !important; }
+  .blog-content :global(.mh-divider) { border: none; height: 1px; background: rgba(201,168,108,0.25); margin: 2.5rem auto; max-width: 120px; }
+  .blog-content :global(.mh-faq) { margin: 2.5rem 0; }
+  .blog-content :global(.mh-faq-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.5rem; color: #1a1614; margin-bottom: 1.25rem; text-align: center; }
+  .blog-content :global(.mh-faq-item) { border-bottom: 1px solid rgba(201,168,108,0.25); }
+  .blog-content :global(.mh-faq-q) { font-size: 1rem; font-weight: 600; color: #1a1614; padding: 1.1rem 2rem 1.1rem 0; margin: 0; cursor: pointer; position: relative; list-style: none; line-height: 1.5; }
+  .blog-content :global(.mh-faq-q::-webkit-details-marker) { display: none; }
+  .blog-content :global(.mh-faq-q::after) { content: "+"; position: absolute; right: 0; top: 50%; transform: translateY(-50%); font-size: 1.25rem; color: #c9a86c; font-weight: 300; }
+  .blog-content :global(details[open] > .mh-faq-q::after) { content: "\2212"; }
+  .blog-content :global(.mh-faq-a) { padding: 0 0 1.25rem; font-size: 0.95rem; color: #6b5f58; line-height: 1.7; }
+  .blog-content :global(.mh-table-wrap) { margin: 2rem 0; overflow-x: auto; border-radius: 6px; border: 1px solid rgba(201,168,108,0.25); }
+  .blog-content :global(.mh-table) { width: 100%; min-width: 480px; border-collapse: collapse; font-size: 0.9rem; }
+  .blog-content :global(.mh-table thead) { background: #1a1614; color: #dfc596; }
+  .blog-content :global(.mh-table th) { font-weight: 600; text-transform: uppercase; font-size: 0.75rem; letter-spacing: 0.06em; padding: 0.9rem 1rem; text-align: left; }
+  .blog-content :global(.mh-table td) { padding: 0.85rem 1rem; border-bottom: 1px solid rgba(201,168,108,0.25); color: #3d3632; }
+  .blog-content :global(.mh-table tbody tr:last-child td) { border-bottom: none; }
+  .blog-content :global(.mh-table tbody tr:nth-child(even)) { background: #f9f6f2; }
+  .blog-content :global(.mh-toc) { background: #f9f6f2; border-radius: 6px; padding: 1.5rem; margin: 1.5rem 0 2.5rem; }
+  .blog-content :global(.mh-toc-title) { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1rem; font-weight: 700; color: #1a1614; margin-bottom: 0.75rem; }
+  .blog-content :global(.mh-toc ol) { margin: 0; padding-left: 1.25rem; }
+  .blog-content :global(.mh-toc li) { margin-bottom: 0.4rem; font-size: 0.92rem; line-height: 1.5; }
+  .blog-content :global(.mh-toc a) { color: #8b6f47; text-decoration: none; }
+  .blog-content :global(.mh-toc a:hover) { color: #c9a86c; text-decoration: underline; }
+  .blog-content :global(.mh-badge) { display: inline-block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; background: #c9a86c; color: #1a1614; padding: 0.15rem 0.5rem; border-radius: 50px; }
+
+  @media (min-width: 768px) {
+    .blog-content :global(.mh-stat-number) { font-size: 3rem; }
+    .blog-content :global(.mh-stat-row) { grid-template-columns: 1fr 1fr; }
+    .blog-content :global(.mh-pullquote) { font-size: 1.65rem; padding: 2.5rem 3rem; }
+    .blog-content :global(.mh-cta) { padding: 2.5rem 3rem; }
+    .blog-content :global(.mh-cta-title) { font-size: 1.75rem; }
+  }
+</style>

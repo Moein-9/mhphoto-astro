@@ -1,0 +1,227 @@
+---
+/**
+ * Tetris-style masonry gallery — images packed tight like puzzle pieces.
+ * Clean rounded corners, tiny gaps, no decorative frames.
+ * Click to open cream lightbox with swipe support.
+ */
+interface Props {
+  slug: string;
+  altPrefix: string;
+}
+
+import fs from 'node:fs';
+import path from 'node:path';
+
+const { slug, altPrefix } = Astro.props;
+
+const galleryDir = path.join(process.cwd(), 'public/gallery-images', slug);
+let images: { src: string; alt: string }[] = [];
+try {
+  const files = fs.readdirSync(galleryDir)
+    .filter((f: string) => /\.(jpg|jpeg|png|webp)$/i.test(f))
+    .sort();
+  images = files.map((f: string) => {
+    const name = f.replace(/^\d+-/, '').replace(/\.[^.]+$/, '').replace(/[_-]/g, ' ').replace(/\(.*?\)/g, '').trim();
+    return {
+      src: `/gallery-images/${slug}/${f}`,
+      alt: `${altPrefix} — ${name || 'Edmonton photography by MH Photography'}`,
+    };
+  });
+} catch (e) { /* empty */ }
+---
+
+{images.length > 0 && (
+  <div class="tetris-gallery" id={`gallery-${slug}`}>
+    {images.map((img, i) => (
+      <div class="tetris-item" data-lightbox={i}>
+        <img src={img.src} alt={img.alt} loading={i < 6 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined} />
+      </div>
+    ))}
+  </div>
+
+  <!-- Cream Lightbox -->
+  <div id={`lb-${slug}`} class="lb-wrap">
+    <div class="lb-backdrop"></div>
+    <button class="lb-close" aria-label="Close">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 6L6 18M6 6l12 12"/></svg>
+    </button>
+    <button class="lb-prev" aria-label="Previous">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M15 18l-6-6 6-6"/></svg>
+    </button>
+    <button class="lb-next" aria-label="Next">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 18l6-6-6-6"/></svg>
+    </button>
+    <div class="lb-card">
+      <img class="lb-img" src="" alt="" />
+      <p class="lb-counter"></p>
+    </div>
+  </div>
+
+  <style>
+    /* ===== TETRIS MASONRY — CSS columns, tight packing ===== */
+    .tetris-gallery {
+      columns: 2;
+      column-gap: 4px;
+    }
+    @media (min-width: 640px) {
+      .tetris-gallery { columns: 3; column-gap: 5px; }
+    }
+    @media (min-width: 1024px) {
+      .tetris-gallery { columns: 3; column-gap: 6px; }
+    }
+
+    .tetris-item {
+      break-inside: avoid;
+      margin-bottom: 4px;
+      border-radius: 6px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: opacity 0.3s;
+    }
+    @media (min-width: 640px) {
+      .tetris-item { margin-bottom: 5px; border-radius: 8px; }
+    }
+    .tetris-item:hover { opacity: 0.92; }
+    .tetris-item img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* ===== CREAM LIGHTBOX ===== */
+    .lb-wrap {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 100000;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    .lb-wrap.open { display: flex; }
+    .lb-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(247, 244, 242, 0.92);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+    }
+    .lb-card {
+      position: relative;
+      z-index: 2;
+      max-width: 90vw;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .lb-img {
+      max-width: 90vw;
+      max-height: 80vh;
+      object-fit: contain;
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.12), 0 4px 16px rgba(0,0,0,0.06);
+    }
+    .lb-counter {
+      margin-top: 16px;
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #8A8279;
+      font-weight: 400;
+    }
+    .lb-close {
+      position: absolute;
+      top: 20px;
+      right: 24px;
+      z-index: 10;
+      color: #4A4541;
+      background: rgba(247,244,242,0.8);
+      backdrop-filter: blur(8px);
+      border: none;
+      cursor: pointer;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+    }
+    .lb-close:hover { background: rgba(237,233,227,1); }
+    .lb-prev, .lb-next {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 10;
+      color: #4A4541;
+      background: rgba(247,244,242,0.8);
+      backdrop-filter: blur(8px);
+      border: none;
+      cursor: pointer;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s;
+    }
+    .lb-prev { left: 16px; }
+    .lb-next { right: 16px; }
+    .lb-prev:hover, .lb-next:hover { background: rgba(237,233,227,1); }
+
+    @media (max-width: 640px) {
+      .lb-prev, .lb-next { width: 36px; height: 36px; }
+      .lb-close { width: 36px; height: 36px; top: 12px; right: 12px; }
+      .lb-img { border-radius: 12px; max-height: 75vh; }
+    }
+  </style>
+
+  <script define:vars={{ slug, totalImages: images.length, imageSrcs: images.map(img => img.src) }}>
+    const lb = document.getElementById(`lb-${slug}`);
+    const lbImg = lb.querySelector('.lb-img');
+    const lbCounter = lb.querySelector('.lb-counter');
+    let idx = 0;
+
+    function openLB(i) {
+      idx = i;
+      lbImg.src = imageSrcs[idx];
+      lbCounter.textContent = `${idx + 1} / ${totalImages}`;
+      lb.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+    function closeLB() {
+      lb.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+    function navLB(dir) {
+      idx = Math.max(0, Math.min(totalImages - 1, idx + dir));
+      lbImg.src = imageSrcs[idx];
+      lbCounter.textContent = `${idx + 1} / ${totalImages}`;
+    }
+
+    document.querySelectorAll(`#gallery-${slug} [data-lightbox]`).forEach(el => {
+      el.addEventListener('click', () => openLB(parseInt(el.dataset.lightbox)));
+    });
+
+    lb.querySelector('.lb-close').addEventListener('click', closeLB);
+    lb.querySelector('.lb-prev').addEventListener('click', (e) => { e.stopPropagation(); navLB(-1); });
+    lb.querySelector('.lb-next').addEventListener('click', (e) => { e.stopPropagation(); navLB(1); });
+    lb.querySelector('.lb-backdrop').addEventListener('click', closeLB);
+
+    document.addEventListener('keydown', (e) => {
+      if (!lb.classList.contains('open')) return;
+      if (e.key === 'Escape') closeLB();
+      if (e.key === 'ArrowRight') navLB(1);
+      if (e.key === 'ArrowLeft') navLB(-1);
+    });
+
+    let touchStartX = 0;
+    lb.addEventListener('touchstart', (e) => { touchStartX = e.changedTouches[0].screenX; }, { passive: true });
+    lb.addEventListener('touchend', (e) => {
+      const diff = e.changedTouches[0].screenX - touchStartX;
+      if (Math.abs(diff) > 50) navLB(diff > 0 ? -1 : 1);
+    }, { passive: true });
+  </script>
+)}
