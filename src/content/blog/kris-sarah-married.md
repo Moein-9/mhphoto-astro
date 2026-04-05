@@ -32,7 +32,7 @@ Father of the bride was camera shy, but i finally managed to take a picture of h
 and now ceremony time!!
 
 
-With the Day light saving, we did not had much time for outdoor pictures, but nothing stops MH Photography!
+With the Day light saving, we did not had much time for outdoor pictures, but nothing stops MH Photography! The [Edmonton river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) near the Fairmont offered beautiful winter backdrops even with limited daylight.
 
 
 a little background of this picture, Kris and Sarah they met in this spot for the first time, and it was an honour for me to recreate the moment for them 🙂
@@ -40,4 +40,4 @@ a little background of this picture, Kris and Sarah they met in this spot for th
 
 Kris and Sarah it was a pleasure and an honour to be part of your big day, i really felt super happy being around you guys and capture your big day! Thank you so much for the opportunity!
 
-i wish you guys nothing but the best in your upcoming chapter! and enjoy the warm weather in Caribbean's!
+i wish you guys nothing but the best in your upcoming chapter! and enjoy the warm weather in Caribbean's! If you are planning a winter wedding, [Explore Edmonton](https://exploreedmonton.com/) has great ideas for making the most of the season.

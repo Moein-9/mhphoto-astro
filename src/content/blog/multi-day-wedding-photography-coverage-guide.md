@@ -33,7 +33,7 @@ I specialize in [multi-day wedding photography](/multiday-packages/) here in Edm
 | Average Indian Wedding in Canada | **$100K+** | WeddingWire Canada, 2025 |
 | Average Wedding Photographer Cost (Canada) | **$2,900** | WeddingWire Canada, 2025 |
 
-Consider this: the average Canadian wedding costs about $39,000, and the average photography investment is around $2,900. But the average Indian wedding in Canada exceeds $100,000. The scale is fundamentally different. And yet, many photographers try to apply single-day thinking to multi-day celebrations. That approach simply does not work. You need a photographer who understands the rhythm, the stamina requirements, and the cultural significance of every single event.
+Consider this: the average Canadian wedding costs about $39,000 according to [WeddingWire Canada](https://www.weddingwire.ca/), and the average photography investment is around $2,900. But the average Indian wedding in Canada exceeds $100,000. The scale is fundamentally different. And yet, many photographers try to apply single-day thinking to multi-day celebrations. That approach simply does not work. You need a photographer who understands the rhythm, the stamina requirements, and the cultural significance of every single event.
 
 
 ## What Events Need to Be Covered
@@ -42,7 +42,7 @@ Let me walk you through a typical multi-day South Asian wedding and what each ev
 
 ### Day 1: Mehndi
 
-The mehndi ceremony is typically an intimate gathering where the bride gets her henna done. Family and close friends are there. Music is playing. People are dancing. The mood is warm and joyful.
+The [mehndi](https://en.wikipedia.org/wiki/Mehndi) ceremony is typically an intimate gathering where the bride gets her henna done. Family and close friends are there. Music is playing. People are dancing. The mood is warm and joyful.
 
 From a photography standpoint, the mehndi is all about detail shots and candid moments. The intricate henna patterns being applied to the bride's hands. The artist's concentration. The bride's expression as she watches her design come to life. The friends taking turns getting their own henna done. The impromptu dance circles. I typically spend 3 to 5 hours at a mehndi ceremony.
 
@@ -60,7 +60,7 @@ Fair warning — I always leave a haldi ceremony with turmeric on my gear. It wa
 
 ### Day 3: The Main Ceremony
 
-The ceremony day is the longest and most complex. It often starts with the baraat (groom's procession), followed by the milni (meeting of families), then the ceremony itself — which can last 2 to 4 hours depending on the tradition. Hindu ceremonies centre around the sacred fire. Sikh ceremonies take place around the Guru Granth Sahib. Muslim ceremonies follow the Nikah format.
+The ceremony day is the longest and most complex. It often starts with the baraat (groom's procession), followed by the milni (meeting of families), then the ceremony itself — which can last 2 to 4 hours depending on the tradition. Hindu ceremonies centre around the sacred fire. [Sikh ceremonies](https://en.wikipedia.org/wiki/Anand_Karaj) take place around the Guru Granth Sahib. Muslim ceremonies follow the [Nikah](https://en.wikipedia.org/wiki/Nikah) format.
 
 I plan for 10 to 14 hours on the ceremony day. Getting ready coverage for both bride and groom. The baraat. The ceremony. Portraits during golden hour. The reception. The vidaai (bride's farewell) or rukhsati. It is a marathon, and I love every minute of it.
 

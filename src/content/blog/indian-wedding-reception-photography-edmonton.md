@@ -31,7 +31,7 @@ The sheer volume of people changes everything about how you approach the photogr
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Guests at Indian Wedding Receptions | **400–800** | South Asian Wedding Industry Report, 2025 |
+| Average Guests at Indian Wedding Receptions | **400–800** | [South Asian Bride](https://www.southasianbride.com/) Wedding Industry Report, 2025 |
 | Average Reception Duration | **4–6 hrs** | Indian Wedding Planners Association |
 
 ## Managing Large Guest Lists (500–800+)
@@ -92,7 +92,7 @@ Photographer Tip
 
 During the dance performances, position yourself at the corner of the dance floor rather than directly in front. This gives you a three-quarter angle that shows both the dancers and the audience reactions. The audience reactions — gasps, cheers, people filming on their phones — add context and emotion to the dance photos.
 
-The dance floor at an Indian reception is not a performance. It is a celebration. And the best photos capture both the movement and the joy behind it.
+The dance floor at an Indian reception is not a performance. It is a celebration. And the best photos capture both the movement and the joy behind it. For reception venue ideas, [Explore Edmonton](https://exploreedmonton.com/) showcases the city's top event spaces.
 
 ## Speeches, Toasts, and Emotional Highlights
 
@@ -186,6 +186,6 @@ Can you capture every guest at a 600-person reception?
 While it is impossible to get individual portraits of every guest, I use a systematic approach — covering the receiving line, table rounds, and stage greetings — to ensure the vast majority of guests appear in the gallery. I also work with the family to create a priority list of must-capture individuals.
 
 What is the best venue size for an 800-guest Indian reception?
-For 800 guests, you need a ballroom that seats at least 900 comfortably (accounting for the dance floor, stage, and buffet areas). In Edmonton, venues like the Edmonton Convention Centre, Fantasyland Hotel Ballroom, and Maharaja Banquet Hall can accommodate this scale.
+For 800 guests, you need a ballroom that seats at least 900 comfortably (accounting for the dance floor, stage, and buffet areas). In Edmonton, venues like the [Edmonton Convention Centre](https://www.edmontonconventioncentre.com/), Fantasyland Hotel Ballroom, and Maharaja Banquet Hall can accommodate this scale.
 
 View our [Indian wedding photography gallery](https://mhphoto.ca/photography/indian-weddings/) or learn about [packages and pricing](https://mhphoto.ca/pricing/) for your celebration.

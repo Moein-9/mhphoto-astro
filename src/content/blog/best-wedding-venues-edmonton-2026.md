@@ -5,7 +5,7 @@ date: "2026-04-10"
 publishDate: "2026-04-10T09:00:00"
 category: "edmonton-venues"
 keyword: "best wedding venues edmonton"
-description: "The 15 best wedding venues in Edmonton for 2026 -- Fairmont Hotel Macdonald, Oasis Centre, Art Gallery of Alberta, and more. Photographer tips, pricing ranges, and comparison table."
+description: "The 15 best wedding venues in Edmonton for 2026 — Fairmont Hotel Macdonald, Oasis Centre, Art Gallery of Alberta, and more. Pricing and photographer tips."
 image: "/gallery-images/weddings/016-outdoor-portrait.jpg"
 draft: false
 ---
@@ -53,7 +53,7 @@ For couples willing to venture outside Edmonton, the [Jasper](https://www.jasper
 
 ### 3. The Art Gallery of Alberta
 
-For couples who want modern architecture and cultural prestige, the Art Gallery of Alberta is a statement venue. The building's dramatic curved design by Randall Stout creates incredible photo opportunities, and the gallery spaces can be configured for ceremonies and receptions of various sizes. The interplay between art installations and wedding decor is visually fascinating.
+For couples who want modern architecture and cultural prestige, the [Art Gallery of Alberta](https://www.youraga.ca/) is a statement venue. The building's dramatic curved design by Randall Stout creates incredible photo opportunities, and the gallery spaces can be configured for ceremonies and receptions of various sizes. The interplay between art installations and wedding decor is visually fascinating.
 
 ## Rustic & Barn Venues
 
@@ -81,13 +81,13 @@ The Matrix Hotel is a boutique option with a modern industrial feel. Exposed con
 
 ### 9. Enjoy Centre (St. Albert)
 
-Just north of Edmonton in St. Albert, the Enjoy Centre is a stunning glass-and-steel atrium filled with natural light and living plants. The greenhouse atmosphere is unlike any other venue in the area. For photography, the natural light is extraordinary — soft, diffused, and consistent throughout the day. The venue can accommodate up to 300 guests and offers both ceremony and reception spaces under one roof.
+Just north of Edmonton in St. Albert, the [Enjoy Centre](https://www.enjoycentre.ca/) is a stunning glass-and-steel atrium filled with natural light and living plants. The greenhouse atmosphere is unlike any other venue in the area. For photography, the natural light is extraordinary — soft, diffused, and consistent throughout the day. The venue can accommodate up to 300 guests and offers both ceremony and reception spaces under one roof.
 
 ## Outdoor & Garden Venues
 
 ### 10. Devonian Botanic Garden
 
-The University of Alberta's Devonian Botanic Garden is one of the most beautiful outdoor wedding locations near Edmonton. The Japanese Garden, the Herb Garden, and the surrounding native plant collections create a lush, diverse backdrop for ceremonies and portraits. Available from May through September, outdoor weddings here benefit from Edmonton's long summer daylight — golden hour can last until 10 PM in June and July.
+The University of Alberta's [Devonian Botanic Garden](https://www.devonian.ualberta.ca/) is one of the most beautiful outdoor wedding locations near Edmonton. The Japanese Garden, the Herb Garden, and the surrounding native plant collections create a lush, diverse backdrop for ceremonies and portraits. Available from May through September, outdoor weddings here benefit from Edmonton's long summer daylight — golden hour can last until 10 PM in June and July.
 
 ### 11. River Valley Parks
 
@@ -113,7 +113,7 @@ As the name suggests, Maharaja Banquet Hall is designed specifically for South A
 
 ### 15. Edmonton Convention Centre
 
-For the largest celebrations — 500+ guests — the Edmonton Convention Centre offers the scale and infrastructure that few other venues can match. The floor-to-ceiling windows overlooking the river valley create a dramatic backdrop, and the flexible floor plans allow for creative stage and mandap configurations. The downside is that it is a blank canvas, so you need a strong decorator to transform the space. But when done well, the results are spectacular.
+For the largest celebrations — 500+ guests — the [Edmonton Convention Centre](https://www.edmontonconventioncentre.com/) offers the scale and infrastructure that few other venues can match. The floor-to-ceiling windows overlooking the river valley create a dramatic backdrop, and the flexible floor plans allow for creative stage and mandap configurations. The downside is that it is a blank canvas, so you need a strong decorator to transform the space. But when done well, the results are spectacular.
 
 Venue Tip for South Asian Weddings
 

@@ -4,7 +4,7 @@ slug: "indian-wedding-guest-photography-etiquette"
 date: "2026-07-30"
 publishDate: "2026-07-30T09:00:00"
 category: "indian-weddings"
-description: "Indian wedding guest photography etiquette — when to take photos, when to put your phone away, and sacred ceremony protocols. A helpful guide for guests in Edmonton."
+description: "Indian wedding guest photography etiquette — when to take photos, when to put your phone away, and sacred ceremony protocols. A guide for Edmonton guests."
 image: "/gallery-images/indian-weddings/010-sangeet-dance.jpg"
 draft: false
 ---
@@ -30,8 +30,8 @@ And that is perfectly understandable. If you have never attended an Indian weddi
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Hire a Professional Photographer | **96%** | WeddingWire India Survey, 2025 |
-| Couples Who Wish Guests Used Phones Less | **68%** | The Knot Real Weddings Study, 2024 |
+| Couples Who Hire a Professional Photographer | **96%** | [WeddingWire](https://www.weddingwire.ca/) India Survey, 2025 |
+| Couples Who Wish Guests Used Phones Less | **68%** | [The Knot](https://www.theknot.com/) Real Weddings Study, 2024 |
 
 That 68% statistic is telling. The majority of couples wish their guests would be more present and less focused on getting their own shots. This does not mean you should never take photos. It means there is a right time and a right way to do it. As a result, understanding the etiquette helps you be a better guest and ensures the couple gets the professional images they are paying for.
 
@@ -70,7 +70,7 @@ The pheras — the seven circles around the sacred fire — are the most importa
 
 ### During the Anand Karaj (Sikh Ceremony)
 
-In a Sikh wedding, the Anand Karaj takes place in the Gurdwara (temple). This is a deeply religious ceremony, and photography etiquette in a Gurdwara is strict. Many Gurdwaras have rules about photography — some allow only the official photographer, some prohibit flash, and some do not allow phones at all. Furthermore, you are expected to cover your head, remove your shoes, and sit respectfully. Your phone should not be a distraction during prayers.
+In a Sikh wedding, the Anand Karaj takes place in the Gurdwara (temple). For more on the spiritual significance of the Anand Karaj, the [Sikh Heritage Foundation](https://www.sikhheritage.ca/) offers excellent educational resources. This is a deeply religious ceremony, and photography etiquette in a Gurdwara is strict. Many Gurdwaras have rules about photography — some allow only the official photographer, some prohibit flash, and some do not allow phones at all. Furthermore, you are expected to cover your head, remove your shoes, and sit respectfully. Your phone should not be a distraction during prayers.
 
 ### During the Sindoor and Mangalsutra
 
@@ -203,6 +203,6 @@ Should I share my wedding photos with the couple?
 Most couples love receiving guest photos, especially candid shots from the reception and baraat. Create a shared album or use the wedding hashtag. Just avoid sharing unflattering images, and ask before posting publicly on social media.
 
 What if I am attending my first Indian wedding?
-Congratulations — you are in for an incredible experience. Indian weddings are warm, welcoming, and joyful. Dress colourfully (avoid white and black for Hindu ceremonies), be open to participating in rituals when invited, respect the sacred moments, and enjoy the food. The family will appreciate your enthusiasm and respect.
+Congratulations — you are in for an incredible experience. Indian weddings are warm, welcoming, and joyful. For helpful primers on what to expect, [Maharani Weddings](https://www.maharaniweddings.com/) publishes excellent guides for first-time guests. Dress colourfully (avoid white and black for Hindu ceremonies), be open to participating in rituals when invited, respect the sacred moments, and enjoy the food. The family will appreciate your enthusiasm and respect.
 
 See more from our [Indian wedding gallery](https://mhphoto.ca/photography/indian-weddings/) or learn about our [wedding photography packages](https://mhphoto.ca/pricing/).

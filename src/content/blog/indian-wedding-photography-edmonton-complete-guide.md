@@ -32,7 +32,7 @@ As someone who has specialized in [Indian wedding photography](https://mhphoto.c
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Indian Wedding in Canada | **$100,000+** | WeddingWire Canada, 2025 |
+| Average Indian Wedding in Canada | **$100,000+** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 | Average Guest Count | **350–400** | Plan Events Canada, 2025 |
 
 These numbers are not surprising to anyone who has been part of an Indian wedding. The scale, the detail, and the love that goes into these celebrations is extraordinary. And every single moment deserves to be documented beautifully.
@@ -63,7 +63,7 @@ Visually, it is stunning. The deep yellow of the turmeric against colourful clot
 
 ### Baraat — The Groom's Procession
 
-The baraat is one of the most photographically exciting moments I capture at any wedding, period. The groom arrives at the venue accompanied by his family and friends, usually to the beat of dhol drums, and everyone is dancing. In Edmonton, I have shot baraats arriving at the Oasis Centre, at hotel entrances, and even in parking lots that families have transformed into full-on dance parties.
+The baraat is one of the most photographically exciting moments I capture at any wedding, period. The groom arrives at the venue accompanied by his family and friends, usually to the beat of dhol drums, and everyone is dancing. In Edmonton, I have shot baraats arriving at the [Oasis Centre](https://www.oasiscentre.ca/), at hotel entrances, and even in parking lots that families have transformed into full-on dance parties.
 
 The baraat is pure, unscripted joy. Two hundred people dancing in the street, dhol drums shaking your chest, the groom grinning ear to ear. You cannot pose this. You can only be ready for it.
 
@@ -77,7 +77,7 @@ For Muslim weddings, the Nikah is a solemn and beautiful ceremony with its own t
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Rank Photography as #1 Budget Priority | **34%** | The Knot Global Report, 2025 |
+| Couples Who Rank Photography as #1 Budget Priority | **34%** | [The Knot](https://www.theknot.com/) Global Report, 2025 |
 
 ### Vidaai — The Bride's Farewell
 
@@ -143,7 +143,7 @@ How many photos will we receive from a multi-day Indian wedding?
 For a typical 3-day celebration, you can expect 1,500 to 3,000+ fully edited images. The exact number depends on the number of events, the duration of each, and the overall scope of the celebration.
 
 Can you shoot at Gurdwaras and Hindu temples?
-Absolutely. I have experience photographing at multiple Gurdwaras and Hindu temples in the Edmonton area, including the Hindu Society of Alberta. I understand and respect the protocols of each sacred space while still capturing beautiful images.
+Absolutely. I have experience photographing at multiple Gurdwaras and Hindu temples in the Edmonton area, including the [Hindu Society of Alberta](https://www.hindusociety.ab.ca/). I understand and respect the protocols of each sacred space while still capturing beautiful images.
 
 What is included in your multi-day Indian wedding packages?
 My [multi-day packages](/multiday-packages/) include pre-wedding consultations, coverage of all events (mehndi, sangeet, ceremony, reception), a second shooter, professional editing, and a full online gallery. Engagement sessions and albums can be added.

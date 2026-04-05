@@ -28,7 +28,7 @@ While the lead photographer focuses on the primary action — the couple during 
 
 | Stat | Figure | Source |
 |---|---|---|
-| Wedding Photographers Who Recommend a Second Shooter | **78%** | Professional Photographers of America, 2025 |
+| Wedding Photographers Who Recommend a Second Shooter | **78%** | [Professional Photographers of America](https://www.ppa.com/), 2025 |
 
 However, here is the honest truth: not every wedding needs a second shooter. And not every photographer is transparent about that. Some photographers include a second shooter in every package because it is an easy upsell. Others never use one, even when they probably should. The real answer depends on your specific wedding. Let me walk you through when it matters and when it does not.
 
@@ -171,7 +171,7 @@ Is a second shooter the same as a photography assistant?
 No. A photography assistant helps with gear, lighting, and logistics but does not take photos. A second shooter is a fully equipped professional photographer who independently captures images throughout the day. They have their own camera bodies, lenses, and memory cards. Both roles are valuable, but they serve different purposes.
 
 Can a friend with a nice camera be my second shooter?
-I strongly advise against this. Professional wedding photography requires experience with variable lighting, fast-moving moments, and high-pressure situations. A well-meaning friend can actually get in the way of the professional photographer, create inconsistent images, and miss critical moments. If a friend wants to take photos, that is wonderful — but they should not be assigned a professional role.
+I strongly advise against this. Professional wedding photography requires experience with variable lighting, fast-moving moments, and high-pressure situations. A well-meaning friend can actually get in the way of the professional photographer, create inconsistent images, and miss critical moments. The [Professional Photographers of Canada](https://www.ppoc.ca/) emphasizes the importance of trained professionals for event coverage. If a friend wants to take photos, that is wonderful — but they should not be assigned a professional role.
 
 Do I get to choose the second shooter?
 With most photographers, the lead selects the second shooter based on their trust in that person's skills and compatibility with their shooting style. However, you should absolutely ask to see the second shooter's work. I always introduce my couples to the second shooter before the wedding day so everyone is comfortable.

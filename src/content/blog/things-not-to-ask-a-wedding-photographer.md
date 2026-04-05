@@ -11,7 +11,7 @@ draft: false
 
 Wedding photographers are the organizers of your special day. They are with you in nearly every moment of the wedding day. Do you have noticed the difference why current weddings are more sophisticated and beautiful?
 
-In the past, people used to neglect photographers' ideas. They always implemented their choice without noticing what will suit them. Wedding photographers were considered a secondary object while planning for the wedding. But now, visiting a wedding photographer first and then preparing for other wedding requirements has become a trend.  Your wedding photographer is the only person who can advise you better to make your special day different from others.
+In the past, people used to neglect photographers' ideas. They always implemented their choice without noticing what will suit them. Wedding photographers were considered a secondary object while planning for the wedding. But now, visiting a wedding photographer first and then preparing for other wedding requirements has become a trend. Resources like [The Knot](https://www.theknot.com/) and [WeddingWire Canada](https://www.weddingwire.ca/) can help you understand photographer etiquette and what to expect.  Your wedding photographer is the only person who can advise you better to make your special day different from others.
 
 **Things to avoid while planning for the wedding day **
 

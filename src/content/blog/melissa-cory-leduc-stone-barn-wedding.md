@@ -12,7 +12,7 @@ draft: false
 Melissa and Cory, such a fun and beautiful couple in all ways. We had the fortune of spending the day with them on a GORGEOUS mid September, and if you know me well enough, i LOVE autumn.
 
 
-we started the day at the ceremony, and it was held at stone barn located in Leduc, i really love how unique that place look. it was a privilege to attend a aboriginal wedding, i really learnt and enjoyed the ceremony, it was really fruitful!
+we started the day at the ceremony, and it was held at stone barn located in [Leduc](https://www.leduc.ca/), i really love how unique that place look. it was a privilege to attend a aboriginal wedding, i really learnt and enjoyed the ceremony, it was really fruitful!
 
 
 Mother and Daughter entrance.
@@ -49,4 +49,4 @@ and after that we headed to the reception and i really liked how simple the wedd
 and then first dance 🙂
 
 
-Melissa, and Cory, Thank you so much for the amazing day and allow me to capture your beautiful day, and learning new things on your wedding day! i wish you guys nothing but the best 🙂
+Melissa and Cory, thank you so much for the amazing day and allowing me to capture your beautiful day, and learning new things on your wedding day! Barn and rustic venues near Edmonton are growing in popularity -- [WeddingWire Canada](https://www.weddingwire.ca/) features many of these unique Alberta locations. i wish you guys nothing but the best 🙂

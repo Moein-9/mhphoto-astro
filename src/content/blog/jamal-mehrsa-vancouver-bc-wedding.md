@@ -24,7 +24,7 @@ let's go over some pictures!
  
 
 
-We started the day with a [Baha'i Ceremony](http://www.bahaimarriage.net/Baha'iMarriageLaws-BahaiCanadaExcerpt-Feb2011.pdf). It was very simple and inspiring.
+We started the day with a [Baha'i Ceremony](https://www.bahai.ca/). It was very simple and inspiring.
 
 
  
@@ -54,5 +54,5 @@ The reception was at [Vancouver Golf Club](http://www.vancouvergolfclub.com/), i
 
  
 
-Congurlation Jamal and Mehrsa I wish you guys nothing but the best in the next chapter of your life and thank you for allowing me to travel all the way to Vancouver for your special day.
+Congratulations Jamal and Mehrsa, I wish you guys nothing but the best in the next chapter of your life and thank you for allowing me to travel all the way to Vancouver for your special day. If you are planning a destination wedding in BC, [Tourism Vancouver](https://www.destinationvancouver.com/) has wonderful resources for venues and locations.
 

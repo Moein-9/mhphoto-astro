@@ -142,7 +142,7 @@ const ogImageURL = new URL(ogImage, Astro.site).href;
   <link rel="dns-prefetch" href="https://mhphoto.ca" />
 
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 
   <!-- RSS Feed -->
   <link rel="alternate" type="application/rss+xml" title="MH Photography Blog" href="/blog/rss.xml" />
@@ -217,7 +217,7 @@ const ogImageURL = new URL(ogImage, Astro.site).href;
 
         <!-- Keyword-rich paragraph -->
         <p class="text-[0.7rem] font-light text-ink-muted/60 leading-relaxed mb-6 max-w-[700px]">
-          MH Photography is the best wedding photographer in Edmonton, offering both wedding photography and wedding videographer Edmonton services. We specialize in affordable wedding photography, Indian wedding photography, family portraits, and engagement sessions. Wedding photographer cost starts at $2,250 for photography and $3,750 for videography. We also cover elopement photography and offer wedding photography locations across Edmonton, Sherwood Park, St. Albert, Spruce Grove, and all of Alberta. {site.booking}.
+          MH Photography is the best wedding photographer in Edmonton, offering both wedding photography and wedding videographer Edmonton services. We specialize in affordable wedding photography, Indian wedding photography, family portraits, and engagement sessions. Wedding photographer cost starts at $2,250 for photography and $3,750 for videography. We also cover elopement photography and offer wedding photography locations across Edmonton, Sherwood Park, St. Albert, Spruce Grove, and all of Alberta and Canada. {site.booking}.
         </p>
 
         <!-- Bottom bar -->
@@ -244,8 +244,14 @@ const ogImageURL = new URL(ogImage, Astro.site).href;
   <!-- Scroll reveal observer -->
   <script>
     (function() {
+      // Skip reveal animations if elements are already visible (dev hot-reload)
+      var alreadyRevealed = document.querySelector('.reveal.visible');
+      if (alreadyRevealed) {
+        document.querySelectorAll('.reveal').forEach(function(el) { el.classList.add('visible'); });
+        return;
+      }
+
       if (!('IntersectionObserver' in window)) {
-        // Fallback: just show everything immediately on old browsers
         document.querySelectorAll('.reveal').forEach(function(el) { el.classList.add('visible'); });
         return;
       }
@@ -260,7 +266,6 @@ const ogImageURL = new URL(ogImage, Astro.site).href;
         }, { threshold: 0.15, rootMargin: '0px 0px -60px 0px' });
         document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el); });
       } catch(e) {
-        // If observer fails, show all elements immediately
         document.querySelectorAll('.reveal').forEach(function(el) { el.classList.add('visible'); });
       }
     })();

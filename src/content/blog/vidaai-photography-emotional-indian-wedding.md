@@ -24,13 +24,13 @@ In This Guide
 
 The vidaai is the farewell ceremony at an [Indian wedding](https://mhphoto.ca/photography/indian-weddings/). It is the moment when the bride leaves her parents' home — or in modern celebrations, the wedding venue — to begin her new life with her husband and his family. In Hindi, "vidaai" literally means "farewell" or "departure."
 
-To understand why this moment is so significant, you need to understand what it represents. In Indian culture, a daughter holds a deeply cherished place in the family. The vidaai marks the transition of the bride from her birth family to her new family. It is a moment of joy because she is beginning a new chapter. However, it is also a moment of profound sadness because she is leaving the home where she grew up, the parents who raised her, the siblings who grew alongside her.
+To understand why this moment is so significant, you need to understand what it represents. As [Maharani Weddings](https://www.maharaniweddings.com/) often highlights in their real wedding features, in Indian culture, a daughter holds a deeply cherished place in the family. The vidaai marks the transition of the bride from her birth family to her new family. It is a moment of joy because she is beginning a new chapter. However, it is also a moment of profound sadness because she is leaving the home where she grew up, the parents who raised her, the siblings who grew alongside her.
 
 In my years of photographing Indian weddings across Edmonton, the vidaai consistently produces the most powerful, emotionally raw photographs of the entire celebration. And that is saying something, because Indian weddings are filled with emotional moments from start to finish.
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Rank Vidaai Photos Among Their Most Treasured | **89%** | Indian Wedding Planning Forum Survey, 2025 |
+| Couples Who Rank Vidaai Photos Among Their Most Treasured | **89%** | [South Asian Bride](https://www.southasianbride.com/) Wedding Planning Survey, 2025 |
 
 ## Why It Is the Most Emotional Moment
 
@@ -133,7 +133,7 @@ The vidaai is just one of many sacred moments I am honoured to document. I bring
 ## Frequently Asked Questions
 
 Is the vidaai part of every Indian wedding?
-The vidaai is traditional in Hindu and Sikh weddings. While the specific rituals may vary by region and family tradition, the concept of the bride's farewell is nearly universal across Indian wedding cultures. Some modern celebrations simplify the ceremony, but the emotional core remains the same.
+The vidaai is traditional in Hindu and Sikh weddings. [The Knot](https://www.theknot.com/) and [WeddingWire Canada](https://www.weddingwire.ca/) both feature detailed guides on South Asian ceremony traditions including the vidaai. While the specific rituals may vary by region and family tradition, the concept of the bride's farewell is nearly universal across Indian wedding cultures. Some modern celebrations simplify the ceremony, but the emotional core remains the same.
 
 Can we do the vidaai privately?
 Some families choose to have a more private vidaai with only immediate family present. This is absolutely fine. In fact, a smaller, more intimate vidaai often produces even more powerful photographs because the emotions are more concentrated and there are fewer distractions. I discuss the family's preference during our pre-wedding consultation.

@@ -4,14 +4,14 @@ slug: "ideas-for-memorable-wedding-photography"
 date: "2019-07-19"
 publishDate: "2019-07-19T05:11:45"
 category: "wedding"
-description: "Ideas for memorable wedding photography in Edmonton — from engagement to reception, creative ways to capture your special day. By Moein Habibi, MH Photography."
+description: "Ideas for memorable wedding photography in Edmonton — from engagement to reception, creative ways to capture your special day. By Moein Habibi."
 image: "/gallery-images/weddings/031-couple-portrait-outdoor.jpg"
 draft: false
 ---
 
 Wedding day is the most awaited day for those who marry their loved one. It is the day of promises to be with each other forever. From engagement day to walking down the aisle to the reception, there is the number of events contributing to make this day special. One of the unforgettable moments of the wedding is the photography. so, you must seek for the ideas for memorable wedding photography.
 
-The thing about which bride and groom are nervous the most are wedding poses. How are we going to look? How can we make our wedding day memorable? Which poses will suit us the more? We would suggest you leave all this on your wedding photographer. Just trust your [wedding photographer](https://en.wikipedia.org/wiki/Wedding_photography) and keep smiling. That would be enough ?
+The thing about which bride and groom are nervous the most are wedding poses. How are we going to look? How can we make our wedding day memorable? Which poses will suit us the more? We would suggest you leave all this on your wedding photographer. Just trust your wedding photographer and keep smiling. Resources like [The Knot](https://www.theknot.com/) and [WeddingWire Canada](https://www.weddingwire.ca/) can help you find a photographer whose style matches your vision. That would be enough ?
 
 ## **Rule to follow for best wedding photos **
 
@@ -51,6 +51,6 @@ Wedding is incomplete with photos, so if you want for a friendly photoshoot with
 
 ### **Use the location  **
 
-Nowadays people prefer outdoor weddings, make the most of the site. Borne fire in winter with guests dressed informal wedding dresses, firecrackers on the sky. Utilize all the elements of the location correctly.
+Nowadays people prefer outdoor weddings, make the most of the site. Edmonton's [river valley parks](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) and nearby mountain locations like [Jasper](https://www.jasper-alberta.com/) offer stunning backdrops. Borne fire in winter with guests dressed informal wedding dresses, firecrackers on the sky. Utilize all the elements of the location correctly.
 
 Good photos come when there is coordination between the photographer and the couple. So follow the rules and ideas which we suggested.

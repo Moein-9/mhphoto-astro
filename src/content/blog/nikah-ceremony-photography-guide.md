@@ -29,8 +29,8 @@ At its core, the Nikah involves the proposal and acceptance of marriage (the Ija
 
 For a photographer, the Nikah presents a beautiful paradox. It is a deeply personal, spiritual moment that requires absolute discretion — yet it contains some of the most visually and emotionally powerful moments of any wedding. Capturing it well requires cultural sensitivity, technical skill, and genuine respect for the traditions involved.
 
-Muslim Population in Canada1.8 MillionStatistics Canada Census, 2021
-Average Nikah Ceremony Duration30–60 minIslamic Society of North America
+Muslim Population in Canada1.8 Million[Statistics Canada](https://www.statcan.gc.ca/) Census, 2021
+Average Nikah Ceremony Duration30–60 min[Islamic Society of North America](https://isna.net/)
 
 ## The Spiritual Weight of the Nikah
 
@@ -168,7 +168,7 @@ Do you offer a female photographer for women-only events?
 Yes. I work with an experienced female second shooter who covers women's gatherings and events with gender separation. This ensures complete coverage of your celebration while fully respecting your traditions and boundaries.
 
 How do you handle the Walima (reception)?
-The Walima is typically a larger, more celebratory event that I cover with the same energy and attention as any wedding reception. The photography approach shifts from the quiet documentary style of the Nikah to capturing the joy, the food, the guests, and the celebration. My [multi-day packages](/multiday-packages/) are ideal for covering both the Nikah and Walima.
+The Walima is typically a larger, more celebratory event that I cover with the same energy and attention as any wedding reception. For Walima venue ideas in Edmonton, many families find helpful listings on [WeddingWire Canada](https://www.weddingwire.ca/). The photography approach shifts from the quiet documentary style of the Nikah to capturing the joy, the food, the guests, and the celebration. My [multi-day packages](/multiday-packages/) are ideal for covering both the Nikah and Walima.
 
 What should the couple wear for Nikah photos?
 The couple should wear whatever is traditional and meaningful for their family. Common choices include a white or cream sherwani for the groom and an embellished hijab, dupatta, or modest gown for the bride. The most important thing is that you feel comfortable and confident — comfort always photographs better than costume. See examples in our [gallery](https://mhphoto.ca/photography/indian-weddings/).

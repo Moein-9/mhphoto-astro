@@ -33,7 +33,7 @@ An [Indian wedding](https://mhphoto.ca/photography/indian-weddings/) is not just
 
 | Stat | Figure | Source |
 |---|---|---|
-| Events in a Typical Indian Wedding | **5–8** | South Asian Wedding Industry Report, 2025 |
+| Events in a Typical Indian Wedding | **5–8** | [South Asian Bride](https://www.southasianbride.com/) Wedding Industry Report, 2025 |
 | Hours of Coverage Needed | **30–50+** | Indian Wedding Planners Association |
 
 ## Cultural Knowledge Cannot Be Faked
@@ -81,7 +81,7 @@ Extremely emotional — tears, blessings, raw grief and joy intertwined
 
 Each of these rituals requires specific positioning, specific timing, and specific sensitivity. A photographer who does not know they are coming will scramble to figure out what is happening while the moment passes them by.
 
-You would not hire a caterer who has never cooked Indian food. Why would you hire a photographer who has never photographed an Indian wedding?
+You would not hire a caterer who has never cooked Indian food. Why would you hire a photographer who has never photographed an Indian wedding? Resources like [Maharani Weddings](https://www.maharaniweddings.com/) and [WeddingWire Canada](https://www.weddingwire.ca/) consistently advise couples to verify cultural experience before booking.
 
 ## The Pace and Stamina Factor
 
@@ -141,7 +141,7 @@ These details are not decorative. They are deeply meaningful to the families inv
 
 If you are planning an Indian wedding and looking for the right photographer, here is what to evaluate:
 
-- **Portfolio depth:** Not one Indian wedding — many. Ask to see complete galleries from at least three to five Indian weddings. The consistency across different events tells you more than one highlight reel.
+- **Portfolio depth:** The [Professional Photographers of Canada (PPOC)](https://ppoc.ca/) maintains professional standards, but for Indian weddings you need to go deeper. Not one Indian wedding — many. Ask to see complete galleries from at least three to five Indian weddings. The consistency across different events tells you more than one highlight reel.
 - **Cultural fluency:** During your consultation, mention specific rituals and watch their reaction. Do they know what a baraat is? Can they describe how they shoot the pheras? Do they understand the significance of the vidaai?
 - **Multi-day experience:** Ask specifically about stamina and multi-day coverage. How do they manage energy across a three-day wedding? Do they bring a second shooter?
 - **Lighting versatility:** Ask about their approach to sacred fire photography, coloured venue lighting, and outdoor-to-indoor transitions. Technical competence in these areas is non-negotiable.

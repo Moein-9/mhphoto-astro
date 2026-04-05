@@ -4,7 +4,7 @@ slug: "holiday-family-photo-cards-edmonton"
 date: "2026-07-21"
 publishDate: "2026-07-21T09:00:00"
 category: "family-sessions"
-description: "Holiday family photo cards in Edmonton — when to book, indoor vs outdoor sessions, outfit planning, and design tips. Christmas family pictures by Moein Habibi."
+description: "Holiday family photo cards in Edmonton — when to book, indoor vs outdoor sessions, outfit planning, and design tips. By Moein Habibi."
 image: "/gallery-images/family/033-family-joy.jpg"
 draft: false
 ---
@@ -27,11 +27,11 @@ Every year, without fail, I get a flood of inquiries in November from families l
 Here is the thing that catches people off guard: it is not just the photography that takes time. After the session, there is editing (typically 2 to 3 weeks), then the time you need to select your favourite image, order cards from a printer, and get them in the mail before the holiday rush. That whole pipeline takes 6 to 8 weeks minimum. As a result, if you want cards in mailboxes by mid-December, you need to be shooting in early to mid-October at the latest.
 
 
-Moreover, fall in Edmonton is gorgeous for photos. The foliage turns gold and red, the light is soft and warm, and the temperatures are still manageable for outdoor sessions. Booking a fall session serves double duty — you get beautiful seasonal photos AND your holiday card images in one session.
+Moreover, fall in Edmonton is gorgeous for photos. The foliage turns gold and red across the [river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley), the light is soft and warm, and the temperatures are still manageable for outdoor sessions. Booking a fall session serves double duty — you get beautiful seasonal photos AND your holiday card images in one session.
 
 | Stat | Figure | Source |
 |---|---|---|
-| Families Sending Photo Holiday Cards | **65%** | Shutterfly Consumer Report, 2025 |
+| Families Sending Photo Holiday Cards | **65%** | [Shutterfly](https://www.shutterfly.com/) Consumer Report, 2025 |
 | Average Canadian Photography Session Cost | **$250–$500** | Photography Market Survey, 2025 |
 
 ## The Holiday Photo Card Timeline
@@ -56,7 +56,7 @@ If you miss the fall window, do not panic. Indoor holiday mini sessions in Novem
 
 ### Outdoor Fall Sessions
 
-This is my recommendation for most families. Edmonton's river valley and surrounding parks are stunning in September and October. The natural colours create a warm, organic backdrop that complements every family's style. The light during golden hour — about an hour before sunset — is soft, directional, and incredibly flattering.
+This is my recommendation for most families. Edmonton's river valley and surrounding parks like [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) are stunning in September and October. The natural colours create a warm, organic backdrop that complements every family's style. The light during golden hour — about an hour before sunset — is soft, directional, and incredibly flattering.
 
 That said, outdoor sessions do depend on weather. Edmonton is unpredictable in the fall. I always have a rain date built into my schedule, and if the forecast is looking grim, we reschedule without any extra cost. It is not worth battling freezing rain for a photo card.
 
@@ -100,7 +100,7 @@ I always tell parents: your job during the session is to ignore the camera and c
 
 Once you have your edited gallery back, it is time to choose your card image and design. Here are a few tips for a card that feels personal and polished:
 
-- **One hero image is better than a collage.** One stunning photo makes a bigger impact than four small ones. Save the extras for your online gallery or a year-in-review collage on the back.
+- **One hero image is better than a collage.** Services like [Shutterfly](https://www.shutterfly.com/) and Minted offer beautiful one-photo card templates. One stunning photo makes a bigger impact than four small ones. Save the extras for your online gallery or a year-in-review collage on the back.
 - **Leave space for text.** When selecting your image, consider where the greeting text will go. Photos with clean areas (sky, blurred backgrounds) work best.
 - **Keep the design simple.** Your photo is the star. Choose a card design that frames the image without competing with it.
 - **Order 10 to 15% extra.** You will always think of someone you forgot. Having extras saves a last-minute reorder.

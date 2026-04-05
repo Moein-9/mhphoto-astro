@@ -130,11 +130,11 @@ The single biggest money-saving move for photography is booking a [multi-day pac
 
 Edmonton has no shortage of venues that can handle the scale and energy of a Punjabi wedding. Here are some of the most popular choices, based on what I have seen at dozens of celebrations:
 
-**The Oasis Centre** — One of the most popular choices for Punjabi weddings in Edmonton. It can seat up to 800 guests, has beautiful decor potential, and the staff is experienced with multi-day South Asian celebrations. The main hall is massive, which gives decorators plenty of room to create elaborate mandap and stage setups.
+**[The Oasis Centre](https://www.oasiscentre.ca/)** — One of the most popular choices for Punjabi weddings in Edmonton. It can seat up to 800 guests, has beautiful decor potential, and the staff is experienced with multi-day South Asian celebrations. The main hall is massive, which gives decorators plenty of room to create elaborate mandap and stage setups.
 
 **Maharaja Banquet Hall** — Purpose-built for South Asian events, this venue understands the specific needs of Punjabi weddings — from catering requirements to the sound system needed for a proper sangeet. The in-house catering is excellent, and they are flexible with outside vendors.
 
-**Edmonton Convention Centre** — For truly large-scale weddings (500+ guests), the Convention Centre offers the space and infrastructure to handle it all. The floor-to-ceiling windows overlooking the [North Saskatchewan River Valley](https://en.wikipedia.org/wiki/North_Saskatchewan_River_valley_parks_system) create a stunning backdrop for photos.
+**[Edmonton Convention Centre](https://www.edmontonconventioncentre.com/)** — For truly large-scale weddings (500+ guests), the Convention Centre offers the space and infrastructure to handle it all. The floor-to-ceiling windows overlooking the [North Saskatchewan River Valley](https://en.wikipedia.org/wiki/North_Saskatchewan_River_valley_parks_system) create a stunning backdrop for photos.
 
 **[Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/)** — For couples who want luxury, the Fairmont is iconic. The smaller ballroom works beautifully for intimate Punjabi ceremonies (100-200 guests), and the hotel's terraces overlooking the river valley are a photographer's dream. Many couples book the Fairmont for their reception and use a community hall for the ceremony.
 
@@ -172,7 +172,7 @@ The vendor team for a Punjabi wedding is larger than most couples expect. Beyond
 - **Caterer** — Indian food is complex. Whether you go with a professional Indian caterer or a full-service venue, taste-test before you commit. Your guests will remember the food.
 - **Hair and makeup** — The bride needs multiple looks across multiple days. Find an artist experienced with South Asian bridal looks — the jewelry, the dupatta draping, the bold lip colours all require specific expertise.
 
-Check [WeddingWire Canada](https://www.weddingwire.ca/) and [The Knot](https://www.theknot.com/) for vendor reviews, but also lean into your community. The Punjabi community in Edmonton is tight-knit, and word-of-mouth recommendations from families who have recently had weddings are invaluable.
+Check [WeddingWire Canada](https://www.weddingwire.ca/), [The Knot](https://www.theknot.com/), and [Maharani Weddings](https://www.maharaniweddings.com/) for vendor reviews, but also lean into your community. The Punjabi community in Edmonton is tight-knit, and word-of-mouth recommendations from families who have recently had weddings are invaluable.
 
 ## Photography and Videography for Every Event
 

@@ -32,6 +32,8 @@ The truth is more nuanced than "outdoors is better." Both settings have genuine 
 | Stat | Figure | Source |
 |---|---|---|
 | Edmonton Couples Choosing Outdoor Ceremonies | **43%** | Edmonton Wedding Planners Association, 2025 |
+
+[Explore Edmonton](https://exploreedmonton.com/) is a great starting point for discovering venue options across the city.
 | Outdoor Weddings Needing Rain Plan B | **68%** | Alberta Weather Data, Summer Averages |
 
 ## Lighting: The Biggest Difference
@@ -79,7 +81,7 @@ Climate-controlled
 
 I am going to be blunt here because I think couples deserve honesty. Edmonton weather is unpredictable, especially during wedding season. June through August offers the longest days and warmest temperatures, but it also brings thunderstorms, hail, wildfire smoke, and sudden temperature drops.
 
-According to Environment Canada data, Edmonton averages 14 rainy days per month during July and August. That does not mean it rains all day — often it is a brief afternoon shower — but it means you need a plan. In addition, air quality from wildfire smoke has become a significant factor in recent summers. Smoke haze can obscure mountain views, create a yellow cast in photos, and make outdoor activities uncomfortable for guests with respiratory issues.
+According to [Environment Canada](https://weather.gc.ca/) data, Edmonton averages 14 rainy days per month during July and August. That does not mean it rains all day — often it is a brief afternoon shower — but it means you need a plan. In addition, air quality from wildfire smoke has become a significant factor in recent summers. Smoke haze can obscure mountain views, create a yellow cast in photos, and make outdoor activities uncomfortable for guests with respiratory issues.
 
 Does this mean you should avoid outdoor weddings entirely? Absolutely not. Some of the most beautiful weddings I have photographed were outdoors in Edmonton. The river valley is stunning. The summer light is long and warm. The green landscapes are gorgeous. However, you must have a solid Plan B, and your photographer needs to be ready to adapt at a moment's notice.
 

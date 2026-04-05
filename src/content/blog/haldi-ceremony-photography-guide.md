@@ -4,7 +4,7 @@ slug: "haldi-ceremony-photography-guide"
 date: "2026-06-24"
 publishDate: "2026-06-24T09:00:00"
 category: "indian-weddings"
-description: "Haldi ceremony photography guide — turmeric, tears, and beautiful chaos. Key moments, gear protection, and lighting tips for Indian wedding photographers in Edmonton."
+description: "Haldi ceremony photography guide — turmeric, tears, and beautiful chaos. Key moments, gear protection, and lighting tips for Indian weddings in Edmonton."
 image: "/gallery-images/indian-weddings/0002-indian-wedding-celebration-edmonton.jpg"
 draft: false
 ---
@@ -25,14 +25,14 @@ In This Guide
 
 If you have never been to a haldi ceremony, let me paint you a picture. Imagine a backyard or a banquet hall draped in marigolds. The air smells like turmeric and mustard oil. The bride — or groom — sits on a low stool while one by one, every family member steps forward to smear a bright yellow paste onto their face, arms, and feet. There is crying. There is laughing. And within about twenty minutes, everyone is absolutely covered in turmeric.
 
-The haldi, sometimes called the pithi ceremony, is one of the most sacred pre-wedding rituals in [Indian wedding traditions](https://mhphoto.ca/photography/indian-weddings/). It is a purification ritual. The turmeric paste is believed to bless the bride and groom, ward off evil spirits, and give their skin a radiant glow before the big day. In many families, the turmeric is mixed with sandalwood, rosewater, and milk to create a fragrant paste that has been used for generations.
+The haldi, sometimes called the pithi ceremony, is one of the most sacred pre-wedding rituals in [Indian wedding traditions](https://mhphoto.ca/photography/indian-weddings/). As featured on [South Asian Bride](https://www.southasianbride.com/), the haldi is a purification ritual. The turmeric paste is believed to bless the bride and groom, ward off evil spirits, and give their skin a radiant glow before the big day. In many families, the turmeric is mixed with sandalwood, rosewater, and milk to create a fragrant paste that has been used for generations.
 
 But here is what makes the haldi so special from a photography standpoint. It is raw. It is unscripted. And it is one of the most emotionally honest moments in the entire wedding celebration.
 
 | Stat | Figure | Source |
 |---|---|---|
 | Average Length of Haldi Ceremony | **45–90 min** | South Asian Wedding Planners Association, 2025 |
-| Couples Who Include Haldi in Multi-Day Celebrations | **89%** | WeddingWire Canada, 2025 |
+| Couples Who Include Haldi in Multi-Day Celebrations | **89%** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ## Why the Haldi Matters for Photography
 
@@ -175,6 +175,6 @@ Is the haldi ceremony done for both the bride and groom?
 Yes, traditionally both the bride and groom have their own separate haldi ceremonies. Some modern families combine them into one event. Either way, both ceremonies are photographically beautiful and worth documenting.
 
 What time of day is best for a haldi?
-Late morning to early afternoon is ideal for outdoor haldi ceremonies. The natural light is beautiful and the temperatures in Edmonton summers are comfortable. For indoor events, anytime works as long as the venue has good natural light or proper warm-toned lighting.
+Late morning to early afternoon is ideal for outdoor haldi ceremonies. The natural light is beautiful and the temperatures in Edmonton summers are comfortable. Edmonton's [river valley parks](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) offer stunning outdoor settings if you want a scenic backdrop. For indoor events, anytime works as long as the venue has good natural light or proper warm-toned lighting.
 
 Explore our [Indian wedding photography gallery](https://mhphoto.ca/photography/indian-weddings/) or learn about [packages and pricing](https://mhphoto.ca/pricing/) for your celebration.

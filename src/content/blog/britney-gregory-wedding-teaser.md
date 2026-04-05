@@ -13,5 +13,7 @@ Hello everyone! Welcome to my website and the 1st post in my blog!
 
 This Saturday, i have shoot such a beautiful wedding! Britney and Gerogry were such a cute couple, and i had a great time being part of their big day! i hope you guys enjoy the peek!
 
+If you are planning your own Edmonton wedding, check out [Explore Edmonton](https://exploreedmonton.com/) for inspiration on venues and locations, or browse [WeddingWire Canada](https://www.weddingwire.ca/) for planning resources.
+
  
 

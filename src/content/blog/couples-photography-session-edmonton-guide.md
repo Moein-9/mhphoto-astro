@@ -4,7 +4,7 @@ slug: "couples-photography-session-edmonton-guide"
 date: "2026-07-15"
 publishDate: "2026-07-15T09:00:00"
 category: "engagement-sessions"
-description: "Couples photography sessions in Edmonton — anniversary, just-because, and engagement photos. Best locations, outfit ideas, and what to expect. By Moein Habibi."
+description: "Couples photography in Edmonton — anniversary, just-because, and engagement sessions. Best locations, outfit ideas, and what to expect. By Moein Habibi."
 image: "/gallery-images/engagement/020-engagement-couple-cherry-blossom-closeup-edmonton.jpg"
 draft: false
 ---
@@ -30,8 +30,8 @@ Moreover, couples photography has changed dramatically in the last few years. Th
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Include Engagement Photos | **85%** | The Knot, 2025 |
-| Couples Who Hire a Professional Photographer | **87%** | WeddingWire, 2025 |
+| Couples Who Include Engagement Photos | **85%** | [The Knot](https://www.theknot.com/), 2025 |
+| Couples Who Hire a Professional Photographer | **87%** | [WeddingWire](https://www.weddingwire.ca/), 2025 |
 
 ## Types of Couples Sessions
 
@@ -64,8 +64,8 @@ Edmonton is full of incredible spots for couples photography. The variety is hon
 
 ### Spring and Summer Favourites
 
-- **River Valley trails** — The largest urban park system in Canada. Golden hour along the North Saskatchewan River is stunning.
-- **Muttart Conservatory grounds** — The glass pyramids provide a unique architectural backdrop.
+- **[River Valley trails](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)** — The largest urban park system in Canada. Golden hour along the North Saskatchewan River is stunning.
+- **[Muttart Conservatory](https://www.edmonton.ca/attractions_events/muttart-conservatory) grounds** — The glass pyramids provide a unique architectural backdrop.
 - **Old Strathcona** — Brick walls, cafe patios, eclectic energy. Perfect for couples who love urban vibes.
 - **Government House Park** — Formal gardens and heritage architecture for a more classic feel.
 

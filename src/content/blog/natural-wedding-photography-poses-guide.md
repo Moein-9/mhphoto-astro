@@ -33,7 +33,7 @@ After photographing hundreds of [weddings in Edmonton](https://mhphoto.ca/photog
 | Stat | Figure | Source |
 |---|---|---|
 | Couples Who Feel Awkward Posing | **72%** | The Knot Survey, 2024 |
-| Couples Who Prefer Candid Over Posed | **61%** | WeddingWire Trends Report, 2025 |
+| Couples Who Prefer Candid Over Posed | **61%** | [WeddingWire](https://www.weddingwire.ca/) Trends Report, 2025 |
 
 ## The Mindset Shift: Prompts Over Poses
 
@@ -181,7 +181,7 @@ What if we are really camera shy?
 Most of my couples describe themselves as camera shy. You are in good company. My prompt-based approach means you are not staring into a lens trying to perform — you are interacting with each other while I capture the real moments. Within five minutes, most couples forget I am even there.
 
 Can we send you a Pinterest board of poses we like?
-Of course. I love seeing what styles and moods you are drawn to. Send me your Pinterest board, your saved Instagram posts, or even screenshots from wedding blogs. It helps me understand your taste so I can tailor my approach on your day. That said, I will always add my own creative touches based on your venue, lighting, and personalities.
+Of course. I love seeing what styles and moods you are drawn to. Send me your Pinterest board, your saved Instagram posts, or even screenshots from wedding blogs like [Junebug Weddings](https://junebugweddings.com/). It helps me understand your taste so I can tailor my approach on your day. That said, I will always add my own creative touches based on your venue, lighting, and personalities.
 
 Do you pose the bridal party too?
 Yes. I guide the entire bridal party with the same natural approach — prompts and movement instead of rigid poses. I keep it fun and efficient so everyone enjoys the process. The result is bridal party photos where everyone looks relaxed and happy, not like they are standing in a police lineup.

@@ -35,7 +35,7 @@ As a photographer who has covered dozens of Sikh weddings in Edmonton and across
 | Stat | Figure | Source |
 |---|---|---|
 | Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
-| Couples Ranking Photography #1 Priority | **34%** | The Knot, 2025 |
+| Couples Ranking Photography #1 Priority | **34%** | [The Knot](https://www.theknot.com/), 2025 |
 
 The Anand Karaj centres on the four Laavan — four hymns composed by Guru Ram Das Ji, the fourth Sikh Guru. Each Laav represents a stage in the couple's spiritual journey together. During each Laav, the Granthi (priest) reads the hymn aloud, and then the couple walks clockwise around the Guru Granth Sahib while the congregation sings the same hymn. The groom leads, holding one end of his palla (scarf), with the bride holding the other end — symbolizing their union and the bride's willing commitment to walk this path together.
 
@@ -178,7 +178,7 @@ Global Wedding Photography Market$26.9BFortune Business Insights, 2026
 
 ## Edmonton Gurdwaras & Venues
 
-Edmonton has a vibrant and growing Sikh community, and several Gurdwaras regularly host Anand Karaj ceremonies. I have photographed at most of them and am familiar with the lighting conditions, space constraints, and protocols at each. Popular ceremony venues include Gurdwara Singh Sabha, Gurdwara Millwoods, and the Sikh Society of Alberta. For receptions, many families choose large banquet halls in south Edmonton that can accommodate 300 to 600+ guests comfortably.
+Edmonton has a vibrant and growing Sikh community, and the [Sikh Heritage Foundation](https://www.sikhheritage.ca/) provides excellent resources for understanding the traditions and spiritual significance of the Anand Karaj. Several Gurdwaras regularly host Anand Karaj ceremonies. I have photographed at most of them and am familiar with the lighting conditions, space constraints, and protocols at each. Popular ceremony venues include Gurdwara Singh Sabha, Gurdwara Millwoods, and the Sikh Society of Alberta. For receptions, many families choose venues like the [Oasis Centre](https://www.oasiscentre.ca/) and other large banquet halls in south Edmonton that can accommodate 300 to 600+ guests comfortably.
 
 Having experience at these specific venues means I know exactly where to position myself for the best angles, how the light changes through the ceremony, and how to work within the space without being disruptive. This venue-specific knowledge is something that only comes from experience, and it makes a significant difference in the final images.
 
@@ -217,7 +217,7 @@ Do you provide videography for Sikh weddings too?
 Absolutely. I offer combined [photography and videography packages](https://mhphoto.ca/videography/) that are ideal for Sikh weddings. Having the same team handle both ensures seamless coordination across all events and days, with no communication gaps between separate vendors.
 
 How far in advance should we book?
-Sikh weddings often fall on auspicious dates from the Nanakshahi calendar, and these popular dates fill up fast. I recommend booking 10 to 14 months in advance for peak season (May through September). Off-season dates have more flexibility.
+Sikh weddings often fall on auspicious dates from the Nanakshahi calendar, and these popular dates fill up fast. Planning resources on [WeddingWire Canada](https://www.weddingwire.ca/) can help you get organized early. I recommend booking 10 to 14 months in advance for peak season (May through September). Off-season dates have more flexibility.
 
 What should we tell our families about the photographer?
 Let your families know that I will be present but unobtrusive. I will cover my head, remove my shoes, and respect all protocols. During the Laavan, I will move quietly and stay low. During the baraat and reception, I will be right in the action. Encourage family members to be themselves — the best photos come from genuine moments.

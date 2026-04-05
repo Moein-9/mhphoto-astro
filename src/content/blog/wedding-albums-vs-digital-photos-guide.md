@@ -29,8 +29,8 @@ I am going to give you the honest answer, not the sales pitch. As a [wedding pho
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Order a Wedding Album | **53%** | WPPI Industry Report, 2025 |
-| Couples Who Regret Not Getting an Album | **67%** | WeddingWire Post-Wedding Survey, 2025 |
+| Couples Who Order a Wedding Album | **53%** | [WPPI](https://www.wppionline.com/) Industry Report, 2025 |
+| Couples Who Regret Not Getting an Album | **67%** | [WeddingWire](https://www.weddingwire.ca/) Post-Wedding Survey, 2025 |
 
 That second number is the one I want you to sit with. Sixty-seven percent of couples who skipped the album regret it later. That is a significant number. And it tells you something important about the long-term value of physical prints.
 
@@ -87,7 +87,7 @@ The most interesting trend is parent albums. In South Asian and Indian families 
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Add an Album After Initial Digital-Only Delivery | **48%** | PPA Industry Survey, 2025 |
+| Couples Who Add an Album After Initial Digital-Only Delivery | **48%** | [PPA](https://www.ppa.com/) Industry Survey, 2025 |
 
 ## Types of Wedding Albums
 

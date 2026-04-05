@@ -5,7 +5,7 @@ date: "2026-04-26"
 publishDate: "2026-04-26T09:00:00"
 category: "family-sessions"
 keyword: "fall family pictures edmonton"
-description: "Book your fall family pictures in Edmonton before peak colour dates sell out. Best locations, what to wear, colour palettes, and pricing from $400. Reserve your October spot now."
+description: "Book fall family pictures in Edmonton before peak colour dates sell out. Best locations, what to wear, colour palettes, and pricing from $400."
 image: "/gallery-images/family/019-fall-leaves-moment.jpg"
 draft: false
 ---
@@ -29,7 +29,7 @@ The best time for fall family pictures in Edmonton is October 1 through October 
 
 I am Moein Habibi, and as an Edmonton family pictures photographer who has captured hundreds of fall family pictures, I am going to say something that most photographers think but rarely say out loud: fall is not just the best season for family photos in Edmonton. It is the best season for family photos anywhere in Canada. And I will tell you exactly why.
 
-First, the colour. Edmonton's river valley is dominated by aspens, poplars, birches, and elms — all deciduous trees that put on an absolutely spectacular colour show from late September through mid-October. We are talking entire hillsides of pure gold, fiery orange, and deep crimson. When you place a family in the middle of that — kids in cozy sweaters, parents wrapped up in each other — the images have a warmth and richness that no other season can match.
+First, the colour. Edmonton's [river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) is dominated by aspens, poplars, birches, and elms — all deciduous trees that put on an absolutely spectacular colour show from late September through mid-October. We are talking entire hillsides of pure gold, fiery orange, and deep crimson. When you place a family in the middle of that — kids in cozy sweaters, parents wrapped up in each other — the images have a warmth and richness that no other season can match.
 
 Second, the light. By early October, the sun sits lower in the sky, which means that beautiful, warm golden hour light starts earlier in the afternoon and lasts longer. In summer, you have to wait until 8:30 or 9 PM for golden hour. In fall, it starts around 5:30 PM — which is much more practical for families with young children who need to be in bed by 7.
 
@@ -80,11 +80,11 @@ A strong wind or an early frost can strip the leaves faster than expected, which
 
 Not all locations are created equal when it comes to fall colour. Here are my top picks for [family sessions](https://mhphoto.ca/photography/family/) during peak autumn, based on years of experience shooting at each:
 
-### Hawrelak Park
+### [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 
 The king of fall family photo locations. The aspen-lined pathways around the lake turn pure gold in early October, and the reflections on the water double the impact. The footbridge, the gently rolling terrain, and the variety of backdrops (open lawn, dense forest, waterfront) make this an incredibly versatile location. Weekday sessions are best to avoid crowds.
 
-### Mill Creek Ravine
+### [Mill Creek Ravine](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/mill-creek-ravine-north)
 
 Mill Creek in fall is a tunnel of gold and orange. The creek adds visual interest, the boardwalks provide clean, even footing for families with strollers or toddlers, and the overhead canopy creates beautiful dappled light. This is an excellent choice for families who want a more intimate, nature-immersed feel.
 
@@ -226,7 +226,7 @@ Fall family pictures in Edmonton range from $150 for a mini session to $900 for 
 
 ## Where Are the Best Locations for Fall Family Photos Near Edmonton?
 
-The best locations for fall family photos near Edmonton include Hawrelak Park for golden aspens reflected on the lake, Mill Creek Ravine for an intimate canopy tunnel, Laurier Park for quieter settings, the Legislature Grounds for a formal feel, and Elk Island National Park (35 minutes east) for wilderness backdrops with golden aspens and bison. Families from Sherwood Park, St. Albert, Spruce Grove, Leduc, and Beaumont also have beautiful options close to home.
+The best locations for fall family photos near Edmonton include [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) for golden aspens reflected on the lake, Mill Creek Ravine for an intimate canopy tunnel, Laurier Park for quieter settings, the Legislature Grounds for a formal feel, and [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland) (35 minutes east) for wilderness backdrops with golden aspens and bison. Families from Sherwood Park, St. Albert, Spruce Grove, Leduc, and Beaumont also have beautiful options close to home.
 
 ## Related Guides
 

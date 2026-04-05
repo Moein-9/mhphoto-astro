@@ -11,9 +11,9 @@ draft: false
 
 Mercy and Marin wanted to do an Engagement session in Edmonton;
 
-They came all the way from Grande Prairie for this session, which was an honor!
+They came all the way from Grande Prairie for this session in [Edmonton](https://exploreedmonton.com/), which was an honor!
 
-First, we started the session in my favorite park in Edmonton, the Gold Bar park.
+First, we started the session in my favorite park in Edmonton, [Gold Bar Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/gold-bar-park).
 
 
 DAB!

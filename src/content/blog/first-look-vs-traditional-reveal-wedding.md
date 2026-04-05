@@ -4,7 +4,7 @@ slug: "first-look-vs-traditional-reveal-wedding"
 date: "2026-05-10"
 publishDate: "2026-05-10T09:00:00"
 category: "wedding-planning"
-description: "First look vs traditional reveal — which is right for your Edmonton wedding? Pros, cons, timeline impact, and real advice from a photographer with 200+ weddings."
+description: "First look vs traditional reveal — which is right for your Edmonton wedding? Pros, cons, timeline impact, and advice from a 200+ wedding photographer."
 image: "/gallery-images/weddings/002-first-look.jpg"
 draft: false
 ---
@@ -32,7 +32,7 @@ Both approaches have real advantages and real drawbacks. Neither one is objectiv
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Include an Engagement Session | **85%** | The Knot, 2025 |
+| Couples Who Include an Engagement Session | **85%** | [The Knot](https://www.theknot.com/), 2025 |
 
 ## The Case for a First Look
 
@@ -118,7 +118,7 @@ In addition, I want to address a common concern. Some couples worry that a first
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Photographer Investment in Canada | **$2,900** | WeddingWire Canada, 2025 |
+| Average Photographer Investment in Canada | **$2,900** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ## Cultural Considerations
 

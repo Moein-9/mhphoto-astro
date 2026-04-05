@@ -32,7 +32,7 @@ Choosing the right venue is not just a logistical decision. It is a creative one
 | Stat | Figure | Source |
 |---|---|---|
 | Average Guest Count for Edmonton Indian Weddings | **450+** | South Asian Wedding Planners, 2025 |
-| Couples Who Regret Their Venue Choice | **23%** | WeddingWire Canada, 2025 |
+| Couples Who Regret Their Venue Choice | **23%** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ## What to Look for in a Large-Event Venue
 
@@ -72,7 +72,7 @@ Based on years of experience photographing at venues across Edmonton, here are m
 | Doubletree by Hilton | Up to 500 | Mid-size celebrations, all-in-one | Consistent lighting, good ceiling height, attached accommodation, reliable service |
 | Northlands Expo Centre | Up to 1,500+ | Extremely large events, custom setups | Blank canvas for custom decor, flexible layout, requires more lighting investment |
 
-### Edmonton Convention Centre
+### [Edmonton Convention Centre](https://www.edmontonconventioncentre.com/)
 
 This is the gold standard for large Indian weddings in Edmonton. The upper halls feature floor-to-ceiling windows overlooking the North Saskatchewan River valley. The natural light is extraordinary. The ceilings are high enough for the most elaborate mandap structures. And the multiple halls mean you can run a ceremony in one room and a reception in another without any logistical stress. From a photography perspective, the combination of river views, natural light, and grand proportions makes this one of the most photogenic wedding venues in Western Canada.
 
@@ -81,7 +81,7 @@ This is the gold standard for large Indian weddings in Edmonton. The upper halls
 This venue was built specifically for South Asian celebrations, and it shows. The stage is designed for large mandap setups. The kitchen can handle Indian catering at scale. The sound system is built for dhol and DJ alike. From a photography standpoint, the familiarity of the venue with Indian wedding logistics means fewer surprises and smoother timelines — both of which translate directly into better photos.
 
 
-### Enjoy Centre (St. Albert)
+### [Enjoy Centre](https://www.enjoycentre.ca/) (St. Albert)
 
 For couples who want a modern, contemporary aesthetic, the Enjoy Centre is hard to beat. The glass-walled atrium floods the space with natural light, creating a greenhouse-like atmosphere that is absolutely stunning for photography. The architecture itself serves as a backdrop — clean lines, open spaces, and a connection between indoor and outdoor that few Edmonton venues can match. The outdoor areas are also beautifully landscaped, offering additional portrait locations steps from the reception.
 
@@ -107,7 +107,7 @@ Venues Where I Bring Supplemental Lighting90%+MH Photography, Edmonton
 
 Many Indian families in Edmonton are embracing the idea of an outdoor ceremony followed by an indoor reception. This combination gives you the best of both worlds — the beauty and openness of an outdoor setting for the sacred ceremony, and the comfort and grandeur of a ballroom for the celebration.
 
-Edmonton's summer weather, from late June through August, is ideal for outdoor ceremonies. Temperatures are comfortable, the daylight lasts until nearly 10 PM, and the city's parks and gardens offer breathtaking backdrops. Popular outdoor ceremony spots include the Legislature Grounds, the Devonian Botanic Garden, and private estates with acreage.
+Edmonton's summer weather, from late June through August, is ideal for outdoor ceremonies. Temperatures are comfortable, the daylight lasts until nearly 10 PM, and the city's parks and gardens offer breathtaking backdrops. Popular outdoor ceremony spots include the Legislature Grounds, the [University of Alberta Botanic Garden](https://botanicgarden.ualberta.ca/), and private estates with acreage.
 
 From a photography perspective, outdoor ceremonies are a gift. Natural light eliminates the need for flash during the most sacred moments. Open skies provide even illumination. And the surrounding landscape adds depth and beauty to every frame. The transition indoors for the reception then offers a complete change of atmosphere — from serene and natural to grand and celebratory — which creates wonderful contrast in the final gallery.
 

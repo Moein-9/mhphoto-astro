@@ -25,7 +25,7 @@ Here are the benefits of wedding photography which every couple must read before
 
 ### **Long-lasting memories**
 
-People forget about what the bride wore on her wedding day. Even the food tastes too. Then why to spend on these things too much. We are not saying that these are not important. We are only highlighting the importance of wedding photography.  The only wedding asset which remains with you even in your old age when all friends and people leave you. That will be the time when pictures will make you and your partner while watching wedding photos.
+People forget about what the bride wore on her wedding day. Even the food tastes too. Then why to spend on these things too much. We are not saying that these are not important. We are only highlighting the importance of wedding photography. According to [The Knot](https://www.theknot.com/), 34% of couples rank photography as their number one budget priority, and [WeddingWire Canada](https://www.weddingwire.ca/) reports the average Canadian couple invests $2,900 in their photographer.  The only wedding asset which remains with you even in your old age when all friends and people leave you. That will be the time when pictures will make you and your partner while watching wedding photos.
 
 ### **Wedding photography styles**
 
@@ -33,7 +33,7 @@ Choosing a professional wedding photographer will provide you with the benefits 
 
 ### **Time flexibility **
 
-Wedding is not about one-day memories. From engagement to reception, you have a couple of lovely moments. A friend or cousin would not awake at 5 am to capture your sunrise photo with a partner. A [professional photographer](https://en.wikipedia.org/wiki/Photographer) will provide you with services, whether it is raining or sunrise time. Hiring a photographer will make you focus on memories not to decide what to pose or what to not. Photographer will do all this.
+Wedding is not about one-day memories. From engagement to reception, you have a couple of lovely moments. A friend or cousin would not awake at 5 am to capture your sunrise photo with a partner. A professional photographer -- as recognized by organizations like the [Professional Photographers of Canada](https://www.ppoc.ca/) -- will provide you with services, whether it is raining or sunrise time. Hiring a photographer will make you focus on memories not to decide what to pose or what to not. Photographer will do all this.
 
 ### **Reliability **
 

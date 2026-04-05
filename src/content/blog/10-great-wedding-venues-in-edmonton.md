@@ -9,8 +9,6 @@ image: "/gallery-images/weddings/002-first-look.jpg"
 draft: false
 ---
 
-![10 Favorite Arizona Wedding Venues for Your Big Day — Arizona Wedding  Photographer | Tessa June Photography](https://images.squarespace-cdn.com/content/v1/62125959ab8da87f49fb31cb/1680231108755-OUAGK6JP1X3ACHLLY6D0/059_Wedding+at+The+Paseo+venue+in+Apache+Junction%2C+Arizona+only+45+minutes+from+Phoenix..jpg)
-
 For your wedding occasion in Edmonton, you need to find the perfect venue to make the most out of your special day. There is an extensive range of venues ranging from fairytale castle, rustic country barn to an elegant banquet hall. So, all you need to do is attain the information regarding the prices and availability. Right after that, plan the ceremony and attend the reception accordingly. Here is the list of the ten Great Wedding Venues in Edmonton
 
 ### Radisson hotel and convention centre Edmonton
@@ -23,21 +21,21 @@ From perfect orchestration to the celebration, Mirage Banquet Hall is the perfec
 
 ### Delta Hotels by Marriott: 
 
-Delta Hotels by Marriott is a venue that provides breathtaking views, best amenities, and great facilities. This hotel provides an excellent ambience to celebrate your big day. With around 13 event rooms and 25,000 square feet of reception space, this classy hotel can accommodate up to 1650 guests.
+[Delta Hotels by Marriott Edmonton](https://www.marriott.com/en-us/hotels/yegde-delta-hotels-edmonton-centre-suites/) is a venue that provides breathtaking views, best amenities, and great facilities. This hotel provides an excellent ambience to celebrate your big day. With around 13 event rooms and 25,000 square feet of reception space, this classy hotel can accommodate up to 1650 guests.
 
 **Read More: [Tips on Hiring the Perfect Wedding Photographer](https://mhphoto.ca/tips-on-hiring-the-perfect-wedding-photographer/)**
 
-### Fairmont Hotel Macdonald:
+### [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/):
 
 This fairytale venue is perfect for attaining an unparalleled view of the North Saskatchewan River Valley. The presence of the extravagant ballrooms, romantic architecture, crystal chandeliers, and soaring ceilings make it a perfect backdrop for your big day. 
 
 ### Fort Edmonton Park: 
 
-Fort Edmonton Park is located in Edmonton is a venue that specializes in hosting special events surrounded by living history. This historic site offers aesthetic ambience with two historic churches and memorial garden to make your big day more happening. 
+[Fort Edmonton Park](https://www.fortedmontonpark.ca/) is located in Edmonton is a venue that specializes in hosting special events surrounded by living history. This historic site offers aesthetic ambience with two historic churches and memorial garden to make your big day more happening. 
 
 ### Pine and Pond:
 
-Pine and Pond is a premier outdoor wedding venue located near Ponoka, Alberta. This venue offers a pond, a log cabin, a fountain, manicured lawns, and waterfalls that are surrounded by mature trees. 
+[Pine and Pond](https://pineandpond.ca/) is a premier outdoor wedding venue located near Ponoka, Alberta. This venue offers a pond, a log cabin, a fountain, manicured lawns, and waterfalls that are surrounded by mature trees. 
 
 ## Holiday Inn Express Edmonton Downtown:
 

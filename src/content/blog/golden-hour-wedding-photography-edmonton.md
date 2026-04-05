@@ -4,7 +4,7 @@ slug: "golden-hour-wedding-photography-edmonton"
 date: "2026-05-13"
 publishDate: "2026-05-13T09:00:00"
 category: "photography-tips"
-description: "Golden hour wedding photography timing in Edmonton by season, best locations, and how to plan your timeline. Tips from Edmonton wedding photographer Moein Habibi."
+description: "Golden hour wedding photography timing in Edmonton by season, best locations, and how to plan your timeline. Tips from photographer Moein Habibi."
 image: "/gallery-images/weddings/026-sunset-couple.jpg"
 draft: false
 ---
@@ -31,7 +31,7 @@ However, there is a catch. Golden hour does not wait. It happens when it happens
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Prioritize Photography | **34%** | The Knot, 2025 |
+| Couples Who Prioritize Photography | **34%** | [The Knot](https://www.theknot.com/), 2025 |
 | Wedding Photography Market | **$26.9B** | Fortune Business Insights, 2026 |
 
 
@@ -78,7 +78,7 @@ Not every location works equally well for golden hour photography. The ideal spo
 
 Edmonton's river valley is one of the largest urban park systems in North America, and it offers incredible golden hour locations. The elevation changes create beautiful depth in photos, and the river itself becomes a mirror for the sunset colours. My favourite spots include the lookout points near the Hotel Macdonald and the trails along Hawrelak Park.
 
-### Hawrelak Park
+### [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 
 Hawrelak Park is a wedding photography classic for good reason. The lake reflects the sunset, the trees provide beautiful framing, and there are open meadows for wide-angle shots. In fall, the colours are extraordinary. If your ceremony is nearby, we can easily walk here for golden hour portraits.
 
@@ -93,7 +93,7 @@ For couples who want a modern, urban feel, Edmonton's downtown rooftops and rive
 
 ### Elk Island National Park
 
-About 45 minutes east of Edmonton, Elk Island offers prairies, lakes, and wildlife. The sunsets here are big and dramatic — wide-open sky with nothing to block the light. For couples willing to make the drive (or those hosting their wedding nearby), it is one of the most photogenic sunset locations in the region.
+About 45 minutes east of Edmonton, [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland) offers prairies, lakes, and wildlife. The sunsets here are big and dramatic — wide-open sky with nothing to block the light. For couples willing to make the drive (or those hosting their wedding nearby), it is one of the most photogenic sunset locations in the region.
 
 For mountain weddings, locations near [Banff and Lake Louise](https://www.banfflakelouise.com/) or [Jasper](https://www.jasper-alberta.com/) offer golden hour experiences that are in a class of their own. The mountains catch the last light and glow in shades of pink and gold. It is truly unforgettable.
 

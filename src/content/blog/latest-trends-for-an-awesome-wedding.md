@@ -13,7 +13,7 @@ People have started taking wedding day seriously as compared to past weddings. M
 
 **Benefits of a wedding planner **
 
-The latest trend for an awesome wedding is hiring a professional wedding planner. The only demerit of a wedding planner is sometimes he would stop you from doing the things which are related to the fun part. But that will be in your favor. He will only prevent you or your guests from doing something which affects the beauty of the wedding. He organizes the event with perfection and reminds you about your small things. There are numerous benefits to hiring a professional [wedding planner](http://elegantoccasionsbyjoanngregoli.com/). We will cut it down to some main pros such as no price increase, saving cost, pre-event pressure reduction, and flexibility. Wedding organizer is the person who helps you in suggesting what the latest trends for an awesome wedding are. Additionally, he also helps you in deciding what will suit you. Here is the list of the most recent wedding trends for the wedding:
+The latest trend for an awesome wedding is hiring a professional wedding planner. The only demerit of a wedding planner is sometimes he would stop you from doing the things which are related to the fun part. But that will be in your favor. He will only prevent you or your guests from doing something which affects the beauty of the wedding. He organizes the event with perfection and reminds you about your small things. There are numerous benefits to hiring a professional wedding planner. Sites like [The Knot](https://www.theknot.com/) and [WeddingWire Canada](https://www.weddingwire.ca/) have extensive planning checklists and vendor directories. We will cut it down to some main pros such as no price increase, saving cost, pre-event pressure reduction, and flexibility. Wedding organizer is the person who helps you in suggesting what the latest trends for an awesome wedding are. Additionally, he also helps you in deciding what will suit you. Here is the list of the most recent wedding trends for the wedding:
 
 ## **Theme **
 
@@ -29,7 +29,7 @@ Besides flower décor, numerous things are added up in wedding décor nowadays. 
 
 ## **Natural makeup **
 
-The massive and highlighting makeups are outdated now. Couples are preferring for elegant dresses and natural makeup for their wedding. It brings beauty in not only marriage but also the comfort for the couple. Even in the royal couple, Meghan Markel also set this trend of natural makeup. Brides are opting for classic, and natural beauty makeup looks only highlighting the lipstick.
+The massive and highlighting makeups are outdated now. Couples are preferring for elegant dresses and natural makeup for their wedding. It brings beauty in not only marriage but also the comfort for the couple. Even in the royal couple, Meghan Markle also set this trend of natural makeup. [Junebug Weddings](https://junebugweddings.com/) showcases many beautiful examples of this natural beauty approach. Brides are opting for classic, and natural beauty makeup looks only highlighting the lipstick.
 
 ## **Clicks with pets and childhood things **
 

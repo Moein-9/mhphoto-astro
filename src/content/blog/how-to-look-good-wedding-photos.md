@@ -4,7 +4,7 @@ slug: "how-to-look-good-wedding-photos"
 date: "2026-06-27"
 publishDate: "2026-06-27T09:00:00"
 category: "wedding"
-description: "How to look good in wedding photos even if you hate being photographed. Posing basics, best angles, body language, and outfit tips from an Edmonton wedding photographer."
+description: "How to look good in wedding photos even if you hate being photographed. Posing basics, best angles, body language, and tips from an Edmonton photographer."
 image: "/gallery-images/weddings/006-bride-portrait.jpg"
 draft: false
 ---
@@ -32,7 +32,7 @@ As an [Edmonton wedding photographer](https://mhphoto.ca/photography/weddings/),
 | Stat | Figure | Source |
 |---|---|---|
 | People Who Say They Hate Being Photographed | **65%** | Portrait Photography Survey, 2025 |
-| Same People Who Love Their Photos After Professional Session | **94%** | WPPI Industry Report, 2025 |
+| Same People Who Love Their Photos After Professional Session | **94%** | [WPPI](https://www.wppionline.com/) Industry Report, 2025 |
 
 See that gap? Sixty-five percent think they hate being photographed. But ninety-four percent end up loving their professional photos. The difference is not the person — it is the photographer, the guidance, and the environment.
 
@@ -108,7 +108,7 @@ Clothes that fit well photograph well. It does not matter if it is a five-thousa
 
 Photographer Tip
 
-For Indian weddings, heavily embellished outfits with sequins and mirror work can create flash reflection issues in low-light reception venues. Ask your photographer about this — we can adjust our flash technique to minimize hot spots on beadwork and metallic embroidery.
+For [Indian weddings](https://mhphoto.ca/photography/indian-weddings/), heavily embellished outfits with sequins and mirror work can create flash reflection issues in low-light reception venues. Ask your photographer about this — we can adjust our flash technique to minimize hot spots on beadwork and metallic embroidery.
 
 ## Day-of Tips from Your Photographer
 
@@ -122,7 +122,7 @@ These are the things I tell every single couple on their wedding morning. They a
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Say Pre-Wedding Jitters Affected Their Photos | **41%** | WPPI Couples Survey, 2025 |
+| Couples Who Say Pre-Wedding Jitters Affected Their Photos | **41%** | [WPPI](https://www.wppionline.com/) Couples Survey, 2025 |
 
 ## Use Your Engagement Session as Practice
 

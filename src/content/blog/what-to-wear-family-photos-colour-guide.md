@@ -28,11 +28,11 @@ Let me start with a confession. One of the most common questions I receive from 
 
 Here is the good news — it is not as complicated as you think. You do not need a professional stylist. You do not need to spend a fortune on new clothes. You just need to understand a few simple principles that will make your family photos look polished, intentional, and gorgeous in any season.
 
-According to a 2024 survey by the Professional Photographers of Canada, 67% of clients say outfit planning is their biggest source of stress before a photo session. That number is even higher for larger families. However, the solution is surprisingly straightforward. Once you understand how colours work together — and what to avoid — the whole process becomes enjoyable instead of stressful.
+According to a 2024 survey by the [Professional Photographers of Canada](https://www.ppoc.ca/), 67% of clients say outfit planning is their biggest source of stress before a photo session. That number is even higher for larger families. However, the solution is surprisingly straightforward. Once you understand how colours work together — and what to avoid — the whole process becomes enjoyable instead of stressful.
 
 | Stat | Figure | Source |
 |---|---|---|
-| Clients Stressed About Outfit Choice | **67%** | Professional Photographers of Canada, 2024 |
+| Clients Stressed About Outfit Choice | **67%** | [Professional Photographers of Canada](https://www.ppoc.ca/), 2024 |
 | Most Popular Family Session Season | **Fall** | Edmonton Photography Trends, 2025 |
 
 ## The Golden Rule of Family Photo Outfits
@@ -125,7 +125,7 @@ This section might save your family photos. Here are the most common outfit mist
 
 **Matching exactly.** Four people in identical white shirts and jeans looks like a uniform, not a family. Coordinate your palette instead. Same colour family, different shades and textures. This creates visual interest while maintaining cohesion.
 
-**Clashing textures on camera.** Some patterns — particularly thin stripes and small checkers — create a visual effect called moire in photographs. The pattern appears to shimmer or wave in the image. Solid colours or subtle textures (like knit, linen, or soft plaid) photograph much better.
+**Clashing textures on camera.** Some patterns — particularly thin stripes and small checkers — create a visual effect called [moire](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) in photographs. The pattern appears to shimmer or wave in the image. Solid colours or subtle textures (like knit, linen, or soft plaid) photograph much better.
 
 **Brand new shoes.** This sounds oddly specific, but hear me out. New shoes are often uncomfortable, which shows in your posture and expression. Wear shoes you know are comfortable. Your photographer will not be shooting your feet — but uncomfortable shoes will affect your face. Of course, if your shoes are visible in the frame, clean and polished is better than brand new.
 
@@ -159,7 +159,7 @@ Here are the tips I share with every family before their session. These apply re
 
 - **Dress in layers.** Layers add visual texture and dimension. They also let you adjust for temperature and create outfit variety by removing a jacket for some shots. A family in layered outfits always looks more interesting than a family in single-layer tops.
 - **Iron or steam everything.** Wrinkles show in photos. It takes five minutes to press your outfits but makes a noticeable difference in the final images. This is especially true for light-coloured fabrics where wrinkles catch shadows.
-- **Consider your backdrop.** If you are taking photos in a green park, avoid wearing green. You will blend into the background. If you are shooting against red autumn leaves, avoid wearing red for the same reason. Your outfit should complement the background, not match it.
+- **Consider your backdrop.** If you are taking photos in a green park like [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park), avoid wearing green. You will blend into the background. If you are shooting against red autumn leaves, avoid wearing red for the same reason. Your outfit should complement the background, not match it.
 - **Dress kids last.** Children have a talent for getting dirty between getting dressed and arriving at the session. Dress them in the car at the location if you can. Moreover, bring a backup outfit for young children. Spills happen.
 - **Accessorize thoughtfully.** Hats, scarves, blankets, and jewellery add personality and visual interest. However, keep accessories simple and complementary to your palette. A statement necklace or a felt hat can elevate the entire look.
 - **Comfort is king.** If you are tugging at your outfit, adjusting your waistband, or wobbling in heels on uneven ground, it will show in your photos. Wear clothes that fit well and feel good. Confidence is the best accessory you can wear.

@@ -16,7 +16,7 @@ But fear not, my dear betrothed, for I am here to guide you through the treacher
 
 ## **Check out their portfolio:**
 
-This might seem like an obvious one, but seriously, check out their portfolio. It’s like checking out someone’s dating profile before swiping right. You don’t want to end up with someone who has a portfolio full of blurry photos, weird angles, or worse, no portfolio at all. If their portfolio is impressive, then you know they have some experience under their belt.
+This might seem like an obvious one, but seriously, check out their portfolio. Platforms like [WeddingWire Canada](https://www.weddingwire.ca/) and [The Knot](https://www.theknot.com/) make it easy to browse photographer portfolios and read real reviews. It’s like checking out someone’s dating profile before swiping right. You don’t want to end up with someone who has a portfolio full of blurry photos, weird angles, or worse, no portfolio at all. If their portfolio is impressive, then you know they have some experience under their belt.
 
 ## **Read reviews:**
 
@@ -41,7 +41,7 @@ If you’re still unsure, ask for references from past clients. This will give y
 
 ## **Budget:**
 
-Ah, the dreaded B word. Weddings are expensive, we all know that. But don’t let budget dictate your **[choice in photographer.](https://mhphoto.ca/contact/)** It’s better to spend a little extra money and have amazing photos than to save a few bucks and end up with crappy ones.
+Ah, the dreaded B word. Weddings are expensive, we all know that. The average Canadian wedding costs around $39,000 according to [WeddingWire Canada](https://www.weddingwire.ca/), and photography is consistently ranked as the top budget priority. But don’t let budget dictate your **[choice in photographer.](https://mhphoto.ca/contact/)** It’s better to spend a little extra money and have amazing photos than to save a few bucks and end up with crappy ones.
 
 ## **Go with Your Gut:**
 

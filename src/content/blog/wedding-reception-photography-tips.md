@@ -32,7 +32,7 @@ At an Indian wedding reception, the energy is on another level entirely. Punjabi
 | Stat | Figure | Source |
 |---|---|---|
 | Couples Who Rank Photography #1 Priority | **34%** | The Knot Global Report, 2025 |
-| Average Wedding Photography Cost | **$2,900** | WeddingWire Canada, 2025 |
+| Average Wedding Photography Cost | **$2,900** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ## Capturing Speeches and Toasts
 

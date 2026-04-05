@@ -34,7 +34,7 @@ Hours of Daylight in June (Edmonton)17+ hoursNational Research Council Canada
 
 ## Best Times of Day to Avoid the Heat
 
-The number one question I get about summer sessions is: "When should we book?" And the answer is always the same — early morning or late evening. Here is why.
+The number one question I get about summer sessions is: "When should we book?" And the answer is always the same -- early morning or late evening. [Explore Edmonton](https://exploreedmonton.com/) lists dozens of parks and trails that are perfect for summer sessions. Here is why timing matters.
 
 ### Morning Sessions (7:00 AM to 9:30 AM)
 
@@ -61,7 +61,7 @@ Edmonton has an embarrassment of riches when it comes to outdoor locations. Here
 
 This is my number one recommendation for families who want a variety of backdrops in one location. Government House Park has rolling green lawns, mature trees with beautiful canopy shade, a historic building for architectural backgrounds, and views of the river valley. You can get five completely different looks without moving your car.
 
-### Hawrelak Park
+### [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 
 William Hawrelak Park is a classic Edmonton location. The lake, the amphitheatre, the walking paths through mature spruce trees — it is beautiful year-round but particularly stunning in summer when the grass is green and the trees are full. The parking is easy and there are washrooms nearby, which matters more than you think when you have toddlers.
 
@@ -69,11 +69,11 @@ William Hawrelak Park is a classic Edmonton location. The lake, the amphitheatre
 
 For families who want a more natural, forested feel, Millcreek Ravine is spectacular. The tall trees create a beautiful canopy that filters light into soft, dappled patterns. The creek adds a natural element for reflection shots. It is one of the most photogenic natural spaces in the city.
 
-### University of Alberta Campus
+### [University of Alberta](https://www.ualberta.ca/) Campus
 
 The U of A campus offers beautiful architecture, manicured gardens, and wide open green spaces. The mix of stone buildings, covered walkways, and garden beds creates a sophisticated backdrop that works beautifully for larger families and extended family sessions.
 
-### River Valley Trails
+### [River Valley Trails](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)
 
 Edmonton's river valley is the largest urban parkland in North America. The trails along the North Saskatchewan River offer endless options — from wildflower meadows to towering spruce forests to open riverside views. For families who love the outdoors, these trails are a natural fit.
 

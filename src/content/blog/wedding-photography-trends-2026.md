@@ -32,8 +32,8 @@ Here is what Edmonton couples — and couples across Canada — are asking for i
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Prefer Candid Over Posed | **78%** | WeddingWire Trends Report, 2026 |
-| Increase in Drone Photography Requests Since 2023 | **145%** | Professional Photographers of Canada, 2026 |
+| Couples Who Prefer Candid Over Posed | **78%** | [WeddingWire](https://www.weddingwire.ca/) Trends Report, 2026 |
+| Increase in Drone Photography Requests Since 2023 | **145%** | [Professional Photographers of Canada](https://www.ppoc.ca/), 2026 |
 
 ## The Film Aesthetic Is Everywhere
 
@@ -75,7 +75,7 @@ However, drone photography requires planning. You need a licensed drone pilot (w
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Including Drone Photography in 2026 | **62%** | The Knot Canada, 2026 |
+| Couples Including Drone Photography in 2026 | **62%** | [The Knot](https://www.theknot.com/) Canada, 2026 |
 
 ## Golden Hour Obsession
 
@@ -107,7 +107,7 @@ This trend is exciting because it expands the visual range of a wedding gallery.
 
 | Stat | Figure | Source |
 |---|---|---|
-| Photographers Using Creative Flash Techniques at Receptions | **71%** | WPPI Survey, 2026 |
+| Photographers Using Creative Flash Techniques at Receptions | **71%** | [WPPI](https://www.wppionline.com/) Survey, 2026 |
 | Couples Requesting Flash Dance Floor Coverage | **85%** | The Knot Trends, 2026 |
 
 ## Cultural Fusion Documentation

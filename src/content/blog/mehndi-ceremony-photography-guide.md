@@ -26,7 +26,7 @@ The mehndi ceremony is where the wedding celebration truly begins. It is one of 
 
 For photographers, the mehndi presents a beautiful paradox. The event feels casual and intimate, but it is packed with details and moments that require serious skill to capture well. The henna art itself is incredibly detailed — we are talking patterns that can take four to six hours to complete. Meanwhile, around the bride, her friends and family are dancing, singing, and celebrating. There is a lot happening at once.
 
-According to [WeddingWire Canada](https://www.weddingwire.ca/), 89% of South Asian couples now hire professional photography for their mehndi ceremony, up from just 55% a decade ago. That shift makes perfect sense. Once couples see how beautiful their mehndi photos can be, they never want to rely on phone snapshots again.
+According to [WeddingWire Canada](https://www.weddingwire.ca/), 89% of South Asian couples now hire professional photography for their mehndi ceremony. [Maharani Weddings](https://www.maharaniweddings.com/) features hundreds of real mehndi ceremonies that showcase why professional coverage has become standard, up from just 55% a decade ago. That shift makes perfect sense. Once couples see how beautiful their mehndi photos can be, they never want to rely on phone snapshots again.
 
 | Stat | Figure | Source |
 |---|---|---|
@@ -127,7 +127,7 @@ Whether you are planning your mehndi for an intimate home gathering or a grand v
 - **Natural light scheduling:** If possible, schedule the henna application during daylight hours near windows. This gives your photographer the best light for detail shots.
 - **Designate a quiet corner:** The mehndi artist and bride need a space that is relatively calm. This allows for focused detail shots without having to compete with party chaos.
 - **Communicate your timeline:** Tell your photographer the rough schedule — when henna starts, when dances begin, when the groom arrives. This helps them plan coverage and position themselves correctly.
-- **Wardrobe choices:** Bright, jewel-toned outfits photograph beautifully against mehndi designs. Yellows, oranges, greens, and pinks all work wonderfully. Moreover, coordinate with close family so the overall colour palette is cohesive.
+- **Wardrobe choices:** [South Asian Bride](https://www.southasianbride.com/) recommends coordinating outfits in advance. Bright, jewel-toned outfits photograph beautifully against mehndi designs. Yellows, oranges, greens, and pinks all work wonderfully. Moreover, coordinate with close family so the overall colour palette is cohesive.
 - **Designate a performance MC:** Someone who can announce dance performances helps the photographer prepare for each one. There is nothing worse than missing the first 10 seconds of a dance because nobody knew it was starting.
 - **Plan for the groom's reveal:** If the groom is coming to find his name, let the photographer know so they can capture his search and reaction.
 
@@ -160,7 +160,7 @@ Can you also photograph our sangeet and ceremony?
 Absolutely. In fact, that is exactly what I recommend. My [Indian wedding coverage](https://mhphoto.ca/photography/indian-weddings/) is designed for multi-day celebrations. Covering your mehndi, sangeet, ceremony, and reception means the entire story is told by one photographer who knows your family and your celebration.
 
 What is the best venue for a mehndi in Edmonton?
-Home mehndi ceremonies are the most traditional and intimate. However, many Edmonton families host their mehndi at banquet halls or event spaces for larger gatherings. The best venue depends on your guest count and the vibe you want. I have photographed mehndi ceremonies in living rooms, backyards, and grand ballrooms — each one was beautiful in its own way.
+Home mehndi ceremonies are the most traditional and intimate. For larger gatherings, [Explore Edmonton](https://exploreedmonton.com/) lists many event-friendly venues throughout the city. However, many Edmonton families host their mehndi at banquet halls or event spaces for larger gatherings. The best venue depends on your guest count and the vibe you want. I have photographed mehndi ceremonies in living rooms, backyards, and grand ballrooms — each one was beautiful in its own way.
 
 Do you offer videography for mehndi as well?
 Yes. [Videography](https://mhphoto.ca/videography/) at mehndi ceremonies is especially valuable because of the dance performances and music. Video captures the energy, rhythm, and sound in a way that photos cannot. I offer combined photo and video coverage for all pre-wedding events.

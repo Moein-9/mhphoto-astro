@@ -36,8 +36,8 @@ As a [family photographer in Edmonton](https://mhphoto.ca/photography/family/), 
 
 | Stat | Figure | Source |
 |---|---|---|
-| Parents Who Wish They Had Maternity Photos | **72%** | BabyCenter Canada Survey, 2025 |
-| Ideal Booking Window | **28–34 weeks** | Professional Photographers of Canada |
+| Parents Who Wish They Had Maternity Photos | **72%** | [BabyCenter](https://www.babycenter.ca/) Canada Survey, 2025 |
+| Ideal Booking Window | **28–34 weeks** | [Professional Photographers of Canada](https://www.ppoc.ca/) |
 
 ## When to Book Your Maternity Session
 
@@ -96,7 +96,7 @@ Edmonton offers incredible variety for outdoor maternity sessions. Here are my t
 
 This is one of my favourite maternity locations in Edmonton. The formal gardens offer structure and colour, while the surrounding grounds provide open space and mature trees. It is rarely crowded, which means a more private and relaxed experience. The light in the late afternoon filters through the trees beautifully, creating a golden, warm atmosphere.
 
-### River Valley Trails
+### [River Valley Trails](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)
 
 Edmonton's river valley is one of the largest urban park systems in North America. The trails offer natural, woodsy backdrops with dappled light filtering through the canopy. For families who want a more adventurous, nature-focused session, the river valley is perfect. The paths are generally accessible for pregnant mothers, with gentle slopes and plenty of rest spots.
 
@@ -105,7 +105,7 @@ Edmonton's river valley is one of the largest urban park systems in North Americ
 
 Some of the most intimate maternity sessions I have photographed have been in the family's own home. The nursery that has been lovingly prepared. The living room where the family gathers. The bedroom where the couple lies together and talks to the baby. Home sessions feel personal and authentic in a way that outdoor sessions cannot always replicate. If your home has good natural light — large windows, light-coloured walls — it can be a beautiful option.
 
-### University of Alberta Campus
+### [University of Alberta](https://www.ualberta.ca/) Campus
 
 The U of A campus offers a mix of architecture and nature. The old buildings provide classic backdrops, while the surrounding gardens and tree-lined paths offer natural settings. It is particularly beautiful in spring when the blossoms are out and in fall when the leaves turn golden.
 

@@ -5,7 +5,7 @@ date: "2026-04-05"
 publishDate: "2026-04-05T09:00:00"
 category: "photography-tips"
 keyword: "best wedding photographer edmonton"
-description: "Find the best wedding photographer in Edmonton with this 2026 guide. Photography styles, 15 questions to ask, red flags, and pricing tiers by Moein Habibi. Get a free consultation."
+description: "Find the best wedding photographer in Edmonton — photography styles, 15 questions to ask, red flags, and 2026 pricing tiers. By Moein Habibi."
 image: "/gallery-images/weddings/008-ceremony-kiss.jpg"
 draft: false
 ---
@@ -34,7 +34,7 @@ That is a lot of pressure on a single vendor decision, and it is exactly why cho
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Hire a Professional Photographer | **87%** | The Knot, 2025 |
+| Couples Who Hire a Professional Photographer | **87%** | [The Knot](https://www.theknot.com/), 2025 |
 | Rank Photography as #1 Budget Priority | **34%** | The Knot, 2025 |
 
 Those numbers tell the story: the vast majority of couples hire a professional, and more than a third consider it their single most important budget item. Yet many couples spend more time choosing their caterer than their photographer. This guide is here to fix that.
@@ -136,7 +136,7 @@ Wedding photography pricing can feel opaque. Here is what different price points
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Photographer Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
+| Average Photographer Cost in Canada | **$2,900** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 That $2,900 national average includes everything from small-town elopements to big-city celebrations. In a market like Edmonton, expect to pay $2,500 to $5,000 for a qualified professional with a strong portfolio and full coverage. The gap between a $1,500 photographer and a $4,000 photographer is not just price — it is experience, equipment, editing quality, insurance, and the ability to handle whatever your wedding day throws at them.
 
@@ -187,7 +187,7 @@ For 8 to 10 hours of coverage with two photographers, expect 500 to 900 fully ed
 
 ### What is the best way to find a wedding photographer in Edmonton?
 
-The best way to find a wedding photographer in Edmonton is to start with referrals from recently married friends, then check portfolios on sites like WeddingWire Canada and Google Reviews. Look for photographers who have shot at your specific venue and who specialize in your wedding style — whether that is a fine art wedding photographer, an intimate wedding photographer, or an Indian wedding photographer in Edmonton. At MH Photography, wedding photography starts at $2,250, videography at $3,750, and combined photo and video at $8,750. I am currently booking 2026 and 2027 weddings across Edmonton, Sherwood Park, St. Albert, Spruce Grove, and Leduc.
+The best way to find a wedding photographer in Edmonton is to start with referrals from recently married friends, then check portfolios on sites like [WeddingWire Canada](https://www.weddingwire.ca/) and Google Reviews. [Junebug Weddings](https://junebugweddings.com/) is another excellent resource for finding award-winning wedding photographers. Look for photographers who have shot at your specific venue and who specialize in your wedding style — whether that is a fine art wedding photographer, an intimate wedding photographer, or an Indian wedding photographer in Edmonton. At MH Photography, wedding photography starts at $2,250, videography at $3,750, and combined photo and video at $8,750. I am currently booking 2026 and 2027 weddings across Edmonton, Sherwood Park, St. Albert, Spruce Grove, and Leduc.
 
 ## How Much Should I Budget for Wedding Photography in Edmonton?
 

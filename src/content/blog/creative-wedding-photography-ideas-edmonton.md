@@ -4,7 +4,7 @@ slug: "creative-wedding-photography-ideas-edmonton"
 date: "2026-06-03"
 publishDate: "2026-06-03T09:00:00"
 category: "photography-tips"
-description: "Creative wedding photography ideas for Edmonton couples — double exposure, silhouettes, reflections, motion blur, and artistic detail shots. Elevate your wedding photos."
+description: "Creative wedding photography ideas for Edmonton couples — double exposure, silhouettes, reflections, motion blur, and artistic detail shots."
 image: "/gallery-images/weddings/009-ceremony-moment.jpg"
 draft: false
 ---
@@ -33,7 +33,7 @@ According to [WeddingWire Canada's](https://www.weddingwire.ca/) 2025 trends rep
 | Stat | Figure | Source |
 |---|---|---|
 | Couples Requesting Creative Photography | **78%** | WeddingWire Canada, 2025 |
-| Creative Shots Chosen for Canvas Prints | **3x More** | Professional Photographers of Canada, 2024 |
+| Creative Shots Chosen for Canvas Prints | **3x More** | [Professional Photographers of Canada](https://www.ppoc.ca/), 2024 |
 
 ## Double Exposure Photography
 
@@ -57,7 +57,7 @@ Silhouettes strip away every detail except shape. There is no dress detail, no f
 Creating a wedding silhouette requires backlighting — positioning a strong light source behind the couple. The most natural and beautiful backlight is the setting sun. During golden hour, I position the couple directly between my camera and the sun, expose for the bright sky behind them, and let their figures fall into pure black silhouette.
 
 
-Edmonton's summer golden hour is ideal for this technique. The sun sits low on the horizon for an extended period, giving us a wide window to capture multiple silhouette compositions. I look for opportunities that add story to the silhouette — the couple under a tree, in a doorway, against a venue's architecture, or with their veil caught in the wind.
+Edmonton's summer golden hour is ideal for this technique. Locations like [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) and the river valley offer wide-open western horizons perfect for backlighting. The sun sits low on the horizon for an extended period, giving us a wide window to capture multiple silhouette compositions. I look for opportunities that add story to the silhouette — the couple under a tree, in a doorway, against a venue's architecture, or with their veil caught in the wind.
 
 Silhouettes also work beautifully during [Indian wedding celebrations](https://mhphoto.ca/photography/indian-weddings/). A bride in a flowing lehenga creates an extraordinary silhouette shape. The ornate jewelry, the dupatta, the detailed embroidery — all of these elements create complex, beautiful outlines that are instantly recognizable even without detail.
 
@@ -67,7 +67,7 @@ Beyond sunset silhouettes, I also create indoor silhouettes using window light, 
 
 Reflections add a dreamlike quality to wedding photography. They introduce symmetry, depth, and a sense of visual poetry that straight-on compositions cannot achieve. And the best part? Reflective surfaces are everywhere — you just need to know where to look.
 
-**Water reflections.** Even a small puddle can become a creative tool. After rain, I look for puddles on pathways, parking lots, or flat stone surfaces. Shooting from a low angle, the couple's reflection in the water creates a mirror image that doubles the impact of the portrait. Edmonton's river valley and urban areas provide plenty of these opportunities, especially in spring.
+**Water reflections.** Even a small puddle can become a creative tool. After rain, I look for puddles on pathways, parking lots, or flat stone surfaces. Shooting from a low angle, the couple's reflection in the water creates a mirror image that doubles the impact of the portrait. [Edmonton's river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) and urban areas provide plenty of these opportunities, especially in spring.
 
 **Glass and mirror reflections.** Venue windows, glass doors, mirrored walls, and even car windows all create reflection opportunities. One of my favourite techniques is photographing through a glass door — the couple on one side, a faint reflection of the venue or landscape overlaying the image. The result is layered and complex without being busy.
 

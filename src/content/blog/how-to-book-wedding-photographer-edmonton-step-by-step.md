@@ -4,7 +4,7 @@ slug: "how-to-book-wedding-photographer-edmonton-step-by-step"
 date: "2026-09-16"
 publishDate: "2026-09-16T09:00:00"
 category: "wedding"
-description: "Step-by-step guide to booking a wedding photographer in Edmonton. Research, portfolio review, consultations, contracts, and timeline. By Moein Habibi, MH Photography."
+description: "Step-by-step guide to booking a wedding photographer in Edmonton — research, portfolio review, consultations, contracts, and timeline. By Moein Habibi."
 image: "/gallery-images/weddings/026-sunset-couple.jpg"
 draft: false
 ---
@@ -35,9 +35,11 @@ For off-season weddings — October through May — you have a bit more flexibil
 | How Far in Advance Top Edmonton Photographers Book | **10–14 mo** | Wedding Planners Association of Alberta, 2025 |
 | Peak Season Saturdays Already Booked by January | **70%** | Edmonton Wedding Industry Report, 2025 |
 
+Resources like [The Knot](https://www.theknot.com/) and [Junebug Weddings](https://junebugweddings.com/) can help you discover photographers whose style matches your vision.
+
 ## Step 1: Research and Build a Shortlist
 
-Your search should start online. Google "wedding photographer Edmonton" and explore the first few pages of results. Look at Instagram. Check Pinterest for Edmonton wedding inspiration. Ask recently married friends for recommendations. Read reviews on Google Business Profiles and wedding directories like WeddingWire Canada.
+Your search should start online. Google "wedding photographer Edmonton" and explore the first few pages of results. Look at Instagram. Check Pinterest for Edmonton wedding inspiration. Ask recently married friends for recommendations. Read reviews on Google Business Profiles and wedding directories like [WeddingWire Canada](https://www.weddingwire.ca/).
 
 As you browse, you will start to notice that different photographers have distinct styles. Some lean warm and romantic. Others are bold and editorial. Some specialize in candid storytelling. Others excel at dramatic posed portraiture. There is no right or wrong style — only the style that speaks to you.
 
@@ -162,7 +164,7 @@ The retainer — typically 25 to 50 percent of the total — reserves your date.
 
 | Stat | Figure | Source |
 |---|---|---|
-| Typical Retainer to Hold a Wedding Date | **25–50%** | PPA Industry Standards, 2025 |
+| Typical Retainer to Hold a Wedding Date | **25–50%** | [PPA](https://www.ppa.com/) Industry Standards, 2025 |
 
 ## What Happens After You Book
 

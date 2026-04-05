@@ -4,7 +4,7 @@ slug: "how-to-prepare-engagement-photo-session"
 date: "2026-06-09"
 publishDate: "2026-06-09T09:00:00"
 category: "engagement-sessions"
-description: "Complete engagement photo session checklist — when to schedule, what to wear, choosing the right Edmonton location, and day-of tips. By Moein Habibi, MH Photography."
+description: "Engagement photo session checklist — when to schedule, what to wear, choosing the right Edmonton location, and day-of tips. By Moein Habibi."
 image: "/gallery-images/engagement/020-engagement-couple-cherry-blossom-closeup-edmonton.jpg"
 draft: false
 ---
@@ -24,7 +24,7 @@ In This Guide
 
 Here is something I tell every single couple who books an [engagement photo session](https://mhphoto.ca/photography/engagement/) with me: the couples who prepare always get better photos. Not because they are more photogenic. Not because they spend more money. Simply because they walk into the session feeling confident, relaxed, and ready to have fun.
 
-An engagement session is often the first time a couple works with a professional photographer. It is completely normal to feel nervous. In fact, about 77% of couples say they feel anxious before their first professional photo session, according to a 2024 survey by The Knot. However, that nervousness melts away quickly when you know what to expect and you have done a little preparation ahead of time.
+An engagement session is often the first time a couple works with a professional photographer. It is completely normal to feel nervous. In fact, about 77% of couples say they feel anxious before their first professional photo session, according to a 2024 survey by [The Knot](https://www.theknot.com/). However, that nervousness melts away quickly when you know what to expect and you have done a little preparation ahead of time.
 
 | Stat | Figure | Source |
 |---|---|---|
@@ -93,15 +93,15 @@ Get your haircut or colour done at least a week before the session — not the d
 
 Edmonton has some truly beautiful spots for engagement sessions. The location should feel meaningful to you as a couple, or at least match the vibe you are going for. Here are some of my favourites:
 
-### The River Valley
+### [The River Valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)
 
 Edmonton's river valley is one of the largest urban park systems in North America. The variety is incredible — from dense forest trails to wide-open meadows to dramatic riverbank views. It offers multiple backdrops within walking distance, which means more variety in your gallery without driving between locations.
 
 ### Downtown Edmonton
 
-If you love urban vibes, downtown offers incredible architecture, murals, and city life as a backdrop. The contrast between a dressed-up couple and a gritty urban environment creates a modern, editorial feel. The High Level Bridge and the Legislature grounds are particularly popular.
+If you love urban vibes, downtown offers incredible architecture, murals, and city life as a backdrop. The contrast between a dressed-up couple and a gritty urban environment creates a modern, editorial feel. The [High Level Bridge](https://en.wikipedia.org/wiki/High_Level_Bridge_(Edmonton)) and the [Legislature grounds](https://www.assembly.ab.ca/visit/legislature-grounds) are particularly popular.
 
-### Elk Island National Park
+### [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland)
 
 For something more wild and natural, Elk Island is about 45 minutes from Edmonton and offers rolling hills, aspen groves, and sometimes even wildlife in the background. The drive is worth it for couples who want a more adventurous, nature-focused session.
 

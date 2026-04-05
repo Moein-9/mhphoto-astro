@@ -5,7 +5,7 @@ date: "2026-04-19"
 publishDate: "2026-04-19T09:00:00"
 category: "edmonton-venues"
 keyword: "wedding photography locations edmonton"
-description: "The best outdoor wedding photography locations in Edmonton for 2026 -- Hawrelak Park, Legislature Grounds, Walterdale Bridge, Elk Island, and more. Photographer tips by Moein Habibi."
+description: "Best outdoor wedding photo locations in Edmonton for 2026 — Hawrelak Park, Legislature Grounds, Walterdale Bridge, Elk Island, and more. By Moein Habibi."
 image: "/gallery-images/weddings/009-ceremony-moment.jpg"
 draft: false
 ---
@@ -44,7 +44,7 @@ Average Annual Sunshine Hours2,345 hoursEnvironment Canada
 
 Whether you are planning a [wedding](https://mhphoto.ca/photography/weddings/), an [engagement session](https://mhphoto.ca/photography/engagement/), [family portraits](https://mhphoto.ca/photography/family/), or simply want beautiful photos of yourself in this incredible city, here are the locations I recommend to every one of my clients — with honest assessments of when each location looks its best.
 
-## 1. Hawrelak Park
+## 1. [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 
 Hawrelak Park is the single most popular photo location in Edmonton, and for good reason. The park sits in the river valley with a large man-made lake at its centre, surrounded by rolling lawns and dense tree cover. In fall, the colour is extraordinary — deep reds, burning oranges, and bright yellows reflected in the still water. In summer, the greenery is lush and the evening light filters through the tree canopy beautifully.
 
@@ -82,7 +82,7 @@ I love Elk Island for adventurous couples who want something truly different. Im
 
 ## 6. Old Strathcona
 
-Old Strathcona is Edmonton's arts and culture district, and the neighbourhood's character makes for wonderful lifestyle-style photography. Colourful murals, heritage brick buildings, vintage storefronts, and the buzzing energy of Whyte Avenue all contribute to a vibrant, urban-eclectic aesthetic.
+[Old Strathcona](https://exploreedmonton.com/) is Edmonton's arts and culture district, and the neighbourhood's character makes for wonderful lifestyle-style photography. Colourful murals, heritage brick buildings, vintage storefronts, and the buzzing energy of Whyte Avenue all contribute to a vibrant, urban-eclectic aesthetic.
 
 This is a great location for couples who want their engagement photos to reflect who they are in daily life — grabbing coffee, walking hand in hand past bookshops and record stores, laughing on a colourful patio. The alleyways behind Whyte Avenue have incredible street art that works as a backdrop. And the Garneau Theatre marquee is an Edmonton icon.
 

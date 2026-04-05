@@ -5,7 +5,7 @@ date: "2026-04-15"
 publishDate: "2026-04-15T09:00:00"
 category: "family-sessions"
 keyword: "family pictures photographer edmonton"
-description: "Looking for a family pictures photographer near Edmonton? Complete guide to sessions, best locations, what to wear, pricing from $400, and tips for kids. Book your 2026 session today."
+description: "Family pictures photographer in Edmonton — complete guide to sessions, best locations, what to wear, pricing from $400, and tips for kids."
 image: "/gallery-images/family/004-fall-kids-playing.jpg"
 draft: false
 ---
@@ -37,7 +37,7 @@ I have been photographing families across Edmonton — in parks, in homes, in st
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Hire a Professional Photographer | **87%** | The Knot, 2025 |
+| Couples Who Hire a Professional Photographer | **87%** | [The Knot](https://www.theknot.com/), 2025 |
 | Global Photography Market Value | **$26.9 Billion** | Fortune Business Insights, 2026 |
 
 That 87% statistic is about wedding photography specifically, but the underlying truth applies to family photography too: when moments matter, professionals matter. The best family photos are not the ones taken on your phone during a family dinner (though keep taking those too). They are the ones where everyone is present, the lighting is intentional, and someone who knows how to work with kids, grandparents, and squirmy toddlers is behind the camera.
@@ -85,11 +85,11 @@ Edmonton is full of beautiful locations for family photography. Here are my top 
 
 **[Legislature Grounds](https://en.wikipedia.org/wiki/Alberta_Legislature_Building)** — Manicured gardens, reflecting pools, and the beautiful Legislature Building as a backdrop. The grounds are gorgeous in every season and offer a variety of settings within walking distance. The wading pool area is wonderful for families with young children in summer.
 
-**[River Valley Parks](https://en.wikipedia.org/wiki/North_Saskatchewan_River_valley_parks_system)** — Edmonton's river valley is the largest urban parkland in North America, and it offers endless options for family sessions. Hawrelak Park has an amphitheatre and a lake. Government House Park has manicured grounds with city views. Terwillegar Park has natural trails and river access. Emily Murphy Park has picnic areas and bridge views. Each park has its own character.
+**[River Valley Parks](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)** — Edmonton's river valley is the largest urban parkland in North America, and it offers endless options for family sessions. [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) has an amphitheatre and a lake. Government House Park has manicured grounds with city views. Terwillegar Park has natural trails and river access. Emily Murphy Park has picnic areas and bridge views. Each park has its own character.
 
 **St. Albert Heritage Sites** — Just north of Edmonton, St. Albert's Red Willow Trail and the Grain Elevator Park offer beautiful rustic settings. The restored grain elevators are iconic Alberta structures and create a unique backdrop that connects families to their prairie heritage.
 
-**[Elk Island National Park](https://en.wikipedia.org/wiki/Elk_Island_National_Park)** — About 35 minutes east of Edmonton, Elk Island offers wilderness beauty close to the city. Aspen groves, prairie landscapes, and the occasional bison in the background make for truly unique family portraits. The park is especially stunning in autumn when the aspens turn gold.
+**[Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland)** — About 35 minutes east of Edmonton, Elk Island offers wilderness beauty close to the city. Aspen groves, prairie landscapes, and the occasional bison in the background make for truly unique family portraits. The park is especially stunning in autumn when the aspens turn gold.
 
 **Your Own Home** — Some of the most beautiful family sessions I have shot have been at people's homes. The kitchen table where you eat dinner every night. The living room where the kids build forts. The backyard where the dog runs circles around everyone. Home sessions capture your family in your real, everyday environment, and those images are incredibly meaningful.
 
@@ -224,7 +224,7 @@ Professional family pictures in Edmonton typically range from $150 for a mini se
 
 ## Where Are the Best Locations for Family Pictures in Edmonton?
 
-The best locations for family pictures in Edmonton include Hawrelak Park (especially during fall colour season), the Legislature Grounds for a classic feel, Elk Island National Park for a wilderness backdrop, and the river valley parks for natural beauty. For a full list of Edmonton's most photogenic spots, read my [best outdoor photo locations guide](/blog/best-outdoor-photo-locations-edmonton-2026).
+The best locations for family pictures in Edmonton include [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) (especially during fall colour season), the Legislature Grounds for a classic feel, [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland) for a wilderness backdrop, and the [river valley parks](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) for natural beauty. For a full list of Edmonton's most photogenic spots, read my [best outdoor photo locations guide](/blog/best-outdoor-photo-locations-edmonton-2026).
 
 ## What Should We Wear for Family Pictures?
 

@@ -14,20 +14,20 @@ Hello everyone!!
 Today's blog Is gonna be a very special blog to me my heart. Two of my best friends are getting ENGAGED!!
 
 
-We decided to go for a walk around [Muttart Conservatory](http://www.edmonton.ca/attractions_events/muttart-conservatory.aspx)
+We decided to go for a walk around [Muttart Conservatory](https://www.edmonton.ca/attractions_events/muttart-conservatory)
 
 Look at them, don't you think they are super adorable?
 
 
 I did not know that Vahid was that good with Pose, but it worked out well!
 
-It was around sunset, and we had a perfect reflection during sunset. The picture turned out utterly beautiful.
+It was around sunset along Edmonton's [river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley), and we had a perfect reflection during sunset. The picture turned out utterly beautiful.
 
 
 And then, it was time for the classic spinning picture.
 
 
-We had little bit of blossom trees left for the season
+We had little bit of blossom trees left for the season near the [University of Alberta](https://www.ualberta.ca/) campus
 
 
 Since Vahid is from Saudi Arabia, and Tracey loves the traditional Middle Eastern outfits, they decided to have one picture with the traditional outfit.

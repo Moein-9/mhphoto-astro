@@ -36,16 +36,16 @@ Edmonton Winter Days with Fresh Snow Cover120+Environment Canada, 2025
 
 Edmonton's winter landscape offers a surprising variety of portrait locations. The key is finding spots that combine beautiful snow coverage with wind protection and easy access to warm vehicles. Here are my favourites after years of shooting winter sessions across the city.
 
-### River Valley Trails
+### [River Valley Trails](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)
 
-The North Saskatchewan River Valley is Edmonton's crown jewel for winter photography. The snow-covered trails, the frosted trees, and the dramatic river views create a backdrop that looks like a winter fairyland. My favourite spots include the trails near Emily Murphy Park and the Terwillegar Park footbridge area. The tree canopy provides natural wind protection, and the parking lots are close enough that families can warm up in their vehicles between setups.
+The [North Saskatchewan River Valley](https://exploreedmonton.com/things-to-do/outdoor-recreation) is Edmonton's crown jewel for winter photography. The snow-covered trails, the frosted trees, and the dramatic river views create a backdrop that looks like a winter fairyland. My favourite spots include the trails near Emily Murphy Park and the Terwillegar Park footbridge area. The tree canopy provides natural wind protection, and the parking lots are close enough that families can warm up in their vehicles between setups.
 
 ### Government House Park
 
 The grounds around Government House offer a more manicured winter look. The snow-covered lawns, the elegant architecture in the background, and the beautiful iron fencing create a timeless, classic portrait setting. It is particularly beautiful right after a fresh snowfall when everything is pristine and untouched.
 
 
-### Hawrelak Park
+### [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 
 Hawrelak Park is stunning in winter. The amphitheatre area with its curved pathways and the surrounding evergreen trees provides variety within a single location. You can get wide landscape shots, intimate tree-lined portraits, and playful action shots of kids running through the snow all within a five-minute walk.
 
@@ -145,7 +145,7 @@ For toddlers, I keep things extremely quick. We do family group shots first whil
 
 For older kids — ages five and up — I lean into interactive prompts. "Who can throw a snowball the highest?" "Run to that tree and back." "Whisper a secret to your mom." These prompts create genuine reactions and natural movement that always photographs better than "stand here and smile."
 
-Recommended Outdoor Time for Toddlers Below -10C10–15 minCanadian Paediatric Society
+Recommended Outdoor Time for Toddlers Below -10C10–15 min[Canadian Paediatric Society](https://cps.ca/)
 
 ## Photography Gear in Extreme Cold
 

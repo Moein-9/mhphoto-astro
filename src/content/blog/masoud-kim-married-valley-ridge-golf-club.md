@@ -12,7 +12,7 @@ draft: false
 
 Kim and Masoud are my dear friends from Calgary, and I know Masoud since I have moved to Canada many years ago. I remember meeting Kim 2 years ago at a friend wedding, and I took Masoud aside, and I told him, ***she is a keeper!*** and today, i was honored  to be their wedding photographer. It sure was memorable moment for me, to capture a friend wedding.
 
-It started the day with the bride getting ready in a hotel in Calgary.
+It started the day with the bride getting ready in a hotel in Calgary. If you are planning a Calgary wedding, [Travel Alberta](https://www.travelalberta.com/) has excellent resources for discovering venues and scenic locations across the province.
 
  
 
@@ -41,4 +41,4 @@ The flower boutique were made by Parvaneh from [GypsyRose Florist](http://gypsy
 
  
 
-Congratulations, Masoud and Kim, i am so happy for you guys, and i wish you guys the ultimate happiness in everything. and now lets enjoy some goofy pictures from you two haha (wait till the GIF is loaded)
+Congratulations Masoud and Kim, i am so happy for you guys, and i wish you guys the ultimate happiness in everything. and now lets enjoy some goofy pictures from you two haha (wait till the GIF is loaded)

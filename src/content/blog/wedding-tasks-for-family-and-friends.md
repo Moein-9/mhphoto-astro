@@ -31,7 +31,7 @@ If you want some polaroid style photos of your guests at the wedding. Ask you, c
 
 ## **Flower Décor **
 
-Wedding is incomplete without [flower decoration](https://in.pinterest.com/weddingchicks/weddings-flower-arrangements/). It is also incomplete without the friend’s suggestion about wedding décor. Always ask them for decoration and to re-use flowers for the reception. Wedding’s every event comprised of flowers, and only a friend or cousin know how to utilize it. Friends and family are the only media to bring innocence, modesty, passion, purity, and love through flowers in a wedding.
+Wedding is incomplete without flower decoration. [The Knot](https://www.theknot.com/) has wonderful galleries of floral arrangement ideas for every wedding style. It is also incomplete without the friend’s suggestion about wedding décor. Always ask them for decoration and to re-use flowers for the reception. Wedding’s every event comprised of flowers, and only a friend or cousin know how to utilize it. Friends and family are the only media to bring innocence, modesty, passion, purity, and love through flowers in a wedding.
 
 ## **Wedding dress and other accessories **
 
@@ -43,4 +43,4 @@ If you want to bring a sense of wisdom, humor, and together-fulness to your wedd
 
 ### **Advice **
 
-Do not be random while asking your friends for help. Be specific and make a spreadsheet so that you and your friends could keep a check and balance on the wedding tasks. Make some strategies for how to get your friends involved in your big day. Friends and family are a blessing, but at the wedding, they are no other than a miracle!
+Do not be random while asking your friends for help. Planning tools on [WeddingWire Canada](https://www.weddingwire.ca/) can help you organize tasks and timelines. Be specific and make a spreadsheet so that you and your friends could keep a check and balance on the wedding tasks. Make some strategies for how to get your friends involved in your big day. Friends and family are a blessing, but at the wedding, they are no other than a miracle!

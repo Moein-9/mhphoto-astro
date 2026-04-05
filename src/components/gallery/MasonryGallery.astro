@@ -351,7 +351,7 @@ try {
     })();
   </script>
 
-  <script define:vars={{ slug, totalImages: images.length, imageSrcs: images.map(img => img.src) }}>
+  <script define:vars={{ slug, totalImages: images.length, imageSrcs: images.map(img => img.src), imageAlts: images.map(img => img.alt) }}>
     (function() {
       var lb = document.getElementById('lb-' + slug);
       if (!lb) return;
@@ -378,6 +378,7 @@ try {
       function showImage(i) {
         idx = i;
         lbImg.src = imageSrcs[idx];
+        lbImg.alt = imageAlts[idx] || '';
         lbCounter.textContent = (idx + 1) + ' / ' + totalImages;
       }
 

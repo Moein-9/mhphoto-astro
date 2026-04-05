@@ -32,8 +32,8 @@ Videography captures motion, sound, and time. The tremor in your father's voice 
 
 | Stat | Figure | Source |
 |---|---|---|
-| Indian Wedding Couples Who Book Both Photo and Video | **82%** | South Asian Bride Magazine, 2025 |
-| Couples Who Regret Not Having Video | **67%** | WeddingWire Post-Wedding Survey, 2025 |
+| Indian Wedding Couples Who Book Both Photo and Video | **82%** | [South Asian Bride Magazine](https://www.southasianbride.com/), 2025 |
+| Couples Who Regret Not Having Video | **67%** | [WeddingWire](https://www.weddingwire.ca/) Post-Wedding Survey, 2025 |
 
 ## Why Indian Weddings Benefit from Both
 
@@ -114,7 +114,7 @@ Some couples ask a talented friend to shoot simple video coverage of the ceremon
 
 Whether you hire a combined team or separate vendors, here is what to look for specifically for Indian wedding coverage.
 
-- **Cultural experience:** Your team must understand Indian wedding traditions. Not just "we have shot one Indian wedding before" but genuine, deep familiarity with the events, the rituals, and the emotional flow.
+- **Cultural experience:** Your team must understand Indian wedding traditions. The [Professional Photographers of Canada (PPOC)](https://ppoc.ca/) maintains a directory of accredited professionals, though you should always verify Indian wedding experience specifically. Not just "we have shot one Indian wedding before" but genuine, deep familiarity with the events, the rituals, and the emotional flow.
 - **Multi-day capability:** Indian weddings are marathons. Your team needs the stamina, the backup equipment, and the workflow to deliver consistently across multiple days of coverage.
 - **Editing turnaround:** Multi-day coverage means more content to edit. Ask about realistic delivery timelines and what sneak-peek options are available.
 - **References from Indian couples:** Ask for testimonials or galleries from previous Indian weddings. Cultural sensitivity is not something you can learn from a YouTube video — it comes from experience.
@@ -148,6 +148,6 @@ Can a single person do both photo and video?
 Some solo operators offer both, but I would caution against it for Indian weddings. The events are too complex and too fast-moving for one person to switch between cameras while giving both mediums proper attention. Dedicated professionals for each medium deliver significantly better results.
 
 What is the most important event to have video coverage for?
-The sangeet, without question. The choreographed performances, the music, the crowd energy — these are motion and sound experiences that photography alone cannot fully preserve. If you can only afford video for one event, make it the sangeet.
+The sangeet, without question. As [The Knot](https://www.theknot.com/) notes in their wedding planning guides, the sangeet's choreographed performances are the number one reason couples value videography at South Asian weddings. The choreographed performances, the music, the crowd energy — these are motion and sound experiences that photography alone cannot fully preserve. If you can only afford video for one event, make it the sangeet.
 
 Explore our [Indian wedding photography gallery](https://mhphoto.ca/photography/indian-weddings/) or learn about [packages and pricing](https://mhphoto.ca/pricing/) for your celebration.

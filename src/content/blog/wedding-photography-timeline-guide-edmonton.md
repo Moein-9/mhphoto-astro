@@ -105,7 +105,7 @@ The golden hour — that warm, soft light that happens in the hour before sunset
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Wedding Photography Investment in Canada | **$2,900** | WeddingWire Canada, 2025 |
+| Average Wedding Photography Investment in Canada | **$2,900** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ### Edmonton Golden Hour by Season
 
@@ -163,7 +163,7 @@ For multi-day Indian celebrations with a mehndi, sangeet, and main wedding day, 
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
+| Average Indian Wedding in Canada | **$100,000+** | [Plan Events Canada](https://www.weddingwire.ca/), 2025 |
 
 Key Takeaways
 

@@ -12,13 +12,13 @@ draft: false
 What is the best way to start to post your 1st blog, and your favorite people be part of it! Nur and Nicholas are simply one of the cutest couple i have met, and they truly care for each other.  i know Nur for many years, and capturing her Engagement session felt like part of my family is getting married.
 
 
-We started the session in Downtown area,  and it we had so much laughs, that it was so hard to take one single quite picture, but finally we manged to take the picture!
+We started the session in the [Downtown Edmonton](https://exploreedmonton.com/) area,  and it we had so much laughs, that it was so hard to take one single quite picture, but finally we manged to take the picture!
 
 
 Isn't she the cutest bride to be?
 
 
-Later on, we went to take couple pictures around City Hall area, we did the session around evening time, and it was super quite, and i loved it!
+Later on, we went to take couple pictures around the [Edmonton City Hall](https://www.edmonton.ca/) area, we did the session around evening time, and it was super quite, and i loved it!
 
 
 and after that it was tickle time!
@@ -30,4 +30,4 @@ During the session, Nicholas had a great idea, and he shared with me, and i was 
 Few days later, they held their Engagement party in a resort area called, Moonlight bay, its 2 hours away from Edmonton, such a beautiful place!
 
 
-i really hope you guys enjoyed this 1st blog, and big congrats to Nur and Nicholas, they are getting married this Weekend in London, UK! i wish you guys the best in your new chapter!
+i really hope you guys enjoyed this 1st blog, and big congrats to Nur and Nicholas, they are getting married this weekend in London, UK! For more inspiration on engagement session ideas, check out [The Knot](https://www.theknot.com/). i wish you guys the best in your new chapter!

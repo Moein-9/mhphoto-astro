@@ -5,7 +5,7 @@ date: "2026-04-22"
 publishDate: "2026-04-22T09:00:00"
 category: "engagement-sessions"
 keyword: "engagement photos edmonton"
-description: "Discover the 10 best engagement photo locations in Edmonton, Alberta. What to wear, when to schedule, and what to expect. By Moein Habibi of MH Photography. Book your session today."
+description: "The 10 best engagement photo locations in Edmonton, Alberta. What to wear, when to schedule, and what to expect. By Moein Habibi of MH Photography."
 image: "/gallery-images/engagement/019-engagement-session-cherry-blossom-edmonton.jpg"
 draft: false
 ---
@@ -36,7 +36,7 @@ An engagement session solves this entirely. By the time your wedding day arrives
 | Stat | Figure | Source |
 |---|---|---|
 | Wedding Packages That Include Engagement Sessions | **85%** | Photography Industry Report, 2025 |
-| Average Photographer Investment in Canada | **$2,900** | WeddingWire Canada, 2025 |
+| Average Photographer Investment in Canada | **$2,900** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 That statistic is not a coincidence. The photography industry overwhelmingly includes engagement sessions in wedding packages because we know, from experience, that it makes the wedding day photos dramatically better. It is a rehearsal for your most photographed day. Think of it as a dress rehearsal — except you are wearing jeans and your favourite boots and sipping coffee by the river.
 
@@ -44,7 +44,7 @@ That statistic is not a coincidence. The photography industry overwhelmingly inc
 
 I have spent years exploring Edmonton and the surrounding area for the perfect engagement session spots. Here are my top ten, based on hundreds of sessions and thousands of images. I have included honest notes on what makes each location special, what to watch out for, and when it looks its absolute best.
 
-### 1. Hawrelak Park
+### 1. [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 
 The crown jewel of Edmonton engagement photography. The lake, the footbridge, the tree-lined pathways, and the fall colour make this an unbeatable all-around location. I recommend arriving 90 minutes before sunset and starting at the east side of the lake where the light filters through the tree canopy. Peak fall colour is late September through the second week of October.
 
@@ -60,7 +60,7 @@ If you are a couple who fell in love over coffee dates, live music, and bookshop
 
 The sweeping white arches of the Walterdale Bridge create a dramatic, modern backdrop that pairs well with urban-chic styling. Best at golden hour when the arches glow warm. The south bank offers the best angle with the downtown skyline behind the bridge.
 
-### 5. Mill Creek Ravine
+### 5. [Mill Creek Ravine](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/mill-creek-ravine-north)
 
 For a more intimate, nature-immersed session, Mill Creek Ravine feels like a secret forest in the middle of the city. The creek, the boardwalks, and the dense canopy create beautiful dappled light. Best in spring when the creek runs high and the fresh greens are vibrant.
 

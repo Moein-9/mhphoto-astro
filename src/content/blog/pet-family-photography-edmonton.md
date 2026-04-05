@@ -28,7 +28,7 @@ I say this as both a photographer and a pet owner. Some of my most treasured per
 
 | Stat | Figure | Source |
 |---|---|---|
-| Canadian Households With Pets | **58%** | Canadian Animal Health Institute, 2024 |
+| Canadian Households With Pets | **58%** | [Canadian Animal Health Institute](https://www.cahi-icsa.ca/), 2024 |
 | Pet Owners Who Consider Pets Family Members | **95%** | Leger Survey for Purina Canada, 2024 |
 
 That 95% number speaks volumes. Almost every pet owner considers their pet a family member. And if they are a family member, they belong in the family portrait. Moreover, pets add a genuinely unique energy to photos. The way a dog leans into their owner. The way kids light up when the dog is involved. The candid chaos of a puppy who will not sit still. These moments create images that are full of personality, warmth, and authentic family life.
@@ -70,11 +70,11 @@ Location
 Why It Works for Pets
 Leash Rules
 
-Terwillegar Park
+[Terwillegar Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/terwillegar-park)
 Off-leash area, open fields, river access, natural backdrops
 Off-leash designated areas
 
-Hawrelak Park
+[Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 Lake, manicured grounds, fall colours, spacious
 On-leash (city park)
 
@@ -86,7 +86,7 @@ Buena Vista Park
 Off-leash, river views, wooded trails, varied terrain
 Off-leash designated areas
 
-Mill Creek Ravine
+[Mill Creek Ravine](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/mill-creek-ravine-north)
 Forest canopy, bridges, creek features, urban nature
 On-leash on trails
 

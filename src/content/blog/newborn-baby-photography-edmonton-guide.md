@@ -35,7 +35,7 @@ That said, here is the important part: you should book your session before the b
 
 | Stat | Figure | Source |
 |---|---|---|
-| Best Window for Newborn Photos | **5–14 Days** | Professional Photographers of America |
+| Best Window for Newborn Photos | **5–14 Days** | [Professional Photographers of America](https://www.ppa.com/) |
 | Families Who Hire Professional Photographers | **87%** | The Knot, 2025 |
 
 When you book with me, here is how it works. You tell me your due date. I block off a two-week window starting from that date. Once the baby arrives, you let me know within a day or two, and we schedule the exact session date. This gives us maximum flexibility while ensuring you get that perfect early-days window.
@@ -157,10 +157,10 @@ Edmonton offers some beautiful options for outdoor family and baby photography. 
 
 Here are my favourite Edmonton locations for family and baby milestone sessions:
 
-- **Hawrelak Park** — The quintessential Edmonton family photography spot. Beautiful in every season. The lake, the trees, the open meadows — it has everything you need for variety in a single location.
+- **[Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)** — The quintessential Edmonton family photography spot. Beautiful in every season. The lake, the trees, the open meadows — it has everything you need for variety in a single location.
 - **Government House Park** — Stunning manicured grounds with gorgeous light in the late afternoon. Less crowded than Hawrelak, which is a bonus.
-- **River Valley trails** — Edmonton's river valley is one of the largest urban park systems in North America. The trails, bridges, and forest settings provide a natural, organic backdrop.
-- **Whitemud Ravine** — Beautiful in fall with the golden aspens. The light filtering through the trees creates a dreamy quality that is perfect for family portraits.
+- **[River Valley trails](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)** — Edmonton's river valley is one of the largest urban park systems in North America. The trails, bridges, and forest settings provide a natural, organic backdrop.
+- **[Whitemud Ravine](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/whitemud-park)** — Beautiful in fall with the golden aspens. The light filtering through the trees creates a dreamy quality that is perfect for family portraits.
 - **Your own home** — For lifestyle sessions, your home is the most meaningful backdrop. The nursery you decorated, the couch where you have your late-night feeds, the backyard where your toddler plays. These are the settings that tell your real story.
 
 For fall sessions specifically, Edmonton is absolutely magical. The golden aspens, the warm reds and oranges, the soft autumn light — it is a photographer's dream. I book fall family sessions heavily in September and October, so if you are interested, reach out early.

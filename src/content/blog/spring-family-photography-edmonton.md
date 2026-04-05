@@ -68,12 +68,12 @@ Best For
 Peak Window
 Notes
 
-Legislature Grounds
+[Legislature Grounds](https://www.assembly.ab.ca/visit/legislature-grounds)
 Formal portraits, blossom backdrop
 May 20–Jun 5
 Crabapple alley is stunning when blooming
 
-Hawrelak Park
+[Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 Families with young kids, open spaces
 May 15–Jun 15
 Playground nearby, lake backdrop, ample parking
@@ -83,12 +83,12 @@ Intimate sessions, garden feel
 May 25–Jun 10
 Less crowded, beautiful perennial gardens
 
-Mill Creek Ravine
+[Mill Creek Ravine](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/mill-creek-ravine-north)
 Natural, woodsy feel
 May 1–Jun 30
 Creek adds dimension, great dappled light
 
-University of Alberta Campus
+[University of Alberta](https://www.ualberta.ca/) Campus
 Architecture + nature blend
 May 20–Jun 10
 Lilac rows near HUB Mall, varied backgrounds

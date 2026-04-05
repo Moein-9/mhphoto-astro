@@ -141,6 +141,17 @@ const captionMap: Record<string, string> = {
   // Engagement
   'engagement-session-cherry-blossom-edmonton': 'Cherry blossom engagement session in Edmonton',
   'engagement-couple-cherry-blossom-closeup-edmonton': 'Engagement couple closeup among cherry blossoms in Edmonton',
+  'banff-lake-minnewanka-couple-portrait': 'Couple portrait at Lake Minnewanka, Banff engagement session by MH Photography',
+  'lake-minnewanka-engagement-session': 'Engagement session at Lake Minnewanka, Banff National Park',
+  'banff-engagement-mountain-backdrop': 'Banff engagement photography with Rocky Mountain backdrop',
+  'lake-minnewanka-romantic-moment': 'Romantic moment at Lake Minnewanka during Banff engagement session',
+  'edmonton-wedding-couple-cinematic-moment': 'Cinematic couple moment at an Edmonton wedding by MH Photography',
+  'edmonton-wedding-candid-celebration': 'Candid celebration moment at an Edmonton wedding',
+  'edmonton-wedding-ceremony-portrait': 'Wedding ceremony portrait in Edmonton by MH Photography',
+  'edmonton-family-outdoor-candid': 'Candid outdoor family photography session in Edmonton',
+  'edmonton-family-portrait-session': 'Family portrait session in Edmonton by MH Photography',
+  'edmonton-family-kids-moment': 'Kids moment during Edmonton family photo session',
+  'edmonton-family-lifestyle-photography': 'Lifestyle family photography in Edmonton by MH Photography',
   // Family
   'fall-family-candid': 'Candid family moment during a fall photo session',
   'fall-kids-playing': 'Kids playing during a fall family photography session',

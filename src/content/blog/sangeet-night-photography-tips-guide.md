@@ -25,13 +25,13 @@ In This Guide
 
 If you have never been to a sangeet, let me paint the picture for you. Imagine a room full of 200 to 400 people — family and friends from both sides — gathered for one purpose: to celebrate the upcoming marriage through music and dance. There are choreographed performances, spontaneous dance circles, emotional speeches, and more energy per square foot than any other wedding event.
 
-The sangeet (which translates to "sung together") is one of the most important pre-wedding celebrations in [Indian wedding traditions](https://mhphoto.ca/photography/indian-weddings/). It is typically held one or two nights before the main ceremony. Family members and friends spend weeks — sometimes months — rehearsing dance performances for the couple. The result is a night that is part talent show, part dance party, and entirely full of love.
+The sangeet (which translates to "sung together") is one of the most important pre-wedding celebrations in [Indian wedding traditions](https://mhphoto.ca/photography/indian-weddings/). [Maharani Weddings](https://www.maharaniweddings.com/) regularly features spectacular sangeet celebrations that showcase the energy and creativity of this beloved event. It is typically held one or two nights before the main ceremony. Family members and friends spend weeks — sometimes months — rehearsing dance performances for the couple. The result is a night that is part talent show, part dance party, and entirely full of love.
 
 For photographers, the sangeet is simultaneously one of the most exciting and most challenging events to cover. The lighting is typically dramatic and dim. The movement is fast and unpredictable. The emotional range is enormous — from hilarious comedy skits to tearful speeches to explosive bhangra performances. However, when captured well, sangeet photos and videos become some of the most treasured memories of the entire wedding celebration.
 
 | Stat | Figure | Source |
 |---|---|---|
-| Families Spending 3+ Weeks Rehearsing | **76%** | South Asian Wedding Survey, 2024 |
+| Families Spending 3+ Weeks Rehearsing | **76%** | [South Asian Bride](https://www.southasianbride.com/) Wedding Survey, 2024 |
 | Average Number of Performances | **8–12** | Edmonton Wedding Planners, 2025 |
 
 ## Capturing the Energy
@@ -176,7 +176,7 @@ How many hours of sangeet coverage do I need?
 Most sangeet celebrations run 4 to 6 hours. I recommend full-event coverage from the start of performances through the open dance floor. My [multi-day packages](/multiday-packages/) include sangeet coverage with flexible timing so you are never watching the clock.
 
 Should we have videography at the sangeet too?
-I strongly recommend it. Dance performances and music are inherently dynamic — [video](https://mhphoto.ca/videography/) captures movement and sound in a way photos cannot. Seeing your family's choreographed bhangra routine in motion, with the music and crowd reactions — that is something a still image cannot fully convey.
+I strongly recommend it. As [The Knot](https://www.theknot.com/) notes, the sangeet is the single event couples regret most not having on video. Dance performances and music are inherently dynamic — [video](https://mhphoto.ca/videography/) captures movement and sound in a way photos cannot. Seeing your family's choreographed bhangra routine in motion, with the music and crowd reactions — that is something a still image cannot fully convey.
 
 Can you photograph multiple events in one night?
 Absolutely. Many couples combine their sangeet with the mehndi or cocktail hour. I plan my coverage to transition smoothly between events, adjusting my approach for each — intimate detail work for mehndi, high-energy action for sangeet performances. The key is a clear timeline so I can prepare for each phase.

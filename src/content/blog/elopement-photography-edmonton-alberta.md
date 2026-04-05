@@ -4,7 +4,7 @@ slug: "elopement-photography-edmonton-alberta"
 date: "2026-08-14"
 publishDate: "2026-08-14T09:00:00"
 category: "wedding"
-description: "Elopement photography in Edmonton and Alberta — intimate ceremony locations, planning tips, Rocky Mountain elopement spots, and packages starting at $2,250."
+description: "Elopement photography in Edmonton and Alberta — intimate ceremony locations, planning tips, Rocky Mountain spots, and packages from $2,250."
 image: "/gallery-images/weddings/016-outdoor-portrait.jpg"
 draft: false
 ---
@@ -64,7 +64,7 @@ You do not need to travel to the mountains to have a beautiful elopement. Edmont
 
 ### The River Valley
 
-Edmonton's river valley is the largest stretch of urban parkland in North America. It offers wooded trails, river views, bridges, and meadows — all within city limits. For an elopement, the privacy and variety of the river valley are perfect. You can say your vows on a bluff overlooking the North Saskatchewan River, then walk through a forest trail for portraits. Popular spots include the area around Emily Murphy Park, the trails near Government House Park, and the Lois Hole Centennial Provincial Park.
+[Edmonton's river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) is the largest stretch of urban parkland in North America. It offers wooded trails, river views, bridges, and meadows — all within city limits. For an elopement, the privacy and variety of the river valley are perfect. You can say your vows on a bluff overlooking the North Saskatchewan River, then walk through a forest trail for portraits. Popular spots include the area around Emily Murphy Park, the trails near Government House Park, and the Lois Hole Centennial Provincial Park.
 
 ### The High Level Bridge and Legislature Grounds
 
@@ -72,7 +72,7 @@ For couples who want an urban feel, the area around the Alberta Legislature offe
 
 ### Elk Island National Park
 
-Just 35 minutes east of Edmonton, Elk Island is a hidden gem for elopements. It is a National Park with pristine forests, lakes, and — yes — free-roaming bison. The landscapes here feel wild and untouched, a stark contrast to the city. Astotin Lake at sunset is one of my favourite spots. The stillness, the wildlife, the golden light — it creates elopement photos that look like they were taken hundreds of kilometres from the city.
+Just 35 minutes east of Edmonton, [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland) is a hidden gem for elopements. It is a National Park with pristine forests, lakes, and — yes — free-roaming bison. The landscapes here feel wild and untouched, a stark contrast to the city. Astotin Lake at sunset is one of my favourite spots. The stillness, the wildlife, the golden light — it creates elopement photos that look like they were taken hundreds of kilometres from the city.
 
 Location
 Vibe
@@ -112,11 +112,11 @@ For couples who want dramatic mountain scenery, Alberta's Rockies offer some of 
 
 ### Banff and Lake Louise
 
-The turquoise lakes, glacial peaks, and alpine meadows of [Banff National Park](https://mhphoto.ca/blog/destination-indian-wedding-photography-alberta/) are iconic for a reason. Moraine Lake, Lake Louise, Vermilion Lakes, and the Bow Falls area all offer breathtaking backdrops. For elopements, the early morning hours (before tourists arrive) provide both the best light and the most privacy. Imagine saying your vows at Moraine Lake at 6 AM, with the ten peaks reflected perfectly in the still water and no one else around. That is the elopement experience the mountains offer.
+The turquoise lakes, glacial peaks, and alpine meadows of [Banff National Park](https://parks.canada.ca/pn-np/ab/banff) are iconic for a reason. Moraine Lake, Lake Louise, Vermilion Lakes, and the Bow Falls area all offer breathtaking backdrops. For elopements, the early morning hours (before tourists arrive) provide both the best light and the most privacy. Imagine saying your vows at Moraine Lake at 6 AM, with the ten peaks reflected perfectly in the still water and no one else around. That is the elopement experience the mountains offer.
 
 ### Jasper
 
-Jasper is less crowded and more raw than Banff, which many elopement couples prefer. Maligne Lake, Athabasca Falls, and the Columbia Icefield Skywalk all offer unique backdrops. As a Dark Sky Preserve, Jasper also opens up the possibility of nighttime vow readings under the Milky Way — an experience that is genuinely other-worldly.
+[Jasper National Park](https://parks.canada.ca/pn-np/ab/jasper) is less crowded and more raw than Banff, which many elopement couples prefer. Maligne Lake, Athabasca Falls, and the Columbia Icefield Skywalk all offer unique backdrops. As a Dark Sky Preserve, Jasper also opens up the possibility of nighttime vow readings under the Milky Way — an experience that is genuinely other-worldly.
 
 ### Kananaskis Country
 
@@ -190,7 +190,7 @@ What should we wear to an elopement?
 Whatever makes you feel amazing. Some couples wear traditional wedding attire — full gown and suit. Others choose something more casual. I have photographed elopements where the bride wore hiking boots under her dress because we were on a mountain trail. The key is wearing something that reflects who you are as a couple. There are no rules.
 
 Do we need permits for a mountain elopement?
-In Banff and Jasper National Parks, commercial photography (including professional wedding photography) requires a permit from Parks Canada. The cost is reasonable and I handle the application process. For locations outside National Parks — like Kananaskis, Abraham Lake, or private venues — permit requirements vary but are generally simpler.
+In Banff and Jasper National Parks, commercial photography (including professional wedding photography) requires a permit from [Parks Canada](https://parks.canada.ca/). The cost is reasonable and I handle the application process. For locations outside National Parks — like Kananaskis, Abraham Lake, or private venues — permit requirements vary but are generally simpler.
 
 Can you recommend elopement officiants in Edmonton?
 Yes. I work regularly with several excellent elopement-focused officiants in the Edmonton area. They are experienced with outdoor ceremonies, flexible with locations and timing, and skilled at creating personalised ceremonies. I am happy to share my recommendations during the planning process.

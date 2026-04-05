@@ -32,8 +32,8 @@ But here is what 100+ weddings have taught me: the weather does not determine wh
 
 | Stat | Figure | Source |
 |---|---|---|
-| Edmonton Average Rainy Days (Jun-Sep) | **40 days** | Environment Canada Climate Data |
-| Couples Who Hire Professional Photographers | **87%** | The Knot, 2025 |
+| Edmonton Average Rainy Days (Jun-Sep) | **40 days** | [Environment Canada](https://weather.gc.ca/) Climate Data |
+| Couples Who Hire Professional Photographers | **87%** | [The Knot](https://www.theknot.com/), 2025 |
 
 Forty rainy days during the four-month peak wedding season means roughly a one-in-three chance of encountering some rain on your wedding day. That is not a small number. But it also means that experienced Edmonton wedding photographers — like me — have extensive experience working in rain and know exactly how to handle it.
 
@@ -63,7 +63,7 @@ Rain on a wedding day creates a shared challenge. Overcoming that challenge toge
 
 Preparation is everything. When I see rain in the forecast for a wedding day, my planning kicks into overdrive well before the first drop falls. Here is exactly what I do:
 
-- **72 hours out:** I start monitoring multiple weather sources (Environment Canada, Weather Network, and hourly radar). I am looking at precipitation probability, timing, and intensity.
+- **72 hours out:** I start monitoring multiple weather sources ([Environment Canada](https://weather.gc.ca/), [The Weather Network](https://www.theweathernetwork.com/ca/weather/alberta/edmonton), and hourly radar). I am looking at precipitation probability, timing, and intensity.
 - **48 hours out:** I contact the couple and the wedding coordinator to discuss the forecast and confirm our rain plan. We review indoor backup locations at the venue.
 - **24 hours out:** Final weather check. I adjust the photography timeline if needed — if rain is expected to clear by 4 PM, we might shift outdoor portraits to later in the day.
 - **Day of:** I arrive with a full rain kit (see below) and an updated timeline. I scout the venue for the best indoor portrait spots — covered walkways, large windows, interesting architectural features — so I am ready for any scenario.

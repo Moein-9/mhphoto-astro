@@ -4,7 +4,7 @@ slug: "back-to-school-family-photos-edmonton"
 date: "2026-08-02"
 publishDate: "2026-08-02T09:00:00"
 category: "family-sessions"
-description: "Back-to-school family photos in Edmonton — best timing, locations like Hawrelak Park and the river valley, what to wear, and tips for kids. Book your fall family pictures session today."
+description: "Back-to-school family photos in Edmonton — best timing, locations like Hawrelak Park, what to wear, and tips for kids. Book your session today."
 image: "/gallery-images/family/004-fall-kids-playing.jpg"
 draft: false
 ---
@@ -29,9 +29,9 @@ Back-to-school family photos are not just about marking the start of a new schoo
 | Stat | Figure | Source |
 |---|---|---|
 | Parents Who Wish They Had More Family Photos | **87%** | Shutterfly Family Photo Survey, 2024 |
-| Avg. Height Change Per Year (Ages 5-10) | **2.5 in** | Canadian Paediatric Society |
+| Avg. Height Change Per Year (Ages 5-10) | **2.5 in** | [Canadian Paediatric Society](https://cps.ca/) |
 
-Moreover, for many families in Edmonton, back-to-school season coincides with the most beautiful time of year. The river valley is turning gold and red. The light is warm and low. The weather is still comfortable enough for outdoor sessions. It is genuinely the perfect time for family photos, and the back-to-school milestone gives you a reason to make it happen.
+Moreover, for many families in Edmonton, back-to-school season coincides with the most beautiful time of year. The [river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) is turning gold and red. The light is warm and low. The weather is still comfortable enough for outdoor sessions. It is genuinely the perfect time for family photos, and the back-to-school milestone gives you a reason to make it happen.
 
 ## The Best Time to Book in Edmonton
 
@@ -66,11 +66,11 @@ Government House Park
 Manicured gardens, elegant feel, easy parking
 Mid-September to early October
 
-Hawrelak Park
+[Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park)
 Lake reflections, wide open spaces, family-friendly
 Late September to mid-October
 
-Mill Creek Ravine
+[Mill Creek Ravine](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/mill-creek-ravine-north)
 Dense tree canopy, bridge features, urban nature feel
 Mid to late September
 
@@ -82,7 +82,7 @@ St. Albert Botanical Garden
 Structured gardens, benches, intimate family feel
 Late August to September
 
-Whitemud Park
+[Whitemud Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/whitemud-park)
 Boardwalks, creek features, adventurous vibe for kids
 September to early October
 

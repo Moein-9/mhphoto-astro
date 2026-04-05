@@ -4,7 +4,7 @@ slug: "how-many-photos-indian-wedding-expect"
 date: "2026-09-04"
 publishDate: "2026-09-04T09:00:00"
 category: "indian-weddings"
-description: "How many photos to expect from an Indian wedding — single-day vs multi-day coverage, what affects your count, and editing standards. Edmonton photographer guide."
+description: "How many photos to expect from an Indian wedding — single-day vs multi-day coverage, what affects your count, and editing standards. Edmonton guide."
 image: "/gallery-images/indian-weddings/007-mehndi-hands.jpg"
 draft: false
 ---
@@ -25,7 +25,7 @@ In This Guide
 
 One of the first questions I hear from couples planning an [Indian wedding](https://mhphoto.ca/photography/indian-weddings/) is simple and completely fair: how many photos will we actually get? It is not a shallow question. It comes from a genuine place of wanting to make sure every ritual, every outfit change, every emotional moment, and every family member who flew in from across the world is properly documented.
 
-Indian weddings are unlike any other celebration on the planet. They are longer. They are more complex. They involve more events, more people, and more cultural significance per moment than most Western weddings. A typical Western wedding might have one ceremony and one reception. An Indian wedding might include a mehndi, a sangeet, a haldi, a baraat, the actual ceremony, and a reception — each one with its own wardrobe, decor, rituals, and emotional weight.
+According to [The Knot](https://www.theknot.com/), Indian weddings are unlike any other celebration on the planet. They are longer. They are more complex. They involve more events, more people, and more cultural significance per moment than most Western weddings. A typical Western wedding might have one ceremony and one reception. An Indian wedding might include a mehndi, a sangeet, a haldi, a baraat, the actual ceremony, and a reception — each one with its own wardrobe, decor, rituals, and emotional weight.
 
 So when someone asks me "how many photos should I expect," my answer always starts the same way: it depends on how many days your celebration spans. However, I can give you very specific ranges based on years of experience photographing Indian weddings right here in Edmonton.
 
@@ -38,7 +38,7 @@ So when someone asks me "how many photos should I expect," my answer always star
 
 Not every Indian wedding spans multiple days. Many couples in Edmonton — especially those blending cultures or working within tighter timelines — condense their celebration into a single day. And that is completely beautiful. A single-day Indian wedding still has more going on than most multi-day Western weddings.
 
-For a typical single-day Indian wedding with a ceremony and reception, here is what you can expect from a professional photographer who knows the culture.
+For a typical single-day Indian wedding with a ceremony and reception, here is what you can expect from a professional photographer who knows the culture. Resources like [WeddingWire Canada](https://www.weddingwire.ca/) and [South Asian Bride](https://www.southasianbride.com/) consistently recommend hiring photographers with multi-day Indian wedding experience.
 
 ### Getting Ready: 100–200 Photos
 
@@ -189,7 +189,7 @@ I would love to hear about your celebration. Whether it is a one-day affair or a
 ## Frequently Asked Questions
 
 How many photos do you take versus how many you deliver?
-I typically shoot 3,000 to 5,000 frames per day of coverage. After careful culling and editing, I deliver roughly 25 to 35 percent of those as the final gallery. Every delivered image is individually edited and meets my quality standards.
+I typically shoot 3,000 to 5,000 frames per day of coverage. After careful culling and editing, I deliver roughly 25 to 35 percent of those as the final gallery. Every delivered image is individually edited and meets my quality standards. The [Professional Photographers of Canada (PPOC)](https://ppoc.ca/) recommends that professional photographers maintain high curation standards for their clients.
 
 Can I request more photos from a specific event?
 Absolutely. If the sangeet or haldi is particularly important to your family, let me know in advance and I will ensure extra attention and coverage for that event. Communication before the wedding helps me prioritize perfectly.

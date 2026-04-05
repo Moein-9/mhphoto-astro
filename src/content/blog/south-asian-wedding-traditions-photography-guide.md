@@ -30,7 +30,7 @@ As a [South Asian wedding photographer in Edmonton](https://mhphoto.ca/photograp
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Canadian Wedding Cost | **$39,000** | WeddingWire Canada, 2025 |
+| Average Canadian Wedding Cost | **$39,000** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 | Average South Asian Wedding in Canada | **$100K+** | Plan Events Canada, 2025 |
 
 The investment families make in South Asian weddings is extraordinary. With budgets that often exceed $100,000 — compared to the Canadian average of $39,000 — these celebrations deserve a photographer who can do them justice. Moreover, 87% of couples hire a professional photographer, and for South Asian families, photography and videography often represent one of the largest single vendor investments.
@@ -68,7 +68,7 @@ Let your photographer know if your pandit will allow close access during the phe
 
 ## Sikh Wedding Ceremonies
 
-The Sikh wedding ceremony — the Anand Karaj, meaning "blissful union" — is one of the most spiritual and moving ceremonies I have the honour of photographing. It takes place in a Gurdwara (or sometimes in a banquet hall with the Guru Granth Sahib present) and centres entirely around the holy scripture.
+The Sikh wedding ceremony — the Anand Karaj, meaning "blissful union" — is one of the most spiritual and moving ceremonies I have the honour of photographing. The [Sikh Heritage Foundation](https://www.sikhheritage.ca/) offers detailed resources on the history and significance of the Anand Karaj for those who wish to learn more. It takes place in a Gurdwara (or sometimes in a banquet hall with the Guru Granth Sahib present) and centres entirely around the holy scripture.
 
 
 ### Milni — The Meeting of Families
@@ -145,7 +145,7 @@ Whether your wedding is Hindu, Sikh, Muslim, or a multi-faith celebration, here 
 - **Introduce your photographer to your priest, pandit, granthi, or imam.** This relationship matters. When your officiant trusts the photographer, they allow better access during key moments.
 - **Discuss photography restrictions.** Some Gurdwaras have strict rules about photography during the Anand Karaj. Some mosques do not allow photography during the Nikah itself. Know these rules ahead of time and communicate them to your photographer.
 - **Build in time for portraits.** With so many ceremonies and events packed into each day, it is easy to run behind schedule. Build buffer time for couple portraits. The golden hour does not wait for anyone.
-- **Choose a photographer who specializes in South Asian weddings.** This is not elitism — it is practicality. The skills required to photograph a multi-day, multi-ceremony South Asian wedding are specific and take years to develop.
+- **Choose a photographer who specializes in South Asian weddings.** The [Professional Photographers of Canada (PPOC)](https://ppoc.ca/) maintains standards for professional accreditation, but specialization in South Asian ceremonies goes beyond general credentials. This is not elitism — it is practicality. The skills required to photograph a multi-day, multi-ceremony South Asian wedding are specific and take years to develop.
 
 I offer [multi-day packages](/multiday-packages/) specifically designed for South Asian celebrations. Combined [photography](https://mhphoto.ca/photography/) and [videography](https://mhphoto.ca/videography/) packages are also available, which simplifies coordination across multiple events.
 
@@ -165,7 +165,7 @@ I would love to learn about your traditions and your vision. Every ceremony is u
 ## Frequently Asked Questions
 
 Do you photograph all South Asian wedding traditions?
-Yes. I have experience with Hindu, Sikh, Muslim, and multi-faith ceremonies. I also photograph Ismaili, Jain, and mixed-tradition weddings. Before your wedding, I study your specific traditions and create a shot list tailored to your ceremonies.
+Yes. I have experience with Hindu, Sikh, Muslim, and multi-faith ceremonies in Edmonton, including at the [Hindu Society of Alberta](https://www.hindusociety.ab.ca/) and multiple Gurdwaras across the city. I also photograph Ismaili, Jain, and mixed-tradition weddings. Before your wedding, I study your specific traditions and create a shot list tailored to your ceremonies.
 
 Can you photograph at a Gurdwara?
 Absolutely. I have photographed at several Gurdwaras in the Edmonton area. I understand and respect the protocols — covering my head, removing shoes, maintaining respectful distance during the Laavan, and working quietly during prayers.

@@ -33,7 +33,7 @@ After photographing hundreds of weddings in Edmonton and beyond, I have develope
 | Stat | Figure | Source |
 |---|---|---|
 | Photos Delivered from a Full Wedding Day | **600–1,200** | MH Photography, Edmonton |
-| Couples Who Wish They Had Made a Shot List | **67%** | WeddingWire Survey, 2025 |
+| Couples Who Wish They Had Made a Shot List | **67%** | [WeddingWire](https://www.weddingwire.ca/) Survey, 2025 |
 
 ## Getting Ready Shots
 
@@ -220,7 +220,7 @@ How long should a wedding shot list be?
 A good shot list typically includes 20 to 40 specific items across all phases of the day. It should be detailed enough to cover your priorities without being so long that it becomes a burden. Your photographer will naturally capture hundreds of additional moments beyond the list.
 
 Should I give my photographer a Pinterest board of poses?
-A few inspiration images are helpful for communicating your style preferences. However, avoid sharing hundreds of pins — it can feel restrictive. Instead, share 5 to 10 images that represent the mood and feel you love, and trust your photographer to interpret them in a way that is authentic to you.
+A few inspiration images are helpful for communicating your style preferences. Sites like [Junebug Weddings](https://junebugweddings.com/) and [The Knot](https://www.theknot.com/) have excellent galleries for inspiration. However, avoid sharing hundreds of pins — it can feel restrictive. Instead, share 5 to 10 images that represent the mood and feel you love, and trust your photographer to interpret them in a way that is authentic to you.
 
 How much time should we budget for family formals?
 With a prepared list and a family wrangler, you can complete essential family formals in 15 to 20 minutes. Without a list, the same photos can take 45 minutes or more as you try to remember who needs to be in which grouping. Preparation saves time and reduces stress.

@@ -4,7 +4,7 @@ slug: "generational-family-portraits-why-important"
 date: "2026-06-18"
 publishDate: "2026-06-18T09:00:00"
 category: "family-sessions"
-description: "Why every Edmonton family needs a generational portrait. Planning tips, essential groupings, best locations, and how to capture four generations together beautifully."
+description: "Why every Edmonton family needs a generational portrait. Planning tips, essential groupings, best locations, and how to capture four generations together."
 image: "/gallery-images/family/006-autumn-portrait.jpg"
 draft: false
 ---
@@ -28,7 +28,7 @@ If your answer is "not many" or "none," you are not alone. According to a 2024 s
 
 | Stat | Figure | Source |
 |---|---|---|
-| Families Who Have Professional Multi-Gen Portraits | **12%** | Professional Photographers of America, 2024 |
+| Families Who Have Professional Multi-Gen Portraits | **12%** | [Professional Photographers of America](https://www.ppa.com/), 2024 |
 
 Here is why this matters. Time moves in one direction. Grandparents will not always be here. Children grow up faster than anyone expects. The window where three or four generations can stand together in a single frame is small. And once that window closes, no amount of money or technology can open it again.
 
@@ -131,9 +131,9 @@ Photos Delivered From a Multi-Gen Session100–200MH Photography delivery data
 
 The right location makes a huge difference for multi-generational sessions. Here are my recommendations:
 
-### Edmonton River Valley
+### [Edmonton River Valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley)
 
-The river valley offers accessibility, variety, and natural beauty. Spots like Laurier Park and Hawrelak Park have flat, well-maintained paths perfect for elderly family members, with gorgeous natural backdrops of trees, water, and open meadows. In fall, the colours are spectacular.
+The river valley offers accessibility, variety, and natural beauty. Spots like Laurier Park and [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) have flat, well-maintained paths perfect for elderly family members, with gorgeous natural backdrops of trees, water, and open meadows. In fall, the colours are spectacular.
 
 ### Government House Park
 
@@ -155,7 +155,7 @@ If you choose an outdoor location, always have an indoor backup plan. Edmonton w
 
 I want to be gentle but direct about this. The most common regret I hear from families is "I wish we had done this sooner." Not "I wish we had chosen a different location" or "I wish we had worn different outfits." It is always about time.
 
-According to Statistics Canada, the average life expectancy is approximately 82 years. If your grandparents are in their late seventies or eighties, the window for a multi-generational portrait is finite. Moreover, health can change quickly. A grandparent who is active and mobile today may not be a year from now. I do not say this to be morbid. I say it because I have seen too many families wait and then wish they had not.
+According to [Statistics Canada](https://www.statcan.gc.ca/), the average life expectancy is approximately 82 years. If your grandparents are in their late seventies or eighties, the window for a multi-generational portrait is finite. Moreover, health can change quickly. A grandparent who is active and mobile today may not be a year from now. I do not say this to be morbid. I say it because I have seen too many families wait and then wish they had not.
 
 Average Life Expectancy in Canada82 yearsStatistics Canada, 2024
 

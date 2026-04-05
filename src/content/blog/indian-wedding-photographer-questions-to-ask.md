@@ -30,8 +30,8 @@ The questions below are the ones I wish every couple would ask before booking an
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Hire a Professional Photographer | **87%** | WeddingWire, 2025 |
-| Average Indian Wedding in Canada | **$100,000+** | WeddingWire Canada, 2025 |
+| Couples Who Hire a Professional Photographer | **87%** | [WeddingWire](https://www.weddingwire.ca/), 2025 |
+| Average Indian Wedding in Canada | **$100,000+** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ## Questions About Experience and Cultural Knowledge
 
@@ -123,7 +123,7 @@ Turnaround time varies significantly between photographers. For a multi-day Indi
 
 ### 14. What is your payment structure and cancellation policy?
 
-Standard practice is a retainer (25% to 50%) to secure the date, with the balance due 2 to 4 weeks before the wedding. Read the cancellation clause carefully — life happens, and dates sometimes change. A fair contract will outline clear terms for rescheduling (common with Indian weddings when auspicious dates shift) versus full cancellation. Ask about date-change policies specifically, as this is more relevant for Indian weddings than outright cancellation.
+Standard practice is a retainer (25% to 50%) to secure the date, with the balance due 2 to 4 weeks before the wedding. The [Professional Photographers of Canada (PPOC)](https://ppoc.ca/) recommends always signing a detailed contract before any payments are made. Read the cancellation clause carefully — life happens, and dates sometimes change. A fair contract will outline clear terms for rescheduling (common with Indian weddings when auspicious dates shift) versus full cancellation. Ask about date-change policies specifically, as this is more relevant for Indian weddings than outright cancellation.
 
 ### 15. Do we own the rights to our photos?
 
@@ -156,7 +156,7 @@ Is it okay to ask for references from past Indian wedding clients?
 Absolutely, and any professional photographer should be happy to provide them. Speaking with a past client gives you insight into the photographer's reliability, professionalism, and how they handle the unique pressures of an Indian wedding — things you cannot judge from a portfolio alone. Ask at least two references about their overall experience.
 
 How far in advance should I book for an Indian wedding?
-For peak wedding season (June through September), book 12 to 14 months in advance. Indian wedding dates often fall on auspicious days from the Hindu or Sikh calendar, and these dates can overlap with peak booking periods. Off-season weddings (October through March) offer more flexibility, but 8 to 10 months ahead is still recommended for top-tier photographers.
+For peak wedding season (June through September), book 12 to 14 months in advance. Indian wedding dates often fall on auspicious days from the Hindu or Sikh calendar, and these dates can overlap with peak booking periods. Resources like [Maharani Weddings](https://www.maharaniweddings.com/) and [South Asian Bride](https://www.southasianbride.com/) recommend early booking as a top planning priority. Off-season weddings (October through March) offer more flexibility, but 8 to 10 months ahead is still recommended for top-tier photographers.
 
 What should I budget for Indian wedding photography in Edmonton?
 For multi-day coverage with a second photographer, professional editing, and a full gallery, expect to invest $5,000 to $12,000 CAD depending on the number of days and events. Single-day packages start lower, but rarely cover the full scope of an Indian celebration. Visit my [pricing page](https://mhphoto.ca/pricing/) for current rates and multi-day package details.

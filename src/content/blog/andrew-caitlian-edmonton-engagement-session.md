@@ -11,12 +11,12 @@ draft: false
 
 Hello everyone!
 
-Today I am gonna introduce a sweet couple, Andrew and Caitlian.
+Today I am gonna introduce a sweet couple, Andrew and Caitlian, who we photographed around [Edmonton](https://exploreedmonton.com/).
 
 The session itself, was very laid back.
 
 
-Andrew and Caitlian are Music teachers, teaching at a local school here in Edmonton. Andrew brought ukulele with him and started playing in the park.
+Andrew and Caitlian are Music teachers, teaching at a local school here in [Edmonton](https://www.edmonton.ca/). Andrew brought ukulele with him and started playing in the park along Edmonton's [river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley).
 
 It was beautiful taste to the pictures and the session itself.
 

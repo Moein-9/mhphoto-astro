@@ -35,7 +35,7 @@ I am going to break it all down for you — honestly and transparently. No sales
 | Stat | Figure | Source |
 |---|---|---|
 | Average Photographer Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
-| Average Total Wedding Cost in Canada | **$39,000** | WeddingWire Canada, 2025 |
+| Average Total Wedding Cost in Canada | **$39,000** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 That $2,900 national average is a useful starting point, but it includes everything from small-town elopements shot by part-time photographers to luxury destination weddings with multiple shooters. In a mid-size market like Edmonton, the realistic range for a qualified professional photographer is $2,000 to $6,000 for standard single-day weddings. Multi-day celebrations — like Indian and Punjabi weddings — can run $5,000 to $15,000 depending on the scope.
 
@@ -153,7 +153,7 @@ Key Takeaways
 
 ## When Should I Book My Wedding Photographer in Edmonton?
 
-For peak wedding season (June through September), book your Edmonton wedding photographer 10 to 14 months in advance. Popular photographers fill their calendars quickly, especially for Saturday weddings at venues like the Fairmont Hotel Macdonald, Art Gallery of Alberta, or Oasis Centre. If you are planning a winter or weekday wedding, you may have more flexibility, but I still recommend reaching out 6 to 8 months ahead to lock in your date. Learn more in my guide on [how to choose the right wedding photographer in Edmonton](/blog/how-to-choose-wedding-photographer-edmonton).
+For peak wedding season (June through September), book your Edmonton wedding photographer 10 to 14 months in advance. Popular photographers fill their calendars quickly, especially for Saturday weddings at venues like the [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/), [Art Gallery of Alberta](https://www.youraga.ca/), or Oasis Centre. If you are planning a winter or weekday wedding, you may have more flexibility, but I still recommend reaching out 6 to 8 months ahead to lock in your date. Learn more in my guide on [how to choose the right wedding photographer in Edmonton](/blog/how-to-choose-wedding-photographer-edmonton).
 
 ## What Is Included in Wedding Photography Packages?
 

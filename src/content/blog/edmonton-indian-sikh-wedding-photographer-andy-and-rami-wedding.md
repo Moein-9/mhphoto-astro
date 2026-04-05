@@ -25,7 +25,7 @@ The groom was also getting ready on the other side,
 Caught the groom having coldfeet, thankfully things were settled before it got out of control. (joking!!)
 
 
-Fast forward to the ceremony, and Sikh weddings are usually fruitful and eventful.
+Fast forward to the ceremony, and Sikh weddings are usually fruitful and eventful. The [Sikh Heritage Foundation](https://www.sikhheritage.ca/) has wonderful resources for anyone wanting to learn more about the deep spiritual traditions behind these celebrations.
 
 
 The part that stood out the most for me, was The Lavaan.
@@ -33,7 +33,7 @@ The part that stood out the most for me, was The Lavaan.
 
 After The Lavaan, the ceremony was done.
 
-After the ceremony, everyone gathers at the parent's house for an emotional session called Doli.
+After the ceremony, everyone gathers at the parent's house for an emotional session called Doli. If you are planning a Sikh wedding in Edmonton, [WeddingWire Canada](https://www.weddingwire.ca/) and [Maharani Weddings](https://www.maharaniweddings.com/) both offer helpful planning resources for South Asian celebrations.
 
 
 Then it was time for the couple to take some pictures as Husband and wife.

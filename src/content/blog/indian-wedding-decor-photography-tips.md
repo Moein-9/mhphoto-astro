@@ -4,7 +4,7 @@ slug: "indian-wedding-decor-photography-tips"
 date: "2026-06-30"
 publishDate: "2026-06-30T09:00:00"
 category: "indian-weddings"
-description: "How Indian wedding decor affects your photos — mandap design, colour palettes, lighting, and floral arrangements. Photography tips for couples planning in Edmonton."
+description: "How Indian wedding decor affects your photos — mandap design, colour palettes, lighting, and floral arrangements. Tips for couples in Edmonton."
 image: "/gallery-images/indian-weddings/001-indian-wedding-ring-detail-edmonton.jpg"
 draft: false
 ---
@@ -31,8 +31,8 @@ This guide is my honest attempt to bridge the gap between decor design and photo
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Indian Wedding Decor Budget in Canada | **$8K–$30K** | WeddingWire Canada, 2025 |
-| Couples Who Say Decor Photos Are Top Priority | **72%** | The Knot South Asian Report, 2025 |
+| Average Indian Wedding Decor Budget in Canada | **$8K–$30K** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
+| Couples Who Say Decor Photos Are Top Priority | **72%** | [The Knot](https://www.theknot.com/) South Asian Report, 2025 |
 
 ## Mandap Design and Camera Angles
 
@@ -118,7 +118,7 @@ Tall centrepieces create drama. But they also create physical barriers that bloc
 
 ### Flower Walls
 
-Flower walls have become incredibly popular in Indian weddings, and for good reason — they create stunning backdrops for portraits and selfies. From a photography perspective, the best flower walls use a mix of textures and depths rather than a flat, uniform surface. A wall with roses, hydrangeas, and greenery at varying depths creates dimension that photographs beautifully. A flat grid of identical flowers looks like wallpaper on camera.
+Flower walls have become incredibly popular in Indian weddings, and for good reason. As showcased regularly on [Maharani Weddings](https://www.maharaniweddings.com/), they create stunning backdrops for portraits and selfies. From a photography perspective, the best flower walls use a mix of textures and depths rather than a flat, uniform surface. A wall with roses, hydrangeas, and greenery at varying depths creates dimension that photographs beautifully. A flat grid of identical flowers looks like wallpaper on camera.
 
 Also, consider the colour of your flower wall relative to the outfits. A deep red flower wall behind a bride in a deep red lehenga will make her blend into the background. Choose colours that complement the outfits rather than matching them exactly.
 
@@ -177,4 +177,4 @@ Either under 12 inches or over 24 inches on a tall stand. The worst height is 14
 Do you offer venue and decor consultations?
 Yes. For couples booking [multi-day packages](/multiday-packages/), I include a complimentary venue walk-through where we discuss decor placement, lighting, and photography angles. It is one of the most valuable parts of the planning process.
 
-See stunning Indian wedding decor in our [gallery](https://mhphoto.ca/photography/indian-weddings/) or explore [packages and pricing](https://mhphoto.ca/pricing/).
+For more decor inspiration, browse real South Asian celebrations on [South Asian Bride](https://www.southasianbride.com/). See stunning Indian wedding decor in our [gallery](https://mhphoto.ca/photography/indian-weddings/) or explore [packages and pricing](https://mhphoto.ca/pricing/).

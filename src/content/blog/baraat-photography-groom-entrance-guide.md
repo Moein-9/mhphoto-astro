@@ -4,7 +4,7 @@ slug: "baraat-photography-groom-entrance-guide"
 date: "2026-06-06"
 publishDate: "2026-06-06T09:00:00"
 category: "indian-weddings"
-description: "How to photograph a Baraat groom entrance at an Indian wedding in Edmonton. Key moments, gear tips, and working with dhol players. By Moein Habibi, MH Photography."
+description: "How to photograph a Baraat groom entrance at an Indian wedding in Edmonton. Key moments, gear tips, and working with dhol players. By Moein Habibi."
 image: "/gallery-images/indian-weddings/013-baraat-procession.jpg"
 draft: false
 ---
@@ -24,12 +24,12 @@ In This Guide
 
 If you have never witnessed a baraat, let me paint the picture for you. The groom arrives at the wedding venue not in a quiet, understated way. Instead, he arrives with a full-on procession. His family and friends surround him, dancing to the thunderous beat of dhol drums, singing, cheering, and celebrating. In many cases, the groom arrives on a decorated horse. In others, he arrives in a luxury car surrounded by his crew. Either way, the energy is electric.
 
-The baraat is one of the most iconic traditions in [Indian wedding culture](https://mhphoto.ca/photography/indian-weddings/). It is the groom's grand entrance, and it sets the tone for the entire celebration. In fact, many guests say the baraat is their favourite part of the wedding day. The pure, unscripted joy is contagious. However, from a photography standpoint, it is also one of the most demanding moments to capture well.
+The baraat is one of the most iconic traditions in [Indian wedding culture](https://mhphoto.ca/photography/indian-weddings/). According to [Maharani Weddings](https://www.maharaniweddings.com/), it is among the most anticipated and photographed moments of any South Asian celebration. It is the groom's grand entrance, and it sets the tone for the entire celebration. In fact, many guests say the baraat is their favourite part of the wedding day. The pure, unscripted joy is contagious. However, from a photography standpoint, it is also one of the most demanding moments to capture well.
 
 | Stat | Figure | Source |
 |---|---|---|
 | Average Baraat Duration | **30–60 min** | Indian Wedding Planning Association |
-| Couples Who Want Baraat Coverage | **94%** | WeddingWire India Survey, 2025 |
+| Couples Who Want Baraat Coverage | **94%** | [WeddingWire](https://www.weddingwire.ca/) India Survey, 2025 |
 
 As a result, choosing a photographer who understands the baraat is not optional. It is essential. You only get one grand entrance. There are no do-overs. And the moments that happen during those 30 to 60 minutes are some of the most joyful images from the entire wedding.
 
@@ -124,7 +124,7 @@ A burst of colour in the air creates stunning images. Coordinate with your photo
 Remind guests about phones
 A quick announcement asking guests to enjoy the moment (and let the professional handle the photos) goes a long way.
 
-For example, one of my favourite baraats in Edmonton happened at the Oasis Centre. The family had planned a clear route through the parking lot with string lights overhead. They had two dhol players, a designated dance captain (the groom's brother), and they started exactly on time during golden hour. The result was absolutely stunning. Every frame was usable because the planning was thoughtful.
+For example, one of my favourite baraats in Edmonton happened at the [Oasis Centre](https://www.oasiscentre.ca/). The family had planned a clear route through the parking lot with string lights overhead. They had two dhol players, a designated dance captain (the groom's brother), and they started exactly on time during golden hour. The result was absolutely stunning. Every frame was usable because the planning was thoughtful.
 
 Pro Tip
 
@@ -161,7 +161,7 @@ How early should the photographer arrive before the baraat?
 I arrive at least 30 minutes before the baraat is scheduled to start. This gives me time to scout the route, check the lighting, position my second shooter, and capture getting-ready shots of the groom with his family before the procession begins.
 
 What if it rains during our baraat?
-Rain baraats are actually beautiful. The reflections on wet pavement, umbrellas adding pops of colour, and the determination of the family to celebrate regardless — these create unique and memorable images. I always have weather-sealed gear ready. That said, having an indoor backup plan is smart.
+Rain baraats are actually beautiful. The reflections on wet pavement, umbrellas adding pops of colour, and the determination of the family to celebrate regardless — these create unique and memorable images. Edmonton summers are generally warm, but it is always wise to check [Explore Edmonton](https://exploreedmonton.com/) for seasonal weather tips when planning outdoor events. I always have weather-sealed gear ready. That said, having an indoor backup plan is smart.
 
 Can you photograph the baraat if it happens at night?
 Absolutely. Evening baraats are dramatic and cinematic. I use a combination of off-camera flash and high-ISO techniques to capture the energy without losing the ambient atmosphere. Sparklers, string lights, and venue lighting all add to the mood.

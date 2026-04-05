@@ -12,11 +12,11 @@ draft: false
 
  
 
-Cherry blossom season is around the corner, and with that, my special is back!
+Cherry blossom season is around the corner in [Edmonton](https://exploreedmonton.com/), and with that, my special is back!
 
 **This special is ideal for Families, engagement, maternity.  **
 
-This special will be valid from Saturday, May 27th until June 10th.
+This special will be valid from Saturday, May 27th until June 10th, when the blossoms are at their peak around the [University of Alberta](https://www.ualberta.ca/) campus and other city parks.
 
 
 FAQ:
@@ -39,4 +39,4 @@ I am sorry to hear that, but you are more than welcome to reschedule to any oth
 
 Do you have any locations that have cherry blossom trees?
 
-Yes i do!
+Yes i do! Many of Edmonton's best blossom trees are along the [river valley](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) parks.

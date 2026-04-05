@@ -30,8 +30,8 @@ Without detail shots, those carefully chosen elements exist only in memory. And 
 
 | Stat | Figure | Source |
 |---|---|---|
-| Average Spend on Wedding Details and Stationery | **$3,200** | Weddingbells Canadian Survey, 2024 |
-| Couples Who Regret Not Having Enough Detail Shots | **42%** | WeddingWire Post-Wedding Survey, 2024 |
+| Average Spend on Wedding Details and Stationery | **$3,200** | [Weddingbells](https://www.weddingbells.ca/) Canadian Survey, 2024 |
+| Couples Who Regret Not Having Enough Detail Shots | **42%** | [WeddingWire](https://www.weddingwire.ca/) Post-Wedding Survey, 2024 |
 
 That second statistic really stands out to me. Nearly half of couples wish they had more detail shots. They received their gallery, loved their portraits, but noticed the small things were missing. The custom vow booklets. The grandmother's ring. The hand-painted place cards. Once the wedding is over, many of these details are gone — flowers wilt, invitations get stored away, the cake is eaten. Photography is the only way to preserve them.
 
@@ -54,7 +54,7 @@ Your invitation set the tone for your entire wedding. The paper stock, the calli
 
 ### Shoes
 
-Bridal shoes, in particular, are almost always a statement piece. Whether they are classic white heels, sparkly Jimmy Choos, or colourful flats that show off your personality, they deserve their moment. I often photograph them with the dress hem, creating a connection between the two details. Groom's shoes matter too — especially if they have been personalised with a date or initials on the sole.
+Bridal shoes, in particular, are almost always a statement piece. Whether they are classic white heels, sparkly [Jimmy Choo](https://www.jimmychoo.com/) bridal shoes, or colourful flats that show off your personality, they deserve their moment. I often photograph them with the dress hem, creating a connection between the two details. Groom's shoes matter too — especially if they have been personalised with a date or initials on the sole.
 
 ### Jewellery and Accessories
 

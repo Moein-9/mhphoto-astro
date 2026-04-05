@@ -4,7 +4,7 @@ slug: "hindu-wedding-ceremony-photography-guide"
 date: "2026-04-12"
 publishDate: "2026-04-12T09:00:00"
 category: "indian-weddings"
-description: "Complete Hindu wedding ceremony photography guide — Jaimala, Kanyadaan, Mangal Pheras, Sindoor explained. Why you need a specialist Indian wedding photographer in Edmonton."
+description: "Hindu wedding ceremony photography guide — Jaimala, Kanyadaan, Mangal Pheras, and Sindoor explained. Why you need a specialist photographer in Edmonton."
 image: "/gallery-images/indian-weddings/004-indian-wedding-portrait-edmonton.jpg"
 draft: false
 ---
@@ -28,7 +28,7 @@ I have been photographing Hindu weddings in Edmonton for years, and I can tell y
 
 | Stat | Figure | Source |
 |---|---|---|
-| Couples Who Rank Photography as #1 Priority | **34%** | The Knot, 2025 |
+| Couples Who Rank Photography as #1 Priority | **34%** | [The Knot](https://www.theknot.com/), 2025 |
 | Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
 
 When you are investing $100,000 or more in your celebration, every moment deserves to be documented by someone who understands what they are looking at. That understanding transforms photographs from mere documentation into storytelling.
@@ -103,7 +103,7 @@ I shoot the vidaai from a distance using telephoto lenses. This is not a moment 
 
 ### Reception Highlights
 
-The reception brings the celebration full circle. The couple's grand entrance, the first dance, speeches, dinner, and the inevitable explosion of energy on the dance floor. Hindu wedding receptions in Edmonton can range from elegant sit-down dinners to full-blown dance parties with live performers, depending on the family's style. Venues like the [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) and Edmonton's larger banquet halls host these receptions beautifully.
+The reception brings the celebration full circle. The couple's grand entrance, the first dance, speeches, dinner, and the inevitable explosion of energy on the dance floor. Hindu wedding receptions in Edmonton can range from elegant sit-down dinners to full-blown dance parties with live performers, depending on the family's style. Venues like the [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) and Edmonton's larger banquet halls host these receptions beautifully. For inspiration and vendor reviews, couples often browse [Maharani Weddings](https://www.maharaniweddings.com/) for real Hindu wedding features.
 
 Couples Tip
 
@@ -177,7 +177,7 @@ Do you understand all the Hindu wedding rituals?
 Yes. I have photographed numerous Hindu weddings across different regional traditions — North Indian, South Indian, Gujarati, Bengali, and more. While the specific rituals vary by tradition, the core ceremonies (Ganesh Puja, jaimala, kanyadaan, pheras, sindoor, mangalsutra, vidaai) are present in most Hindu weddings, and I know exactly when and where to be for each one.
 
 Can you photograph in temples and religious spaces?
-Absolutely. I have experience photographing at Hindu temples in the Edmonton area, including the Hindu Society of Alberta. I always coordinate with the temple management and the pandit beforehand to understand any restrictions on photography positioning, flash use, or movement during sacred rituals. Respect for the space always comes first.
+Absolutely. I have experience photographing at Hindu temples in the Edmonton area, including the [Hindu Society of Alberta](https://www.hindusociety.ab.ca/). I always coordinate with the temple management and the pandit beforehand to understand any restrictions on photography positioning, flash use, or movement during sacred rituals. Respect for the space always comes first.
 
 How do you handle the low light around the sacred fire?
 The sacred fire (agni) creates beautiful warm light, but it is limited in reach. I use professional camera bodies with excellent low-light capability (shooting at high ISOs with minimal noise), fast lenses (f/1.4 to f/2.8), and when the pandit permits, subtle off-camera flash bounced to maintain the warm ambiance without overpowering the natural firelight. The goal is always to preserve the ceremony's atmosphere in the images.

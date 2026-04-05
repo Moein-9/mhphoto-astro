@@ -22,14 +22,14 @@ In This Guide
 
 ## Why the Lehenga Deserves Its Own Photography Plan
 
-A bridal lehenga is not just an outfit. It is often the single most expensive garment a bride will ever wear, and for many families, selecting it is one of the most emotional parts of the wedding planning process. Indian brides spend months — sometimes a full year — choosing their lehenga. They fly to India or visit specialized bridal boutiques, agonize over every colour swatch, and invest anywhere from $2,000 to $20,000 or more on this one piece.
+A bridal lehenga is not just an outfit. It is often the single most expensive garment a bride will ever wear, and for many families, selecting it is one of the most emotional parts of the wedding planning process. Indian brides spend months — sometimes a full year — choosing their lehenga. [South Asian Bride](https://www.southasianbride.com/) features stunning lehenga collections each season for inspiration. Brides fly to India or visit specialized bridal boutiques, agonize over every colour swatch, and invest anywhere from $2,000 to $20,000 or more on this one piece.
 
 And yet, I have seen too many wedding albums where the lehenga is barely visible. The photographer captured the couple standing together, sure, but the intricate embroidery, the way the dupatta falls, the hand-stitched zardozi work — all of that gets lost. That is a failure, plain and simple.
 
 
 As someone who has photographed dozens of [Indian weddings](https://mhphoto.ca/photography/indian-weddings/), I treat the lehenga as a subject in its own right. It gets dedicated shooting time, specific lighting considerations, and a variety of angles designed to showcase its full beauty. In fact, I build lehenga photography into every Indian wedding timeline I plan.
 
-Average Indian Wedding in Canada$100,000+WeddingWire Canada, 2025
+Average Indian Wedding in Canada$100,000+[WeddingWire Canada](https://www.weddingwire.ca/), 2025
 
 ## Capturing the Details: Embroidery, Beading, and Fabric
 
@@ -60,7 +60,7 @@ I always build in time for movement shots during the portrait session. I ask the
 
 A lehenga in motion is ten times more captivating than a lehenga standing still. Every twirl reveals new details, new colours, new dimensions.
 
-For outdoor shoots, even a gentle breeze becomes an asset. The dupatta lifts naturally, the skirt sways, and the entire composition comes alive. As a result, I often recommend doing at least some portraits outdoors, even if the ceremony is indoors.
+For outdoor shoots, even a gentle breeze becomes an asset. Edmonton's [river valley trail system](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) provides stunning natural backdrops for lehenga portraits. The dupatta lifts naturally, the skirt sways, and the entire composition comes alive. As a result, I often recommend doing at least some portraits outdoors, even if the ceremony is indoors.
 
 ### The Baraat Entrance
 

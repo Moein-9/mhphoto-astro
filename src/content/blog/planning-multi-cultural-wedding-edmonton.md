@@ -24,7 +24,7 @@ In This Guide
 
 Edmonton has always been a city that brings people together. However, in the last decade, something beautiful has been happening in the wedding industry here. More and more couples are blending two — sometimes three — cultural traditions into a single celebration. I have photographed Hindu-Catholic ceremonies, Sikh-Chinese fusion receptions, and Nigerian-Ukrainian weddings that left every guest in tears of joy.
 
-According to Statistics Canada, roughly 1 in 5 marriages in major Canadian cities now involve partners from different cultural or religious backgrounds. In fact, that number is even higher in diverse cities like Edmonton, Toronto, and Vancouver. The result is a new kind of wedding — one that honours both families while creating something entirely original.
+According to [Statistics Canada](https://www.statcan.gc.ca/), roughly 1 in 5 marriages in major Canadian cities now involve partners from different cultural or religious backgrounds. In fact, that number is even higher in diverse cities like Edmonton, Toronto, and Vancouver. The result is a new kind of wedding — one that honours both families while creating something entirely original.
 
 
 For a photographer, these celebrations are deeply rewarding. They are also complex. You cannot approach a multi-cultural wedding the same way you would a single-tradition event. The ceremonies move differently, the emotional beats happen at different moments, and the expectations from both families can be quite distinct. Moreover, the details — from the bride's outfit changes to the symbolic rituals — require someone who has done the homework.
@@ -32,7 +32,7 @@ For a photographer, these celebrations are deeply rewarding. They are also compl
 | Stat | Figure | Source |
 |---|---|---|
 | Canadian Couples Who Rank Photography #1 | **34%** | The Knot Global Report, 2025 |
-| Average Canadian Wedding Budget | **$39,000** | WeddingWire Canada, 2025 |
+| Average Canadian Wedding Budget | **$39,000** | [WeddingWire Canada](https://www.weddingwire.ca/), 2025 |
 
 ## Blending Traditions Without Losing Identity
 
@@ -100,7 +100,7 @@ Of course, every wedding is different. Some couples spread their celebrations ac
 
 Not every venue can accommodate two ceremonies in one day. You need a space that is flexible enough to transform between traditions, large enough for the combined guest list, and accommodating of different religious requirements.
 
-The [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) is a stunning option for couples who want old-world elegance that works beautifully for both Western and South Asian aesthetics. The ballroom can be transformed dramatically between ceremony styles.
+The [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) is a stunning option for couples who want old-world elegance that works beautifully for both Western and South Asian aesthetics. [Explore Edmonton](https://exploreedmonton.com/) also highlights many culturally versatile event spaces across the city. The ballroom can be transformed dramatically between ceremony styles.
 
 
 For couples who prefer a more rustic, outdoor feel, [Willow Lane Barn](https://willowlanebarn.com) near Edmonton offers a charming barn setting. On the other hand, if you are planning a larger celebration with 300+ guests — as many Indian families need — the larger banquet halls in south Edmonton provide the space and flexibility required.
