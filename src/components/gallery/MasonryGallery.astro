@@ -302,9 +302,10 @@ try {
         background: rgba(255,255,255,0.25);
       }
       .lb-backdrop {
-        /* Reduce blur on mobile to prevent GPU memory exhaustion */
-        -webkit-backdrop-filter: blur(8px);
-        backdrop-filter: blur(8px);
+        /* Solid black on mobile — blur caused GPU issues AND gallery bled through */
+        -webkit-backdrop-filter: none;
+        backdrop-filter: none;
+        background: #000;
       }
       .lb-img { max-width: 100vw; max-height: 90vh; border-radius: 0; }
     }
@@ -391,15 +392,26 @@ try {
         lbCounter.textContent = (idx + 1) + ' / ' + totalImages;
       }
 
+      var savedScrollY = 0;
+
       function openLB(i) {
         showImage(i);
         lb.classList.add('open');
+        // iOS Safari: overflow:hidden alone doesn't prevent background scroll
+        savedScrollY = window.scrollY;
         document.body.style.overflow = 'hidden';
+        document.body.style.position = 'fixed';
+        document.body.style.width = '100%';
+        document.body.style.top = '-' + savedScrollY + 'px';
       }
 
       function closeLB() {
         lb.classList.remove('open');
         document.body.style.overflow = '';
+        document.body.style.position = '';
+        document.body.style.width = '';
+        document.body.style.top = '';
+        window.scrollTo(0, savedScrollY);
         lbImg.style.transform = '';
         lbImg.style.opacity = '';
         lbImg.classList.remove('swiping');
