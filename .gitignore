@@ -26,3 +26,4 @@ scripts/import-wp.cjs
 wp-posts.json
 
 .vercel
+access_token.txt

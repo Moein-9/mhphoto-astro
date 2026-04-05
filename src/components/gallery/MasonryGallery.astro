@@ -76,12 +76,18 @@ try {
       border-radius: 6px;
       overflow: hidden;
       cursor: pointer;
-      transition: opacity 0.3s;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    .tetris-item.visible {
+      opacity: 1;
+      transform: translateY(0);
     }
     @media (min-width: 640px) {
       .tetris-item { margin-bottom: 5px; border-radius: 8px; }
     }
-    .tetris-item:hover { opacity: 0.92; }
+    .tetris-item.visible:hover { opacity: 0.92; }
     .tetris-item img {
       width: 100%;
       height: auto;
@@ -177,6 +183,29 @@ try {
       .lb-img { border-radius: 12px; max-height: 75vh; }
     }
   </style>
+
+  <!-- Staggered fade-in for gallery items -->
+  <script define:vars={{ gallerySlug: slug }}>
+    (function() {
+      const items = document.querySelectorAll(`#gallery-${gallerySlug} .tetris-item`);
+      let delay = 0;
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const el = entry.target;
+            const stagger = parseInt(el.dataset.stagger) || 0;
+            setTimeout(() => el.classList.add('visible'), stagger);
+            observer.unobserve(el);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '50px' });
+
+      items.forEach((item, i) => {
+        item.dataset.stagger = (i % 6) * 80; // stagger in groups of 6, 80ms apart
+        observer.observe(item);
+      });
+    })();
+  </script>
 
   <script define:vars={{ slug, totalImages: images.length, imageSrcs: images.map(img => img.src) }}>
     const lb = document.getElementById(`lb-${slug}`);
