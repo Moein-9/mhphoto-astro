@@ -157,7 +157,7 @@ For peak wedding season (June through September), book your Edmonton wedding pho
 
 ## What Is Included in Wedding Photography Packages?
 
-Most Edmonton wedding photography packages include full-resolution digital files, an online gallery, professional editing of every delivered image, and a pre-wedding consultation. Mid-range packages ($2,500 to $4,000) typically add an [engagement session](/blog/engagement-photos-edmonton-locations-guide), a second photographer, and a venue walkthrough. Premium packages include albums, wall art, and same-day edits. For a detailed breakdown, visit my [pricing page](/pricing/).
+Most Edmonton wedding photography packages include full-resolution digital files, an online gallery, professional editing of every delivered image, and a pre-wedding consultation. Mid-range packages ($2,500 to $4,000) typically add an engagement session, a second photographer, and a venue walkthrough. Premium packages include albums, wall art, and same-day edits. For a detailed breakdown, visit my [pricing page](/pricing/).
 
 ## Is It Worth Booking a Photo and Video Bundle?
 
@@ -166,10 +166,10 @@ Booking [wedding photography and videography](/videography/) together saves most
 ## Related Guides
 
 - [How to Choose the Right Wedding Photographer in Edmonton](/blog/how-to-choose-wedding-photographer-edmonton)
-- [15 Best Wedding Venues in Edmonton](/blog/best-wedding-venues-edmonton-2026)
+- 15 Best Wedding Venues in Edmonton
 - [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [Indian Wedding Photography in Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)
-- [Engagement Photos in Edmonton: Locations Guide](/blog/engagement-photos-edmonton-locations-guide)
+- Engagement Photos in Edmonton: Locations Guide
 
 Want to Know Exactly What Your Wedding Photography Will Cost?
 I offer transparent, straightforward pricing with no hidden fees. Every couple's celebration is different, and I am happy to create a custom package that fits your needs and budget. Let us talk.

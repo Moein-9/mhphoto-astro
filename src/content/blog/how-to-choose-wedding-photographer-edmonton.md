@@ -196,9 +196,9 @@ The average wedding photographer in Canada costs $2,900, and in Edmonton the rea
 ## Related Guides
 
 - Wedding Photographer Cost in Edmonton: 2026 Pricing
-- [15 Best Wedding Venues in Edmonton](/blog/best-wedding-venues-edmonton-2026)
-- [Engagement Photos Edmonton: Locations Guide](/blog/engagement-photos-edmonton-locations-guide)
+- 15 Best Wedding Venues in Edmonton
+- Engagement Photos Edmonton: Locations Guide
 - [Indian Wedding Photography Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)
-- [Wedding Photography Timeline Guide](/blog/wedding-photography-timeline-guide-edmonton)
+- Wedding Photography Timeline Guide
 
 Ready to start the conversation? [Get in touch](/contact/) or browse my [full portfolio](/photography/) to see my work. Currently booking 2026 & 2027.

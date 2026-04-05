@@ -232,8 +232,8 @@ We reschedule at no extra cost. I monitor the weather closely and will reach out
 
 ## Related Guides
 
-- [15 Best Wedding Venues in Edmonton](/blog/best-wedding-venues-edmonton-2026)
-- [Engagement Photos Edmonton: Locations Guide](/blog/engagement-photos-edmonton-locations-guide)
+- 15 Best Wedding Venues in Edmonton
+- Engagement Photos Edmonton: Locations Guide
 - [Fall Family Photography in Edmonton](/blog/fall-family-photography-edmonton-guide)
 - [Golden Hour Wedding Photography Edmonton](/blog/golden-hour-wedding-photography-edmonton)
 - [How to Choose the Right Wedding Photographer](/blog/how-to-choose-wedding-photographer-edmonton)

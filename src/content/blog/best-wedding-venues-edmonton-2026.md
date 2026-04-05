@@ -204,7 +204,7 @@ The best wedding photography locations in Edmonton include the Fairmont Hotel Ma
 - [How to Choose the Right Wedding Photographer](/blog/how-to-choose-wedding-photographer-edmonton)
 - [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [Indian Wedding Photography Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)
-- [Wedding Photography Timeline Guide](/blog/wedding-photography-timeline-guide-edmonton)
+- Wedding Photography Timeline Guide
 - [Golden Hour Wedding Photography Edmonton](/blog/golden-hour-wedding-photography-edmonton)
 
 Explore my [wedding gallery](https://mhphoto.ca/photography/weddings/) to see real celebrations at Edmonton venues, or check out [packages and pricing](/pricing/). I also serve couples in Sherwood Park, St. Albert, Spruce Grove, Leduc, and Beaumont.
