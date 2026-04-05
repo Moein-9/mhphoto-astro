@@ -707,19 +707,39 @@ const recentWorkImages = allGalleryPaths.slice(0, 14);
         if (dV && dA && dB) initMontage(dV, dA, dB);
       }
 
-      // Mobile — same montage as desktop
+      // Mobile — lightweight single-iframe montage
       if (isMobile) {
         var mV = document.querySelector('.hero-intro-mob');
-        var mA = document.querySelector('.mob-yt-a');
-        var mB = document.querySelector('.mob-yt-b');
-        if (mV && mA && mB) {
+        var mFrame = document.querySelector('.mob-yt');
+        if (mV && mFrame) {
           mV.play().catch(function() {
             document.addEventListener('touchstart', function playOnTouch() {
               mV.play();
-              document.removeEventListener('touchstart', playOnTouch);
             }, { once: true });
           });
-          initMontage(mV, mA, mB);
+
+          var mIdx = 0;
+          var mMax = 5; // only cycle 5 videos to save memory
+          function mobMontage() {
+            // Fade out intro, show iframe
+            mV.style.opacity = '0';
+            setTimeout(function() { mV.pause(); mV.style.display = 'none'; }, 500);
+            mFrame.src = makeSrc(ytIds[mIdx]);
+            mFrame.style.opacity = '1';
+            mFrame.style.zIndex = '3';
+            mIdx++;
+            if (mIdx < mMax) {
+              setTimeout(function() {
+                mFrame.src = makeSrc(ytIds[mIdx % ytIds.length]);
+                mIdx++;
+                if (mIdx < mMax) {
+                  setTimeout(arguments.callee.bind(null), 5000);
+                }
+              }, 5000);
+            }
+          }
+          mV.addEventListener('ended', mobMontage, { once: true });
+          setTimeout(mobMontage, 4000);
         }
       }
     })();
