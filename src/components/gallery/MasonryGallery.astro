@@ -70,13 +70,6 @@ try {
       .tetris-gallery { columns: 3; column-gap: 6px; }
     }
 
-    .tetris-gallery {
-      opacity: 0;
-      transition: opacity 0.4s ease;
-    }
-    .tetris-gallery.settled {
-      opacity: 1;
-    }
     .tetris-item {
       break-inside: avoid;
       margin-bottom: 4px;
@@ -89,6 +82,44 @@ try {
       .tetris-item { margin-bottom: 5px; border-radius: 8px; }
     }
     .tetris-item:hover { opacity: 0.92; }
+
+    /* Skeleton placeholder while image loads */
+    .tetris-item {
+      position: relative;
+      background: #eae5df;
+    }
+    .tetris-item::before {
+      content: '';
+      display: block;
+      padding-bottom: 120%; /* default aspect ratio placeholder */
+    }
+    .tetris-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      transition: opacity 0.4s ease;
+    }
+    .tetris-item img.loaded {
+      position: relative;
+      opacity: 1;
+    }
+    .tetris-item img.loaded + .skeleton-gone { display: none; }
+    /* Remove the ::before once image loads */
+    .tetris-item.has-image::before {
+      display: none;
+    }
+
+    /* Shimmer animation on skeleton */
+    .tetris-item:not(.has-image) {
+      background: linear-gradient(90deg, #eae5df 25%, #f3ede7 50%, #eae5df 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
     .tetris-item img {
       width: 100%;
       height: auto;
@@ -185,29 +216,29 @@ try {
     }
   </style>
 
-  <!-- Wait for images to load before showing gallery (prevents column reflow jumping) -->
+  <!-- Skeleton wireframe → image fade-in on load -->
   <script define:vars={{ gallerySlug: slug }}>
     (function() {
       const gallery = document.getElementById(`gallery-${gallerySlug}`);
       if (!gallery) return;
-      const imgs = gallery.querySelectorAll('img');
-      let loaded = 0;
-      const total = Math.min(imgs.length, 12); // only wait for first 12
+      const items = gallery.querySelectorAll('.tetris-item');
 
-      function check() {
-        loaded++;
-        if (loaded >= total) gallery.classList.add('settled');
-      }
+      items.forEach(item => {
+        const img = item.querySelector('img');
+        if (!img) return;
 
-      imgs.forEach((img, i) => {
-        if (i >= total) return;
-        if (img.complete) { check(); return; }
-        img.addEventListener('load', check, { once: true });
-        img.addEventListener('error', check, { once: true });
+        function reveal() {
+          img.classList.add('loaded');
+          item.classList.add('has-image');
+        }
+
+        if (img.complete && img.naturalHeight > 0) {
+          reveal();
+        } else {
+          img.addEventListener('load', reveal, { once: true });
+          img.addEventListener('error', () => { item.classList.add('has-image'); }, { once: true });
+        }
       });
-
-      // Fallback — show after 2s max regardless
-      setTimeout(() => gallery.classList.add('settled'), 2000);
     })();
   </script>
 
