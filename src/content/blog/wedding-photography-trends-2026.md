@@ -4,7 +4,7 @@ slug: "wedding-photography-trends-2026"
 date: "2026-09-10"
 publishDate: "2026-09-10T09:00:00"
 category: "wedding"
-description: "Wedding photography trends for 2026 — film aesthetic, candid-first coverage, drone photography, golden hour obsession, and flash photography revival. Edmonton couples guide."
+description: "Wedding photography trends 2026 — film grain, editorial portraits, mixed media, and what Edmonton couples want."
 image: "/gallery-images/weddings/019-first-dance.jpg"
 draft: false
 ---

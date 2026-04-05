@@ -4,7 +4,7 @@ slug: "why-indian-wedding-photographer-not-regular"
 date: "2026-08-26"
 publishDate: "2026-08-26T09:00:00"
 category: "indian-weddings"
-description: "Why you need an Indian wedding photographer, not a regular one. Cultural knowledge, multi-day stamina, and ceremony expertise for Edmonton South Asian weddings."
+description: "Why hire a specialized Indian wedding photographer? Cultural knowledge and multi-day experience matter."
 image: "/gallery-images/indian-weddings/029-baraat-energy.jpg"
 draft: false
 ---

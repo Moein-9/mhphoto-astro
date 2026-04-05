@@ -5,7 +5,7 @@ date: "2026-05-04"
 publishDate: "2026-05-04T09:00:00"
 category: "family-sessions"
 keyword: "newborn photography edmonton"
-description: "Newborn photography in Edmonton -- when to book (5-14 days), what to expect, safety tips, and milestone sessions. Sessions from $400 with Moein Habibi. Book during your second trimester."
+description: "Edmonton newborn photography guide — best age, safety tips, posing styles, and what to expect from your session."
 image: "/gallery-images/family/011-golden-hour-family.jpg"
 draft: false
 ---

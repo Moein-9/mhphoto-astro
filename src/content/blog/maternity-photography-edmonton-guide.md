@@ -5,7 +5,7 @@ date: "2026-08-29"
 publishDate: "2026-08-29T09:00:00"
 category: "family-sessions"
 keyword: "maternity photography edmonton"
-description: "Maternity photography in Edmonton -- when to book (28-34 weeks), what to wear, best locations, and including your partner. Sessions from $400 with Moein Habibi. Book today."
+description: "Edmonton maternity photography guide — best timing, locations, outfit ideas, and what to expect from your session."
 image: "/gallery-images/family/006-autumn-portrait.jpg"
 draft: false
 ---

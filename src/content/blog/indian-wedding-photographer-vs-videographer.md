@@ -4,7 +4,7 @@ slug: "indian-wedding-photographer-vs-videographer"
 date: "2026-09-13"
 publishDate: "2026-09-13T09:00:00"
 category: "indian-weddings"
-description: "Do you need both a photographer and videographer for your Indian wedding? Cost comparison, combined vs separate coverage, and why Edmonton couples choose both."
+description: "Should you hire one team for Indian wedding photos and video? Benefits of combined coverage for multi-day celebrations."
 image: "/gallery-images/indian-weddings/004-indian-wedding-portrait-edmonton.jpg"
 draft: false
 ---

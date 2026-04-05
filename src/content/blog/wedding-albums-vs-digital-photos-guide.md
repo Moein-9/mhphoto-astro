@@ -4,7 +4,7 @@ slug: "wedding-albums-vs-digital-photos-guide"
 date: "2026-07-06"
 publishDate: "2026-07-06T09:00:00"
 category: "wedding"
-description: "Wedding albums vs digital photos — what modern couples choose, the case for each, types of albums, risks of digital-only, and investment guide. Edmonton wedding photography."
+description: "Wedding albums vs digital photos — pros, costs, and why most Edmonton couples choose both in 2026."
 image: "/gallery-images/weddings/006-bride-portrait.jpg"
 draft: false
 ---

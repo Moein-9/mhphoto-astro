@@ -4,7 +4,7 @@ slug: "second-shooter-wedding-photography-guide"
 date: "2026-06-21"
 publishDate: "2026-06-21T09:00:00"
 category: "wedding"
-description: "Do you need a second shooter at your wedding? When you definitely need one, when you might not, cost factors, and questions to ask. Edmonton wedding photography guide."
+description: "Do you need a second wedding photographer? When it matters, what they cover, and when one shooter is enough."
 image: "/gallery-images/weddings/020-first-dance-2.jpg"
 draft: false
 ---

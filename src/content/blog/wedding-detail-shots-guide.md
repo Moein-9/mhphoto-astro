@@ -4,7 +4,7 @@ slug: "wedding-detail-shots-guide"
 date: "2026-08-05"
 publishDate: "2026-08-05T09:00:00"
 category: "photography-tips"
-description: "Wedding detail shots that tell your story — rings, invitations, flowers, shoes, and flat lays. What to prepare and when they happen in your timeline. Edmonton photographer tips."
+description: "Wedding detail shot guide — rings, shoes, invitations, and the small moments that complete your gallery."
 image: "/gallery-images/weddings/037-bridal-detail.jpg"
 draft: false
 ---

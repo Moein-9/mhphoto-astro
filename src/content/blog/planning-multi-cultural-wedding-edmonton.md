@@ -4,7 +4,7 @@ slug: "planning-multi-cultural-wedding-edmonton"
 date: "2026-07-12"
 publishDate: "2026-07-12T09:00:00"
 category: "indian-weddings"
-description: "Planning a multi-cultural wedding in Edmonton? Photography tips for blending traditions, building realistic timelines, and best venues for mixed-ceremony celebrations."
+description: "Planning a multi-cultural wedding in Edmonton? Guide to blending traditions, venues, and photography coverage."
 image: "/gallery-images/indian-weddings/018-bridal-portrait-edmonton.jpg"
 draft: false
 ---

@@ -4,7 +4,7 @@ slug: "sangeet-night-photography-tips-guide"
 date: "2026-05-28"
 publishDate: "2026-05-28T09:00:00"
 category: "indian-weddings"
-description: "Sangeet night photography tips — capturing dance performances, low-light stage lighting, candid audience reactions, and the energy of pre-wedding celebrations in Edmonton."
+description: "Sangeet night photography tips — capturing dance performances, DJ energy, and family moments beautifully."
 image: "/gallery-images/indian-weddings/010-sangeet-dance.jpg"
 draft: false
 ---

@@ -4,7 +4,7 @@ slug: "mehndi-ceremony-photography-guide"
 date: "2026-05-22"
 publishDate: "2026-05-22T09:00:00"
 category: "indian-weddings"
-description: "Mehndi ceremony photography guide — capturing henna details, candid dance moments, and lighting solutions. Essential reading for Indian wedding photography in Edmonton."
+description: "Mehndi ceremony photography guide — capturing henna details, candid moments, and pre-wedding celebrations."
 image: "/gallery-images/indian-weddings/007-mehndi-hands.jpg"
 draft: false
 ---

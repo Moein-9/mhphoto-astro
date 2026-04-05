@@ -4,7 +4,7 @@ slug: "south-asian-wedding-traditions-photography-guide"
 date: "2026-05-07"
 publishDate: "2026-05-07T09:00:00"
 category: "indian-weddings"
-description: "South Asian wedding traditions explained for photographers — Hindu, Sikh, and Muslim ceremonies, pre-wedding events, and tips for couples choosing an Edmonton photographer."
+description: "South Asian wedding traditions photography guide — Hindu, Sikh, Muslim ceremonies and how to capture each."
 image: "/gallery-images/indian-weddings/019-ceremony-emotion.jpg"
 draft: false
 ---

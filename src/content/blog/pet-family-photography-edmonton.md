@@ -4,7 +4,7 @@ slug: "pet-family-photography-edmonton"
 date: "2026-08-11"
 publishDate: "2026-08-11T09:00:00"
 category: "family-sessions"
-description: "Including pets in Edmonton family photos — preparation tips, best dog-friendly locations, and how to get great shots with dogs, cats, and other family pets."
+description: "Pet family photography in Edmonton — tips for including dogs and cats in your family photo session."
 image: "/gallery-images/family/017-family-walk.jpg"
 draft: false
 ---

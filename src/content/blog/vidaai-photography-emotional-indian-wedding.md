@@ -4,7 +4,7 @@ slug: "vidaai-photography-emotional-indian-wedding"
 date: "2026-06-15"
 publishDate: "2026-06-15T09:00:00"
 category: "indian-weddings"
-description: "Vidaai photography guide — capturing the most emotional moment of an Indian wedding. Camera approach, key shots, and tips for families. By Edmonton photographer Moein Habibi."
+description: "Vidaai photography guide — capturing the emotional farewell moment at Indian weddings with sensitivity."
 image: "/gallery-images/indian-weddings/039-vidaai-emotion.jpg"
 draft: false
 ---

@@ -4,7 +4,7 @@ slug: "vantana-and-keith-wedding-in-jasper-alberta-photos-and-video"
 date: "2018-08-24"
 publishDate: "2018-08-24T18:01:01"
 category: "wedding"
-description: "Vantana and Keith wedding photography and videography in Jasper, Alberta. Stunning mountain ceremony captured by Edmonton wedding photographer Moein Habibi."
+description: "Vantanna and Keith destination wedding in Jasper — mountain ceremony, starry night photos, and cinematic film."
 image: "/gallery-images/weddings/038-bouquet-detail.jpg"
 draft: false
 ---

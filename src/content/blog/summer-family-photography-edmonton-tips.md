@@ -4,7 +4,7 @@ slug: "summer-family-photography-edmonton-tips"
 date: "2026-07-03"
 publishDate: "2026-07-03T09:00:00"
 category: "family-sessions"
-description: "Summer family photography in Edmonton — beating the heat, best times of day, top locations, what to wear, and keeping kids happy. Book your session with Moein Habibi."
+description: "Summer family photography tips for Edmonton — golden hour timing, park locations, and keeping kids happy."
 image: "/gallery-images/family/029-kids-adventure.jpg"
 draft: false
 ---

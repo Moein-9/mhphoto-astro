@@ -4,7 +4,7 @@ slug: "indian-wedding-reception-photography-edmonton"
 date: "2026-08-17"
 publishDate: "2026-08-17T09:00:00"
 category: "indian-weddings"
-description: "Indian wedding reception photography — speeches, dances, 500 to 800 guests. How to capture dance floor energy and emotional moments. Edmonton photographer guide."
+description: "Indian wedding reception photography tips — capturing toasts, first dance, and celebration moments in Edmonton."
 image: "/gallery-images/indian-weddings/046-sangeet-joy.jpg"
 draft: false
 ---

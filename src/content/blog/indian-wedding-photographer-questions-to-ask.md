@@ -4,7 +4,7 @@ slug: "indian-wedding-photographer-questions-to-ask"
 date: "2026-07-27"
 publishDate: "2026-07-27T09:00:00"
 category: "indian-weddings"
-description: "15 essential questions to ask your Indian wedding photographer before booking. Experience, coverage, deliverables, and cultural knowledge checklist for Edmonton couples."
+description: "Essential questions to ask your Indian wedding photographer before booking. Coverage, multi-day experience, and ceremony knowledge checklist."
 image: "/gallery-images/indian-weddings/013-baraat-procession.jpg"
 draft: false
 ---
