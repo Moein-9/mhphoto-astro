@@ -26,8 +26,10 @@ Most couples in Edmonton automatically think "summer wedding." And I get it. Sum
 
 There is something about fresh snow, the crisp air, and the low winter sun that creates images with a quality you simply cannot replicate in any other season. The world becomes a natural reflector — snow bounces soft, even light up onto faces, eliminating harsh shadows. The colour palette shifts to whites, silvers, deep greens, and pops of colour from the wedding party's attire. It is stunning.
 
-Winter Weddings in Canada (Growing Trend)18%Wedding Bells Canada, 2025
-Average Savings on Winter Wedding Venues20–40%WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Winter Weddings in Canada (Growing Trend) | **18%** | Wedding Bells Canada, 2025 |
+| Average Savings on Winter Wedding Venues | **20–40%** | WeddingWire Canada, 2025 |
 
 In addition, winter weddings are growing in popularity across Canada. According to Wedding Bells Canada, approximately 18% of Canadian weddings now take place between November and February. That number has been climbing steadily as couples discover the unique beauty and practical advantages of a winter celebration. Moreover, venues typically offer significant discounts during winter months, which means more budget for photography, decor, or your honeymoon.
 
@@ -73,29 +75,13 @@ Photographing a couple during active snowfall is one of the most magical things 
 
 Edmonton has some incredible venues that shine during winter. Here are a few that photograph particularly well:
 
-Venue
-Why It Works for Winter
-Guest Capacity
-
-[Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/)
-River valley views, elegant interiors, iconic Edmonton backdrop with snow
-50 – 350
-
-Art Gallery of Alberta
-Modern architecture, dramatic interior lines, floor-to-ceiling windows for natural light
-100 – 400
-
-Oasis Centre
-Grand ballroom, beautiful lobby for portraits, ample indoor space
-200 – 800
-
-Devonian Botanic Garden
-Butterfly house and tropical garden for warm, green indoor photos even in January
-50 – 150
-
-Matrix Hotel
-Boutique feel, great natural light, easy access to downtown outdoor spots
-50 – 200
+| Venue | Why It Works for Winter | Guest Capacity |
+|---|---|---|
+| [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) | River valley views, elegant interiors, iconic Edmonton backdrop with snow | 50 – 350 |
+| Art Gallery of Alberta | Modern architecture, dramatic interior lines, floor-to-ceiling windows for natural light | 100 – 400 |
+| Oasis Centre | Grand ballroom, beautiful lobby for portraits, ample indoor space | 200 – 800 |
+| Devonian Botanic Garden | Butterfly house and tropical garden for warm, green indoor photos even in January | 50 – 150 |
+| Matrix Hotel | Boutique feel, great natural light, easy access to downtown outdoor spots | 50 – 200 |
 
 Each of these venues offers beautiful indoor spaces for the ceremony and portraits, while also providing easy access to outdoor areas for those strategic 10-minute portrait sessions in the snow. The [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/), in particular, is magical in winter. The river valley view with snow-covered trees and the Edmonton skyline is one of the most stunning wedding backdrops in the province.
 
@@ -141,7 +127,9 @@ Moving from minus twenty outside to a plus twenty indoor venue creates condensat
 
 Snow confuses camera meters. The camera sees all that bright white and underexposes, turning the snow grey. I shoot with positive exposure compensation (+1 to +1.5 stops) to keep snow looking white and bright. This is second nature after years of winter shooting, but it is something newer photographers often miss.
 
-Average Photos Delivered From a Winter Wedding800–1,200MH Photography delivery data, 2023-2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photos Delivered From a Winter Wedding | **800–1,200** | MH Photography delivery data, 2023-2025 |
 
 Key Takeaways
 

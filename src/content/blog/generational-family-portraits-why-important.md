@@ -26,7 +26,9 @@ Let me ask you something. How many professional photos do you have of your grand
 
 If your answer is "not many" or "none," you are not alone. According to a 2024 study by the Professional Photographers of America, only 12% of families have professional multi-generational portraits. That means 88% of families are missing what could be one of their most treasured possessions.
 
-Families Who Have Professional Multi-Gen Portraits12%Professional Photographers of America, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Families Who Have Professional Multi-Gen Portraits | **12%** | Professional Photographers of America, 2024 |
 
 Here is why this matters. Time moves in one direction. Grandparents will not always be here. Children grow up faster than anyone expects. The window where three or four generations can stand together in a single frame is small. And once that window closes, no amount of money or technology can open it again.
 

@@ -30,8 +30,10 @@ As an experienced Indian wedding photographer in Edmonton, I — Moein Habibi of
 
 As someone who has specialized in [Indian wedding photography](https://mhphoto.ca/photography/indian-weddings/) here in Edmonton for years, I have learned that capturing an Indian wedding well requires more than just a good camera. It requires cultural understanding, physical stamina, and the ability to anticipate moments that happen once and will never be repeated.
 
-Average Indian Wedding in Canada$100,000+WeddingWire Canada, 2025
-Average Guest Count350–400Plan Events Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100,000+** | WeddingWire Canada, 2025 |
+| Average Guest Count | **350–400** | Plan Events Canada, 2025 |
 
 These numbers are not surprising to anyone who has been part of an Indian wedding. The scale, the detail, and the love that goes into these celebrations is extraordinary. And every single moment deserves to be documented beautifully.
 
@@ -73,7 +75,9 @@ For Sikh weddings, the Anand Karaj takes place at the Gurdwara, centred around t
 
 For Muslim weddings, the Nikah is a solemn and beautiful ceremony with its own traditions, including the exchange of vows and the signing of the marriage contract. The quiet dignity of a Nikah creates incredibly powerful and emotional photographs.
 
-Couples Who Rank Photography as #1 Budget Priority34%The Knot Global Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Rank Photography as #1 Budget Priority | **34%** | The Knot Global Report, 2025 |
 
 ### Vidaai — The Bride's Farewell
 
@@ -95,34 +99,20 @@ When choosing a photographer for your Indian wedding, ask to see full galleries 
 
 ## The Numbers: Indian Weddings in Canada
 
-Category
-Average Cost
-Notes
-
-Total Wedding Cost
-$100,000 – $235,000 CAD
-Depending on guest count and events
-
-Photography & Video
-$5,000 – $12,000 CAD
-Multi-day coverage with 2 shooters
-
-Venue Rental
-$5,000 – $50,000 CAD
-Varies by size and number of days
-
-Catering (per person)
-$50 – $150 CAD
-Full Indian menu, 350-400 guests typical
-
-Decor & Mandap
-$8,000 – $30,000 CAD
-Floral mandap, stage, centrepieces
+| Category | Average Cost | Notes |
+|---|---|---|
+| Total Wedding Cost | **$100,000 – $235,000 CAD** | Depending on guest count and events |
+| Photography & Video | **$5,000 – $12,000 CAD** | Multi-day coverage with 2 shooters |
+| Venue Rental | **$5,000 – $50,000 CAD** | Varies by size and number of days |
+| Catering (per person) | **$50 – $150 CAD** | Full Indian menu, 350-400 guests typical |
+| Decor & Mandap | **$8,000 – $30,000 CAD** | Floral mandap, stage, centrepieces |
 
 *Sources: WeddingWire Canada, Plan Events Canada, Indian Destination Weddings Canada (2025 data)*
 
-Global Wedding Photography Market$26.9 BillionFortune Business Insights, 2026
-Photography % of Wedding Budget10–15%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Global Wedding Photography Market | **$26.9 Billion** | Fortune Business Insights, 2026 |
+| Photography % of Wedding Budget | **10–15%** | The Knot, 2025 |
 
 ## Multi-Day Coverage That Does Justice to Your Celebration
 

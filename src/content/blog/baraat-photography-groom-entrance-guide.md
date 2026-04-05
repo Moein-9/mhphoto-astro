@@ -26,8 +26,10 @@ If you have never witnessed a baraat, let me paint the picture for you. The groo
 
 The baraat is one of the most iconic traditions in [Indian wedding culture](https://mhphoto.ca/photography/indian-weddings/). It is the groom's grand entrance, and it sets the tone for the entire celebration. In fact, many guests say the baraat is their favourite part of the wedding day. The pure, unscripted joy is contagious. However, from a photography standpoint, it is also one of the most demanding moments to capture well.
 
-Average Baraat Duration30–60 minIndian Wedding Planning Association
-Couples Who Want Baraat Coverage94%WeddingWire India Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Baraat Duration | **30–60 min** | Indian Wedding Planning Association |
+| Couples Who Want Baraat Coverage | **94%** | WeddingWire India Survey, 2025 |
 
 As a result, choosing a photographer who understands the baraat is not optional. It is essential. You only get one grand entrance. There are no do-overs. And the moments that happen during those 30 to 60 minutes are some of the most joyful images from the entire wedding.
 

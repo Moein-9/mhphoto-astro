@@ -30,8 +30,10 @@ A shot list is your safety net. It is a simple document that ensures your [weddi
 
 After photographing hundreds of weddings in Edmonton and beyond, I have developed a comprehensive shot list that covers every phase of the wedding day. This guide walks you through each category, explains why each shot matters, and gives you a free checklist you can customize and share with your photographer.
 
-Photos Delivered from a Full Wedding Day600–1,200MH Photography, Edmonton
-Couples Who Wish They Had Made a Shot List67%WeddingWire Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Photos Delivered from a Full Wedding Day | **600–1,200** | MH Photography, Edmonton |
+| Couples Who Wish They Had Made a Shot List | **67%** | WeddingWire Survey, 2025 |
 
 ## Getting Ready Shots
 

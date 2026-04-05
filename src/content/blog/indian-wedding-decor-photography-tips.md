@@ -29,8 +29,10 @@ I have been shooting [Indian weddings in Edmonton](https://mhphoto.ca/photograph
 
 This guide is my honest attempt to bridge the gap between decor design and photography. Whether you are working with a decorator or doing elements yourself, these insights will help you make choices that look stunning both in person and in your wedding album.
 
-Average Indian Wedding Decor Budget in Canada$8K–$30KWeddingWire Canada, 2025
-Couples Who Say Decor Photos Are Top Priority72%The Knot South Asian Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding Decor Budget in Canada | **$8K–$30K** | WeddingWire Canada, 2025 |
+| Couples Who Say Decor Photos Are Top Priority | **72%** | The Knot South Asian Report, 2025 |
 
 ## Mandap Design and Camera Angles
 
@@ -78,29 +80,13 @@ However, not all colour combinations photograph equally well. Here is what I hav
 
 ![Indian wedding colour palette decor choices for stunning photography in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*A thoughtful colour palette creates visual depth and makes every element stand out in photos*
 
-Colour Palette
-Photo Quality
-Best For
-
-Red + Gold
-Excellent in all lighting
-Traditional Hindu ceremonies
-
-Blush + Ivory
-Soft, romantic, flattering
-Modern receptions, outdoor events
-
-Teal + Gold
-Rich contrast, eye-catching
-Sangeet, reception stages
-
-White + Green
-Clean, fresh, Instagram-ready
-Outdoor ceremonies, fusion weddings
-
-All Neon
-Casts colour on skin, difficult
-Avoid for main ceremony areas
+| Colour Palette | Photo Quality | Best For |
+|---|---|---|
+| Red + Gold | Excellent in all lighting | Traditional Hindu ceremonies |
+| Blush + Ivory | Soft, romantic, flattering | Modern receptions, outdoor events |
+| Teal + Gold | Rich contrast, eye-catching | Sangeet, reception stages |
+| White + Green | Clean, fresh, Instagram-ready | Outdoor ceremonies, fusion weddings |
+| All Neon | Casts colour on skin, difficult | Avoid for main ceremony areas |
 
 ## Lighting Design for Photography
 

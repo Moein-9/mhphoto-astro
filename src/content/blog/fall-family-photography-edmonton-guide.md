@@ -35,8 +35,10 @@ Second, the light. By early October, the sun sits lower in the sky, which means 
 
 Third, the weather. September and early October in Edmonton are often some of the most pleasant weeks of the entire year. Cool enough for layers and cozy outfits, warm enough that nobody is shivering. The infamous Alberta wind tends to die down in fall, and we often get those perfectly still, crisp evenings where the leaves hang motionless and the light turns everything to honey.
 
-Average Canadian Wedding Cost$39,000WeddingWire Canada, 2025
-Photography Ranked #1 Budget Priority34%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Canadian Wedding Cost | **$39,000** | WeddingWire Canada, 2025 |
+| Photography Ranked #1 Budget Priority | **34%** | The Knot, 2025 |
 
 These statistics are about weddings, but the underlying truth applies equally to family photography: Canadians understand that professional photography is an investment worth making. The photos from your fall family session will hang on your walls, sit on your parents' mantels, and show up in holiday cards for years. Your children are growing up right now, this very minute, and you cannot get this exact version of them back once it passes.
 
@@ -181,7 +183,9 @@ Every session includes:
 
 For specific pricing details, visit my [packages and pricing page](https://mhphoto.ca/pricing/). I offer both standalone family sessions and combination packages that include prints, albums, and wall art.
 
-Photography Packages Including Engagement Sessions85%Industry Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Photography Packages Including Engagement Sessions | **85%** | Industry Report, 2025 |
 
 **Booking timeline:** I open fall family session bookings in early June each year. Peak dates (the first two weekends of October) are usually fully booked by August. If fall colour is your priority, book early. If you are flexible on dates and can do a weekday session, you will have more availability.
 

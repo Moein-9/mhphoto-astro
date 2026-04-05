@@ -30,8 +30,10 @@ I am not talking about fads that will look dated in two years. The trends shapin
 
 Here is what Edmonton couples — and couples across Canada — are asking for in 2026.
 
-Couples Who Prefer Candid Over Posed78%WeddingWire Trends Report, 2026
-Increase in Drone Photography Requests Since 2023145%Professional Photographers of Canada, 2026
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Prefer Candid Over Posed | **78%** | WeddingWire Trends Report, 2026 |
+| Increase in Drone Photography Requests Since 2023 | **145%** | Professional Photographers of Canada, 2026 |
 
 ## The Film Aesthetic Is Everywhere
 
@@ -73,7 +75,9 @@ In Edmonton specifically, drone photography is a natural fit. Our prairie landsc
 However, drone photography requires planning. You need a licensed drone pilot (which I am). You need to understand the airspace regulations around your venue. Many venues have specific drone policies, and weddings near airports or in national parks may have restrictions. Always discuss drone coverage with your photographer well in advance so there are no surprises on the day.
 
 ![Aerial drone photograph of wedding venue and couple from above in Edmonton](https://mhphoto.ca/wp-content/uploads/2022/01/4.jpg)*Drone photography adds cinematic scale to your wedding story*
-Couples Including Drone Photography in 202662%The Knot Canada, 2026
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Including Drone Photography in 2026 | **62%** | The Knot Canada, 2026 |
 
 ## Golden Hour Obsession
 
@@ -103,8 +107,10 @@ Think sharp subjects popping against motion-blurred backgrounds. Think direct fl
 
 This trend is exciting because it expands the visual range of a wedding gallery. The daytime coverage might be soft and romantic. The reception coverage hits different — bold, energetic, alive. The contrast between the two creates a gallery that feels like a complete story with multiple chapters.
 
-Photographers Using Creative Flash Techniques at Receptions71%WPPI Survey, 2026
-Couples Requesting Flash Dance Floor Coverage85%The Knot Trends, 2026
+| Stat | Figure | Source |
+|---|---|---|
+| Photographers Using Creative Flash Techniques at Receptions | **71%** | WPPI Survey, 2026 |
+| Couples Requesting Flash Dance Floor Coverage | **85%** | The Knot Trends, 2026 |
 
 ## Cultural Fusion Documentation
 

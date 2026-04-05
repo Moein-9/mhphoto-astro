@@ -27,8 +27,10 @@ Every couple I work with asks the same question at some point during the plannin
 
 I am going to give you the honest answer, not the sales pitch. As a [wedding photographer in Edmonton](https://mhphoto.ca/photography/weddings/), I have seen both sides. I have delivered digital-only packages and I have designed elaborate albums. I have watched couples flip through their album five years later with tears in their eyes, and I have watched digital galleries get buried in a folder that no one remembers how to access. Both formats have real value. But they serve different purposes, and understanding those differences will help you make the right choice for your family.
 
-Couples Who Order a Wedding Album53%WPPI Industry Report, 2025
-Couples Who Regret Not Getting an Album67%WeddingWire Post-Wedding Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Order a Wedding Album | **53%** | WPPI Industry Report, 2025 |
+| Couples Who Regret Not Getting an Album | **67%** | WeddingWire Post-Wedding Survey, 2025 |
 
 That second number is the one I want you to sit with. Sixty-seven percent of couples who skipped the album regret it later. That is a significant number. And it tells you something important about the long-term value of physical prints.
 
@@ -84,42 +86,22 @@ Based on my experience and industry data, here is the trend I am seeing among co
 
 The most interesting trend is parent albums. In South Asian and Indian families especially, the wedding album is not just for the couple — it is for the parents. Many families in my [Indian wedding photography](https://mhphoto.ca/photography/indian-weddings/) practice order three albums: one for the couple and one for each set of parents. The parents' albums are often the most treasured possession in the home.
 
-Couples Who Add an Album After Initial Digital-Only Delivery48%PPA Industry Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Add an Album After Initial Digital-Only Delivery | **48%** | PPA Industry Survey, 2025 |
 ![Modern couple reviewing wedding album and digital photos together](https://mhphoto.ca/wp-content/uploads/2022/01/picture-16-scaled.jpg)*The trend is clear: most couples want both — digital for sharing and an album for keeping*
 
 ## Types of Wedding Albums
 
 Not all albums are created equal. Here is a breakdown of the main types available and what to expect from each.
 
-Album Type
-Price Range
-Quality
-Lifespan
-
-Layflat Album
-$800 – $2,500 CAD
-Professional grade, thick pages
-100+ years with archival paper
-
-Flush Mount Album
-$600 – $1,800 CAD
-Photos printed edge-to-edge on rigid pages
-75+ years
-
-Photo Book (online service)
-$50 – $200 CAD
-Consumer grade, thin pages
-10-20 years before fading
-
-Magazine-Style Album
-$200 – $500 CAD
-Flexible pages, glossy or matte
-20-30 years
-
-Parent Album (small)
-$300 – $800 CAD
-Same quality as main, smaller size
-100+ years
+| Album Type | Price Range | Quality | Lifespan |
+|---|---|---|---|
+| Layflat Album | **$800 – $2,500 CAD** | Professional grade, thick pages | 100+ years with archival paper |
+| Flush Mount Album | **$600 – $1,800 CAD** | Photos printed edge-to-edge on rigid pages | 75+ years |
+| Photo Book (online service) | **$50 – $200 CAD** | Consumer grade, thin pages | 10-20 years before fading |
+| Magazine-Style Album | **$200 – $500 CAD** | Flexible pages, glossy or matte | 20-30 years |
+| Parent Album (small) | **$300 – $800 CAD** | Same quality as main, smaller size | 100+ years |
 
 My recommendation is always a layflat album with archival paper. The pages lie completely flat when opened, which means photos can span across two pages without being lost in a crease. The archival paper resists fading and yellowing for a century or more. It is a genuine heirloom that will be passed down through generations.
 
@@ -140,25 +122,11 @@ If you go digital only, follow the 3-2-1 rule: three copies of your photos, on t
 
 Let me break down the real costs so you can make an informed decision.
 
-Option
-Initial Cost
-Ongoing Cost
-Total Over 10 Years
-
-Digital Only
-$0 (included in package)
-$120/yr cloud storage + replacement drives
-$1,200+
-
-Digital + Professional Album
-$800 – $2,500
-$0
-$800 – $2,500
-
-Digital + DIY Photo Book
-$50 – $200
-Replacement in 10-15 years
-$100 – $400
+| Option | Initial Cost | Ongoing Cost | Total Over 10 Years |
+|---|---|---|---|
+| Digital Only | **$0** (included in package) | $120/yr cloud storage + replacement drives | **$1,200+** |
+| Digital + Professional Album | **$800 – $2,500** | $0 | **$800 – $2,500** |
+| Digital + DIY Photo Book | **$50 – $200** | Replacement in 10-15 years | **$100 – $400** |
 
 The interesting thing about this comparison is that a professional album, which feels like a big upfront expense, often ends up costing less over time than maintaining digital storage. And the album requires zero ongoing effort — no renewals, no backups, no migrations. It just sits on your shelf, ready to be enjoyed.
 

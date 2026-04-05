@@ -32,8 +32,10 @@ The Anand Karaj -- "Blissful Union" in Punjabi -- is one of the most beautiful a
 
 As a photographer who has covered dozens of Sikh weddings in Edmonton and across Alberta, I approach every Anand Karaj with both artistic intention and deep respect. Understanding what is happening — and why it is happening — is not optional. It is the difference between capturing a moment and capturing its meaning. A photographer who does not understand the Laavan cannot anticipate when the couple will rise, when they will bow, when the congregation will stand. And those split-second transitions are where the most powerful images live.
 
-Average Indian Wedding in Canada$100,000+Plan Events Canada, 2025
-Couples Ranking Photography #1 Priority34%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
+| Couples Ranking Photography #1 Priority | **34%** | The Knot, 2025 |
 
 The Anand Karaj centres on the four Laavan — four hymns composed by Guru Ram Das Ji, the fourth Sikh Guru. Each Laav represents a stage in the couple's spiritual journey together. During each Laav, the Granthi (priest) reads the hymn aloud, and then the couple walks clockwise around the Guru Granth Sahib while the congregation sings the same hymn. The groom leads, holding one end of his palla (scarf), with the bride holding the other end — symbolizing their union and the bride's willing commitment to walk this path together.
 

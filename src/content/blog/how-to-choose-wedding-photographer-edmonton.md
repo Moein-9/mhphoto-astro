@@ -32,8 +32,10 @@ Choosing a wedding photographer in Edmonton is one of the most important decisio
 
 That is a lot of pressure on a single vendor decision, and it is exactly why choosing the right wedding photographer deserves more thought than most couples give it. Here in Edmonton, there are hundreds of photographers advertising wedding services, and the range in quality, style, experience, and professionalism is enormous. Prices range from $800 to $10,000+. Styles range from moody and dark to bright and airy. Some have photographed 500 weddings, others are doing their third.
 
-Couples Who Hire a Professional Photographer87%The Knot, 2025
-Rank Photography as #1 Budget Priority34%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Hire a Professional Photographer | **87%** | The Knot, 2025 |
+| Rank Photography as #1 Budget Priority | **34%** | The Knot, 2025 |
 
 Those numbers tell the story: the vast majority of couples hire a professional, and more than a third consider it their single most important budget item. Yet many couples spend more time choosing their caterer than their photographer. This guide is here to fix that.
 
@@ -101,7 +103,9 @@ When you sit down with a potential photographer (in person, over video call, or 
 - Have you worked at our venue before? (Familiarity with a venue's lighting and layout is hugely valuable.)
 - What does a typical wedding day timeline look like for you? (Their answer reveals how they approach the day.)
 
-Wedding Packages That Include Engagement Sessions85%Industry Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Wedding Packages That Include Engagement Sessions | **85%** | Industry Report, 2025 |
 
 Pro Tip
 
@@ -123,32 +127,16 @@ Not every photographer who has a website and a camera is a professional. Here ar
 
 Wedding photography pricing can feel opaque. Here is what different price points typically include in the Edmonton market:
 
-Tier
-Price Range
-What You Typically Get
-Best For
+| Tier | Price Range | What You Typically Get | Best For |
+|---|---|---|---|
+| Budget | **$800 – $1,800** | 4-6 hours, 1 photographer, digital files only, limited editing | Elopements, micro-weddings, very tight budgets |
+| Mid-Range | **$2,000 – $4,000** | 8-10 hours, 1-2 photographers, engagement session, full editing, online gallery | Standard weddings, 100-200 guests |
+| Premium | **$4,000 – $7,000** | Full-day coverage, 2 photographers, engagement session, album, prints, same-day edits | Larger weddings, couples who prioritize photography |
+| Luxury / Multi-Day | **$7,000 – $15,000+** | Multi-day coverage, 2-3 shooters, video, albums, wall art, second-day ceremony coverage | Indian/South Asian weddings, destination, multi-day celebrations |
 
-Budget
-$800 – $1,800
-4-6 hours, 1 photographer, digital files only, limited editing
-Elopements, micro-weddings, very tight budgets
-
-Mid-Range
-$2,000 – $4,000
-8-10 hours, 1-2 photographers, engagement session, full editing, online gallery
-Standard weddings, 100-200 guests
-
-Premium
-$4,000 – $7,000
-Full-day coverage, 2 photographers, engagement session, album, prints, same-day edits
-Larger weddings, couples who prioritize photography
-
-Luxury / Multi-Day
-$7,000 – $15,000+
-Multi-day coverage, 2-3 shooters, video, albums, wall art, second-day ceremony coverage
-Indian/South Asian weddings, destination, multi-day celebrations
-
-Average Photographer Cost in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photographer Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 That $2,900 national average includes everything from small-town elopements to big-city celebrations. In a market like Edmonton, expect to pay $2,500 to $5,000 for a qualified professional with a strong portfolio and full coverage. The gap between a $1,500 photographer and a $4,000 photographer is not just price — it is experience, equipment, editing quality, insurance, and the ability to handle whatever your wedding day throws at them.
 

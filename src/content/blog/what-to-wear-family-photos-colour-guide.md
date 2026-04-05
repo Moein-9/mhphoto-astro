@@ -30,8 +30,10 @@ Here is the good news — it is not as complicated as you think. You do not need
 
 According to a 2024 survey by the Professional Photographers of Canada, 67% of clients say outfit planning is their biggest source of stress before a photo session. That number is even higher for larger families. However, the solution is surprisingly straightforward. Once you understand how colours work together — and what to avoid — the whole process becomes enjoyable instead of stressful.
 
-Clients Stressed About Outfit Choice67%Professional Photographers of Canada, 2024
-Most Popular Family Session SeasonFallEdmonton Photography Trends, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Clients Stressed About Outfit Choice | **67%** | Professional Photographers of Canada, 2024 |
+| Most Popular Family Session Season | **Fall** | Edmonton Photography Trends, 2025 |
 
 ## The Golden Rule of Family Photo Outfits
 

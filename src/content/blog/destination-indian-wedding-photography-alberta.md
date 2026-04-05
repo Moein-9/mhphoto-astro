@@ -27,8 +27,10 @@ There is something almost surreal about an [Indian wedding](https://mhphoto.ca/p
 
 In recent years, Alberta has become one of the most sought-after destinations for Indian weddings in North America. And it is not hard to see why. The Rocky Mountains offer a combination of natural grandeur, world-class venues, and accessibility that few other destinations can match. Moreover, the wedding industry in Banff, Jasper, and Canmore has matured significantly. Venues, caterers, and vendors now have extensive experience with multi-day Indian celebrations.
 
-Growth in Destination Weddings in Alberta34%Travel Alberta Tourism Report, 2024
-Indian Weddings Booked in Banff/Canmore Area Annually200+Banff and Lake Louise Tourism, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Growth in Destination Weddings in Alberta | **34%** | Travel Alberta Tourism Report, 2024 |
+| Indian Weddings Booked in Banff/Canmore Area Annually | **200+** | Banff and Lake Louise Tourism, 2025 |
 
 As an [Edmonton-based wedding photographer](https://mhphoto.ca/) who frequently shoots in the mountains, I have seen this trend firsthand. More and more families from Toronto, Vancouver, Calgary, and even internationally are choosing Alberta for their celebrations. The combination of dramatic landscapes, luxurious venues, and the sheer magic of saying your vows with mountains behind you creates an experience — and photographs — that are simply unmatched.
 

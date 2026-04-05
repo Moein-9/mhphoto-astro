@@ -29,8 +29,10 @@ I have photographed well over a hundred weddings in Edmonton and the surrounding
 
 Here is the thing most couples do not realize until it is too late: your wedding day moves fast. Impossibly fast. Those eight or ten hours you have booked feel like two. And every minute you lose to a late shuttle bus, an extended cocktail hour speech, or a getting-ready location that is 45 minutes from the ceremony venue is a minute you do not get back for portraits, candids, or simply breathing.
 
-Couples Who Hire a Professional Photographer87%The Knot Real Weddings Study, 2025
-Rank Photography as #1 Budget Priority34%The Knot Real Weddings Study, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Hire a Professional Photographer | **87%** | The Knot Real Weddings Study, 2025 |
+| Rank Photography as #1 Budget Priority | **34%** | The Knot Real Weddings Study, 2025 |
 
 With [34 percent of couples](https://www.theknot.com/) ranking photography as their number one budget priority, it makes sense to build your entire day around giving your photographer the best possible conditions to work with. That is exactly what this guide will help you do. Whether you are planning a classic Western ceremony at the [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/) or a multi-day Indian celebration, I will walk you through every phase of the day with specific time recommendations.
 
@@ -101,36 +103,20 @@ Couple portrait time is where the magic happens. This is the part of the day whe
 
 The golden hour — that warm, soft light that happens in the hour before sunset — is the single best time for outdoor couple portraits. The light is flattering, the colours are warm, and everything looks like it was painted by someone who loves you. I will always, always try to schedule couple portrait time around golden hour if your timeline allows it.
 
-Average Wedding Photography Investment in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Wedding Photography Investment in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 ### Edmonton Golden Hour by Season
 
 Edmonton's extreme latitude means our golden hour shifts dramatically through the year. This is critical for planning your portrait timeline:
 
-Season
-Golden Hour Begins
-Sunset
-Notes
-
-Winter (Dec-Feb)
-3:30 PM
-4:30 PM
-Very short window, cold temps — plan indoor backup
-
-Spring (Mar-May)
-7:00 PM
-8:30 PM
-Rapidly lengthening days, unpredictable weather
-
-Summer (Jun-Aug)
-8:30 PM
-9:45 PM
-Longest golden hour, ideal for evening portraits
-
-Fall (Sep-Nov)
-6:00 PM
-7:15 PM
-Beautiful foliage, warm tones, moderate temps
+| Season | Golden Hour Begins | Sunset | Notes |
+|---|---|---|---|
+| Winter (Dec-Feb) | 3:30 PM | 4:30 PM | Very short window, cold temps — plan indoor backup |
+| Spring (Mar-May) | 7:00 PM | 8:30 PM | Rapidly lengthening days, unpredictable weather |
+| Summer (Jun-Aug) | 8:30 PM | 9:45 PM | Longest golden hour, ideal for evening portraits |
+| Fall (Sep-Nov) | 6:00 PM | 7:15 PM | Beautiful foliage, warm tones, moderate temps |
 
 For summer weddings in Edmonton, this is actually wonderful news — you can have your ceremony at 4 PM, do family formals and cocktail hour, enjoy dinner, and still sneak away for golden hour portraits at 8:30 PM. It is one of the unique advantages of getting married this far north.
 
@@ -157,65 +143,27 @@ I always recommend that couples planning a [wedding in Edmonton](https://mhphoto
 
 One of the things I love about my work is the diversity of celebrations I get to photograph. A Western wedding and an Indian wedding have completely different rhythms, and the timeline needs to reflect that. Here is a side-by-side comparison that I share with all my couples during our planning consultations:
 
-Time Block
-Western Wedding
-Indian Wedding (Single Day)
-
-8:00 – 10:00 AM
-—
-Baraat procession, groom arrival, milni ceremony
-
-10:00 AM – 12:00 PM
-Hair & makeup begins
-Main ceremony (Hindu mandap or Sikh Anand Karaj)
-
-12:00 – 1:00 PM
-Getting ready photos
-Lunch and family formals
-
-1:00 – 2:00 PM
-First look (optional)
-Couple portraits (if between events)
-
-2:00 – 3:00 PM
-Couple & wedding party portraits
-Break / outfit change for reception
-
-3:00 – 3:30 PM
-Family formals
-—
-
-3:30 – 4:00 PM
-Guest arrival
-—
-
-4:00 – 4:45 PM
-Ceremony
-—
-
-5:00 – 6:00 PM
-Cocktail hour
-Reception venue setup
-
-6:00 – 6:30 PM
-Grand entrance, first dance
-Grand entrance with couple
-
-6:30 – 8:00 PM
-Dinner & speeches
-Dinner, speeches, performances
-
-8:00 – 8:30 PM
-Parent dances, cake cutting
-Cake cutting, vidaai (bride's farewell)
-
-8:30 – 10:30 PM
-Dance floor & party
-DJ/bhangra dancing, doli departure
+| Time Block | Western Wedding | Indian Wedding (Single Day) |
+|---|---|---|
+| 8:00 – 10:00 AM | — | Baraat procession, groom arrival, milni ceremony |
+| 10:00 AM – 12:00 PM | Hair & makeup begins | Main ceremony (Hindu mandap or Sikh Anand Karaj) |
+| 12:00 – 1:00 PM | Getting ready photos | Lunch and family formals |
+| 1:00 – 2:00 PM | First look (optional) | Couple portraits (if between events) |
+| 2:00 – 3:00 PM | Couple & wedding party portraits | Break / outfit change for reception |
+| 3:00 – 3:30 PM | Family formals | — |
+| 3:30 – 4:00 PM | Guest arrival | — |
+| 4:00 – 4:45 PM | Ceremony | — |
+| 5:00 – 6:00 PM | Cocktail hour | Reception venue setup |
+| 6:00 – 6:30 PM | Grand entrance, first dance | Grand entrance with couple |
+| 6:30 – 8:00 PM | Dinner & speeches | Dinner, speeches, performances |
+| 8:00 – 8:30 PM | Parent dances, cake cutting | Cake cutting, vidaai (bride's farewell) |
+| 8:30 – 10:30 PM | Dance floor & party | DJ/bhangra dancing, doli departure |
 
 For multi-day Indian celebrations with a mehndi, sangeet, and main wedding day, I offer dedicated [multi-day packages](https://mhphoto.ca/multidaypacakge/) that cover each event fully. The timeline above shows a condensed single-day version, but many families choose to spread these events over two to four days.
 
-Average Indian Wedding in Canada$100,000+Plan Events Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
 
 Key Takeaways
 

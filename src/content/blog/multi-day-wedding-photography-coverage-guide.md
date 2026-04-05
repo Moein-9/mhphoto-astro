@@ -28,8 +28,10 @@ Multi-day weddings are a completely different animal. A typical Punjabi wedding 
 
 I specialize in [multi-day wedding photography](https://mhphoto.ca/multidaypacakge/) here in Edmonton because I believe these celebrations deserve complete documentation. Not highlights. Not just the big day. Every event, every ritual, every emotion — captured with the same care and attention.
 
-Average Indian Wedding in Canada$100K+WeddingWire Canada, 2025
-Average Wedding Photographer Cost (Canada)$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100K+** | WeddingWire Canada, 2025 |
+| Average Wedding Photographer Cost (Canada) | **$2,900** | WeddingWire Canada, 2025 |
 
 Consider this: the average Canadian wedding costs about $39,000, and the average photography investment is around $2,900. But the average Indian wedding in Canada exceeds $100,000. The scale is fundamentally different. And yet, many photographers try to apply single-day thinking to multi-day celebrations. That approach simply does not work. You need a photographer who understands the rhythm, the stamina requirements, and the cultural significance of every single event.
 
@@ -81,35 +83,13 @@ Make a list of every event in your celebration and estimate the duration of each
 
 Here is a sample coverage plan for a typical four-day South Asian wedding. This is what I propose to most families, though we always customize based on specific needs.
 
-Event
-Duration
-Photographers
-Key Deliverables
-
-Mehndi
-3–5 hours
-1 photographer
-Detail shots, candids, dance coverage
-
-Sangeet
-4–6 hours
-1–2 photographers
-Performances, reactions, party atmosphere
-
-Haldi / Maiyan
-2–3 hours
-1 photographer
-Ritual documentation, family moments
-
-Ceremony Day
-10–14 hours
-2 photographers
-Getting ready, baraat, ceremony, portraits, vidaai
-
-Reception
-5–8 hours
-1–2 photographers
-Grand entrance, speeches, dancing, details
+| Event | Duration | Photographers | Key Deliverables |
+|---|---|---|---|
+| Mehndi | 3–5 hours | 1 photographer | Detail shots, candids, dance coverage |
+| Sangeet | 4–6 hours | 1–2 photographers | Performances, reactions, party atmosphere |
+| Haldi / Maiyan | 2–3 hours | 1 photographer | Ritual documentation, family moments |
+| Ceremony Day | 10–14 hours | 2 photographers | Getting ready, baraat, ceremony, portraits, vidaai |
+| Reception | 5–8 hours | 1–2 photographers | Grand entrance, speeches, dancing, details |
 
 As you can see, the total coverage across a four-day wedding can easily exceed 30 hours. Compare that to a standard 8-hour wedding package, and you understand why multi-day weddings require specialized packages and pricing.
 
@@ -157,7 +137,9 @@ In addition, multi-day packages are typically more cost-effective than booking i
 
 I encourage couples to view photography as an investment rather than a cost. The average Indian wedding in Canada exceeds $100,000. Photography and videography typically represent 5 to 12 percent of that total. Considering that the photos and videos are the only things you keep forever — after the flowers wilt, the food is eaten, and the decor is taken down — that investment makes a lot of sense.
 
-Photography % of South Asian Wedding Budget5–12%WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Photography % of South Asian Wedding Budget | **5–12%** | WeddingWire Canada, 2025 |
 
 ## Gallery Delivery and What to Expect
 

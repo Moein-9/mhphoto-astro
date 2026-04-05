@@ -130,7 +130,9 @@ Mosques often combine fluorescent lights, incandescent bulbs, natural light from
 
 As I mentioned, flash is typically not used during the actual ceremony. This means your available light skills need to be strong. I use fast prime lenses — 35mm f/1.4, 50mm f/1.2, and 85mm f/1.4 — that can gather enough light to shoot handheld in very dim conditions. The shallow depth of field from these wide apertures also creates a beautiful separation between the subject and the background.
 
-Photographer Equipment Spend (Average Annual)$4,200PPA Benchmark Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Photographer Equipment Spend (Average Annual) | **$4,200** | PPA Benchmark Survey, 2025 |
 
 ## Editing Style for Nikah Photos
 

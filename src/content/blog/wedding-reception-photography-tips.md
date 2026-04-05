@@ -30,8 +30,10 @@ According to [The Knot](https://www.theknot.com), 34% of couples rank photograph
 
 At an Indian wedding reception, the energy is on another level entirely. Punjabi receptions, in particular, are legendary for their dance floors. The bhangra circles, the Bollywood moves, the moment when someone's turban comes loose mid-spin — these are the images that become family legends. Moreover, with guest counts often reaching 300 to 500 people, the scale of an Indian reception creates incredible wide-angle opportunities.
 
-Couples Who Rank Photography #1 Priority34%The Knot Global Report, 2025
-Average Wedding Photography Cost$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Rank Photography #1 Priority | **34%** | The Knot Global Report, 2025 |
+| Average Wedding Photography Cost | **$2,900** | WeddingWire Canada, 2025 |
 
 ## Capturing Speeches and Toasts
 

@@ -33,8 +33,10 @@ During the first two weeks of life, babies are at their sleepiest and most flexi
 
 That said, here is the important part: you should book your session before the baby arrives. In fact, most experienced newborn photographers ask you to get in touch during your second or third trimester. This is not because we are eager to lock you in. It is because our calendars fill up, and we need to hold a flexible window around your due date.
 
-Best Window for Newborn Photos5–14 DaysProfessional Photographers of America
-Families Who Hire Professional Photographers87%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Best Window for Newborn Photos | **5–14 Days** | Professional Photographers of America |
+| Families Who Hire Professional Photographers | **87%** | The Knot, 2025 |
 
 When you book with me, here is how it works. You tell me your due date. I block off a two-week window starting from that date. Once the baby arrives, you let me know within a day or two, and we schedule the exact session date. This gives us maximum flexibility while ensuring you get that perfect early-days window.
 

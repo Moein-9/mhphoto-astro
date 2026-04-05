@@ -34,8 +34,10 @@ Maternity photography captures something that you cannot get back once it is gon
 
 As a [family photographer in Edmonton](https://mhphoto.ca/photography/family/), I have photographed hundreds of maternity sessions. And the one thing I hear from every single parent, without exception, is this: "I am so glad we did this." Not one person has ever regretted documenting their pregnancy. But many regret not doing it.
 
-Parents Who Wish They Had Maternity Photos72%BabyCenter Canada Survey, 2025
-Ideal Booking Window28–34 weeksProfessional Photographers of Canada
+| Stat | Figure | Source |
+|---|---|---|
+| Parents Who Wish They Had Maternity Photos | **72%** | BabyCenter Canada Survey, 2025 |
+| Ideal Booking Window | **28–34 weeks** | Professional Photographers of Canada |
 
 ## When to Book Your Maternity Session
 
@@ -71,29 +73,13 @@ What you wear to your maternity session has a significant impact on how the phot
 
 ### Colour Recommendations
 
-Colour
-Best For
-Season
-
-Cream / White
-Soft, dreamy, timeless look
-Spring, Summer
-
-Dusty Rose / Mauve
-Romantic, feminine, flattering on most skin tones
-All seasons
-
-Deep Green / Emerald
-Rich, grounded, stunning against autumn foliage
-Fall, Summer
-
-Navy / Deep Blue
-Classic, elegant, works for couples and family
-All seasons
-
-Terracotta / Rust
-Warm, earthy, trendy and photograph-friendly
-Fall
+| Colour | Best For | Season |
+|---|---|---|
+| Cream / White | Soft, dreamy, timeless look | Spring, Summer |
+| Dusty Rose / Mauve | Romantic, feminine, flattering on most skin tones | All seasons |
+| Deep Green / Emerald | Rich, grounded, stunning against autumn foliage | Fall, Summer |
+| Navy / Deep Blue | Classic, elegant, works for couples and family | All seasons |
+| Terracotta / Rust | Warm, earthy, trendy and photograph-friendly | Fall |
 
 Black
 Dramatic, slimming, editorial feel
@@ -139,7 +125,9 @@ If you have other children, including them in the maternity session creates some
 
 With young children, I keep things playful and relaxed. We let them explore, run, pick flowers. The posed shots are quick and intentional. The candid moments — the ones where the child is genuinely interacting with the belly — are the ones that steal the show every time.
 
-Maternity Sessions That Include Partners or Siblings85%MH Photography, Edmonton
+| Stat | Figure | Source |
+|---|---|---|
+| Maternity Sessions That Include Partners or Siblings | **85%** | MH Photography, Edmonton |
 
 ## Posing and Comfort During Your Session
 

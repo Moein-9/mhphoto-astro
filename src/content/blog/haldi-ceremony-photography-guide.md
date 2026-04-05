@@ -29,8 +29,10 @@ The haldi, sometimes called the pithi ceremony, is one of the most sacred pre-we
 
 But here is what makes the haldi so special from a photography standpoint. It is raw. It is unscripted. And it is one of the most emotionally honest moments in the entire wedding celebration.
 
-Average Length of Haldi Ceremony45–90 minSouth Asian Wedding Planners Association, 2025
-Couples Who Include Haldi in Multi-Day Celebrations89%WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Length of Haldi Ceremony | **45–90 min** | South Asian Wedding Planners Association, 2025 |
+| Couples Who Include Haldi in Multi-Day Celebrations | **89%** | WeddingWire Canada, 2025 |
 
 ## Why the Haldi Matters for Photography
 

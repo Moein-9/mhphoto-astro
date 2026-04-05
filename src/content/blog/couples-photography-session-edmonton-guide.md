@@ -29,8 +29,10 @@ Here is the thing. Your relationship does not stop being photo-worthy after the 
 
 Moreover, couples photography has changed dramatically in the last few years. The stiff, posed, "look at the camera and smile" approach is fading. What has replaced it is something much more authentic — sessions that feel like a date, where the photographer captures genuine interactions rather than manufactured moments. That is the approach I take with every couples session, and the results speak for themselves.
 
-Couples Who Include Engagement Photos85%The Knot, 2025
-Couples Who Hire a Professional Photographer87%WeddingWire, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Include Engagement Photos | **85%** | The Knot, 2025 |
+| Couples Who Hire a Professional Photographer | **87%** | WeddingWire, 2025 |
 
 ## Types of Couples Sessions
 
@@ -99,30 +101,12 @@ Iron or steam your outfits the night before. Wrinkles are visible in photos and 
 
 ## When to Book Your Session
 
-Season
-Best Months
-Golden Hour
-Booking Lead Time
-
-Spring
-May – June
-8:00 – 9:30 PM
-6-8 weeks
-
-Summer
-July – August
-8:30 – 10:00 PM
-8-10 weeks
-
-Fall
-September – October
-6:30 – 8:00 PM
-10-12 weeks (high demand)
-
-Winter
-November – February
-3:30 – 5:00 PM
-4-6 weeks
+| Season | Best Months | Golden Hour | Booking Lead Time |
+|---|---|---|---|
+| Spring | May – June | 8:00 – 9:30 PM | 6-8 weeks |
+| Summer | July – August | 8:30 – 10:00 PM | 8-10 weeks |
+| Fall | September – October | 6:30 – 8:00 PM | 10-12 weeks (high demand) |
+| Winter | November – February | 3:30 – 5:00 PM | 4-6 weeks |
 
 Fall is by far the most popular season for couples sessions in Edmonton. Those golden tones and warm light are irresistible. As a result, I recommend booking at least 10 to 12 weeks in advance for fall dates. Summer and spring are more flexible, but weekend evenings still fill up fast.
 

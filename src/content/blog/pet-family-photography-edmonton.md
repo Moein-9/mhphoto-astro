@@ -26,8 +26,10 @@ Let me start with a simple truth: your pet is family. Whether it is the dog who 
 
 I say this as both a photographer and a pet owner. Some of my most treasured personal photos include our family dog. Looking back at those images now, years later, I am so grateful we included her. Because the reality is, our pets are with us for a season. Dogs live 10 to 15 years on average. Cats a bit longer. Those years go by quickly, and having professional photos that show your pet as part of the family creates heirlooms that matter deeply.
 
-Canadian Households With Pets58%Canadian Animal Health Institute, 2024
-Pet Owners Who Consider Pets Family Members95%Leger Survey for Purina Canada, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Canadian Households With Pets | **58%** | Canadian Animal Health Institute, 2024 |
+| Pet Owners Who Consider Pets Family Members | **95%** | Leger Survey for Purina Canada, 2024 |
 
 That 95% number speaks volumes. Almost every pet owner considers their pet a family member. And if they are a family member, they belong in the family portrait. Moreover, pets add a genuinely unique energy to photos. The way a dog leans into their owner. The way kids light up when the dog is involved. The candid chaos of a puppy who will not sit still. These moments create images that are full of personality, warmth, and authentic family life.
 

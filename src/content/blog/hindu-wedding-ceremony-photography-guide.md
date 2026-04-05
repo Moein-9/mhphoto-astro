@@ -26,8 +26,10 @@ A Hindu wedding ceremony is one of the most visually rich, spiritually profound,
 
 I have been photographing Hindu weddings in Edmonton for years, and I can tell you that cultural knowledge is not a "nice to have" — it is absolutely essential. Knowing that the jaimala is coming, knowing where the couple will stand during the pheras, understanding the emotional weight of the kanyadaan — this knowledge is what separates beautiful, comprehensive documentation from a random collection of nice-looking photos with half the important moments missing.
 
-Couples Who Rank Photography as #1 Priority34%The Knot, 2025
-Average Indian Wedding in Canada$100,000+Plan Events Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Rank Photography as #1 Priority | **34%** | The Knot, 2025 |
+| Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
 
 When you are investing $100,000 or more in your celebration, every moment deserves to be documented by someone who understands what they are looking at. That understanding transforms photographs from mere documentation into storytelling.
 
@@ -83,7 +85,9 @@ The sindoor application is one of the most photographed moments in a Hindu weddi
 
 In some Hindu traditions, the couple takes seven steps together, each step representing a specific blessing for their married life — nourishment, strength, prosperity, happiness, progeny, long life, and friendship. With each step, a specific vow is made. This ritual is solemn and beautiful, and the symmetry of the seven steps creates a wonderful visual sequence in the final gallery.
 
-Average Hindu Wedding Guest Count350–400Plan Events Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Hindu Wedding Guest Count | **350–400** | Plan Events Canada, 2025 |
 
 ## Post-Ceremony Moments
 
@@ -109,45 +113,15 @@ Talk to your pandit before the ceremony about the expected duration and flow. Sh
 
 Every Hindu wedding ceremony is slightly different depending on regional traditions and the pandit's approach, but here is a typical timeline that I use as a planning guide:
 
-Time
-Ritual
-Duration
-Key Photo Moments
-
-Pre-Ceremony
-Ganesh Puja
-15-20 min
-Puja setup, family prayers, pandit details
-
-Arrival
-Baraat Procession
-20-30 min
-Dancing, dhol, groom on horse, family energy
-
-Welcome
-Milni / Welcome
-15-20 min
-Garland exchanges, family introductions
-
-Ceremony
-Jaimala
-5-10 min
-Garland exchange, lifting, reactions
-
-Ceremony
-Kanyadaan
-5-10 min
-Father giving bride, emotional faces
-
-Ceremony
-Mangal Pheras
-20-30 min
-Fire circles, mantras, couple's expressions
-
-Ceremony
-Sindoor & Mangalsutra
-5-10 min
-Close-ups, family reactions, detail shots
+| Time | Ritual | Duration | Key Photo Moments |
+|---|---|---|---|
+| Pre-Ceremony | Ganesh Puja | 15-20 min | Puja setup, family prayers, pandit details |
+| Arrival | Baraat Procession | 20-30 min | Dancing, dhol, groom on horse, family energy |
+| Welcome | Milni / Welcome | 15-20 min | Garland exchanges, family introductions |
+| Ceremony | Jaimala | 5-10 min | Garland exchange, lifting, reactions |
+| Ceremony | Kanyadaan | 5-10 min | Father giving bride, emotional faces |
+| Ceremony | Mangal Pheras | 20-30 min | Fire circles, mantras, couple's expressions |
+| Ceremony | Sindoor & Mangalsutra | 5-10 min | Close-ups, family reactions, detail shots |
 
 Ceremony
 Saptapadi

@@ -29,8 +29,10 @@ Indian weddings are unlike any other celebration on the planet. They are longer.
 
 So when someone asks me "how many photos should I expect," my answer always starts the same way: it depends on how many days your celebration spans. However, I can give you very specific ranges based on years of experience photographing Indian weddings right here in Edmonton.
 
-Avg Photos Delivered for Single-Day Indian Wedding800–1,200MH Photography, Edmonton
-Avg Photos Delivered for Multi-Day Celebration2,000–4,000+MH Photography, Edmonton
+| Stat | Figure | Source |
+|---|---|---|
+| Avg Photos Delivered for Single-Day Indian Wedding | **800–1,200** | MH Photography, Edmonton |
+| Avg Photos Delivered for Multi-Day Celebration | **2,000–4,000+** | MH Photography, Edmonton |
 
 ## Photo Expectations for a Single-Day Indian Wedding
 
@@ -64,44 +66,15 @@ If you are having a single-day wedding, talk to your photographer about the time
 
 Multi-day Indian weddings are where the photo count really grows. And rightfully so. Each event is its own world, with its own mood, wardrobe, and significance. Here is a breakdown of what to expect from each event in a traditional multi-day celebration.
 
-Event
-Duration
-Photos Delivered
-Key Moments
-
-Mehndi
-2–4 hours
-150–300
-Henna application, dances, family candids
-
-Sangeet
-3–5 hours
-250–500
-Performances, choreography, crowd reactions
-
-Haldi
-1–2 hours
-150–250
-Turmeric application, family blessings, chaos
-
-Baraat
-30–60 min
-100–200
-Groom's procession, horse/car, dancing family
-
-Ceremony
-2–4 hours
-300–500
-Rituals, vows, emotional moments
-
-Reception
-4–6 hours
-300–500
-Entrance, dances, toasts, party
-
-Portraits
-30–90 min
-50–150
+| Event | Duration | Photos Delivered | Key Moments |
+|---|---|---|---|
+| Mehndi | 2–4 hours | **150–300** | Henna application, dances, family candids |
+| Sangeet | 3–5 hours | **250–500** | Performances, choreography, crowd reactions |
+| Haldi | 1–2 hours | **150–250** | Turmeric application, family blessings, chaos |
+| Baraat | 30–60 min | **100–200** | Groom's procession, horse/car, dancing family |
+| Ceremony | 2–4 hours | **300–500** | Rituals, vows, emotional moments |
+| Reception | 4–6 hours | **300–500** | Entrance, dances, toasts, party |
+| Portraits | 30–90 min | **50–150** |
 Couple, family formals, bridal party
 
 When you add all of that together, a full multi-day Indian wedding celebration can easily produce 2,000 to 4,000 edited, delivered images. I have delivered galleries with over 5,000 photos for particularly elaborate celebrations that spanned four or five days.

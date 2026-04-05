@@ -28,8 +28,10 @@ Today, an elopement can be anything from a couple saying their vows on a mountai
 
 As an [Edmonton wedding photographer](https://mhphoto.ca/), I have seen the elopement trend grow significantly over the past few years. And it is not just a trend — it represents a genuine shift in how couples think about their wedding day. They want it to be about them. About their love. About what matters most.
 
-Growth in Elopements Since 202047%WeddingWire Newlywed Report, 2024
-Average Elopement Cost vs Traditional Wedding1/10thThe Knot Average Wedding Cost Study, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Growth in Elopements Since 2020 | **47%** | WeddingWire Newlywed Report, 2024 |
+| Average Elopement Cost vs Traditional Wedding | **1/10th** | The Knot Average Wedding Cost Study, 2024 |
 
 That cost difference is staggering. The average Canadian wedding costs around $30,000 to $40,000. An elopement, even a beautifully planned one with professional photography, typically costs $3,000 to $8,000. For couples who would rather put that money toward a home, travel, or their future, eloping is an incredibly sensible decision.
 

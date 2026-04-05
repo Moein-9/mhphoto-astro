@@ -29,8 +29,10 @@ Most families think of fall for their annual photos. The golden leaves, the warm
 
 There is also a practical advantage. Spring sessions are less in demand than fall, which means more flexibility with scheduling. You are more likely to get your preferred date and time. And the locations are less crowded — no competing with fifteen other families trying to photograph at the same tree.
 
-Edmonton Blossom SeasonMay 15–Jun 10City of Edmonton Parks, 2025
-Families Who Book Spring Sessions28%Canadian Portrait Photographers, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Edmonton Blossom Season | **May 15–Jun 10** | City of Edmonton Parks, 2025 |
+| Families Who Book Spring Sessions | **28%** | Canadian Portrait Photographers, 2025 |
 
 ## The Best Time to Book Spring Sessions
 

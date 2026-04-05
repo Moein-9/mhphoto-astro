@@ -32,8 +32,10 @@ If you are wondering about wedding photographer Edmonton cost, you are not alone
 
 I am going to break it all down for you — honestly and transparently. No sales pitches, no vague "contact us for pricing" nonsense. Just real data on what wedding photography costs in Edmonton in 2026, what you get at each price point, and how to make the most of whatever budget you are working with.
 
-Average Photographer Cost in Canada$2,900WeddingWire Canada, 2025
-Average Total Wedding Cost in Canada$39,000WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photographer Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
+| Average Total Wedding Cost in Canada | **$39,000** | WeddingWire Canada, 2025 |
 
 That $2,900 national average is a useful starting point, but it includes everything from small-town elopements shot by part-time photographers to luxury destination weddings with multiple shooters. In a mid-size market like Edmonton, the realistic range for a qualified professional photographer is $2,000 to $6,000 for standard single-day weddings. Multi-day celebrations — like Indian and Punjabi weddings — can run $5,000 to $15,000 depending on the scope.
 
@@ -41,47 +43,13 @@ That $2,900 national average is a useful starting point, but it includes everyth
 
 Here is what each price tier typically looks like in the Edmonton market. I have put this together based on industry data, conversations with colleagues, and years of operating in this market.
 
-Tier
-Price Range
-Coverage
-Photographers
-Deliverables
-Best For
-
-Entry
-$500 – $1,500
-3-5 hours
-1
-Digital files, minimal editing
-Courthouse, micro-wedding
-
-Budget
-$1,500 – $2,500
-6-8 hours
-1
-Digital files, basic editing, online gallery
-Smaller weddings under 100 guests
-
-Mid-Range
-$2,500 – $4,000
-8-10 hours
-1-2
-Full editing, engagement session, online gallery, print credits
-Standard weddings, 100-250 guests
-
-Premium
-$4,000 – $7,000
-10-12 hours
-2
-Full editing, engagement session, album, wall art, same-day edits
-Larger weddings, multi-venue days
-
-Luxury
-$7,000 – $12,000+
-Multi-day
-2-3
-Complete multi-day coverage, video, albums, prints, boudoir/bridal
-Indian/South Asian, destination, multi-day celebrations
+| Tier | Price Range | Coverage | Photographers | Deliverables | Best For |
+|---|---|---|---|---|---|
+| Entry | **$500 – $1,500** | 3-5 hours | 1 | Digital files, minimal editing | Courthouse, micro-wedding |
+| Budget | **$1,500 – $2,500** | 6-8 hours | 1 | Digital files, basic editing, online gallery | Smaller weddings under 100 guests |
+| Mid-Range | **$2,500 – $4,000** | 8-10 hours | 1-2 | Full editing, engagement session, online gallery, print credits | Standard weddings, 100-250 guests |
+| Premium | **$4,000 – $7,000** | 10-12 hours | 2 | Full editing, engagement session, album, wall art, same-day edits | Larger weddings, multi-venue days |
+| Luxury | **$7,000 – $12,000+** | Multi-day | 2-3 | Complete multi-day coverage, video, albums, prints, boudoir/bridal | Indian/South Asian, destination, multi-day celebrations |
 
 A few important notes on these tiers. First, price alone does not determine quality. I have seen mid-range photographers whose work rivals premium-tier competitors, and I have seen expensive photographers who deliver mediocre results. Second, the cheapest option is almost never the best value. There is a floor to what a professional can charge while maintaining proper equipment, insurance, editing standards, and backup systems.
 
@@ -113,7 +81,9 @@ Professional photographers carry business liability insurance (typically $500 to
 
 Your photographer's work does not start when they arrive at the venue and end when they leave. Before the wedding: consultations, venue visits, timeline planning, gear preparation. After the wedding: uploading, backing up, culling, editing, gallery preparation, album design, and delivery. A single wedding typically represents 40 to 60 hours of total work.
 
-Global Wedding Photography Market Value$26.9 BillionFortune Business Insights, 2026
+| Stat | Figure | Source |
+|---|---|---|
+| Global Wedding Photography Market Value | **$26.9 Billion** | Fortune Business Insights, 2026 |
 
 That $26.9 billion global market exists because couples around the world consistently value professional wedding photography. It is not a luxury — it is the single investment that appreciates over time, becoming more valuable with every passing year.
 
@@ -139,8 +109,10 @@ If you are planning an [Indian, Punjabi, or South Asian wedding](https://mhphoto
 
 A typical Punjabi wedding in Edmonton might include a Mehndi on Thursday evening, a Sangeet on Friday night, the Anand Karaj and reception on Saturday, and possibly additional ceremonies like the Maiyan and Jaggo. That is 3 to 5 separate events, each lasting 3 to 8 hours, each requiring professional coverage.
 
-Average Indian Wedding in Canada$100,000+Plan Events Canada, 2025
-Photography % of Indian Wedding Budget5–12%Industry Estimate, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100,000+** | Plan Events Canada, 2025 |
+| Photography % of Indian Wedding Budget | **5–12%** | Industry Estimate, 2025 |
 
 At $100,000+ for the total celebration, investing $5,000 to $12,000 in photography and videography represents 5 to 12 percent of the overall budget. That is actually in line with — or even below — the industry recommendation of 10 to 15 percent for photography.
 

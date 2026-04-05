@@ -30,8 +30,10 @@ The best wedding photographers in Edmonton book up 10 to 14 months in advance fo
 
 For off-season weddings — October through May — you have a bit more flexibility. But even then, starting your search eight to ten months out gives you the best selection and the least stress.
 
-How Far in Advance Top Edmonton Photographers Book10–14 moWedding Planners Association of Alberta, 2025
-Peak Season Saturdays Already Booked by January70%Edmonton Wedding Industry Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| How Far in Advance Top Edmonton Photographers Book | **10–14 mo** | Wedding Planners Association of Alberta, 2025 |
+| Peak Season Saturdays Already Booked by January | **70%** | Edmonton Wedding Industry Report, 2025 |
 
 ## Step 1: Research and Build a Shortlist
 
@@ -161,7 +163,9 @@ Every professional wedding photographer uses a contract. This protects both you 
 The retainer — typically 25 to 50 percent of the total — reserves your date. Once the retainer is paid and the contract is signed, your date is held exclusively for you. No one else can book it. This is why moving quickly matters during peak season — every day you wait is another chance someone else books your date.
 
 ![Wedding photography contract signing and booking process](https://mhphoto.ca/wp-content/uploads/2022/01/5.jpg)*A signed contract protects your date, your investment, and your peace of mind*
-Typical Retainer to Hold a Wedding Date25–50%PPA Industry Standards, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Typical Retainer to Hold a Wedding Date | **25–50%** | PPA Industry Standards, 2025 |
 
 ## What Happens After You Book
 

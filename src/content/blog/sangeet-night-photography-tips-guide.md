@@ -29,8 +29,10 @@ The sangeet (which translates to "sung together") is one of the most important p
 
 For photographers, the sangeet is simultaneously one of the most exciting and most challenging events to cover. The lighting is typically dramatic and dim. The movement is fast and unpredictable. The emotional range is enormous — from hilarious comedy skits to tearful speeches to explosive bhangra performances. However, when captured well, sangeet photos and videos become some of the most treasured memories of the entire wedding celebration.
 
-Families Spending 3+ Weeks Rehearsing76%South Asian Wedding Survey, 2024
-Average Number of Performances8–12Edmonton Wedding Planners, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Families Spending 3+ Weeks Rehearsing | **76%** | South Asian Wedding Survey, 2024 |
+| Average Number of Performances | **8–12** | Edmonton Wedding Planners, 2025 |
 
 ## Capturing the Energy
 

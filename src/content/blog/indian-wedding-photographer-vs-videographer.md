@@ -30,8 +30,10 @@ Photography freezes a single moment in time. The look on your mother's face duri
 
 Videography captures motion, sound, and time. The tremor in your father's voice during his toast. The crescendo of the dhol during the baraat. The sound of your family singing traditional songs during the mehndi. These are experiences that only video can preserve. No photograph can capture the sound of your grandmother's blessing or the rhythm of a sangeet performance.
 
-Indian Wedding Couples Who Book Both Photo and Video82%South Asian Bride Magazine, 2025
-Couples Who Regret Not Having Video67%WeddingWire Post-Wedding Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Indian Wedding Couples Who Book Both Photo and Video | **82%** | South Asian Bride Magazine, 2025 |
+| Couples Who Regret Not Having Video | **67%** | WeddingWire Post-Wedding Survey, 2025 |
 
 ## Why Indian Weddings Benefit from Both
 
@@ -61,34 +63,18 @@ Indian weddings are a feast for every sense. Photography preserves what you see.
 
 Budget is real. I understand that. Indian weddings are already expensive, and adding another vendor can feel overwhelming. So let me break down the actual costs and show you where the savings are.
 
-Option
-Typical Cost (Edmonton)
-What You Get
-Best For
-
-Photography Only
-$4,000–$8,000
-Full photo coverage, edited gallery, albums
-Tight budgets, intimate weddings
-
-Videography Only
-$3,500–$7,000
-Highlight film, full ceremony edit, raw footage
-Performance-heavy weddings
-
-Separate Photo + Video
-$7,500–$15,000
-Full coverage from two vendors
-Flexibility, specialized talent
-
-Combined Team
-$6,000–$12,000
-Coordinated photo + video from one team
-Best value, seamless workflow
+| Option | Typical Cost (Edmonton) | What You Get | Best For |
+|---|---|---|---|
+| Photography Only | **$4,000–$8,000** | Full photo coverage, edited gallery, albums | Tight budgets, intimate weddings |
+| Videography Only | **$3,500–$7,000** | Highlight film, full ceremony edit, raw footage | Performance-heavy weddings |
+| Separate Photo + Video | **$7,500–$15,000** | Full coverage from two vendors | Flexibility, specialized talent |
+| Combined Team | **$6,000–$12,000** | Coordinated photo + video from one team | Best value, seamless workflow |
 
 As you can see, booking a combined photo and video team typically saves 15 to 25 percent compared to hiring separate vendors. But the savings go beyond money. A combined team coordinates their positioning, shares lighting setups, and moves through events in sync. There is no stepping on each other's toes, no competing for angles, and no miscommunication about the timeline.
 
-Average Savings with Combined Photo-Video Team15–25%Canadian Association of Professional Image Creators, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Savings with Combined Photo-Video Team | **15–25%** | Canadian Association of Professional Image Creators, 2025 |
 
 ## The Advantage of Combined Photo and Video Teams
 

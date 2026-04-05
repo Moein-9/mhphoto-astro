@@ -28,8 +28,10 @@ As a photographer who has covered dozens of [Indian weddings in Edmonton](https:
 
 And that is perfectly understandable. If you have never attended an Indian wedding before, or if you have only been to a few, you might not know which moments are sacred and which are the perfect time to snap away. Moreover, even within Indian weddings, traditions vary enormously between Sikh, Hindu, Muslim, and South Indian ceremonies. Each has its own sacred moments and its own expectations.
 
-Couples Who Hire a Professional Photographer96%WeddingWire India Survey, 2025
-Couples Who Wish Guests Used Phones Less68%The Knot Real Weddings Study, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Hire a Professional Photographer | **96%** | WeddingWire India Survey, 2025 |
+| Couples Who Wish Guests Used Phones Less | **68%** | The Knot Real Weddings Study, 2024 |
 
 That 68% statistic is telling. The majority of couples wish their guests would be more present and less focused on getting their own shots. This does not mean you should never take photos. It means there is a right time and a right way to do it. As a result, understanding the etiquette helps you be a better guest and ensures the couple gets the professional images they are paying for.
 

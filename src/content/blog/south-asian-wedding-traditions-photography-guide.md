@@ -28,8 +28,10 @@ South Asian weddings are not one-size-fits-all. A Hindu wedding is different fro
 
 As a [South Asian wedding photographer in Edmonton](https://mhphoto.ca/photography/indian-weddings/), I have had the privilege of photographing ceremonies across all major traditions. Each one has taught me something new. However, there are core elements and key moments in each tradition that every photographer — and every couple — should understand.
 
-Average Canadian Wedding Cost$39,000WeddingWire Canada, 2025
-Average South Asian Wedding in Canada$100K+Plan Events Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Canadian Wedding Cost | **$39,000** | WeddingWire Canada, 2025 |
+| Average South Asian Wedding in Canada | **$100K+** | Plan Events Canada, 2025 |
 
 The investment families make in South Asian weddings is extraordinary. With budgets that often exceed $100,000 — compared to the Canadian average of $39,000 — these celebrations deserve a photographer who can do them justice. Moreover, 87% of couples hire a professional photographer, and for South Asian families, photography and videography often represent one of the largest single vendor investments.
 

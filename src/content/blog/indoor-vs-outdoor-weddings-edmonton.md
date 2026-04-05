@@ -29,8 +29,10 @@ Most couples assume outdoor weddings automatically produce better photos. After 
 
 The truth is more nuanced than "outdoors is better." Both settings have genuine advantages and real challenges. In this guide, I am going to be completely transparent about what each option means for your photos, your stress level, and your overall experience. No sugar-coating.
 
-Edmonton Couples Choosing Outdoor Ceremonies43%Edmonton Wedding Planners Association, 2025
-Outdoor Weddings Needing Rain Plan B68%Alberta Weather Data, Summer Averages
+| Stat | Figure | Source |
+|---|---|---|
+| Edmonton Couples Choosing Outdoor Ceremonies | **43%** | Edmonton Wedding Planners Association, 2025 |
+| Outdoor Weddings Needing Rain Plan B | **68%** | Alberta Weather Data, Summer Averages |
 
 ## Lighting: The Biggest Difference
 

@@ -30,8 +30,10 @@ I want to be clear about something upfront. Creative photography should enhance 
 
 According to [WeddingWire Canada's](https://www.weddingwire.ca/) 2025 trends report, 78% of couples now request at least some creative or artistic photos in addition to traditional coverage. Moreover, creative images are the ones that get framed, printed on canvas, and shared most on social media. They become the signature images of your wedding story.
 
-Couples Requesting Creative Photography78%WeddingWire Canada, 2025
-Creative Shots Chosen for Canvas Prints3x MoreProfessional Photographers of Canada, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Requesting Creative Photography | **78%** | WeddingWire Canada, 2025 |
+| Creative Shots Chosen for Canvas Prints | **3x More** | Professional Photographers of Canada, 2024 |
 
 ## Double Exposure Photography
 

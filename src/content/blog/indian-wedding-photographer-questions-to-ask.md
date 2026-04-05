@@ -29,8 +29,10 @@ I have heard too many stories from couples who hired a photographer based on a b
 
 The questions below are the ones I wish every couple would ask before booking anyone — including me. In fact, I welcome these questions. A confident photographer will answer them openly. A photographer who gets defensive or vague should raise red flags. Moreover, these questions will help you compare photographers on substance, not just style.
 
-Couples Who Hire a Professional Photographer87%WeddingWire, 2025
-Average Indian Wedding in Canada$100,000+WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Hire a Professional Photographer | **87%** | WeddingWire, 2025 |
+| Average Indian Wedding in Canada | **$100,000+** | WeddingWire Canada, 2025 |
 
 ## Questions About Experience and Cultural Knowledge
 

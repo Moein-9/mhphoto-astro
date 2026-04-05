@@ -29,8 +29,10 @@ I have seen beautiful weddings squeezed into venues that were too small. The res
 
 Choosing the right venue is not just a logistical decision. It is a creative one. And the earlier you involve your photographer in that conversation, the better your photos will be.
 
-Average Guest Count for Edmonton Indian Weddings450+South Asian Wedding Planners, 2025
-Couples Who Regret Their Venue Choice23%WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Guest Count for Edmonton Indian Weddings | **450+** | South Asian Wedding Planners, 2025 |
+| Couples Who Regret Their Venue Choice | **23%** | WeddingWire Canada, 2025 |
 
 ## What to Look for in a Large-Event Venue
 
@@ -62,40 +64,14 @@ When touring a venue, look up. The ceiling height, the lighting fixtures, and th
 
 Based on years of experience photographing at venues across Edmonton, here are my top recommendations for large Indian weddings. I have shot at each of these multiple times and can speak to their strengths from a photography perspective.
 
-Venue
-Capacity
-Best For
-Photography Notes
-
-Edmonton Convention Centre
-Up to 2,000
-Very large weddings, multi-room events
-River valley views, multiple halls, high ceilings, excellent natural light in upper halls
-
-Fantasyland Hotel Ballroom
-Up to 800
-Grand celebrations, hotel convenience
-Large ballroom, good height, attached hotel for getting-ready, on-site catering flexibility
-
-Maharaja Banquet Hall
-Up to 600
-Culturally familiar, Indian wedding specialists
-Designed for South Asian events, good stage setup, experienced with mandap accommodations
-
-Enjoy Centre (St. Albert)
-Up to 1,000
-Modern aesthetic, outdoor access
-Glass walls with stunning natural light, atrium for portraits, contemporary architecture
-
-Doubletree by Hilton
-Up to 500
-Mid-size celebrations, all-in-one
-Consistent lighting, good ceiling height, attached accommodation, reliable service
-
-Northlands Expo Centre
-Up to 1,500+
-Extremely large events, custom setups
-Blank canvas for custom decor, flexible layout, requires more lighting investment
+| Venue | Capacity | Best For | Photography Notes |
+|---|---|---|---|
+| Edmonton Convention Centre | Up to 2,000 | Very large weddings, multi-room events | River valley views, multiple halls, high ceilings, excellent natural light in upper halls |
+| Fantasyland Hotel Ballroom | Up to 800 | Grand celebrations, hotel convenience | Large ballroom, good height, attached hotel for getting-ready, on-site catering flexibility |
+| Maharaja Banquet Hall | Up to 600 | Culturally familiar, Indian wedding specialists | Designed for South Asian events, good stage setup, experienced with mandap accommodations |
+| Enjoy Centre (St. Albert) | Up to 1,000 | Modern aesthetic, outdoor access | Glass walls with stunning natural light, atrium for portraits, contemporary architecture |
+| Doubletree by Hilton | Up to 500 | Mid-size celebrations, all-in-one | Consistent lighting, good ceiling height, attached accommodation, reliable service |
+| Northlands Expo Centre | Up to 1,500+ | Extremely large events, custom setups | Blank canvas for custom decor, flexible layout, requires more lighting investment |
 
 ### Edmonton Convention Centre
 

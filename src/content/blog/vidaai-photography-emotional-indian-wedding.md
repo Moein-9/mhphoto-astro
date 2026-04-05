@@ -28,7 +28,9 @@ To understand why this moment is so significant, you need to understand what it 
 
 In my years of photographing Indian weddings across Edmonton, the vidaai consistently produces the most powerful, emotionally raw photographs of the entire celebration. And that is saying something, because Indian weddings are filled with emotional moments from start to finish.
 
-Couples Who Rank Vidaai Photos Among Their Most Treasured89%Indian Wedding Planning Forum Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Rank Vidaai Photos Among Their Most Treasured | **89%** | Indian Wedding Planning Forum Survey, 2025 |
 
 ## Why It Is the Most Emotional Moment
 

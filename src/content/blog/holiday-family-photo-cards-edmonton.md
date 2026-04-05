@@ -30,44 +30,24 @@ Here is the thing that catches people off guard: it is not just the photography 
 
 Moreover, fall in Edmonton is gorgeous for photos. The foliage turns gold and red, the light is soft and warm, and the temperatures are still manageable for outdoor sessions. Booking a fall session serves double duty — you get beautiful seasonal photos AND your holiday card images in one session.
 
-Families Sending Photo Holiday Cards65%Shutterfly Consumer Report, 2025
-Average Canadian Photography Session Cost$250–$500Photography Market Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Families Sending Photo Holiday Cards | **65%** | Shutterfly Consumer Report, 2025 |
+| Average Canadian Photography Session Cost | **$250–$500** | Photography Market Survey, 2025 |
 
 ## The Holiday Photo Card Timeline
 
 I have put together a practical timeline based on years of experience helping Edmonton families navigate the holiday card process. Of course, these dates can flex slightly, but this framework keeps everything stress-free.
 
-When
-What to Do
-Why It Matters
-
-August
-Book your session
-Best fall dates fill first; get on the calendar early
-
-September
-Plan outfits, choose location
-Gives you time to shop and coordinate without rushing
-
-Early October
-Photo session
-Peak fall colours, warm enough for outdoor sessions
-
-Late October
-Receive edited gallery
-2-3 week turnaround from session date
-
-Early November
-Select card image, order prints
-Print companies have faster turnaround if ordered early
-
-Late November
-Cards arrive, start addressing
-Avoid the December postal rush
-
-Early December
-Mail cards
-Cards arrive well before the holidays
+| When | What to Do | Why It Matters |
+|---|---|---|
+| August | Book your session | Best fall dates fill first; get on the calendar early |
+| September | Plan outfits, choose location | Gives you time to shop and coordinate without rushing |
+| Early October | Photo session | Peak fall colours, warm enough for outdoor sessions |
+| Late October | Receive edited gallery | 2-3 week turnaround from session date |
+| Early November | Select card image, order prints | Print companies have faster turnaround if ordered early |
+| Late November | Cards arrive, start addressing | Avoid the December postal rush |
+| Early December | Mail cards | Cards arrive well before the holidays |
 
 Pro Tip
 

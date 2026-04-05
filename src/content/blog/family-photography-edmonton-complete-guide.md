@@ -35,8 +35,10 @@ Family photography is not about perfection. It is about documenting who you are,
 
 I have been photographing families across Edmonton — in parks, in homes, in studios, in fields, in the snow — and every single session reminds me why this work matters. Not because the photos are technically perfect (though I work hard to make them beautiful), but because they stop time. And time, once it passes, does not come back.
 
-Couples Who Hire a Professional Photographer87%The Knot, 2025
-Global Photography Market Value$26.9 BillionFortune Business Insights, 2026
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Hire a Professional Photographer | **87%** | The Knot, 2025 |
+| Global Photography Market Value | **$26.9 Billion** | Fortune Business Insights, 2026 |
 
 That 87% statistic is about wedding photography specifically, but the underlying truth applies to family photography too: when moments matter, professionals matter. The best family photos are not the ones taken on your phone during a family dinner (though keep taking those too). They are the ones where everyone is present, the lighting is intentional, and someone who knows how to work with kids, grandparents, and squirmy toddlers is behind the camera.
 
@@ -44,35 +46,12 @@ That 87% statistic is about wedding photography specifically, but the underlying
 
 Edmonton gives us four dramatically different seasons, and each one creates a completely different mood for family photography. There is no single "best" time — it depends on the look you want, the ages of your kids, and your family's comfort level with weather.
 
-Season
-Best Months
-Light Quality
-Mood
-Best For
-
-Spring
-Late April – May
-Soft, variable
-Fresh, renewal
-Cherry blossoms, new babies, maternity
-
-Summer
-June – August
-Golden, long days
-Warm, playful
-Outdoor sessions, extended family, active kids
-
-Autumn
-September – mid October
-Warm, golden hour magic
-Rich, nostalgic
-Fall colours, holiday cards, family portraits
-
-Winter
-November – March
-Cool, soft, snowy
-Cozy, magical
-Holiday cards, snowy scenes, indoor sessions
+| Season | Best Months | Light Quality | Mood | Best For |
+|---|---|---|---|---|
+| Spring | Late April – May | Soft, variable | Fresh, renewal | Cherry blossoms, new babies, maternity |
+| Summer | June – August | Golden, long days | Warm, playful | Outdoor sessions, extended family, active kids |
+| Autumn | September – mid October | Warm, golden hour magic | Rich, nostalgic | Fall colours, holiday cards, family portraits |
+| Winter | November – March | Cool, soft, snowy | Cozy, magical | Holiday cards, snowy scenes, indoor sessions |
 
 ### Spring (Late April to May)
 
@@ -168,7 +147,9 @@ Teenagers are often the hardest sell for family photos. They are self-conscious,
 
 **Generational Portraits** — Four generations together — great-grandparents, grandparents, parents, and children — is increasingly rare and incredibly precious. I have photographed several generational sessions, and every single family has told me afterward that those images became their most treasured possessions. If you have the chance to get all your generations together, do it. Do not wait.
 
-Average Photographer Cost in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photographer Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 That average is for wedding photography — family sessions are typically much more affordable, ranging from $200 to $800 in Edmonton depending on the session length and deliverables.
 
@@ -176,35 +157,13 @@ That average is for wedding photography — family sessions are typically much m
 
 Family photography pricing in Edmonton varies widely, but here is what you can generally expect:
 
-Session Type
-Duration
-Price Range
-What's Included
-
-Mini Session
-20-30 min
-$150 – $300
-10-15 edited digital images, 1 location
-
-Standard Session
-60 min
-$300 – $600
-30-50 edited digital images, 1-2 locations
-
-Extended Session
-90-120 min
-$500 – $900
-50-80 edited images, multiple locations or large group
-
-Lifestyle / In-Home
-60-90 min
-$400 – $700
-40-60 edited images, candid and posed
-
-Holiday Mini
-15-20 min
-$100 – $250
-5-10 edited images, holiday card-ready
+| Session Type | Duration | Price Range | What's Included |
+|---|---|---|---|
+| Mini Session | 20-30 min | **$150 – $300** | 10-15 edited digital images, 1 location |
+| Standard Session | 60 min | **$300 – $600** | 30-50 edited digital images, 1-2 locations |
+| Extended Session | 90-120 min | **$500 – $900** | 50-80 edited images, multiple locations or large group |
+| Lifestyle / In-Home | 60-90 min | **$400 – $700** | 40-60 edited images, candid and posed |
+| Holiday Mini | 15-20 min | **$100 – $250** | 5-10 edited images, holiday card-ready |
 
 These ranges reflect qualified professionals with proper equipment, insurance, and editing. As with any professional service, you are paying for expertise, equipment, and the time spent editing and delivering your images — not just the minutes in front of the camera. View my [pricing page](https://mhphoto.ca/pricing/) for specific package details.
 

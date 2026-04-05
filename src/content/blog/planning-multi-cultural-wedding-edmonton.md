@@ -30,8 +30,10 @@ According to Statistics Canada, roughly 1 in 5 marriages in major Canadian citie
 
 For a photographer, these celebrations are deeply rewarding. They are also complex. You cannot approach a multi-cultural wedding the same way you would a single-tradition event. The ceremonies move differently, the emotional beats happen at different moments, and the expectations from both families can be quite distinct. Moreover, the details — from the bride's outfit changes to the symbolic rituals — require someone who has done the homework.
 
-Canadian Couples Who Rank Photography #134%The Knot Global Report, 2025
-Average Canadian Wedding Budget$39,000WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Canadian Couples Who Rank Photography #1 | **34%** | The Knot Global Report, 2025 |
+| Average Canadian Wedding Budget | **$39,000** | WeddingWire Canada, 2025 |
 
 ## Blending Traditions Without Losing Identity
 
@@ -47,29 +49,13 @@ Before the wedding day, sit down with both families — separately if needed —
 
 ### Common Multi-Cultural Combinations in Edmonton
 
-Combination
-Key Ceremonies
-Typical Duration
-
-Hindu + Christian
-Mandap ceremony + Church blessing or full mass
-2 days
-
-Sikh + Western
-Anand Karaj + Western-style reception with vows
-1-2 days
-
-Muslim + Hindu
-Nikah + Hindu ceremony elements
-2-3 days
-
-South Asian + East Asian
-Indian ceremony + Chinese tea ceremony
-2 days
-
-Filipino + Indian
-Catholic mass + Indian reception traditions
-1-2 days
+| Combination | Key Ceremonies | Typical Duration |
+|---|---|---|
+| Hindu + Christian | Mandap ceremony + Church blessing or full mass | 2 days |
+| Sikh + Western | Anand Karaj + Western-style reception with vows | 1-2 days |
+| Muslim + Hindu | Nikah + Hindu ceremony elements | 2-3 days |
+| South Asian + East Asian | Indian ceremony + Chinese tea ceremony | 2 days |
+| Filipino + Indian | Catholic mass + Indian reception traditions | 1-2 days |
 
 ## The Photography Approach: Two Ceremonies, One Story
 
@@ -99,41 +85,16 @@ If there is one thing that can make or break a multi-cultural wedding, it is the
 
 Here is a realistic timeline framework for a two-ceremony day:
 
-Time
-Event
-Photography Notes
-
-8:00 AM
-Getting ready (Ceremony 1 attire)
-Detail shots, bridal prep, family candids
-
-10:00 AM
-Ceremony 1 (e.g., Anand Karaj or Hindu ceremony)
-Full ceremony coverage, 60-90 min
-
-11:30 AM
-Family portraits (both sides)
-Structured family groupings, 30 min
-
-12:00 PM
-Lunch break + outfit change
-Detail shots of new outfit, 45 min buffer
-
-1:30 PM
-Couple portraits
-Both outfits if possible, 30-45 min
-
-3:00 PM
-Ceremony 2 (e.g., Western/church)
-Full ceremony coverage, 45-60 min
-
-4:30 PM
-Cocktail hour
-Guest candids, venue details
-
-5:30 PM
-Reception
-Speeches, dances, party coverage
+| Time | Event | Photography Notes |
+|---|---|---|
+| 8:00 AM | Getting ready (Ceremony 1 attire) | Detail shots, bridal prep, family candids |
+| 10:00 AM | Ceremony 1 (e.g., Anand Karaj or Hindu ceremony) | Full ceremony coverage, 60-90 min |
+| 11:30 AM | Family portraits (both sides) | Structured family groupings, 30 min |
+| 12:00 PM | Lunch break + outfit change | Detail shots of new outfit, 45 min buffer |
+| 1:30 PM | Couple portraits | Both outfits if possible, 30-45 min |
+| 3:00 PM | Ceremony 2 (e.g., Western/church) | Full ceremony coverage, 45-60 min |
+| 4:30 PM | Cocktail hour | Guest candids, venue details |
+| 5:30 PM | Reception | Speeches, dances, party coverage |
 
 Of course, every wedding is different. Some couples spread their celebrations across two days, which gives everyone more breathing room. I offer dedicated [multi-day packages](https://mhphoto.ca/multidaypacakge/) specifically for celebrations that span more than one day.
 
@@ -160,7 +121,9 @@ When touring venues, bring your photographer. We notice things couples miss — 
 - **Build in buffer time.** Transitions between ceremonies, outfit changes, and venue moves always take longer than expected.
 - **Create a unified design language.** Choose colours, florals, and decor elements that bridge both aesthetics.
 
-Average Indian Wedding in Canada$100,000+WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding in Canada | **$100,000+** | WeddingWire Canada, 2025 |
 
 Key Takeaways
 

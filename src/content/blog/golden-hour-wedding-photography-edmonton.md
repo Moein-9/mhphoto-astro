@@ -29,8 +29,10 @@ As a [wedding photographer in Edmonton](https://mhphoto.ca/photography/weddings/
 
 However, there is a catch. Golden hour does not wait. It happens when it happens, regardless of your reception schedule, your speech timeline, or your DJ's playlist. And in Edmonton, where the length of daylight changes dramatically between seasons, golden hour timing varies wildly throughout the year. In fact, understanding and planning for these timing shifts is one of the most important things you can do for your wedding photography.
 
-Couples Who Prioritize Photography34%The Knot, 2025
-Wedding Photography Market$26.9BFortune Business Insights, 2026
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Prioritize Photography | **34%** | The Knot, 2025 |
+| Wedding Photography Market | **$26.9B** | Fortune Business Insights, 2026 |
 
 ![Couple portrait during golden hour in Edmonton with warm sunset light](https://mhphoto.ca/wp-content/uploads/2023/01/Picture-41-scaled.jpg)*Golden hour light transforms ordinary locations into something extraordinary — this is why timing matters so much*
 
@@ -40,30 +42,12 @@ Edmonton sits at 53.5 degrees north latitude. That is further north than London,
 
 Here is a practical breakdown of golden hour timing by season, based on my years of shooting in Edmonton.
 
-Season
-Golden Hour Start
-Sunset
-Notes for Wedding Planning
-
-Winter (Dec-Feb)
-3:30 – 4:00 PM
-4:15 – 5:00 PM
-Very short window. Plan portraits before ceremony or between events.
-
-Spring (Mar-May)
-7:00 – 8:30 PM
-8:00 – 9:30 PM
-Timing improves each week. May is gorgeous for sunset portraits.
-
-Summer (Jun-Aug)
-8:45 – 9:30 PM
-9:30 – 10:00 PM
-Late golden hour. Perfect for stepping out during the reception.
-
-Fall (Sep-Nov)
-6:00 – 7:30 PM
-7:00 – 8:00 PM
-Beautiful light combined with fall colours. Peak season for portraits.
+| Season | Golden Hour Start | Sunset | Notes for Wedding Planning |
+|---|---|---|---|
+| Winter (Dec-Feb) | 3:30 – 4:00 PM | 4:15 – 5:00 PM | Very short window. Plan portraits before ceremony or between events. |
+| Spring (Mar-May) | 7:00 – 8:30 PM | 8:00 – 9:30 PM | Timing improves each week. May is gorgeous for sunset portraits. |
+| Summer (Jun-Aug) | 8:45 – 9:30 PM | 9:30 – 10:00 PM | Late golden hour. Perfect for stepping out during the reception. |
+| Fall (Sep-Nov) | 6:00 – 7:30 PM | 7:00 – 8:00 PM | Beautiful light combined with fall colours. Peak season for portraits. |
 
 Let me explain why these numbers matter for your wedding day.
 

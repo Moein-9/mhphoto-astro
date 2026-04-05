@@ -28,8 +28,10 @@ Think about it this way. You spent months choosing your wedding dress. Weeks fin
 
 Without detail shots, those carefully chosen elements exist only in memory. And memory fades. But a beautifully photographed flat lay of your invitation suite, your rings, your perfume, and your earrings? That image transports you right back to the morning of your wedding, every single time you look at it.
 
-Average Spend on Wedding Details and Stationery$3,200Weddingbells Canadian Survey, 2024
-Couples Who Regret Not Having Enough Detail Shots42%WeddingWire Post-Wedding Survey, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Average Spend on Wedding Details and Stationery | **$3,200** | Weddingbells Canadian Survey, 2024 |
+| Couples Who Regret Not Having Enough Detail Shots | **42%** | WeddingWire Post-Wedding Survey, 2024 |
 
 That second statistic really stands out to me. Nearly half of couples wish they had more detail shots. They received their gallery, loved their portraits, but noticed the small things were missing. The custom vow booklets. The grandmother's ring. The hand-painted place cards. Once the wedding is over, many of these details are gone — flowers wilt, invitations get stored away, the cake is eaten. Photography is the only way to preserve them.
 

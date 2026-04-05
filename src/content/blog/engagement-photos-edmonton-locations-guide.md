@@ -33,8 +33,10 @@ Here is what I mean. On your wedding day, you will be in front of my camera for 
 
 An engagement session solves this entirely. By the time your wedding day arrives, you already know how I work. You know my voice, my energy, my direction style. You know that when I say "walk toward me and pretend I am not here," it actually produces beautiful images. You are comfortable, and that comfort shows in every frame from the moment I start shooting on your wedding morning.
 
-Wedding Packages That Include Engagement Sessions85%Photography Industry Report, 2025
-Average Photographer Investment in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Wedding Packages That Include Engagement Sessions | **85%** | Photography Industry Report, 2025 |
+| Average Photographer Investment in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 That statistic is not a coincidence. The photography industry overwhelmingly includes engagement sessions in wedding packages because we know, from experience, that it makes the wedding day photos dramatically better. It is a rehearsal for your most photographed day. Think of it as a dress rehearsal — except you are wearing jeans and your favourite boots and sipping coffee by the river.
 
@@ -191,7 +193,9 @@ Most engagement sessions last 60 to 90 minutes. Here is what a typical session l
 
 You will receive your fully edited gallery within 2 to 3 weeks. Most galleries contain 60 to 100 images. Every photo is individually colour-corrected and edited. I do not batch-edit — each image gets personal attention.
 
-Average Canadian Wedding Investment$39,000WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Canadian Wedding Investment | **$39,000** | WeddingWire Canada, 2025 |
 
 ## How to Prepare (and Calm Your Nerves)
 

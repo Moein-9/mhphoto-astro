@@ -28,8 +28,10 @@ For photographers, the mehndi presents a beautiful paradox. The event feels casu
 
 According to [WeddingWire Canada](https://www.weddingwire.ca/), 89% of South Asian couples now hire professional photography for their mehndi ceremony, up from just 55% a decade ago. That shift makes perfect sense. Once couples see how beautiful their mehndi photos can be, they never want to rely on phone snapshots again.
 
-Couples Hiring Pro Photographers for Mehndi89%WeddingWire Canada, 2025
-Average Mehndi Application Time4–6 hrsIndian Bridal Industry Report, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Hiring Pro Photographers for Mehndi | **89%** | WeddingWire Canada, 2025 |
+| Average Mehndi Application Time | **4–6 hrs** | Indian Bridal Industry Report, 2024 |
 
 ## The Mehndi Timeline: What to Expect
 

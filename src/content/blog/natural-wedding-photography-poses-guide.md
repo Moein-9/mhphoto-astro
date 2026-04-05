@@ -30,8 +30,10 @@ The problem is not you. The problem is the approach. Traditional wedding photogr
 
 After photographing hundreds of [weddings in Edmonton](https://mhphoto.ca/photography/weddings/), I have developed an approach that gets genuine expressions every time. It is not magic. It is understanding how people actually feel comfortable. And I want to share everything I know with you.
 
-Couples Who Feel Awkward Posing72%The Knot Survey, 2024
-Couples Who Prefer Candid Over Posed61%WeddingWire Trends Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Feel Awkward Posing | **72%** | The Knot Survey, 2024 |
+| Couples Who Prefer Candid Over Posed | **61%** | WeddingWire Trends Report, 2025 |
 
 ## The Mindset Shift: Prompts Over Poses
 

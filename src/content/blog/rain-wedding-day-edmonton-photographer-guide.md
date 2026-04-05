@@ -30,8 +30,10 @@ I understand the panic. You have spent months, maybe over a year, planning your 
 
 But here is what 100+ weddings have taught me: the weather does not determine whether your wedding photos are beautiful. Your connection with each other, the skill of your photographer, and your willingness to embrace the moment — those are what matter. Rain adds drama, romance, and a cinematic quality that sunshine simply cannot replicate. And in Edmonton, where the weather is famously unpredictable, learning to love the rain is not optional. It is a survival skill.
 
-Edmonton Average Rainy Days (Jun-Sep)40 daysEnvironment Canada Climate Data
-Couples Who Hire Professional Photographers87%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Edmonton Average Rainy Days (Jun-Sep) | **40 days** | Environment Canada Climate Data |
+| Couples Who Hire Professional Photographers | **87%** | The Knot, 2025 |
 
 Forty rainy days during the four-month peak wedding season means roughly a one-in-three chance of encountering some rain on your wedding day. That is not a small number. But it also means that experienced Edmonton wedding photographers — like me — have extensive experience working in rain and know exactly how to handle it.
 
@@ -78,7 +80,9 @@ I call it the 15-Minute Rule: if it starts raining, wait 15 minutes. In the vast
 
 This means that on a "rainy" wedding day, we can often still get outdoor portraits during the dry windows. I keep the couple and wedding party ready and mobile, and when the rain breaks, we move fast. Some of my best outdoor portraits have been shot in those golden moments right after a rain shower — when the sky is dramatic, the ground is glistening, and there is sometimes even a rainbow.
 
-Average Wedding Photography Cost in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Wedding Photography Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 ## Indoor Backup Plans in Edmonton
 
@@ -208,7 +212,9 @@ Rain Day Prep Checklist
 - Let go of "perfect weather" expectations and embrace whatever the day brings
 - Trust your photographer — this is not my first rainy wedding, and it will not be my last
 
-Average Canadian Wedding Investment$39,000WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Canadian Wedding Investment | **$39,000** | WeddingWire Canada, 2025 |
 
 Worried About Weather on Your Wedding Day?
 Do not be. I have shot in sunshine, snowstorms, hail, wind, and everything in between. Rain or shine, I will capture your story beautifully. Let us talk about your wedding day — I will bring the backup plan (and the umbrella).

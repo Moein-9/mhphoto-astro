@@ -34,8 +34,10 @@ Choosing your wedding venue is the single biggest decision that will shape every
 
 The "best" venue is not the most expensive or the most Instagrammed. It is the one that fits your style, accommodates your guest count, works within your budget, and provides the atmosphere you want for your celebration. Whether that is a grand ballroom, a rustic barn, a modern loft, or a garden under the Alberta sky, Edmonton has options for every taste.
 
-Average Canadian Wedding Cost$39,000WeddingWire Canada, 2025
-Photography Budget Priority (#1)34%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Canadian Wedding Cost | **$39,000** | WeddingWire Canada, 2025 |
+| Photography Budget Priority (#1) | **34%** | The Knot, 2025 |
 
 With the average Canadian wedding costing $39,000, the venue typically accounts for 25 to 35 percent of the total budget. In Edmonton, venue costs range from $2,000 for a community hall to $25,000+ for a luxury hotel ballroom. Let us look at the best options across every category.
 
@@ -126,77 +128,26 @@ Not every couple needs — or wants — a $15,000 venue. Some of the most beauti
 - **Backyard weddings** — With tent and furniture rentals, a large backyard can become a beautiful wedding venue. I have photographed backyard weddings that were more visually stunning than some ballroom weddings, simply because the personal touches and creativity were off the charts.
 - **Provincial parks** — Alberta's provincial parks offer day-use areas and shelters that can be reserved for events. The scenery is free, and with portable seating and a good plan, you can host a gorgeous outdoor ceremony for very little.
 
-Average Photographer Cost in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photographer Cost in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 Regardless of your venue choice, investing in professional photography ensures that the beauty of the day is captured forever. A $2,000 venue with a $3,000 photographer will produce more lasting memories than a $15,000 venue with a $500 photographer.
 
 ## Venue Comparison Table
 
-Venue
-Capacity
-Style
-Price Range
-Best For
-
-Fairmont Hotel Macdonald
-Up to 350
-Luxury / Classic
-$$$$$
-Grand celebrations, stunning photo ops
-
-Willow Lane Barn
-Up to 200
-Rustic / Country
-$$$
-Countryside charm, golden hour magic
-
-Art Gallery of Alberta
-Up to 250
-Modern / Artistic
-$$$$
-Contemporary couples, unique backdrop
-
-Enjoy Centre (St. Albert)
-Up to 300
-Garden / Greenhouse
-$$$
-Natural light lovers, year-round greenery
-
-Oasis Centre
-Up to 800
-Grand / South Asian
-$$$$
-Large Indian/Punjabi weddings
-
-Devonian Botanic Garden
-Up to 200
-Outdoor / Garden
-$$
-Summer ceremonies, nature lovers
-
-The Westin Edmonton
-Up to 400
-Modern / Hotel
-$$$$
-Downtown convenience, clean elegance
-
-Elk Island National Park
-Intimate
-Wilderness / Rustic
-$
-Elopements, intimate ceremonies
-
-Victoria Golf Course
-Up to 200
-Classic / Outdoor
-$$$
-River valley views, elegant outdoor
-
-Convention Centre
-Up to 1000+
-Grand / Flexible
-$$$$
-Very large celebrations, blank canvas
+| Venue | Capacity | Style | Price Range | Best For |
+|---|---|---|---|---|
+| Fairmont Hotel Macdonald | Up to 350 | Luxury / Classic | $$$$$ | Grand celebrations, stunning photo ops |
+| Willow Lane Barn | Up to 200 | Rustic / Country | $$$ | Countryside charm, golden hour magic |
+| Art Gallery of Alberta | Up to 250 | Modern / Artistic | $$$$ | Contemporary couples, unique backdrop |
+| Enjoy Centre (St. Albert) | Up to 300 | Garden / Greenhouse | $$$ | Natural light lovers, year-round greenery |
+| Oasis Centre | Up to 800 | Grand / South Asian | $$$$ | Large Indian/Punjabi weddings |
+| Devonian Botanic Garden | Up to 200 | Outdoor / Garden | $$ | Summer ceremonies, nature lovers |
+| The Westin Edmonton | Up to 400 | Modern / Hotel | $$$$ | Downtown convenience, clean elegance |
+| Elk Island National Park | Intimate | Wilderness / Rustic | $ | Elopements, intimate ceremonies |
+| Victoria Golf Course | Up to 200 | Classic / Outdoor | $$$ | River valley views, elegant outdoor |
+| Convention Centre | Up to 1000+ | Grand / Flexible | $$$$ | Very large celebrations, blank canvas |
 
 ## Photography Tips for Every Venue Type
 

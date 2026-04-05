@@ -28,8 +28,10 @@ Let me explain what I mean. A typical Western wedding lasts about six to eight h
 
 In fact, according to [WeddingWire Canada](https://www.weddingwire.ca/), the average Indian wedding in Canada costs over $100,000 — more than double the national average of $39,000 for all weddings. That investment reflects the depth and significance these celebrations hold for families. And the photography needs to match that level of care and intention.
 
-Average Indian Wedding Cost in Canada$100K+WeddingWire Canada, 2025
-Couples Who Rank Photography #134%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Indian Wedding Cost in Canada | **$100K+** | WeddingWire Canada, 2025 |
+| Couples Who Rank Photography #1 | **34%** | The Knot, 2025 |
 
 Moreover, 34% of couples rank photography as their number one budget priority. For Indian families, that percentage is even higher in my experience. When you are investing this much love, time, and money into a celebration, you want every single moment preserved beautifully.
 

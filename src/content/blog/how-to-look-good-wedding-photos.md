@@ -29,8 +29,10 @@ Here is the truth that most people never hear. The reason you do not like photos
 
 As an [Edmonton wedding photographer](https://mhphoto.ca/photography/weddings/), a huge part of my job is making people who hate cameras feel comfortable in front of one. And I can tell you from years of experience — everyone looks amazing in photos when they feel relaxed, the light is right, and they are guided by someone who knows what they are doing.
 
-People Who Say They Hate Being Photographed65%Portrait Photography Survey, 2025
-Same People Who Love Their Photos After Professional Session94%WPPI Industry Report, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| People Who Say They Hate Being Photographed | **65%** | Portrait Photography Survey, 2025 |
+| Same People Who Love Their Photos After Professional Session | **94%** | WPPI Industry Report, 2025 |
 
 See that gap? Sixty-five percent think they hate being photographed. But ninety-four percent end up loving their professional photos. The difference is not the person — it is the photographer, the guidance, and the environment.
 
@@ -120,7 +122,9 @@ These are the things I tell every single couple on their wedding morning. They a
 - **Moisturize.** Dry, flaky skin reflects light harshly and shows up in close-up detail shots. Moisturize your hands especially — they are in a lot of ring shots.
 - **Trust your photographer.** If I ask you to turn slightly, move your chin, or walk toward me — there is a reason. I can see the light, the background, and the angles. Trust the guidance.
 
-Couples Who Say Pre-Wedding Jitters Affected Their Photos41%WPPI Couples Survey, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Say Pre-Wedding Jitters Affected Their Photos | **41%** | WPPI Couples Survey, 2025 |
 
 ## Use Your Engagement Session as Practice
 

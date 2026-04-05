@@ -31,8 +31,10 @@ This is not a hypothetical. I have had couples come to me after their wedding, a
 
 An [Indian wedding](https://mhphoto.ca/photography/indian-weddings/) is not just a wedding with different clothes. It is an entirely different event. It requires an entirely different skillset. And hiring a photographer who does not understand that difference is a gamble with the most important memories of your life.
 
-Events in a Typical Indian Wedding5–8South Asian Wedding Industry Report, 2025
-Hours of Coverage Needed30–50+Indian Wedding Planners Association
+| Stat | Figure | Source |
+|---|---|---|
+| Events in a Typical Indian Wedding | **5–8** | South Asian Wedding Industry Report, 2025 |
+| Hours of Coverage Needed | **30–50+** | Indian Wedding Planners Association |
 
 ## Cultural Knowledge Cannot Be Faked
 

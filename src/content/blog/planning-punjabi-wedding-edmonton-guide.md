@@ -178,8 +178,10 @@ Check [WeddingWire Canada](https://www.weddingwire.ca/) and [The Knot](https://w
 
 Here is something I tell every couple during our first consultation: your Punjabi wedding is not a one-size-fits-all photography job. Each event has its own energy, its own lighting challenges, and its own critical moments that cannot be missed.
 
-Couples Who Hire a Photographer87%The Knot, 2025
-Rank Photography as #1 Budget Priority34%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Hire a Photographer | **87%** | The Knot, 2025 |
+| Rank Photography as #1 Budget Priority | **34%** | The Knot, 2025 |
 
 For Punjabi weddings, I strongly recommend combined [photography and videography](https://mhphoto.ca/videography/) coverage. The reason is simple: moments like the Baraat procession, the Laavan during the Anand Karaj, and the bhangra at the reception are dynamic events that need both still photos and video to be fully captured. Having the same team handle both means seamless coordination and no stepping on each other's toes.
 

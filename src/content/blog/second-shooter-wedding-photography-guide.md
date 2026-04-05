@@ -26,7 +26,9 @@ A second shooter is a second professional photographer who works alongside your 
 
 While the lead photographer focuses on the primary action — the couple during the ceremony, the first dance, the formal portraits — the second shooter captures everything else happening simultaneously. The groom's reaction as the bride walks down the aisle. The parents wiping tears in the second row. The flower girl picking her nose during the vows (trust me, those photos are family favourites).
 
-Wedding Photographers Who Recommend a Second Shooter78%Professional Photographers of America, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Wedding Photographers Who Recommend a Second Shooter | **78%** | Professional Photographers of America, 2025 |
 
 However, here is the honest truth: not every wedding needs a second shooter. And not every photographer is transparent about that. Some photographers include a second shooter in every package because it is an easy upsell. Others never use one, even when they probably should. The real answer depends on your specific wedding. Let me walk you through when it matters and when it does not.
 
@@ -124,8 +126,10 @@ Receptions are where second shooters earn their keep. During the first dance, th
 
 On average, adding a second shooter increases the number of delivered images by 30 to 50 percent. For a typical 10-hour wedding, that means going from approximately 600 to 800 images with one photographer to 800 to 1,200 images with two. More images mean more moments captured, more guest interactions documented, and more variety in your final gallery.
 
-Average Photos With 1 Photographer600–800Industry average, 10-hour wedding
-Average Photos With 2 Photographers800–1,200Industry average, 10-hour wedding
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photos With 1 Photographer | **600–800** | Industry average, 10-hour wedding |
+| Average Photos With 2 Photographers | **800–1,200** | Industry average, 10-hour wedding |
 
 ## The Cost Factor
 

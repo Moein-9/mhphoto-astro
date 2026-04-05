@@ -26,7 +26,9 @@ Here is something I tell every single couple who books an [engagement photo sess
 
 An engagement session is often the first time a couple works with a professional photographer. It is completely normal to feel nervous. In fact, about 77% of couples say they feel anxious before their first professional photo session, according to a 2024 survey by The Knot. However, that nervousness melts away quickly when you know what to expect and you have done a little preparation ahead of time.
 
-Couples Who Feel Camera-Shy Before Their First Session77%The Knot Survey, 2024
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Feel Camera-Shy Before Their First Session | **77%** | The Knot Survey, 2024 |
 
 Moreover, your engagement photos serve a practical purpose beyond just being beautiful images. They appear on your save-the-dates, your wedding website, your social media announcements, and sometimes your wedding day signage. As a result, investing a little time in preparation pays off in a big way.
 
@@ -44,30 +46,12 @@ I recommend booking your engagement session 6 to 8 months before your wedding. T
 
 Golden hour is the magic window. That is the hour before sunset when the light is warm, soft, and impossibly flattering. Here in Edmonton, golden hour varies dramatically by season:
 
-Season
-Golden Hour Start
-Best Months
-Lighting Quality
-
-Summer
-8:00 – 8:30 PM
-June – August
-Long, warm, gentle light
-
-Fall
-5:30 – 6:30 PM
-September – October
-Rich golden tones, colourful foliage
-
-Winter
-3:30 – 4:00 PM
-November – February
-Low sun, dramatic shadows, snowy backdrops
-
-Spring
-7:00 – 7:30 PM
-March – May
-Fresh greens, cherry blossoms, soft light
+| Season | Golden Hour Start | Best Months | Lighting Quality |
+|---|---|---|---|
+| Summer | 8:00 – 8:30 PM | June – August | Long, warm, gentle light |
+| Fall | 5:30 – 6:30 PM | September – October | Rich golden tones, colourful foliage |
+| Winter | 3:30 – 4:00 PM | November – February | Low sun, dramatic shadows, snowy backdrops |
+| Spring | 7:00 – 7:30 PM | March – May | Fresh greens, cherry blossoms, soft light |
 
 Fall is the most popular season for engagement sessions in Edmonton, and for good reason. The changing leaves create a natural backdrop that is warm, colourful, and romantic. However, summer evenings offer incredibly long golden hours, and winter sessions with fresh snow are absolutely stunning. On the other hand, spring brings fresh blooms and green landscapes that feel alive and vibrant.
 

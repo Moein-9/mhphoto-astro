@@ -26,8 +26,10 @@ I am going to say something that every parent of a teenager will nod their head 
 
 Back-to-school family photos are not just about marking the start of a new school year. They are about freezing a very specific moment in your family's timeline. The height differences between siblings. The way your youngest still holds your hand. The pride on your child's face as they head into a new grade. These details change fast, and they do not wait for you to be ready.
 
-Parents Who Wish They Had More Family Photos87%Shutterfly Family Photo Survey, 2024
-Avg. Height Change Per Year (Ages 5-10)2.5 inCanadian Paediatric Society
+| Stat | Figure | Source |
+|---|---|---|
+| Parents Who Wish They Had More Family Photos | **87%** | Shutterfly Family Photo Survey, 2024 |
+| Avg. Height Change Per Year (Ages 5-10) | **2.5 in** | Canadian Paediatric Society |
 
 Moreover, for many families in Edmonton, back-to-school season coincides with the most beautiful time of year. The river valley is turning gold and red. The light is warm and low. The weather is still comfortable enough for outdoor sessions. It is genuinely the perfect time for family photos, and the back-to-school milestone gives you a reason to make it happen.
 

@@ -29,8 +29,10 @@ A typical Western reception might have 120 to 180 guests. A typical Indian weddi
 
 The sheer volume of people changes everything about how you approach the photography. Your positioning matters more. Your timing has to be sharper. And your ability to anticipate cultural moments — the speeches, the dances, the family introductions — becomes absolutely critical.
 
-Average Guests at Indian Wedding Receptions400–800South Asian Wedding Industry Report, 2025
-Average Reception Duration4–6 hrsIndian Wedding Planners Association
+| Stat | Figure | Source |
+|---|---|---|
+| Average Guests at Indian Wedding Receptions | **400–800** | South Asian Wedding Industry Report, 2025 |
+| Average Reception Duration | **4–6 hrs** | Indian Wedding Planners Association |
 
 ## Managing Large Guest Lists (500–800+)
 
@@ -74,7 +76,9 @@ At some point during the reception, the couple's grandparents and elder relative
 
 Indian wedding receptions are famous for their food. The buffet spread at a typical reception can include 20 to 30 dishes. While the food itself is not always the photographic priority, the ambiance of guests enjoying the meal, the elaborate table settings, and the candid moments of people sharing food and conversation are all worth documenting. I also photograph the food setup itself — the decorative displays, the live cooking stations, the dessert table — because families invest heavily in this and appreciate having it documented.
 
-Average Dishes at an Indian Wedding Buffet20–30Canadian Caterers Association, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Dishes at an Indian Wedding Buffet | **20–30** | Canadian Caterers Association, 2025 |
 
 ## Capturing Dance Floor Energy
 

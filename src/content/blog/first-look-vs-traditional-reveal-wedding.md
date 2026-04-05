@@ -30,7 +30,9 @@ A traditional reveal, on the other hand, is exactly what it sounds like. You do 
 
 Both approaches have real advantages and real drawbacks. Neither one is objectively better. The right choice depends entirely on what matters most to you as a couple. Let me walk you through everything I have learned from photographing both options hundreds of times.
 
-Couples Who Include an Engagement Session85%The Knot, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Couples Who Include an Engagement Session | **85%** | The Knot, 2025 |
 ![Bride getting ready before her wedding ceremony in Edmonton](https://mhphoto.ca/wp-content/uploads/2023/01/SJ-220-scaled.jpg)*The getting ready moments before the first look build anticipation that makes the reveal even more powerful*
 
 ## The Case for a First Look
@@ -87,37 +89,15 @@ There is no right answer. There is only your answer. The best wedding photos com
 
 Let me show you what a typical wedding day timeline looks like with each option. This is based on hundreds of weddings I have photographed in Edmonton.
 
-Time
-With First Look
-Traditional Reveal
-
-10:00 AM
-Getting ready (both sides)
-Getting ready (both sides)
-
-12:30 PM
-First look + couple portraits
-Continue getting ready
-
-1:30 PM
-Bridal party photos
-Bridal party photos (separate)
-
-3:00 PM
-Ceremony
-Ceremony
-
-3:30 PM
-Cocktail hour (you enjoy it!)
-Couple + group portraits
-
-5:00 PM
-Reception
-Reception
-
-Sunset
-Quick sunset photos (10 min)
-Sunset photos if time allows
+| Time | With First Look | Traditional Reveal |
+|---|---|---|
+| 10:00 AM | Getting ready (both sides) | Getting ready (both sides) |
+| 12:30 PM | First look + couple portraits | Continue getting ready |
+| 1:30 PM | Bridal party photos | Bridal party photos (separate) |
+| 3:00 PM | Ceremony | Ceremony |
+| 3:30 PM | Cocktail hour (you enjoy it!) | Couple + group portraits |
+| 5:00 PM | Reception | Reception |
+| Sunset | Quick sunset photos (10 min) | Sunset photos if time allows |
 
 As you can see, the first look option front-loads the photography. By the time your ceremony starts, the major portrait work is done. You can enjoy your cocktail hour, mingle with guests, and feel present. On the other hand, the traditional timeline means your portrait session happens during cocktail hour, which means your guests are waiting and you might feel rushed.
 
@@ -139,7 +119,9 @@ Moreover, here is something many couples do not realize: you will still have a b
 
 In addition, I want to address a common concern. Some couples worry that a first look will "use up" the emotion and the ceremony will feel flat. In my experience, this almost never happens. The ceremony carries its own emotional weight — the vows, the rings, the declaration, the kiss. These moments are powerful regardless of whether you have already seen each other. If anything, the first look takes the edge off so you can be more present during the ceremony.
 
-Average Photographer Investment in Canada$2,900WeddingWire Canada, 2025
+| Stat | Figure | Source |
+|---|---|---|
+| Average Photographer Investment in Canada | **$2,900** | WeddingWire Canada, 2025 |
 
 ## Cultural Considerations
 
