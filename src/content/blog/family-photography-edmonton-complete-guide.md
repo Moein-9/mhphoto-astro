@@ -224,7 +224,7 @@ Professional family pictures in Edmonton typically range from $150 for a mini se
 
 ## Where Are the Best Locations for Family Pictures in Edmonton?
 
-The best locations for family pictures in Edmonton include [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) (especially during fall colour season), the Legislature Grounds for a classic feel, [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland) for a wilderness backdrop, and the [river valley parks](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) for natural beauty. For a full list of Edmonton's most photogenic spots, read my [best outdoor photo locations guide](/blog/best-outdoor-photo-locations-edmonton-2026).
+The best locations for family pictures in Edmonton include [Hawrelak Park](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/william-hawrelak-park) (especially during fall colour season), the Legislature Grounds for a classic feel, [Elk Island National Park](https://parks.canada.ca/pn-np/ab/elkisland) for a wilderness backdrop, and the [river valley parks](https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/river-valley) for natural beauty. For a full list of Edmonton's most photogenic spots, check out Hawrelak Park, the Legislature Grounds, and Elk Island National Park.
 
 ## What Should We Wear for Family Pictures?
 

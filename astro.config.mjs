@@ -78,7 +78,11 @@ export default defineConfig({
       else if (
         (url.includes('/photography/') && !url.includes('/photography/weddings') && !url.includes('/photography/indian-weddings') && !url.includes('/photography/engagement') && !url.includes('/photography/family')) ||
         url.includes('/videography') ||
-        url.includes('/pricing')
+        url.includes('/pricing') ||
+        url.includes('/wedding-photo-video-packages-edmonton') ||
+        url.includes('/elopement-photographer-edmonton') ||
+        url.includes('/affordable-wedding-photographer-edmonton') ||
+        url.includes('/indian-wedding-videographer-edmonton')
       ) {
         item.changefreq = 'weekly';
         item.priority = 0.8;

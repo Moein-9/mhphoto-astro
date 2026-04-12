@@ -1,0 +1,445 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+
+const indianVideos = [
+  { id: '1MfX3kmm-bk', title: 'Jaz & Shristi Highlight Video', couple: 'Jaz & Shristi' },
+  { id: 'RF9HilUgpM8', title: 'Simrat & Nicholas Highlight', couple: 'Simrat & Nicholas' },
+  { id: 'kljdC_0R_JM', title: 'Shiv & Anjali Wedding Week', couple: 'Shiv & Anjali' },
+];
+
+const allVideos = [
+  { id: 'pSsYZDZ2RrA', title: 'J.E. Next Day Edit', type: 'Wedding' },
+  { id: 'FGd-xPVMnqw', title: 'Sunam + Jasleen Wedding Film', type: 'Indian Wedding' },
+  { id: 'dH6PCKpI1cE', title: 'Selina & Taran Wedding Film', type: 'Wedding' },
+  { id: 'qwaoL0Vh504', title: 'Kriti & Amar Next Day Edit', type: 'Wedding' },
+  { id: 'BGosd-NzmUs', title: 'Christina & Branden Highlight Video', type: 'Wedding' },
+  { id: 'oSrzm24ITA8', title: 'Elspeth & Pram Highlight Video', type: 'Wedding' },
+  { id: 'XuFXGSL2-AU', title: 'Sarb & Rajkamal Next Day Edit', type: 'Wedding' },
+];
+
+const faqs = [
+  { q: 'Do you specialize in Indian wedding videography?', a: 'Yes — Indian and South Asian weddings are a major part of my work. I have years of experience filming Hindu, Sikh, and Punjabi celebrations. I understand the timeline, the ceremonies, and the moments that matter most to your family.' },
+  { q: 'How much does Indian wedding videography cost in Edmonton?', a: 'Single-day wedding videography starts at $3,750. Multi-day packages for Indian weddings start at $7,490. Photo + video bundles are also available. Reach out with your details for a custom quote.' },
+  { q: 'Do you cover multi-day Indian weddings?', a: 'Absolutely — that is what I do best. Mehndi, Sangeet, Haldi, ceremony, reception — every event gets full videography coverage. Multi-day packages are customized based on the number of events and days.' },
+  { q: 'What style of Indian wedding films do you create?', a: 'Documentary and cinematic. I focus on the real moments — the emotion during the pheras, the energy of the Baraat, the tears during the Vidaai. No heavy effects or music-video edits. Your film feels like your day actually felt.' },
+  { q: 'Can I get both photography and videography for my Indian wedding?', a: 'Yes — and I highly recommend it. When one team handles both photo and video, everything flows seamlessly. No competing vendors, one creative vision, and a consistent look across your gallery and film.' },
+  { q: 'Do you film at Gurdwaras and Hindu temples?', a: 'Yes. I have experience filming at Gurdwaras, the Hindu Society of Alberta, banquet halls, and Indian wedding venues across Edmonton and Alberta. I know the ceremony flow and where to position for the best footage without being intrusive.' },
+  { q: 'How long is the final wedding film?', a: 'A standard highlight video runs 4-5 minutes. Extended highlights up to 15 minutes are available for multi-day celebrations. Ceremony and reception footage is delivered separately so nothing is lost.' },
+  { q: 'Do you travel for Indian weddings outside Edmonton?', a: 'Yes — I cover Indian weddings across Alberta and Canada. Calgary, Vancouver, Toronto, and destination weddings are all welcome. Travel is included or quoted based on distance.' },
+];
+
+const galleryImages = [
+  { src: '/gallery-images/indian-weddings/002-indian-wedding-couple-veil-edmonton.jpg', alt: 'Indian wedding couple portrait — videography by MH Photography Edmonton' },
+  { src: '/gallery-images/indian-weddings/003-indian-wedding-ceremony-moment-edmonton.jpg', alt: 'Hindu wedding ceremony — Indian wedding videographer Edmonton' },
+  { src: '/gallery-images/indian-weddings/007-mehndi-hands.jpg', alt: 'Mehndi ceremony detail — multi-day Indian wedding video coverage' },
+  { src: '/gallery-images/indian-weddings/004-indian-wedding-portrait-edmonton.jpg', alt: 'Indian wedding portrait — Edmonton South Asian wedding videography' },
+  { src: '/gallery-images/indian-weddings/001-indian-wedding-ring-detail-edmonton.jpg', alt: 'Indian wedding ring detail — documentary wedding film Edmonton' },
+  { src: '/gallery-images/indian-weddings/0000-traditional-moment.jpg', alt: 'Traditional Indian wedding moment — cinematic wedding videographer' },
+  { src: '/gallery-images/indian-weddings/002a-motion-couple.jpg', alt: 'Motion couple portrait — Indian wedding photo and video Edmonton' },
+  { src: '/gallery-images/indian-weddings/0002-indian-wedding-celebration-edmonton.jpg', alt: 'Indian wedding celebration — Edmonton wedding videographer' },
+  { src: '/gallery-images/indian-weddings/008-ceremony-exchange.jpg', alt: 'Ceremony exchange — Hindu wedding videography Edmonton' },
+];
+
+const ceremonies = [
+  { name: 'Mehndi', desc: 'The intimate henna ceremony — I capture the intricate designs, the laughter, the music, and the family moments that set the tone for everything to come.' },
+  { name: 'Sangeet', desc: 'The dancing, the performances, the energy. This is where the celebration really comes alive on film — bright colours, big emotions, and incredible music.' },
+  { name: 'Haldi', desc: 'The turmeric ceremony is pure joy and chaos. I love filming these — the smearing, the laughing, the running. It is beautifully messy and always emotional.' },
+  { name: 'Baraat', desc: 'The groom\'s entrance with drums, dancing, and family. I film from multiple angles to capture the scale and energy of the procession.' },
+  { name: 'Ceremony', desc: 'Whether it is the pheras around the sacred fire, the Anand Karaj at the Gurdwara, or a Nikah — I know the flow and I know where to be for every significant moment.' },
+  { name: 'Reception', desc: 'Toasts, first dances, speeches, and celebration. The reception is where the entire story comes together — and the film reflects that.' },
+];
+---
+
+<BaseLayout
+  title="Indian Wedding Videographer Edmonton | Hindu, Sikh & Punjabi Films"
+  description="Edmonton Indian wedding videographer. Multi-day coverage for Hindu, Sikh & Punjabi weddings — Mehndi to reception. Cinematic films from $3,750. Photo + video available."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Indian Wedding Videography Edmonton",
+      "description": "Multi-day Indian, Hindu, Sikh, and Punjabi wedding videography in Edmonton. Cinematic documentary films covering Mehndi, Sangeet, ceremony, and reception.",
+      "url": "https://mhphoto.ca/indian-wedding-videographer-edmonton/",
+      "serviceType": "Indian Wedding Videography",
+      "provider": {
+        "@type": "PhotographyBusiness",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca",
+        "email": "moein@mhphoto.ca",
+        "founder": { "@type": "Person", "name": "Moein Habibi" },
+        "address": { "@type": "PostalAddress", "addressLocality": "Edmonton", "addressRegion": "AB", "addressCountry": "CA" }
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "City", "name": "Sherwood Park" },
+        { "@type": "City", "name": "St. Albert" },
+        { "@type": "AdministrativeArea", "name": "Alberta" }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "CAD",
+        "price": "3750",
+        "description": "Single-day Indian wedding videography starting price",
+        "url": "https://mhphoto.ca/indian-wedding-videographer-edmonton/"
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(f => ({
+        "@type": "Question", "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a },
+      }))
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Videography", "item": "https://mhphoto.ca/videography/" },
+        { "@type": "ListItem", "position": 3, "name": "Indian Wedding Videography", "item": "https://mhphoto.ca/indian-wedding-videographer-edmonton/" }
+      ]
+    })} />
+    {indianVideos.map(v => (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": `${v.title} — Indian wedding videography Edmonton by MH Photography`,
+        "description": `Indian wedding film by MH Photography Edmonton — ${v.couple}`,
+        "thumbnailUrl": `https://img.youtube.com/vi/${v.id}/maxresdefault.jpg`,
+        "contentUrl": `https://www.youtube.com/watch?v=${v.id}`,
+        "embedUrl": `https://www.youtube-nocookie.com/embed/${v.id}`,
+        "uploadDate": "2025-01-01",
+      })} />
+    ))}
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <p class="text-sm font-light mb-1">
+    <a href="/videography/" class="text-ink-muted hover:text-gold transition-colors">Videography</a>
+    <span class="mx-1.5 text-ink-muted/40">/</span>
+    <strong class="font-medium text-ink">Indian Weddings</strong>
+  </p>
+
+  <!-- ============================================= -->
+  <!-- HERO -->
+  <!-- ============================================= -->
+  <section class="mb-16 md:mb-20 reveal">
+    <div class="max-w-2xl">
+      <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">{site.booking}</p>
+      <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.08] tracking-[-0.02em] text-ink mb-5">
+        Indian Wedding Videographer in Edmonton
+      </h1>
+      <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75]">
+        From the Mehndi to the reception, every ceremony tells part of your story. I create cinematic, documentary-style films for Hindu, Sikh, and Punjabi weddings — capturing the traditions, the energy, and the emotion that make your celebration yours.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- FEATURED INDIAN WEDDING FILMS -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Indian Wedding Films</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-6">
+      Recent work
+    </h2>
+
+    <!-- Main featured film -->
+    <div class="mb-5">
+      <div class="rounded-xl overflow-hidden shadow-md">
+        <div class="relative aspect-video bg-frame">
+          <iframe
+            id="main-iframe"
+            src={`https://www.youtube-nocookie.com/embed/${indianVideos[0].id}?rel=0&modestbranding=1`}
+            title={`${indianVideos[0].title} — Indian wedding videography Edmonton`}
+            class="absolute inset-0 w-full h-full"
+            loading="eager"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+      <div class="mt-3 flex items-baseline justify-between">
+        <div>
+          <h3 id="main-title" class="font-serif font-normal text-xl text-ink">{indianVideos[0].title}</h3>
+          <p class="text-[0.65rem] tracking-[0.1em] uppercase text-ink-muted font-light mt-1">Indian Wedding Film — Edmonton, AB</p>
+        </div>
+        <span class="text-[0.6rem] font-medium tracking-[0.15em] uppercase text-gold bg-gold/10 px-3 py-1 rounded-full">Indian Wedding</span>
+      </div>
+    </div>
+
+    <!-- Thumbnail grid -->
+    <div class="grid grid-cols-3 gap-3">
+      {indianVideos.map((video, i) => (
+        <button
+          class:list={[
+            'video-thumb group relative rounded-lg overflow-hidden aspect-video cursor-pointer transition-all duration-300',
+            i === 0 ? 'ring-2 ring-gold ring-offset-2 ring-offset-cream' : 'ring-1 ring-ink/10 hover:ring-gold/50',
+          ]}
+          data-id={video.id}
+          data-title={video.title}
+        >
+          <img
+            src={`https://img.youtube.com/vi/${video.id}/mqdefault.jpg`}
+            alt={`${video.title} — Indian wedding videography Edmonton thumbnail`}
+            class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+            loading="lazy"
+          />
+          <div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors duration-300"></div>
+          <div class="absolute inset-0 flex items-center justify-center">
+            <div class="w-8 h-8 rounded-full bg-white/25 backdrop-blur-sm flex items-center justify-center opacity-80 group-hover:opacity-100 transition-opacity">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+          </div>
+        </button>
+      ))}
+    </div>
+    <p class="text-center mt-6">
+      <a href="/videography/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        Watch all 10 films &rarr;
+      </a>
+    </p>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- WHY ME — cultural expertise -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="max-w-2xl mx-auto">
+      <div class="w-8 h-px bg-gold/40 mb-8"></div>
+      <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-6">
+        A videographer who understands your traditions.
+      </h2>
+      <div class="space-y-4 font-light text-ink-soft text-[0.9rem] leading-[1.8]">
+        <p>
+          Indian weddings are not just events — they are <strong class="font-medium text-ink">multi-day celebrations</strong> with deeply meaningful rituals, high-energy performances, and quiet family moments that deserve to be captured properly. You need a videographer who knows the difference between a Sangeet and a reception, who knows when the Vidaai is coming, and who knows where to stand during the pheras.
+        </p>
+        <div class="bg-gold/[0.06] border-l-2 border-gold/30 rounded-r-xl px-5 py-4">
+          <p>
+            I have filmed Hindu, Sikh, and Punjabi weddings for years. I know the ceremonies. I know the timing. I know the moments your parents will want to watch over and over again.
+            That is the difference between a videographer who shows up and one who actually understands what is happening.
+          </p>
+        </div>
+        <p>
+          And if you want <strong class="font-medium text-ink">both photography and videography</strong> from one team — that's where I really shine.
+          One creative vision across your gallery and your film, one team that coordinates seamlessly,
+          and a final result that feels cohesive from first look to last dance.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- CEREMONY COVERAGE -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Multi-Day Coverage</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-8">
+      Every ceremony. Every moment.
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {ceremonies.map((c) => (
+        <div class="bg-cream-warm rounded-xl p-6 border border-ink/[0.04]">
+          <h3 class="font-serif font-normal text-base text-ink mb-2">{c.name}</h3>
+          <p class="font-light text-ink-soft text-[0.8rem] leading-relaxed">{c.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- GALLERY -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Photography</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-6">
+      From the same celebrations
+    </h2>
+    <div class="columns-2 md:columns-3 gap-3 space-y-3">
+      {galleryImages.map((img) => (
+        <div class="break-inside-avoid rounded-lg overflow-hidden">
+          <img
+            src={img.src}
+            alt={img.alt}
+            class="w-full h-auto object-cover hover:scale-[1.02] transition-transform duration-500"
+            loading="lazy"
+          />
+        </div>
+      ))}
+    </div>
+    <p class="text-center mt-6">
+      <a href="/photography/indian-weddings/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        Full Indian wedding gallery &rarr;
+      </a>
+    </p>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- PRICING PREVIEW -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Pricing</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-8">
+      Indian wedding video packages
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-2xl mx-auto">
+      <!-- Videography -->
+      <div class="rounded-2xl ring-1 ring-ink/[0.08] overflow-hidden bg-white shadow-sm">
+        <div class="relative h-[180px] overflow-hidden">
+          <img src="/gallery-images/indian-weddings/007-mehndi-hands.jpg" alt="Indian wedding videography packages Edmonton" class="w-full h-full object-cover" loading="lazy" />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+        </div>
+        <div class="p-5">
+          <h3 class="font-serif font-light text-lg text-gold-warm text-center tracking-wide uppercase mb-0.5">Videography</h3>
+          <p class="text-[0.7rem] text-ink-muted text-center font-light mb-3">Indian Wedding Packages</p>
+          <div class="space-y-2 mb-4">
+            <div class="flex items-center gap-3 bg-[#f7f5f2] rounded-xl px-3 py-2.5">
+              <div>
+                <p class="text-[0.65rem] text-ink-muted font-light">Single-day starts at</p>
+                <p class="text-lg font-serif font-light text-ink">$3,750</p>
+              </div>
+            </div>
+            <div class="flex items-center gap-3 bg-[#f7f5f2] rounded-xl px-3 py-2.5">
+              <div>
+                <p class="text-[0.65rem] text-ink-muted font-light">Multi-day starts at</p>
+                <p class="text-lg font-serif font-light text-ink">$7,490</p>
+              </div>
+            </div>
+          </div>
+          <a href="/contact/" class="block text-center font-semibold text-[0.65rem] tracking-[0.12em] uppercase text-ink border border-ink/20 py-2.5 rounded-full hover:bg-ink hover:text-white transition-all duration-300">
+            Let's Talk
+          </a>
+        </div>
+      </div>
+
+      <!-- Photo + Video -->
+      <div class="rounded-2xl ring-2 ring-gold/30 overflow-hidden bg-white shadow-lg">
+        <div class="relative h-[180px] overflow-hidden">
+          <img src="/images/categories/photo-video.jpg" alt="Indian wedding photo and video packages Edmonton" class="w-full h-full object-cover" loading="lazy" />
+          <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+          <span class="absolute top-3 right-3 text-[0.55rem] font-semibold tracking-[0.12em] uppercase text-white bg-gold/90 backdrop-blur-sm px-3 py-1 rounded-full">Best Value</span>
+        </div>
+        <div class="p-5">
+          <h3 class="font-serif font-light text-lg text-gold-warm text-center tracking-wide uppercase mb-0.5">Photo + Video</h3>
+          <p class="text-[0.7rem] text-ink-muted text-center font-light mb-3">Indian Wedding Packages</p>
+          <div class="space-y-2 mb-4">
+            <div class="flex items-center gap-3 bg-[#f7f5f2] rounded-xl px-3 py-2.5">
+              <div>
+                <p class="text-[0.65rem] text-ink-muted font-light">Single-day starts at</p>
+                <p class="text-lg font-serif font-light text-ink">$8,750</p>
+              </div>
+            </div>
+            <div class="flex items-center gap-3 bg-[#f7f5f2] rounded-xl px-3 py-2.5">
+              <div>
+                <p class="text-[0.65rem] text-ink-muted font-light">Multi-day starts at</p>
+                <p class="text-lg font-serif font-light text-ink">$17,990</p>
+              </div>
+            </div>
+          </div>
+          <a href="/contact/" class="block text-center font-semibold text-[0.65rem] tracking-[0.12em] uppercase bg-ink text-white py-2.5 rounded-full hover:bg-[#333] transition-colors duration-300">
+            Let's Talk
+          </a>
+        </div>
+      </div>
+    </div>
+    <p class="text-center text-[0.75rem] font-light text-ink-muted mt-6">
+      Every Indian wedding is different — <a href="/contact/" class="text-gold hover:text-gold-deep transition-colors">reach out</a> for a custom quote based on your celebration.
+    </p>
+    <p class="text-center mt-4">
+      <a href="/pricing/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        View all packages &rarr;
+      </a>
+    </p>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- CTA -->
+  <!-- ============================================= -->
+  <section class="text-center py-16 mb-10 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-4">
+      Let's tell your story in motion.
+    </h2>
+    <p class="font-light text-ink-muted text-sm mb-7 max-w-md mx-auto">
+      Tell me about your celebration — how many days, which ceremonies, and your vision. I'll put together a package that covers everything.
+    </p>
+    <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+      Get in Touch
+    </a>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- FAQ -->
+  <!-- ============================================= -->
+  <section class="max-w-2xl mx-auto mb-16 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2rem)] text-ink mb-8">
+      Indian Wedding Videography — FAQ
+    </h2>
+    {faqs.map((faq) => (
+      <div class="faq-item border-b border-ink/[0.06] first:border-t">
+        <button class="flex justify-between items-center w-full py-5 text-left cursor-pointer group" onclick="this.closest('.faq-item').classList.toggle('open')">
+          <h3 class="font-normal text-[0.9rem] text-ink pr-4 leading-relaxed group-hover:text-gold-deep transition-colors">{faq.q}</h3>
+          <svg class="faq-chevron w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-500" style="transition-timing-function:cubic-bezier(0.16,1,0.3,1)" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="faq-answer"><p class="font-light text-[0.85rem] text-ink-soft leading-[1.7] pb-5 max-w-[640px]">{faq.a}</p></div>
+      </div>
+    ))}
+  </section>
+
+  <!-- ============================================= -->
+  <!-- CROSS-LINKS -->
+  <!-- ============================================= -->
+  <section class="py-10 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-5">Explore more</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <a href="/photography/indian-weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Indian Wedding Photos</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Full gallery</p>
+      </a>
+      <a href="/videography/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">All Films</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Watch 10 films</p>
+      </a>
+      <a href="/wedding-photo-video-packages-edmonton/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Photo + Video</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Combined packages</p>
+      </a>
+      <a href="/pricing/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">All Packages</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">View pricing</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Video thumbnail swap script -->
+  <script>
+    const thumbs = document.querySelectorAll('.video-thumb');
+    const mainIframe = document.getElementById('main-iframe') as HTMLIFrameElement;
+    const mainTitle = document.getElementById('main-title');
+
+    thumbs.forEach(thumb => {
+      thumb.addEventListener('click', () => {
+        const id = thumb.getAttribute('data-id');
+        const title = thumb.getAttribute('data-title');
+
+        if (mainIframe) mainIframe.src = `https://www.youtube-nocookie.com/embed/${id}?rel=0&modestbranding=1&autoplay=1`;
+        if (mainTitle) mainTitle.textContent = title;
+
+        thumbs.forEach(t => {
+          t.classList.remove('ring-2', 'ring-gold', 'ring-offset-2', 'ring-offset-cream');
+          t.classList.add('ring-1', 'ring-ink/10');
+        });
+        thumb.classList.remove('ring-1', 'ring-ink/10');
+        thumb.classList.add('ring-2', 'ring-gold', 'ring-offset-2', 'ring-offset-cream');
+      });
+    });
+  </script>
+</BaseLayout>

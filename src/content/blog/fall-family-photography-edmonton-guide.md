@@ -232,7 +232,6 @@ The best locations for fall family photos near Edmonton include [Hawrelak Park](
 
 - [Family Photography Edmonton: Complete Guide](/blog/family-photography-edmonton-complete-guide)
 - [What to Wear for Family Photos: Colour Guide](/blog/what-to-wear-family-photos-colour-guide)
-- [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [Holiday Family Photo Cards Edmonton](/blog/holiday-family-photo-cards-edmonton)
 - [Winter Family Photography in Edmonton](/blog/winter-family-photography-edmonton)
 - [Generational Family Portraits: Why They Matter](/blog/generational-family-portraits-why-important)

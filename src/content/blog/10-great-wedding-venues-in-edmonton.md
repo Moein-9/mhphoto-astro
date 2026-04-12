@@ -23,7 +23,7 @@ From perfect orchestration to the celebration, Mirage Banquet Hall is the perfec
 
 [Delta Hotels by Marriott Edmonton](https://www.marriott.com/en-us/hotels/yegde-delta-hotels-edmonton-centre-suites/) is a venue that provides breathtaking views, best amenities, and great facilities. This hotel provides an excellent ambience to celebrate your big day. With around 13 event rooms and 25,000 square feet of reception space, this classy hotel can accommodate up to 1650 guests.
 
-**Read More: [Tips on Hiring the Perfect Wedding Photographer](https://mhphoto.ca/tips-on-hiring-the-perfect-wedding-photographer/)**
+**Read More: [Tips on Hiring the Perfect Wedding Photographer](/blog/tips-on-hiring-the-perfect-wedding-photographer/)**
 
 ### [Fairmont Hotel Macdonald](https://www.fairmont.com/macdonald-edmonton/):
 

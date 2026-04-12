@@ -9,7 +9,7 @@ image: "/gallery-images/weddings/005-getting-ready.jpg"
 draft: false
 ---
 
-Weddings are the most important events in someone's life. According to [The Knot](https://www.theknot.com/), 87% of couples hire a professional photographer for their celebration. It is something that will make a great contribution on your way to make every moment of the marriage to make life memories. It is important enough to come up with the right kind of wedding photographer who can easily make a great contribution in your way.**[ Edmonton Photographer Services](https://mhphoto.ca/10-great-wedding-venues-in-edmonton/)** will make sure that you have properly made your entire wedding occasion memorable for the rest of your life. This is the main reason why, you need to come up with the perfect procedure by which, you can easily make the wedding memorable.
+Weddings are the most important events in someone's life. According to [The Knot](https://www.theknot.com/), 87% of couples hire a professional photographer for their celebration. It is something that will make a great contribution on your way to make every moment of the marriage to make life memories. It is important enough to come up with the right kind of wedding photographer who can easily make a great contribution in your way.**[ Edmonton Photographer Services](/blog/10-great-wedding-venues-in-edmonton/)** will make sure that you have properly made your entire wedding occasion memorable for the rest of your life. This is the main reason why, you need to come up with the perfect procedure by which, you can easily make the wedding memorable.
 
 ### Capturing Every Moment:
 

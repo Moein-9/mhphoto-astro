@@ -1,0 +1,423 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+
+const videos = [
+  { id: 'pSsYZDZ2RrA', title: 'J.E. Next Day Edit', type: 'Wedding' },
+  { id: 'FGd-xPVMnqw', title: 'Sunam + Jasleen Wedding Film', type: 'Indian Wedding' },
+  { id: 'dH6PCKpI1cE', title: 'Selina & Taran Wedding Film', type: 'Wedding' },
+  { id: '1MfX3kmm-bk', title: 'Jaz & Shristi Highlight Video', type: 'Indian Wedding' },
+];
+
+const faqs = [
+  { q: 'How much does a wedding photo and video package cost in Edmonton?', a: 'Single-day photo + video packages start at $8,750. Multi-day packages for Indian and South Asian weddings start at $17,990. Every celebration is different — reach out for a custom quote that fits your day.' },
+  { q: 'Why should I book one team for both photography and videography?', a: 'One team means one creative vision. Your photographer and videographer coordinate naturally instead of competing for angles. The result is a cohesive look across your gallery and film — and zero vendor coordination stress on your wedding day.' },
+  { q: 'Do you personally handle both photos and video?', a: 'I lead every project personally. For photo + video packages, I hand-pick a small team of shooters I trust and have worked with. One creative director, multiple cameras, complete coverage.' },
+  { q: 'What is included in a photo + video package?', a: 'Every package includes professional editing, an online gallery with full download rights, a cinematic highlight film, and ceremony and reception footage. Reach out for full package details — every celebration is different.' },
+  { q: 'Can you cover multi-day Indian weddings with photo and video?', a: 'Absolutely. Multi-day coverage is one of my specialties. I cover Mehndi, Sangeet, ceremony, and reception — every event gets full photography and videography. No moments missed across your entire celebration.' },
+  { q: 'How long does it take to receive photos and video?', a: 'Photos are typically delivered in 4-6 weeks via your online gallery. Your cinematic highlight film is delivered in 8-12 weeks. Ceremony and reception footage follows shortly after.' },
+  { q: 'Do you travel outside Edmonton for weddings?', a: 'Yes — I cover weddings across Alberta and Canada. Calgary, Banff, Jasper, Vancouver, Toronto, and beyond. Destination weddings are welcome. Travel is included or quoted based on distance.' },
+  { q: 'Can I book photography or videography separately?', a: 'Of course. Wedding photography starts at $2,250 and videography starts at $3,750. But the photo + video bundle gives you the best value — one team, seamless coordination, and a consistent creative style across everything.' },
+];
+
+const galleryImages = [
+  { src: '/gallery-images/weddings/002-first-look.jpg', alt: 'First look moment — Edmonton wedding photo and video by MH Photography' },
+  { src: '/gallery-images/indian-weddings/002-indian-wedding-couple-veil-edmonton.jpg', alt: 'Indian wedding couple portrait — photo and video coverage Edmonton' },
+  { src: '/gallery-images/weddings/008-ceremony-kiss.jpg', alt: 'Ceremony kiss — wedding photography and videography Edmonton' },
+  { src: '/gallery-images/indian-weddings/003-indian-wedding-ceremony-moment-edmonton.jpg', alt: 'Indian wedding ceremony — multi-day photo and video package' },
+  { src: '/gallery-images/weddings/010-aisle-walk.jpg', alt: 'Walking down the aisle — Edmonton wedding photo and video' },
+  { src: '/gallery-images/engagement/019-engagement-session-cherry-blossom-edmonton.jpg', alt: 'Engagement session cherry blossoms — included in photo + video packages' },
+  { src: '/gallery-images/weddings/003-bride-getting-ready.jpg', alt: 'Bride getting ready — behind the scenes wedding day coverage' },
+  { src: '/gallery-images/indian-weddings/007-mehndi-hands.jpg', alt: 'Mehndi ceremony detail — Indian wedding photography Edmonton' },
+  { src: '/gallery-images/weddings/009-ceremony-moment.jpg', alt: 'Emotional ceremony moment — documentary wedding photographer Edmonton' },
+  { src: '/gallery-images/indian-weddings/004-indian-wedding-portrait-edmonton.jpg', alt: 'Indian wedding portrait — photo + video team Edmonton' },
+  { src: '/gallery-images/engagement/021-banff-lake-minnewanka-couple-portrait.jpg', alt: 'Banff engagement session — destination photo and video available' },
+  { src: '/gallery-images/weddings/006-bride-portrait.jpg', alt: 'Bridal portrait — wedding photographer and videographer Edmonton' },
+];
+---
+
+<BaseLayout
+  title="Wedding Photo & Video Packages Edmonton | MH Photography"
+  description="Edmonton wedding photography + videography from one team. Single-day from $8,750, multi-day Indian weddings from $17,990. One vision, zero coordination stress."
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Wedding Photo & Video Packages Edmonton",
+      "description": "Combined wedding photography and videography packages from one team in Edmonton. Single-day from $8,750, multi-day Indian wedding packages from $17,990.",
+      "url": "https://mhphoto.ca/wedding-photo-video-packages-edmonton/",
+      "serviceType": "Wedding Photography and Videography",
+      "provider": {
+        "@type": "PhotographyBusiness",
+        "name": "MH Photography",
+        "url": "https://mhphoto.ca",
+        "email": "moein@mhphoto.ca",
+        "founder": { "@type": "Person", "name": "Moein Habibi" },
+        "address": { "@type": "PostalAddress", "addressLocality": "Edmonton", "addressRegion": "AB", "addressCountry": "CA" }
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Edmonton" },
+        { "@type": "City", "name": "Sherwood Park" },
+        { "@type": "City", "name": "St. Albert" },
+        { "@type": "City", "name": "Spruce Grove" },
+        { "@type": "AdministrativeArea", "name": "Alberta" }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Photo + Video Wedding Packages",
+        "itemListElement": [
+          { "@type": "Offer", "name": "Single-Day Photo + Video", "priceCurrency": "CAD", "price": "8750", "description": "Full-day photography and videography coverage from one team", "url": "https://mhphoto.ca/wedding-photo-video-packages-edmonton/" },
+          { "@type": "Offer", "name": "Multi-Day Photo + Video", "priceCurrency": "CAD", "price": "17990", "description": "Multi-day combined photo and video coverage for Indian and South Asian weddings", "url": "https://mhphoto.ca/wedding-photo-video-packages-edmonton/" }
+        ]
+      }
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(f => ({
+        "@type": "Question", "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a },
+      }))
+    })} />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://mhphoto.ca/" },
+        { "@type": "ListItem", "position": 2, "name": "Packages", "item": "https://mhphoto.ca/pricing/" },
+        { "@type": "ListItem", "position": 3, "name": "Photo + Video Packages", "item": "https://mhphoto.ca/wedding-photo-video-packages-edmonton/" }
+      ]
+    })} />
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <p class="text-sm font-light mb-1">
+    <a href="/pricing/" class="text-ink-muted hover:text-gold transition-colors">Packages</a>
+    <span class="mx-1.5 text-ink-muted/40">/</span>
+    <strong class="font-medium text-ink">Photo + Video</strong>
+  </p>
+
+  <!-- ============================================= -->
+  <!-- HERO -->
+  <!-- ============================================= -->
+  <section class="mb-16 md:mb-20 reveal">
+    <div class="max-w-2xl">
+      <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">{site.booking}</p>
+      <h1 class="font-serif font-light text-[clamp(2rem,4.5vw,3.25rem)] leading-[1.08] tracking-[-0.02em] text-ink mb-5">
+        Wedding Photo & Video Packages in Edmonton
+      </h1>
+      <p class="font-light text-ink-soft text-[0.95rem] leading-[1.75] mb-6">
+        One team. One creative vision. Photos and film that feel like they belong together — because they were made together. No competing vendors, no coordination headaches. Just your story, captured completely.
+      </p>
+      <div class="flex items-center gap-4">
+        <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-8 py-3.5 rounded-full hover:bg-[#333] transition-colors duration-300">
+          Get a Quote
+        </a>
+        <a href="#whats-included" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+          See what's included
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- SIDE-BY-SIDE: Photo + Video preview -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-5">
+      <!-- Photo side -->
+      <div class="relative rounded-2xl overflow-hidden aspect-[4/5] group">
+        <img
+          src="/gallery-images/weddings/002-first-look.jpg"
+          alt="Wedding photography first look — photo + video packages Edmonton"
+          class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.03]"
+          loading="eager"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
+        <div class="absolute bottom-0 left-0 right-0 p-6">
+          <p class="text-[0.6rem] font-medium tracking-[0.2em] uppercase text-gold mb-1">Photography</p>
+          <p class="font-serif font-light text-2xl text-white leading-tight">400–600+ edited photos</p>
+          <p class="text-[0.8rem] font-light text-white/70 mt-1">Full-day coverage, online gallery, download rights</p>
+        </div>
+      </div>
+
+      <!-- Video side -->
+      <div class="relative rounded-2xl overflow-hidden aspect-[4/5]">
+        <iframe
+          src={`https://www.youtube-nocookie.com/embed/${videos[0].id}?rel=0&modestbranding=1&autoplay=1&mute=1&loop=1&playlist=${videos[0].id}&controls=0&showinfo=0`}
+          title="Wedding videography sample — Edmonton photo and video package"
+          class="absolute inset-0 w-[180%] h-[180%] -top-[40%] -left-[40%]"
+          loading="eager"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope"
+        ></iframe>
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent pointer-events-none"></div>
+        <div class="absolute bottom-0 left-0 right-0 p-6 pointer-events-none">
+          <p class="text-[0.6rem] font-medium tracking-[0.2em] uppercase text-gold mb-1">Videography</p>
+          <p class="font-serif font-light text-2xl text-white leading-tight">Cinematic highlight film</p>
+          <p class="text-[0.8rem] font-light text-white/70 mt-1">Documentary style, ceremony + reception footage</p>
+        </div>
+      </div>
+    </div>
+    <p class="text-center text-[0.7rem] font-light text-ink-muted mt-4">
+      Same couple. Same day. Photos and film that tell one cohesive story.
+    </p>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- WHY ONE TEAM -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-8">
+      Why book one team for photos and video?
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+      {[
+        {
+          title: 'Zero coordination stress',
+          desc: 'No second vendor to schedule, brief, or manage. I handle everything — from the timeline to the final delivery. One email, one vision, one team.',
+          icon: 'M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z',
+        },
+        {
+          title: 'Consistent creative style',
+          desc: "Your photos and film match. Same colour palette, same mood, same storytelling approach. They feel like they belong together because they were made by the same creative eye.",
+          icon: 'M7 21a4 4 0 01-4-4V5a2 2 0 012-2h4a2 2 0 012 2v12a4 4 0 01-4 4zm0 0h12a2 2 0 002-2v-4a2 2 0 00-2-2h-2.343M11 7.343l1.657-1.657a2 2 0 012.828 0l2.829 2.829a2 2 0 010 2.828l-8.486 8.485M7 17h.01',
+        },
+        {
+          title: 'Better value',
+          desc: 'Booking photo + video separately averages $6,000–$10,000 in Edmonton. My combined packages start at $8,750 with more deliverables — and you save the headache of managing two vendors.',
+          icon: 'M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z',
+        },
+      ].map((item) => (
+        <div class="bg-cream-warm rounded-xl p-7 border border-ink/[0.04]">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#C9A86C" stroke-width="1.5" class="mb-4"><path d={item.icon} /></svg>
+          <h3 class="font-serif font-normal text-lg text-ink mb-2">{item.title}</h3>
+          <p class="font-light text-ink-soft text-[0.85rem] leading-relaxed">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- PRICING PREVIEW -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal" id="whats-included">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Photo + Video Packages</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-8">
+      Pricing at a glance
+    </h2>
+    <div class="rounded-2xl ring-2 ring-gold/30 overflow-hidden bg-white shadow-lg max-w-lg mx-auto">
+      <div class="relative h-[220px] overflow-hidden">
+        <img src="/images/categories/photo-video.jpg" alt="Wedding photo and video packages Edmonton — MH Photography" class="w-full h-full object-cover" loading="lazy" />
+        <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+        <span class="absolute top-3 right-3 text-[0.55rem] font-semibold tracking-[0.12em] uppercase text-white bg-gold/90 backdrop-blur-sm px-3 py-1 rounded-full">
+          Most Popular
+        </span>
+      </div>
+      <div class="p-6">
+        <h3 class="font-serif font-light text-lg text-gold-warm text-center tracking-wide uppercase mb-0.5">Photo + Video</h3>
+        <p class="text-[0.75rem] text-ink-muted text-center font-light mb-4">Wedding Packages</p>
+        <p class="text-[0.8rem] font-light text-ink-soft text-center leading-relaxed mb-5 px-2">
+          The ultimate package — photos and video from one team. One vision, one vendor, zero coordination stress.
+        </p>
+        <div class="space-y-3 mb-5">
+          <div class="flex items-center gap-3 bg-[#f7f5f2] rounded-xl px-4 py-3">
+            <div class="w-9 h-9 rounded-full bg-gold/10 flex items-center justify-center flex-shrink-0">
+              <svg class="w-4 h-4 text-gold-warm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="2" y="7" width="20" height="14" rx="2" />
+                <path d="M16 3v4M8 3v4" />
+                <circle cx="12" cy="15" r="2" />
+              </svg>
+            </div>
+            <div>
+              <p class="text-[0.7rem] text-ink-muted font-light leading-tight">Single-day package starts at</p>
+              <p class="text-lg font-serif font-light text-ink">$8,750</p>
+            </div>
+          </div>
+          <div class="flex items-center gap-3 bg-[#f7f5f2] rounded-xl px-4 py-3">
+            <div class="w-9 h-9 rounded-full bg-gold/10 flex items-center justify-center flex-shrink-0">
+              <svg class="w-4 h-4 text-gold-warm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <rect x="2" y="7" width="20" height="14" rx="2" />
+                <path d="M16 3v4M8 3v4" />
+                <circle cx="12" cy="15" r="2" />
+              </svg>
+            </div>
+            <div>
+              <p class="text-[0.7rem] text-ink-muted font-light leading-tight">Multi-day package starts at</p>
+              <p class="text-lg font-serif font-light text-ink">$17,990</p>
+            </div>
+          </div>
+        </div>
+        <a href="/contact/" class="block text-center font-semibold text-[0.7rem] tracking-[0.14em] uppercase bg-ink text-white py-3 rounded-full hover:bg-[#333] transition-colors duration-300 mb-3">
+          Let's Talk
+        </a>
+        <p class="text-[0.7rem] font-light text-ink-muted text-center">
+          Every celebration is unique — <a href="/contact/" class="text-gold hover:text-gold-deep transition-colors">reach out</a> for a custom quote.
+        </p>
+      </div>
+    </div>
+    <p class="text-center mt-6">
+      <a href="/pricing/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        View all packages &rarr;
+      </a>
+    </p>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- FEATURED FILMS -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Recent Films</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-6">
+      See the video side
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+      {videos.map((video) => (
+        <div class="rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300">
+          <div class="relative aspect-video bg-frame">
+            <iframe
+              src={`https://www.youtube-nocookie.com/embed/${video.id}?rel=0&modestbranding=1`}
+              title={`${video.title} — Edmonton wedding photo and video by MH Photography`}
+              class="absolute inset-0 w-full h-full"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+          <div class="bg-white px-4 py-3 flex items-center justify-between">
+            <p class="font-serif font-normal text-sm text-ink">{video.title}</p>
+            <span class="text-[0.55rem] font-medium tracking-[0.12em] uppercase text-gold bg-gold/10 px-2 py-0.5 rounded-full">{video.type}</span>
+          </div>
+        </div>
+      ))}
+    </div>
+    <p class="text-center mt-6">
+      <a href="/videography/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        Watch all {10} films &rarr;
+      </a>
+    </p>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- GALLERY GRID -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <p class="text-[0.65rem] font-medium tracking-[0.2em] uppercase text-gold mb-3">Photo Gallery</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-6">
+      See the photo side
+    </h2>
+    <div class="columns-2 md:columns-3 gap-3 space-y-3">
+      {galleryImages.map((img) => (
+        <div class="break-inside-avoid rounded-lg overflow-hidden">
+          <img
+            src={img.src}
+            alt={img.alt}
+            class="w-full h-auto object-cover hover:scale-[1.02] transition-transform duration-500"
+            loading="lazy"
+          />
+        </div>
+      ))}
+    </div>
+    <div class="flex items-center justify-center gap-6 mt-8">
+      <a href="/photography/weddings/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        Wedding gallery &rarr;
+      </a>
+      <a href="/photography/indian-weddings/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        Indian wedding gallery &rarr;
+      </a>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- HOW IT WORKS -->
+  <!-- ============================================= -->
+  <section class="mb-20 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-8">
+      How it works
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-4 gap-6">
+      {[
+        { step: '01', title: 'Reach out', desc: "Tell me about your day — date, venue, vibe. I'll put together a custom package and quote." },
+        { step: '02', title: 'Plan together', desc: 'We build a photography and video timeline that flows naturally. No awkward gaps, no missed moments.' },
+        { step: '03', title: 'Your wedding day', desc: 'I show up with my team. We capture everything — documentary-style, no stiff poses, no interruptions.' },
+        { step: '04', title: 'Relive it', desc: 'Your edited gallery and cinematic film arrive. Photos in 4-6 weeks, film in 8-12 weeks.' },
+      ].map((item) => (
+        <div class="text-center">
+          <span class="text-[2.5rem] font-serif font-light text-gold/30">{item.step}</span>
+          <h3 class="font-serif font-normal text-base text-ink mt-1 mb-2">{item.title}</h3>
+          <p class="font-light text-ink-soft text-[0.8rem] leading-relaxed">{item.desc}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- CTA -->
+  <!-- ============================================= -->
+  <section class="text-center py-16 mb-10 reveal">
+    <p class="text-[0.65rem] font-medium tracking-[0.18em] uppercase text-gold mb-3">{site.booking}</p>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2.25rem)] text-ink mb-4">
+      Let's capture your day — all of it.
+    </h2>
+    <p class="font-light text-ink-muted text-sm mb-7 max-w-md mx-auto">
+      Photo + video packages from $8,750. Multi-day Indian wedding packages available. Tell me about your celebration and I'll put together something custom.
+    </p>
+    <div class="flex items-center justify-center gap-5">
+      <a href="/contact/" class="inline-block font-medium text-[0.7rem] tracking-[0.12em] uppercase text-white bg-ink px-10 py-4 rounded-full hover:bg-[#333] transition-colors duration-300">
+        Get in Touch
+      </a>
+      <a href="/pricing/" class="font-light text-sm text-ink border-b border-ink/30 pb-0.5 hover:border-ink transition-colors duration-300">
+        All Packages
+      </a>
+    </div>
+  </section>
+
+  <!-- ============================================= -->
+  <!-- FAQ -->
+  <!-- ============================================= -->
+  <section class="max-w-2xl mx-auto mb-16 reveal">
+    <div class="w-8 h-px bg-gold/40 mb-8"></div>
+    <h2 class="font-serif font-light text-[clamp(1.5rem,3vw,2rem)] text-ink mb-8">
+      Frequently Asked Questions
+    </h2>
+    {faqs.map((faq) => (
+      <div class="faq-item border-b border-ink/[0.06] first:border-t">
+        <button class="flex justify-between items-center w-full py-5 text-left cursor-pointer group" onclick="this.closest('.faq-item').classList.toggle('open')">
+          <h3 class="font-normal text-[0.9rem] text-ink pr-4 leading-relaxed group-hover:text-gold-deep transition-colors">{faq.q}</h3>
+          <svg class="faq-chevron w-4 h-4 text-ink-muted flex-shrink-0 transition-transform duration-500" style="transition-timing-function:cubic-bezier(0.16,1,0.3,1)" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="faq-answer"><p class="font-light text-[0.85rem] text-ink-soft leading-[1.7] pb-5 max-w-[640px]">{faq.a}</p></div>
+      </div>
+    ))}
+  </section>
+
+  <!-- ============================================= -->
+  <!-- CROSS-LINKS -->
+  <!-- ============================================= -->
+  <section class="py-10 border-t border-[#e0dcd6]">
+    <h2 class="font-serif font-light text-xl text-ink mb-5">Explore more</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <a href="/photography/weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Wedding Gallery</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">See the portfolio</p>
+      </a>
+      <a href="/photography/indian-weddings/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">Indian Weddings</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Multi-day coverage</p>
+      </a>
+      <a href="/videography/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">All Films</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">Watch 10 wedding films</p>
+      </a>
+      <a href="/pricing/" class="text-center p-4 rounded-xl bg-[#f7f5f2] hover:bg-gold/10 transition-colors">
+        <p class="text-[0.75rem] font-medium text-ink">All Packages</p>
+        <p class="text-[0.65rem] font-light text-ink-muted mt-1">View pricing</p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>

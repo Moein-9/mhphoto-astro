@@ -161,15 +161,15 @@ Most Edmonton wedding photography packages include full-resolution digital files
 
 ## Is It Worth Booking a Photo and Video Bundle?
 
-Booking [wedding photography and videography](/videography/) together saves most Edmonton couples 20 to 30 percent compared to hiring separately. Beyond cost savings, a combined team coordinates seamlessly — my videographer and I know each other's movements and never block each other's shots. Combined photo and video packages start at $8,750.
+Booking [wedding photography and videography](/wedding-photo-video-packages-edmonton/) together saves most Edmonton couples 20 to 30 percent compared to hiring separately. Beyond cost savings, a combined team coordinates seamlessly — my videographer and I know each other's movements and never block each other's shots. [Combined photo and video packages](/wedding-photo-video-packages-edmonton/) start at $8,750.
 
 ## Related Guides
 
 - [How to Choose the Right Wedding Photographer in Edmonton](/blog/how-to-choose-wedding-photographer-edmonton)
-- 15 Best Wedding Venues in Edmonton
-- [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
+- [Wedding Photo & Video Packages in Edmonton](/wedding-photo-video-packages-edmonton/)
+- [Affordable Wedding Photographer Edmonton](/affordable-wedding-photographer-edmonton/)
 - [Indian Wedding Photography in Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)
-- Engagement Photos in Edmonton: Locations Guide
+- [Elopement Photography in Edmonton](/elopement-photographer-edmonton/)
 
 Want to Know Exactly What Your Wedding Photography Will Cost?
 I offer transparent, straightforward pricing with no hidden fees. Every couple's celebration is different, and I am happy to create a custom package that fits your needs and budget. Let us talk.

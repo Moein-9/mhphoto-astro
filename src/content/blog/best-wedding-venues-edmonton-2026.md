@@ -202,7 +202,6 @@ The best wedding photography locations in Edmonton include the Fairmont Hotel Ma
 
 - Wedding Photographer Cost in Edmonton: 2026 Pricing
 - [How to Choose the Right Wedding Photographer](/blog/how-to-choose-wedding-photographer-edmonton)
-- [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [Indian Wedding Photography Edmonton: Complete Guide](/blog/indian-wedding-photography-edmonton-complete-guide)
 - Wedding Photography Timeline Guide
 - [Golden Hour Wedding Photography Edmonton](/blog/golden-hour-wedding-photography-edmonton)

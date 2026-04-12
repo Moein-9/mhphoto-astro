@@ -169,7 +169,9 @@ Look for a photographer who has shot at least 3 to 5 full Indian weddings and ca
 - Haldi Ceremony Photography Guide
 - Vidaai Photography: Emotional Indian Wedding Moments
 - Best Edmonton Venues for Indian Weddings
-- Wedding Photographer Cost Edmonton 2026
+- [Indian Wedding Videographer Edmonton](/indian-wedding-videographer-edmonton/)
+- [Wedding Photo & Video Packages Edmonton](/wedding-photo-video-packages-edmonton/)
+- [Wedding Photographer Cost Edmonton 2026](/blog/wedding-photographer-cost-edmonton-2026)
 
 Browse my [Indian wedding photography gallery](https://mhphoto.ca/photography/indian-weddings/) to see real celebrations. Or check out [packages and pricing](/pricing/) for details.
 

@@ -208,7 +208,6 @@ Newborn photography in Edmonton typically ranges from $300 to $800 depending on 
 - [Family Photography Edmonton: Complete Guide](/blog/family-photography-edmonton-complete-guide)
 - [Generational Family Portraits: Why They Matter](/blog/generational-family-portraits-why-important)
 - [Spring Family Photography in Edmonton](/blog/spring-family-photography-edmonton)
-- [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 
 View my [family photography gallery](/photography/family/) or check out [session packages and pricing](/pricing/).
 

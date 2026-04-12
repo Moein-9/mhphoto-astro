@@ -253,7 +253,6 @@ Engagement photo sessions in Edmonton typically range from $300 to $600 for a 60
 ## Related Guides
 
 - [How to Prepare for Your Engagement Photo Session](/blog/how-to-prepare-engagement-photo-session)
-- [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [How to Choose the Right Wedding Photographer](/blog/how-to-choose-wedding-photographer-edmonton)
 - Wedding Photographer Cost Edmonton 2026
 - [Golden Hour Wedding Photography Edmonton](/blog/golden-hour-wedding-photography-edmonton)

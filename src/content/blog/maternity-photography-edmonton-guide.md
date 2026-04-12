@@ -194,7 +194,6 @@ Maternity photography in Edmonton ranges from $300 to $800 depending on session 
 
 - [Newborn Baby Photography Edmonton Guide](/blog/newborn-baby-photography-edmonton-guide)
 - [Family Photography Edmonton: Complete Guide](/blog/family-photography-edmonton-complete-guide)
-- [Best Outdoor Photo Locations in Edmonton](/blog/best-outdoor-photo-locations-edmonton-2026)
 - [Fall Family Photography in Edmonton](/blog/fall-family-photography-edmonton-guide)
 
 Explore our [family photography gallery](/photography/family/) or learn about [session packages and pricing](/pricing/). Serving families across Edmonton, Sherwood Park, St. Albert, Spruce Grove, Leduc, and Beaumont.
