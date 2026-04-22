@@ -1,5 +1,5 @@
 ---
-title: "How to Create the Perfect Wedding Day Photography Timeline"
+title: "Wedding Day Photography Timeline Edmonton"
 slug: "wedding-photography-timeline-guide-edmonton"
 date: "2026-04-17"
 publishDate: "2026-04-17T09:00:00"

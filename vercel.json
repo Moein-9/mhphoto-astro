@@ -5,6 +5,16 @@
       "schedule": "0 9 * * *"
     }
   ],
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        { "type": "host", "value": "www.mhphoto.ca" }
+      ],
+      "destination": "https://mhphoto.ca/:path*",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/sitemap-images.xml",

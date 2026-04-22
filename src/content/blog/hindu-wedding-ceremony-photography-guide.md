@@ -1,5 +1,5 @@
 ---
-title: "Hindu Wedding Ceremony Photography: Every Moment You Need Captured"
+title: "Hindu Wedding Ceremony Photography Guide"
 slug: "hindu-wedding-ceremony-photography-guide"
 date: "2026-04-12"
 publishDate: "2026-04-12T09:00:00"
